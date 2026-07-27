@@ -16,6 +16,7 @@ Output:
 """
 
 import json
+import math
 import os
 import re
 import sys
@@ -124,6 +125,17 @@ HARD_EXCLUDE = [
     "comic con", "sdcc", "box office", "trailer breakdown",
     "dungeons & dragons", "d&d", "magic: the gathering", "board game",
     "trading card", "warhammer", "tabletop", "lego set",
+    # articoli su serie TV: "House of the Dragon season 3 episode 6 ending
+    # explained" era passato indenne al primo filtro
+    "ending explained", "recap", "who dies in", "season finale",
+    "house of the dragon", "the last of us season", "fallout season",
+]
+
+# "season 3 episode 6" e simili: pattern, non parola singola
+EXCLUDE_PATTERNS = [
+    re.compile(r"\bseason\s+\d+\s+episode\s+\d+", re.I),
+    re.compile(r"\bs\d+e\d+\b", re.I),
+    re.compile(r"\bepisode\s+\d+\s+(recap|review|ending)", re.I),
 ]
 
 # Formati che non fanno un video: liste sconti, sondaggi alla community,
@@ -139,7 +151,9 @@ SOFT_PENALTY = [
 def is_noise(title):
     """True se l'articolo va scartato prima ancora del clustering."""
     t = title.lower()
-    return any(kw in t for kw in HARD_EXCLUDE)
+    if any(kw in t for kw in HARD_EXCLUDE):
+        return True
+    return any(p.search(title) for p in EXCLUDE_PATTERNS)
 
 
 def is_weak_format(title):
@@ -164,13 +178,32 @@ STATE_DIR = Path("./state")
 SEEN_PATH = STATE_DIR / "seen_stories.json"
 
 STOPWORDS = {
-    "the", "a", "an", "is", "are", "was", "were", "be", "been", "to", "of", "in",
-    "on", "for", "and", "or", "but", "with", "at", "by", "from", "as", "it", "its",
-    "this", "that", "these", "those", "has", "have", "had", "will", "would", "can",
-    "could", "new", "now", "says", "said", "after", "you", "your", "how", "why",
-    "what", "who", "all", "out", "up", "more", "than", "first", "into", "over",
-    "il", "lo", "la", "i", "gli", "le", "un", "una", "di", "che", "e", "per",
-    "con", "su", "da", "del", "della", "dei", "delle", "al", "alla", "non",
+    # articoli, preposizioni, congiunzioni
+    "the", "a", "an", "is", "are", "was", "were", "be", "been", "being", "to", "of",
+    "in", "on", "for", "and", "or", "but", "with", "at", "by", "from", "as", "it",
+    "its", "this", "that", "these", "those", "has", "have", "had", "will", "would",
+    "can", "could", "should", "may", "might", "must", "shall", "does", "did", "do",
+    "into", "over", "under", "about", "after", "before", "than", "then", "when",
+    "while", "where", "which", "who", "whom", "whose", "what", "why", "how",
+    # verbi e avverbi generici
+    "get", "gets", "got", "getting", "make", "makes", "made", "take", "takes",
+    "look", "looks", "looking", "come", "comes", "coming", "going", "goes", "went",
+    "say", "says", "said", "see", "sees", "seen", "know", "knows", "think", "want",
+    "give", "gives", "given", "try", "trying", "miss", "put", "let", "keep",
+    "just", "even", "still", "already", "never", "always", "now", "soon", "back",
+    "here", "there", "again", "also", "very", "really", "quite", "actually",
+    "more", "most", "less", "least", "much", "many", "some", "any", "all", "both",
+    "each", "every", "other", "another", "same", "own", "such", "only", "out",
+    "up", "down", "off", "away", "you", "your", "our", "their", "his", "her",
+    "them", "they", "we", "us", "me", "my", "one", "two", "first", "second",
+    "last", "next", "new", "old", "good", "bad", "best", "worst", "better",
+    "big", "little", "long", "right", "way", "thing", "things", "point", "lot",
+    "free", "full", "real", "sure", "like", "likes", "want", "wants", "need",
+    # italiano
+    "il", "lo", "la", "i", "gli", "le", "un", "una", "uno", "di", "che", "e",
+    "per", "con", "su", "da", "del", "della", "dei", "delle", "al", "alla",
+    "non", "come", "piu", "anche", "solo", "dopo", "prima", "sono", "essere",
+    "questo", "questa", "suo", "sua", "loro", "tutto", "tutti", "ora", "gia",
 }
 
 # ============================================================
@@ -201,18 +234,38 @@ def tokenize(text):
     return {t for t in text.split() if len(t) > 2 and t not in STOPWORDS}
 
 
-def similarity(tokens_a, tokens_b):
+def compute_idf(articles):
     """
-    Overlap coefficient: intersezione / cardinalita' del set piu' piccolo.
-    Meglio di Jaccard qui, perche' le testate riscrivono lo stesso fatto con
-    titoli di lunghezza molto diversa e Jaccard le penalizza a caso.
+    Quanto e' raro ogni token nella giornata.
+    'game' compare ovunque e non dice niente; 'myst' compare in due titoli
+    e quasi certamente indica la stessa storia. L'IDF cattura la differenza.
+    """
+    n = max(len(articles), 1)
+    df = defaultdict(int)
+    for art in articles:
+        for tok in art["_tokens"]:
+            df[tok] += 1
+    return {tok: math.log(n / count) + 1.0 for tok, count in df.items()}
+
+
+def similarity(tokens_a, tokens_b, idf=None):
+    """
+    Overlap coefficient, deliberatamente conservativo: servono almeno due
+    token in comune.
+
+    Ho provato a pesare per IDF sperando di agganciare i titoli che
+    condividono un solo nome proprio ("Myst"), ma su ~15 articoli al giorno
+    il conteggio e' troppo piccolo: un token condiviso compare per
+    definizione due volte, quindi risulta MENO raro di quelli unici e la
+    formula lavora al contrario. Meglio due cluster separati che uno
+    sbagliato: le storie sospette finiscono in "related", e decide l'agente.
     """
     if not tokens_a or not tokens_b:
         return 0.0
-    inter = len(tokens_a & tokens_b)
-    if inter < 2:  # un solo token in comune non fa una storia
+    inter = tokens_a & tokens_b
+    if len(inter) < 2:
         return 0.0
-    return inter / min(len(tokens_a), len(tokens_b))
+    return len(inter) / min(len(tokens_a), len(tokens_b))
 
 
 def slugify(text, maxlen=60):
@@ -264,7 +317,7 @@ def fetch_feeds(feeds, lang, cutoff):
 # ============================================================
 
 
-def cluster_articles(articles, threshold=0.40):
+def cluster_articles(articles, idf=None, threshold=0.42):
     """
     Raggruppa articoli che parlano dello stesso fatto.
     Greedy single-pass: per ogni articolo cerca il cluster piu' simile,
@@ -282,7 +335,7 @@ def cluster_articles(articles, threshold=0.40):
         best_cl = None
         best_sim = threshold
         for cl in clusters:
-            sim = similarity(art["_tokens"], cl["_seed_tokens"])
+            sim = similarity(art["_tokens"], cl["_seed_tokens"], idf)
             if sim >= best_sim:
                 best_sim = sim
                 best_cl = cl
@@ -298,6 +351,35 @@ def cluster_articles(articles, threshold=0.40):
             })
 
     return clusters
+
+
+def find_related(clusters, all_articles, max_df=2, min_len=4):
+    """
+    Cluster che condividono un token raro senza aver superato la soglia.
+    Tipico caso: due testate scrivono della stessa notizia con parole
+    diverse e in comune resta solo il nome proprio. Non li unisco, li
+    segnalo: e' un giudizio che l'agente fa meglio di una euristica.
+    """
+    df = defaultdict(int)
+    for art in all_articles:
+        for tok in art["_tokens"]:
+            df[tok] += 1
+
+    rare_index = defaultdict(list)
+    for i, cl in enumerate(clusters):
+        for tok in cl["_tokens"]:
+            if df.get(tok, 99) <= max_df and len(tok) >= min_len:
+                rare_index[tok].append(i)
+
+    related = defaultdict(set)
+    for tok, idxs in rare_index.items():
+        if len(idxs) < 2:
+            continue
+        for i in idxs:
+            for j in idxs:
+                if i != j:
+                    related[i].add((j, tok))
+    return related
 
 
 # ============================================================
@@ -367,13 +449,21 @@ def youtube_demand(query, api_key, published_after_hours=48, max_results=10):
     }
 
 
-def build_youtube_query(cluster):
-    """Costruisce una query dai token piu' distintivi del cluster."""
+def build_youtube_query(cluster, idf=None):
+    """
+    Query costruita coi token piu' distintivi del cluster.
+
+    Senza IDF l'ordinamento a parita' di frequenza ripiegava sull'alfabeto e
+    usciva roba tipo "actually fantastic game get looking": le prime cinque
+    parole in ordine alfabetico. Pesando per rarita' escono invece i nomi
+    propri, che sono quello che serve per cercare su YouTube.
+    """
     counts = defaultdict(int)
     for art in cluster["articles"]:
         for tok in art["_tokens"]:
             counts[tok] += 1
-    ranked = sorted(counts.items(), key=lambda kv: (-kv[1], kv[0]))
+    idf = idf or {}
+    ranked = sorted(counts.items(), key=lambda kv: (-kv[1], -idf.get(kv[0], 1.0)))
     return " ".join(tok for tok, _ in ranked[:5])
 
 
@@ -519,10 +609,15 @@ def main():
     it_articles, it_fail = fetch_feeds(FEEDS_IT, "it", cutoff)
     print(f"[scout] articoli: {len(en_articles)} EN, {len(it_articles)} IT", file=sys.stderr)
 
-    clusters = cluster_articles(en_articles + it_articles)
+    all_articles = en_articles + it_articles
+    idf = compute_idf(all_articles)
+    clusters = cluster_articles(all_articles, idf)
     # tieni solo cluster con almeno una fonte anglofona
     clusters = [c for c in clusters if any(a["lang"] == "en" for a in c["articles"])]
-    print(f"[scout] cluster: {len(clusters)}", file=sys.stderr)
+    related_map = find_related(clusters, all_articles)
+    for i, cl in enumerate(clusters):
+        cl["_index"] = i
+    print(f"[scout] cluster: {len(clusters)}, con correlazioni: {len(related_map)}", file=sys.stderr)
 
     # primo scoring senza YouTube, per decidere chi merita la quota
     prelim = []
@@ -535,7 +630,7 @@ def main():
     if api_key:
         queried = prelim[:YOUTUBE_TOP_N]
         for _, cl in queried:
-            query = build_youtube_query(cl)
+            query = build_youtube_query(cl, idf)
             cl["youtube"] = youtube_demand(query, api_key)
             cl["youtube_query"] = query
             time.sleep(0.3)
@@ -549,6 +644,7 @@ def main():
         print("[scout] YOUTUBE_API_KEY assente, salto i segnali video", file=sys.stderr)
 
     seen = load_seen()
+    today = now.date().isoformat()
 
     # scoring finale
     results = []
@@ -557,10 +653,16 @@ def main():
         headline = cl["articles"][0]["title"]
         story_id = slugify(" ".join(sorted(list(cl["_tokens"]))[:6]))
 
+        # "gia' proposta" solo se compariva in un brief di un giorno PRECEDENTE.
+        # Altrimenti bastava rilanciare il workflow due volte per marcare
+        # tutto come vecchio e svuotare la classifica.
+        prev = seen.get(story_id)
+        already = bool(prev) and prev.get("date", "") < today
+
         results.append({
             "story_id": story_id,
             "score": score,
-            "already_proposed": story_id in seen,
+            "already_proposed": already,
             "headline": headline,
             "topics": topics,
             "age_hours": round(age_h, 1),
@@ -569,6 +671,10 @@ def main():
             "coverage_it": sorted(src_it),
             "youtube": cl.get("youtube"),
             "youtube_query": cl.get("youtube_query"),
+            "related": [
+                {"headline": clusters[j]["articles"][0]["title"], "shared_term": tok}
+                for j, tok in sorted(related_map.get(cl.get("_index", -1), []))[:3]
+            ],
             "articles": [
                 {"source": a["source"], "title": a["title"], "url": a["url"], "published": a["published"]}
                 for a in cl["articles"]
