@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T09:24:51.461051+00:00",
+  "generated_at": "2026-07-27T09:33:29.966892+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
@@ -7,13 +7,13 @@
     {
       "story_id": "angry-blackout-decision-disc-fans-playstation",
       "score": 62.2,
-      "already_proposed": true,
+      "already_proposed": false,
       "headline": "Angry PlayStation Fans Propose PS5 Blackout in Protest of Sony's Disc Decision",
       "topics": [
         "playstation",
         "feel_good"
       ],
-      "age_hours": 10.4,
+      "age_hours": 10.6,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -30,11 +30,17 @@
       "coverage_it": [],
       "youtube": {
         "video_count": 2,
-        "median_views": 39730,
-        "top_views": 39730,
+        "median_views": 39851,
+        "top_views": 39851,
         "top_title": "Gamers Propose a 7-Day Playstation BLACKOUT to FIGHT BACK against Sony Ending Physical Games!"
       },
-      "youtube_query": "angry blackout decision disc fans",
+      "youtube_query": "decision angry propose fans protest",
+      "related": [
+        {
+          "headline": "Will you power down your PS5 for a week in protest of Sony's all-digital future? A new petition encourages you to pull the plug on PlayStation",
+          "shared_term": "protest"
+        }
+      ],
       "articles": [
         {
           "source": "Push Square",
@@ -45,16 +51,56 @@
       ]
     },
     {
-      "story_id": "absolutely-comes-famous-fantasy-file-final",
+      "story_id": "gta-missions",
+      "score": 55.3,
+      "already_proposed": false,
+      "headline": "The Best GTA Missions",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 6.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.95,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 90001,
+        "top_views": 438918,
+        "top_title": "GTA V S-500 Defense Mission | Live Gameplay"
+      },
+      "youtube_query": "missions gta",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "The Best GTA Missions",
+          "url": "https://www.ign.com/articles/best-gta-missions",
+          "published": "2026-07-27T03:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "absolutely-famous-fantasy-file-final-later",
       "score": 35.7,
-      "already_proposed": true,
+      "already_proposed": false,
       "headline": "Final Fantasy 14 comes to Switch 2 later this year with the now-famous free trial, but the file size is going to be absolutely massive",
       "topics": [
         "nintendo",
         "aaa",
         "feel_good"
       ],
-      "age_hours": 0.5,
+      "age_hours": 0.6,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -75,7 +121,17 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "absolutely comes famous fantasy file",
+      "youtube_query": "trial absolutely famous massive later",
+      "related": [
+        {
+          "headline": "Xenoblade Chronicles 2 debutta secondo nella classifica eShop di Nintendo Switch 2",
+          "shared_term": "file"
+        },
+        {
+          "headline": "Xenoblade Chronicles 2 debutta secondo nella classifica eShop di Nintendo Switch 2",
+          "shared_term": "size"
+        }
+      ],
       "articles": [
         {
           "source": "Eurogamer",
@@ -86,59 +142,22 @@
       ]
     },
     {
-      "story_id": "dead-dragon-ending-episode-explained-house",
-      "score": 35.4,
-      "already_proposed": true,
-      "headline": "House of the Dragon season 3 episode 6 ending explained: Is [spoilers] dead?",
-      "topics": [],
-      "age_hours": 7.4,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.25,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 6361,
-        "top_views": 161719,
-        "top_title": "House Of The Dragon Season 3 Episode 6: The Butcher’s Ball"
-      },
-      "youtube_query": "dead dragon ending episode explained",
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "House of the Dragon season 3 episode 6 ending explained: Is [spoilers] dead?",
-          "url": "https://www.polygon.com/house-of-the-dragon-season-3-episode-6-ending-corlys-velaryon-explained/",
-          "published": "2026-07-27T02:00:22+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "auto-does-even-grand-gta-like",
-      "score": 34.1,
-      "already_proposed": true,
+      "story_id": "auto-grand-gta-multiplayer-online-theft",
+      "score": 31.7,
+      "already_proposed": false,
       "headline": "What does GTA Online 2.0 even look like—and, more to the point, what do we even want from Grand Theft Auto 6 multiplayer?",
       "topics": [
         "aaa"
       ],
-      "age_hours": 12.6,
+      "age_hours": 12.7,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.13,
+        "yt_demand": 0.03,
         "yt_room": 0.0,
         "topic": 0.33,
-        "freshness": 0.97,
+        "freshness": 0.96,
         "weak_format": false
       },
       "coverage_en": [
@@ -146,12 +165,18 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 1,
-        "median_views": 1587,
-        "top_views": 1587,
-        "top_title": "Poor Guy Didn't Even Do Anything😮😔 | GTA 5 | Trevor"
+        "video_count": 10,
+        "median_views": 104,
+        "top_views": 1482,
+        "top_title": "HASSLE ONLINE - RADMIR RP - NEKIT BOSOW в ГТА #shorts #crmp #bosow"
       },
-      "youtube_query": "auto does even grand gta",
+      "youtube_query": "grand online auto theft multiplayer",
+      "related": [
+        {
+          "headline": "Call of Duty: Modern Warfare 4's beta will have low-SBMM playlists, as Activision continues to 'learn a lot about multiplayer matchmaking'",
+          "shared_term": "multiplayer"
+        }
+      ],
       "articles": [
         {
           "source": "PC Gamer",
@@ -162,92 +187,14 @@
       ]
     },
     {
-      "story_id": "best-gta-missions",
-      "score": 33.8,
-      "already_proposed": true,
-      "headline": "The Best GTA Missions",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 6.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.1,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "IGN"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 1053,
-        "top_views": 33615,
-        "top_title": "10 BEST WAYS To Make MILLIONS FAST *SOLO* In GTA Online"
-      },
-      "youtube_query": "best gta missions",
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "The Best GTA Missions",
-          "url": "https://www.ign.com/articles/best-gta-missions",
-          "published": "2026-07-27T03:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "360-already-backward-compatible-emulator-games",
-      "score": 33.2,
-      "already_proposed": true,
-      "headline": "The new 'backward compatible' Xbox games on PC run on an OG Xbox emulator inside an Xbox 360 emulator, and people have already used it to run other Xbox 360 games",
-      "topics": [
-        "xbox"
-      ],
-      "age_hours": 13.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.1,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.94,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 3,
-        "median_views": 941,
-        "top_views": 20526,
-        "top_title": "Xbox launches 360 emulator on PC"
-      },
-      "youtube_query": "360 already backward compatible emulator",
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "The new 'backward compatible' Xbox games on PC run on an OG Xbox emulator inside an Xbox 360 emulator, and people have already used it to run other Xbox 360 games",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/the-new-backward-compatible-xbox-games-on-pc-run-on-an-og-xbox-emulator-inside-an-xbox-360-emulator-and-people-have-already-used-it-to-run-other-xbox-360-games/",
-          "published": "2026-07-26T20:22:42+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "cyan-gives-look-myst-sequel-worlds",
+      "story_id": "cyan-myst-sequel-worlds",
       "score": 31.2,
-      "already_proposed": true,
+      "already_proposed": false,
       "headline": "Cyan Worlds Gives A Look At What Could Have Been A New Myst Sequel",
       "topics": [
         "aaa"
       ],
-      "age_hours": 11.4,
+      "age_hours": 11.6,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -268,7 +215,13 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "cyan gives look myst sequel",
+      "youtube_query": "worlds cyan sequel myst",
+      "related": [
+        {
+          "headline": "A fantastic-looking teaser trailer for a new Myst game has been released, though tragically we'll never get to actually play it",
+          "shared_term": "myst"
+        }
+      ],
       "articles": [
         {
           "source": "Kotaku",
@@ -279,14 +232,14 @@
       ]
     },
     {
-      "story_id": "another-defense-free-limited-name-real",
+      "story_id": "defense-limited-name-steam-time-yet",
       "score": 31.2,
-      "already_proposed": true,
+      "already_proposed": false,
       "headline": "Yet Another Zombie Defense HD, which is its real name, is free on Steam for a limited time",
       "topics": [
         "steam"
       ],
-      "age_hours": 5.9,
+      "age_hours": 6.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -307,7 +260,13 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "another defense free limited name",
+      "youtube_query": "zombie name limited defense yet",
+      "related": [
+        {
+          "headline": "'The last time I liked everything about a game was probably Baldur's Gate 3': Raphael Colantonio, co-founder of Arkane Studios, talks us through the games installed on his PC",
+          "shared_term": "time"
+        }
+      ],
       "articles": [
         {
           "source": "PC Gamer",
@@ -320,12 +279,12 @@
     {
       "story_id": "continues-end-flood-janky-retail-review",
       "score": 31.2,
-      "already_proposed": true,
+      "already_proposed": false,
       "headline": "Steam Week in Review: A torrent of janky retail sims continues to flood Steam, and there's no end in sight",
       "topics": [
         "steam"
       ],
-      "age_hours": 4.6,
+      "age_hours": 4.8,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -346,7 +305,21 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "continues end flood janky retail",
+      "youtube_query": "sight torrent sims flood janky",
+      "related": [
+        {
+          "headline": "Call of Duty: Modern Warfare 4's beta will have low-SBMM playlists, as Activision continues to 'learn a lot about multiplayer matchmaking'",
+          "shared_term": "continues"
+        },
+        {
+          "headline": "Red Faction: Guerrilla Re-Mars-tered review (2018)",
+          "shared_term": "review"
+        },
+        {
+          "headline": "Will you power down your PS5 for a week in protest of Sony's all-digital future? A new petition encourages you to pull the plug on PlayStation",
+          "shared_term": "week"
+        }
+      ],
       "articles": [
         {
           "source": "PC Gamer",
@@ -359,12 +332,12 @@
     {
       "story_id": "affect-clarifies-codes-country-download-game",
       "score": 31.2,
-      "already_proposed": true,
+      "already_proposed": false,
       "headline": "Rockstar clarifies which GTA 6 pre-order download codes are going to be region-locked, and how that is going to affect the game in your country",
       "topics": [
         "aaa"
       ],
-      "age_hours": 1.0,
+      "age_hours": 1.2,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -385,7 +358,8 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "affect clarifies codes country download",
+      "youtube_query": "pre clarifies locked order country",
+      "related": [],
       "articles": [
         {
           "source": "Eurogamer",
@@ -396,14 +370,14 @@
       ]
     },
     {
-      "story_id": "actually-fantastic-game-get-looking-myst",
+      "story_id": "fantastic-game-myst-play-released-teaser",
       "score": 31.2,
-      "already_proposed": true,
+      "already_proposed": false,
       "headline": "A fantastic-looking teaser trailer for a new Myst game has been released, though tragically we'll never get to actually play it",
       "topics": [
         "feel_good"
       ],
-      "age_hours": 0.5,
+      "age_hours": 0.6,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -424,7 +398,17 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "actually fantastic game get looking",
+      "youtube_query": "fantastic though tragically released myst",
+      "related": [
+        {
+          "headline": "J.K. Simmons hasn't played Baldur's Gate 3 or any of his games, but he loves Portal 2: 'I could have done the feature film, or the play, or whatever'",
+          "shared_term": "play"
+        },
+        {
+          "headline": "Cyan Worlds Gives A Look At What Could Have Been A New Myst Sequel",
+          "shared_term": "myst"
+        }
+      ],
       "articles": [
         {
           "source": "Eurogamer",
@@ -435,14 +419,14 @@
       ]
     },
     {
-      "story_id": "believes-blame-gamers-hardware-interest-lost",
+      "story_id": "digital-encourages-future-petition-playstation-plug",
       "score": 31.2,
-      "already_proposed": true,
-      "headline": "Miyamoto Believes Gamers Have Lost Interest In Hardware Specs, And Who Could Blame Them",
+      "already_proposed": false,
+      "headline": "Will you power down your PS5 for a week in protest of Sony's all-digital future? A new petition encourages you to pull the plug on PlayStation",
       "topics": [
-        "nintendo"
+        "playstation"
       ],
-      "age_hours": 12.1,
+      "age_hours": 0.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -451,6 +435,55 @@
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "future power digital petition pull",
+      "related": [
+        {
+          "headline": "Angry PlayStation Fans Propose PS5 Blackout in Protest of Sony's Disc Decision",
+          "shared_term": "protest"
+        },
+        {
+          "headline": "Steam Week in Review: A torrent of janky retail sims continues to flood Steam, and there's no end in sight",
+          "shared_term": "week"
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Will you power down your PS5 for a week in protest of Sony's all-digital future? A new petition encourages you to pull the plug on PlayStation",
+          "url": "https://www.eurogamer.net/playstation-blackout-physical-media-august-protest",
+          "published": "2026-07-27T09:26:07+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "believes-blame-gamers-hardware-interest-lost",
+      "score": 31.1,
+      "already_proposed": false,
+      "headline": "Miyamoto Believes Gamers Have Lost Interest In Hardware Specs, And Who Could Blame Them",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 12.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.99,
         "weak_format": false
       },
       "coverage_en": [
@@ -463,7 +496,8 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "believes blame gamers hardware interest",
+      "youtube_query": "interest gamers blame believes specs",
+      "related": [],
       "articles": [
         {
           "source": "Kotaku",
@@ -474,14 +508,14 @@
       ]
     },
     {
-      "story_id": "against-blow-card-checks-company-crime",
+      "story_id": "360-backward-compatible-emulator-games-inside",
       "score": 30.7,
-      "already_proposed": true,
-      "headline": "Pokémon Company Strikes Blow Against Scalpers With Facial Recognition Checks To ‘Prevent Crime’ At Card Stores In Japan",
+      "already_proposed": false,
+      "headline": "The new 'backward compatible' Xbox games on PC run on an OG Xbox emulator inside an Xbox 360 emulator, and people have already used it to run other Xbox 360 games",
       "topics": [
-        "pokemon"
+        "xbox"
       ],
-      "age_hours": 13.1,
+      "age_hours": 13.2,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -489,7 +523,47 @@
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.33,
-        "freshness": 0.94,
+        "freshness": 0.93,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "run compatible 360 used inside",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "The new 'backward compatible' Xbox games on PC run on an OG Xbox emulator inside an Xbox 360 emulator, and people have already used it to run other Xbox 360 games",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/the-new-backward-compatible-xbox-games-on-pc-run-on-an-og-xbox-emulator-inside-an-xbox-360-emulator-and-people-have-already-used-it-to-run-other-xbox-360-games/",
+          "published": "2026-07-26T20:22:42+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "against-blow-card-checks-company-crime",
+      "score": 30.6,
+      "already_proposed": false,
+      "headline": "Pokémon Company Strikes Blow Against Scalpers With Facial Recognition Checks To ‘Prevent Crime’ At Card Stores In Japan",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 13.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.93,
         "weak_format": false
       },
       "coverage_en": [
@@ -502,7 +576,8 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "against blow card checks company",
+      "youtube_query": "company card checks prevent japan",
+      "related": [],
       "articles": [
         {
           "source": "Kotaku",
@@ -513,12 +588,12 @@
       ]
     },
     {
-      "story_id": "around-barely-best-episode-got-just",
+      "story_id": "around-barely-episode-recognizable-shooters",
       "score": 29.0,
-      "already_proposed": true,
+      "already_proposed": false,
       "headline": "One of the best shooters around just got a barely recognizable second episode, and it's only $12",
       "topics": [],
-      "age_hours": 11.0,
+      "age_hours": 11.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -539,7 +614,8 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "around barely best episode got",
+      "youtube_query": "around barely shooters episode recognizable",
+      "related": [],
       "articles": [
         {
           "source": "PC Gamer",
@@ -550,12 +626,12 @@
       ]
     },
     {
-      "story_id": "action-darkstone-demo-generous-miss-past",
+      "story_id": "action-darkstone-demo-generous-past-restoration",
       "score": 29.0,
-      "already_proposed": true,
+      "already_proposed": false,
       "headline": "If you miss the straightforward action RPGs of the past, try the generous demo for Darkstone Restoration",
       "topics": [],
-      "age_hours": 7.1,
+      "age_hours": 7.3,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -576,7 +652,8 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "action darkstone demo generous miss",
+      "youtube_query": "darkstone rpgs demo restoration straightforward",
+      "related": [],
       "articles": [
         {
           "source": "PC Gamer",
