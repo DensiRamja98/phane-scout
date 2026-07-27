@@ -1,476 +1,24 @@
 {
-  "generated_at": "2026-07-27T09:06:33.471227+00:00",
+  "generated_at": "2026-07-27T09:07:31.732418+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "angry-blackout-decision-disc-fans-playstation",
-      "score": 46.9,
+      "story_id": "believes-blame-gamers-hardware-interest-lost",
+      "score": 22.1,
       "already_proposed": false,
-      "headline": "Angry PlayStation Fans Propose PS5 Blackout in Protest of Sony's Disc Decision",
-      "topics": [
-        "playstation",
-        "feel_good"
-      ],
-      "age_hours": 10.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 0.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.63,
-        "yt_room": 1.0,
-        "topic": 0.67,
-        "freshness": 1.0
-      },
-      "coverage_en": [
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 2,
-        "median_views": 39450,
-        "top_views": 39450,
-        "top_title": "Gamers Propose a 7-Day Playstation BLACKOUT to FIGHT BACK against Sony Ending Physical Games!"
-      },
-      "youtube_query": "angry blackout decision disc fans",
-      "articles": [
-        {
-          "source": "Push Square",
-          "title": "Angry PlayStation Fans Propose PS5 Blackout in Protest of Sony's Disc Decision",
-          "url": "https://www.pushsquare.com/news/2026/07/angry-playstation-fans-propose-ps5-blackout-in-protest-of-sonys-disc-decision",
-          "published": "2026-07-26T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "dead-dragon-ending-episode-explained-house",
-      "score": 35.2,
-      "already_proposed": false,
-      "headline": "House of the Dragon season 3 episode 6 ending explained: Is [spoilers] dead?",
+      "headline": "Miyamoto Believes Gamers Have Lost Interest In Hardware Specs, And Who Could Blame Them",
       "topics": [],
-      "age_hours": 7.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.25,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 6099,
-        "top_views": 161488,
-        "top_title": "House Of The Dragon Season 3 Episode 6: The Butcher’s Ball"
-      },
-      "youtube_query": "dead dragon ending episode explained",
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "House of the Dragon season 3 episode 6 ending explained: Is [spoilers] dead?",
-          "url": "https://www.polygon.com/house-of-the-dragon-season-3-episode-6-ending-corlys-velaryon-explained/",
-          "published": "2026-07-27T02:00:22+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "best-gta-missions",
-      "score": 33.8,
-      "already_proposed": false,
-      "headline": "The Best GTA Missions",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 5.9,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.1,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0
-      },
-      "coverage_en": [
-        "IGN"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 1048,
-        "top_views": 33246,
-        "top_title": "10 BEST WAYS To Make MILLIONS FAST *SOLO* In GTA Online"
-      },
-      "youtube_query": "best gta missions",
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "The Best GTA Missions",
-          "url": "https://www.ign.com/articles/best-gta-missions",
-          "published": "2026-07-27T03:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "absolutely-comes-famous-fantasy-file-final",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "Final Fantasy 14 comes to Switch 2 later this year with the now-famous free trial, but the file size is going to be absolutely massive",
-      "topics": [
-        "nintendo",
-        "feel_good"
-      ],
-      "age_hours": 0.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0
-      },
-      "coverage_en": [
-        "Eurogamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "absolutely comes famous fantasy file",
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "Final Fantasy 14 comes to Switch 2 later this year with the now-famous free trial, but the file size is going to be absolutely massive",
-          "url": "https://www.eurogamer.net/final-fantasy-14-evercold-teaser-trailer-switch-2-details",
-          "published": "2026-07-27T08:57:28+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "another-defense-free-limited-name-real",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Yet Another Zombie Defense HD, which is its real name, is free on Steam for a limited time",
-      "topics": [
-        "steam"
-      ],
-      "age_hours": 5.6,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0
-      },
-      "coverage_en": [
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "another defense free limited name",
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "Yet Another Zombie Defense HD, which is its real name, is free on Steam for a limited time",
-          "url": "https://www.pcgamer.com/games/action/yet-another-zombie-defense-hd-which-is-its-real-name-is-free-on-steam-for-a-limited-time/",
-          "published": "2026-07-27T03:32:08+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "continues-end-flood-janky-retail-review",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Steam Week in Review: A torrent of janky retail sims continues to flood Steam, and there's no end in sight",
-      "topics": [
-        "steam"
-      ],
-      "age_hours": 4.3,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0
-      },
-      "coverage_en": [
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "continues end flood janky retail",
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "Steam Week in Review: A torrent of janky retail sims continues to flood Steam, and there's no end in sight",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-a-torrent-of-janky-retail-sims-continues-to-flood-steam-and-theres-no-end-in-sight/",
-          "published": "2026-07-27T04:47:24+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "affect-clarifies-codes-country-download-game",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Rockstar clarifies which GTA 6 pre-order download codes are going to be region-locked, and how that is going to affect the game in your country",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 0.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0
-      },
-      "coverage_en": [
-        "Eurogamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "affect clarifies codes country download",
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "Rockstar clarifies which GTA 6 pre-order download codes are going to be region-locked, and how that is going to affect the game in your country",
-          "url": "https://www.eurogamer.net/gta-6-region-locked-codes-ps5-japan-expiry-date",
-          "published": "2026-07-27T08:23:10+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "announces-dark-fantasy-hell-joe-manganiello",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Joe Manganiello announces new official D&D dark fantasy setting, and it's metal as hell",
-      "topics": [
-        "feel_good"
-      ],
-      "age_hours": 0.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "announces dark fantasy hell joe",
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "Joe Manganiello announces new official D&D dark fantasy setting, and it's metal as hell",
-          "url": "https://www.polygon.com/joe-manganiello-dnd-dungeons-dragons-new-setting-death-saves-blood-war/",
-          "published": "2026-07-27T08:39:06+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "actually-fantastic-game-get-looking-myst",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "A fantastic-looking teaser trailer for a new Myst game has been released, though tragically we'll never get to actually play it",
-      "topics": [
-        "feel_good"
-      ],
-      "age_hours": 0.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0
-      },
-      "coverage_en": [
-        "Eurogamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "actually fantastic game get looking",
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "A fantastic-looking teaser trailer for a new Myst game has been released, though tragically we'll never get to actually play it",
-          "url": "https://www.eurogamer.net/new-myst-game-cancelled-trailer-sad",
-          "published": "2026-07-27T08:56:20+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "action-darkstone-demo-generous-miss-past",
-      "score": 29.0,
-      "already_proposed": false,
-      "headline": "If you miss the straightforward action RPGs of the past, try the generous demo for Darkstone Restoration",
-      "topics": [],
-      "age_hours": 6.8,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0
-      },
-      "coverage_en": [
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "action darkstone demo generous miss",
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "If you miss the straightforward action RPGs of the past, try the generous demo for Darkstone Restoration",
-          "url": "https://www.pcgamer.com/games/rpg/if-you-miss-the-straightforward-action-rpgs-of-the-past-try-the-generous-demo-for-darkstone-restoration/",
-          "published": "2026-07-27T02:18:16+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "brutal-finale-morty-rick-say-season",
-      "score": 29.0,
-      "already_proposed": false,
-      "headline": "Rick and Morty's season 9 finale had to be that brutal, showrunners say",
-      "topics": [],
-      "age_hours": 6.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "brutal finale morty rick say",
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "Rick and Morty's season 9 finale had to be that brutal, showrunners say",
-          "url": "https://www.polygon.com/rick-and-morty-season-9-finale-interview/",
-          "published": "2026-07-27T03:00:12+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "careful-deepfake-featuring-games-legislation-locations",
-      "score": 29.0,
-      "already_proposed": false,
-      "headline": "Why new EU deepfake legislation means games need to be careful when featuring real-world people and locations",
-      "topics": [],
-      "age_hours": 0.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0
-      },
-      "coverage_en": [
-        "GamesIndustry"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "careful deepfake featuring games legislation",
-      "articles": [
-        {
-          "source": "GamesIndustry",
-          "title": "Why new EU deepfake legislation means games need to be careful when featuring real-world people and locations",
-          "url": "https://www.gamesindustry.biz/why-new-eu-deepfake-legislation-means-games-need-to-be-careful-when-featuring-real-world-people-and-locations",
-          "published": "2026-07-27T08:51:45+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "against-blow-card-checks-company-crime",
-      "score": 25.2,
-      "already_proposed": false,
-      "headline": "Pokémon Company Strikes Blow Against Scalpers With Facial Recognition Checks To ‘Prevent Crime’ At Card Stores In Japan",
-      "topics": [
-        "pokemon"
-      ],
-      "age_hours": 12.8,
+      "age_hours": 11.8,
       "signals": {
         "coverage": 0.17,
         "velocity": 0.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.96
+        "topic": 0.0,
+        "freshness": 1.0
       },
       "coverage_en": [
         "Kotaku"
@@ -481,29 +29,58 @@
       "articles": [
         {
           "source": "Kotaku",
-          "title": "Pokémon Company Strikes Blow Against Scalpers With Facial Recognition Checks To ‘Prevent Crime’ At Card Stores In Japan",
-          "url": "https://kotaku.com/pokemon-company-strikes-blow-against-scalpers-with-facial-recognition-checks-to-prevent-crime-at-card-stores-in-japan-2000719407",
-          "published": "2026-07-26T20:20:25+00:00"
+          "title": "Miyamoto Believes Gamers Have Lost Interest In Hardware Specs, And Who Could Blame Them",
+          "url": "https://kotaku.com/shigeru-miyamoto-believes-gamers-have-grown-disinterested-in-hardware-specs-as-if-they-had-a-choice-2000719415",
+          "published": "2026-07-26T21:20:11+00:00"
         }
       ]
     },
     {
-      "story_id": "360-already-backward-compatible-emulator-games",
-      "score": 25.2,
+      "story_id": "cyan-gives-look-myst-sequel-worlds",
+      "score": 22.1,
       "already_proposed": false,
-      "headline": "The new 'backward compatible' Xbox games on PC run on an OG Xbox emulator inside an Xbox 360 emulator, and people have already used it to run other Xbox 360 games",
-      "topics": [
-        "xbox"
-      ],
-      "age_hours": 12.7,
+      "headline": "Cyan Worlds Gives A Look At What Could Have Been A New Myst Sequel",
+      "topics": [],
+      "age_hours": 11.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 0.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.96
+        "topic": 0.0,
+        "freshness": 1.0
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": null,
+      "youtube_query": null,
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Cyan Worlds Gives A Look At What Could Have Been A New Myst Sequel",
+          "url": "https://kotaku.com/cyan-worlds-gives-a-look-at-what-could-have-been-a-new-myst-sequel-2000719419",
+          "published": "2026-07-26T22:00:09+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "around-barely-best-episode-got-just",
+      "score": 22.1,
+      "already_proposed": false,
+      "headline": "One of the best shooters around just got a barely recognizable second episode, and it's only $12",
+      "topics": [],
+      "age_hours": 10.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 0.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0
       },
       "coverage_en": [
         "PC Gamer"
@@ -514,22 +91,84 @@
       "articles": [
         {
           "source": "PC Gamer",
-          "title": "The new 'backward compatible' Xbox games on PC run on an OG Xbox emulator inside an Xbox 360 emulator, and people have already used it to run other Xbox 360 games",
-          "url": "https://www.pcgamer.com/gaming-industry/game-development/the-new-backward-compatible-xbox-games-on-pc-run-on-an-og-xbox-emulator-inside-an-xbox-360-emulator-and-people-have-already-used-it-to-run-other-xbox-360-games/",
-          "published": "2026-07-26T20:22:42+00:00"
+          "title": "One of the best shooters around just got a barely recognizable second episode, and it's only $12",
+          "url": "https://www.pcgamer.com/games/fps/one-of-the-best-shooters-around-just-got-a-barely-recognizable-second-episode-and-its-only-usd12/",
+          "published": "2026-07-26T22:26:18+00:00"
         }
       ]
     },
     {
-      "story_id": "companies-dan-debate-disc-founder-houser",
-      "score": 23.7,
+      "story_id": "commander-gathering-magic-most-powerful-precons",
+      "score": 22.1,
       "already_proposed": false,
-      "headline": "'If People Want It, Companies Should Provide It': Rockstar Co-Founder Dan Houser Joins PS5 Disc Debate",
+      "headline": "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
+      "topics": [],
+      "age_hours": 10.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 0.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": null,
+      "youtube_query": null,
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Magic: The Gathering's Top 12 Most Powerful Commander Precons Of All Time",
+          "url": "https://www.ign.com/articles/magic-the-gatherings-top-12-most-powerful-commander-precons-of-all-time",
+          "published": "2026-07-26T22:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2000s-free-inventive-most-nobody-remembers",
+      "score": 22.1,
+      "already_proposed": false,
+      "headline": "Nobody remembers the most inventive vampire thriller of the 2000s, but it's free to stream right now",
+      "topics": [],
+      "age_hours": 9.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 0.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": null,
+      "youtube_query": null,
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Nobody remembers the most inventive vampire thriller of the 2000s, but it's free to stream right now",
+          "url": "https://www.polygon.com/sam-neill-daybreakers-cheesy-vampire-movie-2000s/",
+          "published": "2026-07-27T00:00:12+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "about-activision-beta-call-continues-duty",
+      "score": 21.7,
+      "already_proposed": false,
+      "headline": "Call of Duty: Modern Warfare 4's beta will have low-SBMM playlists, as Activision continues to 'learn a lot about multiplayer matchmaking'",
       "topics": [
-        "playstation",
+        "xbox",
         "aaa"
       ],
-      "age_hours": 19.6,
+      "age_hours": 22.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 0.0,
@@ -537,31 +176,190 @@
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
-        "freshness": 0.58
+        "freshness": 0.44
       },
       "coverage_en": [
-        "Push Square"
+        "PC Gamer"
       ],
       "coverage_it": [],
       "youtube": null,
       "youtube_query": null,
       "articles": [
         {
-          "source": "Push Square",
-          "title": "'If People Want It, Companies Should Provide It': Rockstar Co-Founder Dan Houser Joins PS5 Disc Debate",
-          "url": "https://www.pushsquare.com/news/2026/07/if-people-want-it-companies-should-provide-it-rockstar-co-founder-dan-houser-joins-ps5-disc-debate",
-          "published": "2026-07-26T13:30:00+00:00"
+          "source": "PC Gamer",
+          "title": "Call of Duty: Modern Warfare 4's beta will have low-SBMM playlists, as Activision continues to 'learn a lot about multiplayer matchmaking'",
+          "url": "https://www.pcgamer.com/games/call-of-duty/call-of-duty-modern-warfare-4s-beta-will-have-low-sbmm-playlists-as-activision-continues-to-learn-a-lot-about-multiplayer-matchmaking/",
+          "published": "2026-07-26T11:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "about-backlash-dev-disc-ever-former",
-      "score": 23.6,
+      "story_id": "007-doozy-here-light-major-patch",
+      "score": 21.7,
       "already_proposed": false,
-      "headline": "\"Sony had the strictest social media guidelines they've ever seen issued,\" says former first-party dev about physical disc backlash",
+      "headline": "007 First Light's first major patch is here – and it's a doozy if you're playing on PS5",
       "topics": [
         "playstation"
       ],
+      "age_hours": 17.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 0.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.7
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": null,
+      "youtube_query": null,
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "007 First Light's first major patch is here – and it's a doozy if you're playing on PS5",
+          "url": "https://www.eurogamer.net/007-first-light-first-major-patch-details",
+          "published": "2026-07-26T15:44:24+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "best-collection-deals-dji-force-legacy",
+      "score": 21.3,
+      "already_proposed": false,
+      "headline": "The Best Deals Today: Saros, Mega Man Star Force Legacy Collection, DJI Mini 4K, and More",
+      "topics": [],
+      "age_hours": 13.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 0.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.94
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": null,
+      "youtube_query": null,
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "The Best Deals Today: Saros, Mega Man Star Force Legacy Collection, DJI Mini 4K, and More",
+          "url": "https://www.ign.com/articles/best-deals-for-july-26-2026",
+          "published": "2026-07-26T19:59:48+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "confirmed-end-game-games-july-month",
+      "score": 21.1,
+      "already_proposed": false,
+      "headline": "Three Games Are Confirmed For Xbox Game Pass To End The Month (July 28-31)",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 18.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 0.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.66
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": null,
+      "youtube_query": null,
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Three Games Are Confirmed For Xbox Game Pass To End The Month (July 28-31)",
+          "url": "https://www.purexbox.com/news/2026/07/three-games-are-confirmed-for-xbox-game-pass-to-end-the-month-july-28-31",
+          "published": "2026-07-26T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "adds-care-disc-don-founder-games",
+      "score": 21.0,
+      "already_proposed": false,
+      "headline": "Rockstar co-founder says 'I don't know if I personally care' if games release on disc, adds 'I love physical media'",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 18.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 0.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.65
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": null,
+      "youtube_query": null,
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Rockstar co-founder says 'I don't know if I personally care' if games release on disc, adds 'I love physical media'",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-co-founder-says-i-dont-know-if-i-personally-care-if-games-release-on-disc-adds-i-love-physical-media/",
+          "published": "2026-07-26T14:47:54+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2018-faction-guerrilla-mars-red-review",
+      "score": 20.2,
+      "already_proposed": false,
+      "headline": "Red Faction: Guerrilla Re-Mars-tered review (2018)",
+      "topics": [],
+      "age_hours": 14.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 0.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.86
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": null,
+      "youtube_query": null,
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Red Faction: Guerrilla Re-Mars-tered review (2018)",
+          "url": "https://www.pcgamer.com/games/action/red-faction-guerrilla-re-mars-tered-review-2018/",
+          "published": "2026-07-26T18:36:13+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2026-alumni-celebrate-comic-george-greatest",
+      "score": 20.0,
+      "already_proposed": false,
+      "headline": "George Takei and Other Star Trek Alumni Celebrate 60 Years and Name Trek's Greatest Lessons | Comic Con 2026",
+      "topics": [],
       "age_hours": 14.8,
       "signals": {
         "coverage": 0.17,
@@ -569,132 +367,107 @@
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
+        "topic": 0.0,
         "freshness": 0.84
       },
       "coverage_en": [
-        "Eurogamer"
+        "IGN"
       ],
       "coverage_it": [],
       "youtube": null,
       "youtube_query": null,
       "articles": [
         {
-          "source": "Eurogamer",
-          "title": "\"Sony had the strictest social media guidelines they've ever seen issued,\" says former first-party dev about physical disc backlash",
-          "url": "https://www.eurogamer.net/sony-disc-backlash-no-surprise-says-former-dev",
-          "published": "2026-07-26T18:17:06+00:00"
+          "source": "IGN",
+          "title": "George Takei and Other Star Trek Alumni Celebrate 60 Years and Name Trek's Greatest Lessons | Comic Con 2026",
+          "url": "https://www.ign.com/articles/star-trek-60th-anniversary-sdcc-panel",
+          "published": "2026-07-26T18:17:00+00:00"
         }
       ]
     },
     {
-      "story_id": "boss-chort-deal-doesn-fantasy-final",
-      "score": 23.5,
+      "story_id": "hero-legendary-original-returns-save-where",
+      "score": 19.8,
       "already_proposed": false,
-      "headline": "Final Fantasy 14 boss Yoshi-P doesn't get the deal with Chort",
-      "topics": [
-        "feel_good"
-      ],
-      "age_hours": 15.0,
+      "headline": "D&D returns to its original world, where no legendary hero can save you",
+      "topics": [],
+      "age_hours": 15.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 0.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
+        "topic": 0.0,
         "freshness": 0.83
       },
       "coverage_en": [
-        "PC Gamer"
+        "Polygon"
       ],
       "coverage_it": [],
       "youtube": null,
       "youtube_query": null,
       "articles": [
         {
-          "source": "PC Gamer",
-          "title": "Final Fantasy 14 boss Yoshi-P doesn't get the deal with Chort",
-          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-boss-yoshi-p-doesnt-get-the-deal-with-chort/",
-          "published": "2026-07-26T18:05:43+00:00"
+          "source": "Polygon",
+          "title": "D&D returns to its original world, where no legendary hero can save you",
+          "url": "https://www.polygon.com/dnd-legends-of-greyhawk-organized-play-global-campaign/",
+          "published": "2026-07-26T18:00:12+00:00"
         }
       ]
     },
     {
-      "story_id": "catch-fantasy-final-housing-list-lot",
-      "score": 23.5,
+      "story_id": "capcom-enables-every-evil-games-goal",
+      "score": 19.6,
       "already_proposed": false,
-      "headline": "Final Fantasy 14 is planning 2 major overhauls to its housing system to catch up with World of Warcraft: 'It's probably the number 1 thing on the list a lot of people are requesting'",
-      "topics": [
-        "feel_good"
-      ],
-      "age_hours": 15.0,
+      "headline": "Capcom Says The Goal Of A New Resident Evil Every Year Enables Games Like Pragmata",
+      "topics": [],
+      "age_hours": 13.9,
       "signals": {
-        "coverage": 0.17,
+        "coverage": 0.33,
         "velocity": 0.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.06,
         "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.84
+        "topic": 0.0,
+        "freshness": 0.89
       },
       "coverage_en": [
+        "Kotaku",
         "PC Gamer"
       ],
       "coverage_it": [],
-      "youtube": null,
-      "youtube_query": null,
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "Final Fantasy 14 is planning 2 major overhauls to its housing system to catch up with World of Warcraft: 'It's probably the number 1 thing on the list a lot of people are requesting'",
-          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-is-planning-2-major-overhauls-to-its-housing-system-to-catch-up-with-world-of-warcraft-its-probably-the-number-1-thing-on-the-list-a-lot-of-people-are-requesting/",
-          "published": "2026-07-26T18:08:26+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "before-big-build-chance-collection-discs",
-      "score": 22.8,
-      "already_proposed": false,
-      "headline": "Big PlayStation Game Sale Is A Perfect Chance To Build Up Your Physical Collection Before Sony Kills Discs",
-      "topics": [
-        "playstation"
-      ],
-      "age_hours": 15.9,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 0.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.78
+      "youtube": {
+        "video_count": 1,
+        "median_views": 391,
+        "top_views": 391,
+        "top_title": "Capcom Wants a Resident Evil Every Year. Check 2024 and 2025"
       },
-      "coverage_en": [
-        "Kotaku"
-      ],
-      "coverage_it": [],
-      "youtube": null,
-      "youtube_query": null,
+      "youtube_query": "capcom every evil resident year",
       "articles": [
         {
           "source": "Kotaku",
-          "title": "Big PlayStation Game Sale Is A Perfect Chance To Build Up Your Physical Collection Before Sony Kills Discs",
-          "url": "https://kotaku.com/big-playstation-game-sale-is-a-perfect-chance-to-build-up-your-physical-collection-before-sony-kills-discs-2000719394",
-          "published": "2026-07-26T17:13:58+00:00"
+          "title": "Capcom Says The Goal Of A New Resident Evil Every Year Enables Games Like Pragmata",
+          "url": "https://kotaku.com/capcom-producer-says-resident-evil-remakes-enable-original-games-like-pragmata-2000719404",
+          "published": "2026-07-26T19:11:41+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Capcom wants to release a Resident Evil every year and sees remakes as the way to make it happen",
+          "url": "https://www.pcgamer.com/games/resident-evil/capcom-wants-to-release-a-resident-evil-every-year-and-sees-remakes-as-the-way-to-make-it-happen/",
+          "published": "2026-07-26T21:40:41+00:00"
         }
       ]
     },
     {
-      "story_id": "annual-black-exceeded-expectations-flag-just",
-      "score": 22.5,
+      "story_id": "2026-bought-point-sale-summer-talking",
+      "score": 19.6,
       "already_proposed": false,
-      "headline": "Ubisoft says the Black Flag remake has exceeded 'annual expectations' in just two weeks, shortly after it laid off a number of the people who made it",
+      "headline": "Talking Point: What Have You Bought In The Xbox Summer Sale 2026?",
       "topics": [
-        "aaa"
+        "xbox"
       ],
-      "age_hours": 16.4,
+      "age_hours": 20.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 0.0,
@@ -702,7 +475,38 @@
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.33,
-        "freshness": 0.76
+        "freshness": 0.55
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": null,
+      "youtube_query": null,
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Talking Point: What Have You Bought In The Xbox Summer Sale 2026?",
+          "url": "https://www.purexbox.com/features/talking-point-what-have-you-bought-in-the-xbox-summer-sale-2026",
+          "published": "2026-07-26T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "any-baldur-done-feature-film-games",
+      "score": 19.4,
+      "already_proposed": false,
+      "headline": "J.K. Simmons hasn't played Baldur's Gate 3 or any of his games, but he loves Portal 2: 'I could have done the feature film, or the play, or whatever'",
+      "topics": [],
+      "age_hours": 15.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 0.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.8
       },
       "coverage_en": [
         "PC Gamer"
@@ -713,9 +517,140 @@
       "articles": [
         {
           "source": "PC Gamer",
-          "title": "Ubisoft says the Black Flag remake has exceeded 'annual expectations' in just two weeks, shortly after it laid off a number of the people who made it",
-          "url": "https://www.pcgamer.com/games/assassins-creed/ubisoft-says-the-black-flag-remake-has-exceeded-annual-expectations-in-just-two-weeks-shortly-after-it-laid-off-a-number-of-the-people-who-made-it/",
-          "published": "2026-07-26T16:42:33+00:00"
+          "title": "J.K. Simmons hasn't played Baldur's Gate 3 or any of his games, but he loves Portal 2: 'I could have done the feature film, or the play, or whatever'",
+          "url": "https://www.pcgamer.com/games/baldurs-gate/j-k-simmons-hasnt-played-baldurs-gate-3-or-any-of-his-games-but-he-loves-portal-2-i-could-have-done-the-feature-film-or-the-play-or-whatever/",
+          "published": "2026-07-26T17:31:42+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "auto-does-even-grand-gta-like",
+      "score": 19.0,
+      "already_proposed": false,
+      "headline": "What does GTA Online 2.0 even look like—and, more to the point, what do we even want from Grand Theft Auto 6 multiplayer?",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 12.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 0.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.13,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.98
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1606,
+        "top_views": 1606,
+        "top_title": "Poor Guy Didn't Even Do Anything😮😔 | GTA 5 | Trevor"
+      },
+      "youtube_query": "auto does even grand gta",
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "What does GTA Online 2.0 even look like—and, more to the point, what do we even want from Grand Theft Auto 6 multiplayer?",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/what-does-gta-online-2-0-even-look-like-and-more-to-the-point-what-do-we-even-want-from-grand-theft-auto-6-multiplayer/",
+          "published": "2026-07-26T20:50:15+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "about-feel-music-videogame",
+      "score": 19.0,
+      "already_proposed": false,
+      "headline": "How do you feel about AI videogame music?",
+      "topics": [],
+      "age_hours": 16.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 0.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.77
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": null,
+      "youtube_query": null,
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "How do you feel about AI videogame music?",
+          "url": "https://www.pcgamer.com/games/how-do-you-feel-about-ai-videogame-music/",
+          "published": "2026-07-26T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "anime-best-masterpiece-netflix-original-time",
+      "score": 19.0,
+      "already_proposed": false,
+      "headline": "7 best Netflix Original anime that are worth your time (#3 is a masterpiece)",
+      "topics": [],
+      "age_hours": 16.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 0.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.77
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": null,
+      "youtube_query": null,
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "7 best Netflix Original anime that are worth your time (#3 is a masterpiece)",
+          "url": "https://www.polygon.com/best-netflix-original-anime-you-need-to-watch/",
+          "published": "2026-07-26T17:00:12+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "chameleon-discord-fixes-hacked-infected-malware",
+      "score": 18.7,
+      "already_proposed": false,
+      "headline": "Fixes roll out after Meccha Chameleon servers infected with malware, Discord hacked",
+      "topics": [],
+      "age_hours": 16.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 0.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.75
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": null,
+      "youtube_query": null,
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Fixes roll out after Meccha Chameleon servers infected with malware, Discord hacked",
+          "url": "https://www.pcgamer.com/games/sports/fixes-roll-out-after-meccha-chameleon-servers-infected-with-malware-discord-hacked/",
+          "published": "2026-07-26T16:32:44+00:00"
         }
       ]
     }
