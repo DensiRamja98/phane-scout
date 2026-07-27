@@ -147,6 +147,32 @@ SOFT_PENALTY = [
     "weekly roundup", "this week in", "what are you playing",
 ]
 
+# Listicle evergreen: "The Best X", "Top 10 Y", roba "of all time".
+# Non sono notizie: le testate le sfornano per riempire il calendario.
+# Possono comunque ispirare lo slot delle 12, quindi restano in coda
+# invece di sparire del tutto.
+WEAK_PATTERNS = [
+    re.compile(r"^the\s+(\d+\s+)?best\b", re.I),
+    re.compile(r"^\d+\s+best\b", re.I),
+    re.compile(r"^top\s+\d+\b", re.I),
+    re.compile(r"^best\s+", re.I),
+    re.compile(r"^every\s+", re.I),
+    re.compile(r"\bof all time\b", re.I),
+    re.compile(r"\branked\b", re.I),
+]
+
+# Termini che su YouTube pescano SEMPRE video ad alto volume, a prescindere
+# dalla storia: franchise perenni e parole-gameplay generiche. Se la query
+# e' fatta SOLO di questi, il dato misurerebbe il rumore di fondo del
+# franchise, non la domanda per la notizia: meglio nessun segnale che un
+# segnale falso.
+AMBIENT_NOISE = {
+    "gta", "minecraft", "fortnite", "roblox", "pokemon", "fifa", "cod",
+    "warzone", "mario", "zelda", "sonic", "sims", "skyrim", "elden",
+    "missions", "mission", "gameplay", "guide", "tips", "tricks", "secrets",
+    "moments", "funny", "fails", "shorts", "clips", "compilation", "montage",
+}
+
 
 def is_noise(title):
     """True se l'articolo va scartato prima ancora del clustering."""
@@ -159,7 +185,9 @@ def is_noise(title):
 def is_weak_format(title):
     """True se il titolo e' un formato che raramente diventa un buon short."""
     t = title.lower()
-    return any(kw in t for kw in SOFT_PENALTY)
+    if any(kw in t for kw in SOFT_PENALTY):
+        return True
+    return any(p.search(title) for p in WEAK_PATTERNS)
 
 
 # Pesi dello scoring
@@ -199,11 +227,14 @@ STOPWORDS = {
     "last", "next", "new", "old", "good", "bad", "best", "worst", "better",
     "big", "little", "long", "right", "way", "thing", "things", "point", "lot",
     "free", "full", "real", "sure", "like", "likes", "want", "wants", "need",
+    "time", "week", "play", "played", "playing", "review", "continues",
+    "game", "games", "gaming", "gamer", "gamers", "videogame", "videogames",
     # italiano
     "il", "lo", "la", "i", "gli", "le", "un", "una", "uno", "di", "che", "e",
     "per", "con", "su", "da", "del", "della", "dei", "delle", "al", "alla",
     "non", "come", "piu", "anche", "solo", "dopo", "prima", "sono", "essere",
     "questo", "questa", "suo", "sua", "loro", "tutto", "tutti", "ora", "gia",
+    "gioco", "giochi", "videogioco", "videogiochi",
 }
 
 # ============================================================
@@ -317,7 +348,7 @@ def fetch_feeds(feeds, lang, cutoff):
 # ============================================================
 
 
-def cluster_articles(articles, idf=None, threshold=0.42):
+def cluster_articles(articles, idf=None, threshold=0.38):
     """
     Raggruppa articoli che parlano dello stesso fatto.
     Greedy single-pass: per ogni articolo cerca il cluster piu' simile,
@@ -517,7 +548,8 @@ def score_cluster(cluster, now):
 
     # segnali YouTube
     yt = cluster.get("youtube") or {}
-    yt_available = bool(yt) and "error" not in yt and yt.get("video_count") is not None
+    yt_available = (bool(yt) and "error" not in yt and "skipped" not in yt
+                    and yt.get("video_count") is not None)
     yt_demand = 0.0
     yt_room = 0.0
     if yt_available and yt.get("video_count"):
@@ -631,8 +663,13 @@ def main():
         queried = prelim[:YOUTUBE_TOP_N]
         for _, cl in queried:
             query = build_youtube_query(cl, idf)
-            cl["youtube"] = youtube_demand(query, api_key)
             cl["youtube_query"] = query
+            q_tokens = query.split()
+            if len(q_tokens) < 2 or all(t in AMBIENT_NOISE for t in q_tokens):
+                # query franchise-generica: il dato sarebbe rumore, non domanda
+                cl["youtube"] = {"skipped": "query troppo generica per misurare la storia"}
+                continue
+            cl["youtube"] = youtube_demand(query, api_key)
             time.sleep(0.3)
         print(f"[scout] YouTube interrogato su {len(queried)} cluster", file=sys.stderr)
 
@@ -659,6 +696,15 @@ def main():
         prev = seen.get(story_id)
         already = bool(prev) and prev.get("date", "") < today
 
+        # correlati raggruppati per storia, senza duplicati
+        rel = {}
+        for j, tok in sorted(related_map.get(cl.get("_index", -1), [])):
+            rel.setdefault(j, []).append(tok)
+        related_out = [
+            {"headline": clusters[j]["articles"][0]["title"], "shared_terms": toks[:3]}
+            for j, toks in list(rel.items())[:3]
+        ]
+
         results.append({
             "story_id": story_id,
             "score": score,
@@ -671,10 +717,7 @@ def main():
             "coverage_it": sorted(src_it),
             "youtube": cl.get("youtube"),
             "youtube_query": cl.get("youtube_query"),
-            "related": [
-                {"headline": clusters[j]["articles"][0]["title"], "shared_term": tok}
-                for j, tok in sorted(related_map.get(cl.get("_index", -1), []))[:3]
-            ],
+            "related": related_out,
             "articles": [
                 {"source": a["source"], "title": a["title"], "url": a["url"], "published": a["published"]}
                 for a in cl["articles"]
