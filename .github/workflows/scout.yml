@@ -1,0 +1,42 @@
+name: scout gaming
+
+# Gira ogni mattina alle 05:10 UTC.
+# In Italia sono le 07:10 d'estate (CEST) e le 06:10 d'inverno (CET):
+# GitHub usa solo UTC, quindi d'inverno il brief arriva un'ora prima.
+on:
+  schedule:
+    - cron: "10 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installa dipendenze
+        run: pip install feedparser
+
+      - name: Esegui lo scout
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scout_gaming.py
+
+      - name: Commit dei risultati
+        run: |
+          git config user.name "scout-bot"
+          git config user.email "scout-bot@users.noreply.github.com"
+          git add out/ state/
+          git diff --staged --quiet || git commit -m "scout: brief del $(date -u +%Y-%m-%d)"
+          git push
