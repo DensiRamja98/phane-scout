@@ -1,0 +1,761 @@
+{
+  "generated_at": "2026-10-11T11:21:16.117585+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "action-brings-fun-month-park-pico",
+      "score": 33.8,
+      "already_proposed": false,
+      "headline": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 9.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.1,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1022,
+        "top_views": 1022,
+        "top_title": "Sonic Pico Park Brings Co-Op Puzzle Chaos to Switch 1 & 2 Next Month"
+      },
+      "youtube_query": "park pico fun brings action",
+      "related": [
+        {
+          "headline": "Arc Raiders' 2.0 Update and 'Spider-Man' Grappling Hook Drive Player Count to Reach 7-Month High",
+          "shared_terms": [
+            "month"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month",
+          "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
+          "published": "2026-10-11T01:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "archives-commander-company-discovers-fmv-original",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
+      "topics": [
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 0.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "commander discovers remaster fmv tapes",
+      "related": [
+        {
+          "headline": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
+          "shared_terms": [
+            "producer"
+          ]
+        },
+        {
+          "headline": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff",
+          "shared_terms": [
+            "company"
+          ]
+        },
+        {
+          "headline": "BlazBlue: Central Fiction Announced for PS5, a Decade After Original Release",
+          "shared_terms": [
+            "original"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
+          "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
+          "published": "2026-10-11T10:31:02+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "aren-build-group-gta-leak-physical",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed",
+      "topics": [
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 0.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "group aren reversed physical leak",
+      "related": [
+        {
+          "headline": "Konami ha in programma una \"seconda e una terza ondata\" di giochi di Silent Hill",
+          "shared_terms": [
+            "plans"
+          ]
+        },
+        {
+          "headline": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying",
+          "shared_terms": [
+            "leak"
+          ]
+        },
+        {
+          "headline": "Jailbroken PS5s Can Now Emulate PS2 Games Using Physical Discs",
+          "shared_terms": [
+            "physical"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed",
+          "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
+          "published": "2026-10-11T10:35:55+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "build-clothing-crypto-cyberleek-end-gta",
+      "score": 32.7,
+      "already_proposed": false,
+      "headline": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
+      "topics": [
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 19.0,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.33,
+        "it_gap": 0.5,
+        "yt_demand": 0.09,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.61,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 769,
+        "top_views": 5760,
+        "top_title": "GTA 6 FULL GAME LEAKED?! Rockstar’s Worst Nightmare Just Happened!"
+      },
+      "youtube_query": "leaker build gta mode story",
+      "related": [
+        {
+          "headline": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
+          "shared_terms": [
+            "reportedly"
+          ]
+        },
+        {
+          "headline": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying",
+          "shared_terms": [
+            "playable"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
+          "url": "https://www.ign.com/articles/gta-6-leaker-threatens-to-release-build-with-full-story-mode-played-to-the-end-ties-lucias-clothing-to-crypto-scheme",
+          "published": "2026-10-10T16:23:47+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
+          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
+          "published": "2026-10-10T19:42:21+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "GTA 6 leaker threatens to upload a build with 'full story mode'",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
+          "published": "2026-10-10T23:32:29+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2024-date-inventive-movie-officially-release",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "2024's Most Inventive Slasher Movie Officially Sets Sequel Release Date",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 11.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "inventive 2024 date sets sequel",
+      "related": [
+        {
+          "headline": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger",
+          "shared_terms": [
+            "officially"
+          ]
+        },
+        {
+          "headline": "Forget a 'Halloween' Rewatch, Dan Stevens' Best Horror Movie Is a Slasher Surprise",
+          "shared_terms": [
+            "slasher"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "2024's Most Inventive Slasher Movie Officially Sets Sequel Release Date",
+          "url": "https://www.polygon.com/in-a-violent-nature-2-horror-movie-release-date-shudder/",
+          "published": "2026-10-10T23:30:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "blue-boy-jukebox-pok-mon-psa-red",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 8.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "psa jukebox blue red stock",
+      "related": [
+        {
+          "headline": "Resident Evil inspired, cannibal dungeon crawler Medium Rare has a delightful art style trick up its sleeve: stock photos",
+          "shared_terms": [
+            "stock"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock",
+          "published": "2026-10-11T02:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "finger-great-hbo-later-line-quote",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "13 Years Later, Little Finger's Best 'Game of Thrones' Quote is Still a All-Time Great HBO Line",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 8.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "hbo finger thrones quote line",
+      "related": [
+        {
+          "headline": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update",
+          "shared_terms": [
+            "great"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "13 Years Later, Little Finger's Best 'Game of Thrones' Quote is Still a All-Time Great HBO Line",
+          "url": "https://www.polygon.com/game-of-thrones-best-littlefinger-quote/",
+          "published": "2026-10-11T03:00:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "dan-forget-halloween-horror-movie-rewatch",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Forget a 'Halloween' Rewatch, Dan Stevens' Best Horror Movie Is a Slasher Surprise",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 7.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "rewatch stevens forget dan surprise",
+      "related": [
+        {
+          "headline": "2024's Most Inventive Slasher Movie Officially Sets Sequel Release Date",
+          "shared_terms": [
+            "slasher"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Forget a 'Halloween' Rewatch, Dan Stevens' Best Horror Movie Is a Slasher Surprise",
+          "url": "https://www.polygon.com/the-guest-halloween-countdown-2026/",
+          "published": "2026-10-11T04:00:23+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "adorable-comic-ever-greatest-later-masterpiece",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "65 Years Later, The Greatest 'Peanuts' Comic Strip Ever is Still an Adorable Masterpiece",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 1.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "comic masterpiece peanuts ever adorable",
+      "related": [
+        {
+          "headline": "Skate Devs Forced To Respond To Offline Mods That Strip Out All The Paid Cosmetics: ‘We Are Not Against Creativity’",
+          "shared_terms": [
+            "strip"
+          ]
+        },
+        {
+          "headline": "Gary Larson's 10 Greatest 'Far Side' Comics, Ranked",
+          "shared_terms": [
+            "greatest"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "65 Years Later, The Greatest 'Peanuts' Comic Strip Ever is Still an Adorable Masterpiece",
+          "url": "https://www.polygon.com/best-peanuts-comic-strip-ever/",
+          "published": "2026-10-11T10:00:15+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "city-deadlock-favorite-moba-setting-sleeps",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 0.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "valve moba setting favorite sleeps",
+      "related": [
+        {
+          "headline": "Be warned: Nivalis Nights may not be the cozy game you expect: 'If you want a cozy existence in this city, you're going to have to earn it'",
+          "shared_terms": [
+            "city"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
+          "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
+          "published": "2026-10-11T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2013-hardware-hit-lowest-playstation-price",
+      "score": 31.0,
+      "already_proposed": false,
+      "headline": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 12.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.98,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "lowest 2013 problem hit price",
+      "related": [
+        {
+          "headline": "US console hardware market at its most precarious position ‘since the 80s’, says Circana",
+          "shared_terms": [
+            "hardware",
+            "since"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem",
+          "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
+          "published": "2026-10-10T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bit-capcom-doveva-focused-horror-iniziali",
+      "score": 30.0,
+      "already_proposed": false,
+      "headline": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\"",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 7.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "pragmata capcom horror focused bit",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\"",
+          "url": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused",
+          "published": "2026-10-11T04:15:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Pragmata doveva essere \"più horror\" secondo i piani iniziali di Capcom",
+          "url": "https://multiplayer.it/notizie/pragmata-doveva-essere-piu-horror-secondo-i-piani-iniziali-di-capcom.html",
+          "published": "2026-10-11T10:03:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "ago-buffy-character-desperately-needed-replacement",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "26 Years Ago, 'Buffy's Worst Character Got the Replacement He Desperately Needed",
+      "topics": [],
+      "age_hours": 10.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "buffy desperately character replacement ago",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "26 Years Ago, 'Buffy's Worst Character Got the Replacement He Desperately Needed",
+          "url": "https://www.polygon.com/buffy-the-vampire-slayer-episode-xander/",
+          "published": "2026-10-11T01:00:15+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "battle-ded-different-gameshow-hyperviolence-krafton",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale",
+      "topics": [],
+      "age_hours": 2.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "net twist pulpy royale battle",
+      "related": [
+        {
+          "headline": "A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is",
+          "shared_terms": [
+            "thinks"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale",
+          "url": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale",
+          "published": "2026-10-11T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "art-box-brawl-duel-feature-resort",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Feature: Box Art Brawl - Duel: Wii Sports Resort",
+      "topics": [],
+      "age_hours": 2.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "sports wii brawl resort duel",
+      "related": [
+        {
+          "headline": "Feature: These 30+ Games Are Coming To Xbox Next Week (October 12-16)",
+          "shared_terms": [
+            "feature"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Feature: Box Art Brawl - Duel: Wii Sports Resort",
+          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-wii-sports-resort",
+          "published": "2026-10-11T09:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}
