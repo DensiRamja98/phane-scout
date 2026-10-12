@@ -1,25 +1,268 @@
 {
-  "generated_at": "2026-10-11T11:21:16.117585+00:00",
+  "generated_at": "2026-10-12T13:01:44.811242+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "action-brings-fun-month-park-pico",
-      "score": 33.8,
+      "story_id": "action-chocolatier-compared-concernedape-creator-farming",
+      "score": 39.4,
       "already_proposed": false,
-      "headline": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month",
+      "headline": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim",
+      "topics": [],
+      "age_hours": 3.8,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.5,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot",
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "valley stardew chocolatier haunted rpg",
+      "related": [
+        {
+          "headline": "‘I’m Shocked That People Are Still Playing’ – How GTA 5 Took Over the World",
+          "shared_terms": [
+            "people"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Stardew Valley creator's new game, Haunted Chocolatier, is \"more of an action RPG\" than farming sim",
+          "url": "https://www.eurogamer.net/the-haunted-chocolatier-action-rpg-stardew-valley",
+          "published": "2026-10-12T09:12:13+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Haunted Chocolatier 'More of an Action RPG' Compared to Stardew Valley, ConcernedApe Says",
+          "url": "https://www.ign.com/articles/haunted-chocolatier-more-of-an-action-rpg-compared-to-stardew-valley-concernedape-says",
+          "published": "2026-10-12T11:02:53+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Haunted Chocolatier Is For “The People In Stardew Valley That Go Into The Mines”",
+          "url": "https://www.gamespot.com/articles/haunted-chocolatier-is-for-the-people-in-stardew-valley-that-go-into-the-mines/",
+          "published": "2026-10-12T11:09:52+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "attacco-attack-attacks-because-coalition-conferma",
+      "score": 36.9,
+      "already_proposed": false,
+      "headline": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says",
+      "topics": [
+        "xbox",
+        "industria"
+      ],
+      "age_hours": 1.4,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Kotaku",
+        "Pure Xbox"
+      ],
+      "coverage_it": [
+        "Multiplayer",
+        "SpazioGames"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "gears day war ddos attacco",
+      "related": [
+        {
+          "headline": "Nier creator Yoko Taro says he's achieved his career dreams, but he continues working because it's 'good for preventing dementia'",
+          "shared_terms": [
+            "because"
+          ]
+        },
+        {
+          "headline": "Notorious Hacker Steals 250,000 User Discord Server For Infamous Terraria Mod Calamity, Immediately Uses It To Pump And Dump A Crypto Coin",
+          "shared_terms": [
+            "hacker",
+            "server"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says",
+          "url": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos",
+          "published": "2026-10-12T11:38:55+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Gears Of War: E-Day's Online Services Suffer DDoS Attack",
+          "url": "https://www.purexbox.com/news/2026/10/gears-of-war-e-days-online-services-suffer-ddos-attack",
+          "published": "2026-10-12T12:00:00+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "Gears of War: E-Day vittima di un attacco hacker",
+          "url": "https://www.spaziogames.it/notizie/gears-of-war-e-day-dietro-i-problemi-ce-un-attacco",
+          "published": "2026-10-12T12:17:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Gears of War: E-Day, The Coalition conferma un attacco DDoS ai servizi online",
+          "url": "https://multiplayer.it/notizie/gears-of-war-e-day-the-coalition-conferma-un-attacco-ddos-ai-servizi-online.html",
+          "published": "2026-10-12T12:18:08+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Gears Of War: E-Day Was Taken Down By DDoS Attack, Developers Confirm",
+          "url": "https://kotaku.com/gears-of-war-e-day-the-coalition-microsoft-ddos-attack-woke-2000744559",
+          "published": "2026-10-12T12:29:26+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "company-confirms-ditch-executive-media-nintendo",
+      "score": 36.4,
+      "already_proposed": false,
+      "headline": "Nintendo States That It Has No Plans To Ditch Physical Media",
       "topics": [
         "nintendo"
       ],
-      "age_hours": 9.6,
+      "age_hours": 4.5,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "ditch plans physical nintendo media",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Nintendo States That It Has No Plans To Ditch Physical Media",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-states-that-it-has-no-plans-to-ditch-physical-media",
+          "published": "2026-10-12T08:30:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Nintendo executive confirms company has \"no plans to ditch physical games\"",
+          "url": "https://www.eurogamer.net/nintendo-executive-confirms-company-has-no-plans-to-ditch-physical-games",
+          "published": "2026-10-12T12:00:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "brutal-chill-frightening-mortis-not-person",
+      "score": 34.2,
+      "already_proposed": false,
+      "headline": "First-Person Soulslike Valor Mortis Is Brutal, Frightening, and Strangely Chill",
+      "topics": [],
+      "age_hours": 0.0,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "soulslike mortis valor chill strangely",
+      "related": [
+        {
+          "headline": "Valor Mortis review - this Napoleonic first-person swordfighter is one of the freshest Soulslikes in years",
+          "shared_terms": [
+            "person"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "First-Person Soulslike Valor Mortis Is Brutal, Frightening, and Strangely Chill",
+          "url": "https://www.polygon.com/valor-mortis-impressions/",
+          "published": "2026-10-12T13:00:16+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Valor Mortis review - a stellar Soulslike, but not as you know it",
+          "url": "https://www.eurogamer.net/valor-mortis-review",
+          "published": "2026-10-12T13:00:58+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "evil-file-pretty-remakes-resident-sizes",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 3.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.1,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
+        "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -28,326 +271,91 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 1,
-        "median_views": 1022,
-        "top_views": 1022,
-        "top_title": "Sonic Pico Park Brings Co-Op Puzzle Chaos to Switch 1 & 2 Next Month"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "park pico fun brings action",
-      "related": [
-        {
-          "headline": "Arc Raiders' 2.0 Update and 'Spider-Man' Grappling Hook Drive Player Count to Reach 7-Month High",
-          "shared_terms": [
-            "month"
-          ]
-        }
-      ],
+      "youtube_query": "sizes remakes file pretty upcoming",
+      "related": [],
       "articles": [
         {
           "source": "Nintendo Life",
-          "title": "Sonic Pico Park Brings Co-Op Action Puzzle Fun To Switch 1 & 2 Next Month",
-          "url": "https://www.nintendolife.com/news/2026/10/sonic-pico-park-brings-co-op-action-puzzle-fun-to-switch-1-and-2-next-month",
-          "published": "2026-10-11T01:45:00+00:00"
+          "title": "Upcoming Resident Evil Remakes Have Pretty Tiny File Sizes On Switch 2",
+          "url": "https://www.nintendolife.com/news/2026/10/upcoming-resident-evil-remakes-have-pretty-tiny-file-sizes-on-switch-2",
+          "published": "2026-10-12T09:30:00+00:00"
         }
       ]
     },
     {
-      "story_id": "archives-commander-company-discovers-fmv-original",
+      "story_id": "astonishing-creator-dragon-generated-horii-latest",
       "score": 33.5,
       "already_proposed": false,
-      "headline": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
-      "topics": [
-        "aaa",
-        "storie"
-      ],
-      "age_hours": 0.8,
+      "headline": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI",
+      "topics": [],
+      "age_hours": 3.5,
       "signals": {
-        "coverage": 0.17,
+        "coverage": 0.33,
         "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.06,
         "yt_room": 0.0,
-        "topic": 0.67,
+        "topic": 0.0,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "commander discovers remaster fmv tapes",
-      "related": [
-        {
-          "headline": "Arc Raiders could eventually be split into PvE and PvP, says executive producer",
-          "shared_terms": [
-            "producer"
-          ]
-        },
-        {
-          "headline": "The studio behind Star Wars Zero Company is bringing back some of its furloughed staff",
-          "shared_terms": [
-            "company"
-          ]
-        },
-        {
-          "headline": "BlazBlue: Central Fiction Announced for PS5, a Decade After Original Release",
-          "shared_terms": [
-            "original"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "It looks like Wing Commander 3 is getting a remaster, after EA producer discovers the original FMV source tapes in the company's archives",
-          "url": "https://www.pcgamer.com/games/sim/it-looks-like-wing-commander-3-is-getting-a-remaster-after-ea-producer-discovers-the-original-fmv-source-tapes-in-the-companys-archives/",
-          "published": "2026-10-11T10:31:02+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "aren-build-group-gta-leak-physical",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed",
-      "topics": [
-        "aaa",
-        "storie"
-      ],
-      "age_hours": 0.8,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
+        "Nintendo Life",
         "VGC"
       ],
-      "coverage_it": [],
+      "coverage_it": [
+        "Multiplayer"
+      ],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 2,
+        "median_views": 421,
+        "top_views": 421,
+        "top_title": "堀井雄二の完全新作推理ゲーム取調室の小宮は個人制作の無料公開なのに本格心理戦が遊べるのはなぜか？"
       },
-      "youtube_query": "group aren reversed physical leak",
+      "youtube_query": "quest dragon minutes horii yuji",
       "related": [
         {
-          "headline": "Konami ha in programma una \"seconda e una terza ondata\" di giochi di Silent Hill",
+          "headline": "GTA 6 leaker CyberLeek is back with another video and this time, Lucia's naked",
           "shared_terms": [
-            "plans"
-          ]
-        },
-        {
-          "headline": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying",
-          "shared_terms": [
-            "leak"
-          ]
-        },
-        {
-          "headline": "Jailbroken PS5s Can Now Emulate PS2 Games Using Physical Discs",
-          "shared_terms": [
-            "physical"
+            "latest"
           ]
         }
       ],
       "articles": [
         {
           "source": "VGC",
-          "title": "Group threatens to leak ‘full’ GTA 6 build if physical plans aren’t reversed",
-          "url": "https://www.videogameschronicle.com/news/group-threatens-to-leak-full-gta-6-build-if-physical-plans-arent-reversed/",
-          "published": "2026-10-11T10:35:55+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "build-clothing-crypto-cyberleek-end-gta",
-      "score": 32.7,
-      "already_proposed": false,
-      "headline": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
-      "topics": [
-        "aaa",
-        "storie"
-      ],
-      "age_hours": 19.0,
-      "signals": {
-        "coverage": 0.5,
-        "velocity": 0.33,
-        "it_gap": 0.5,
-        "yt_demand": 0.09,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.61,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "IGN",
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 769,
-        "top_views": 5760,
-        "top_title": "GTA 6 FULL GAME LEAKED?! Rockstar’s Worst Nightmare Just Happened!"
-      },
-      "youtube_query": "leaker build gta mode story",
-      "related": [
-        {
-          "headline": "Silent Hill, Gravity Rush director's Bokeh Game Studio is reportedly casting for a new horror game",
-          "shared_terms": [
-            "reportedly"
-          ]
+          "title": "The latest game from the creator of Dragon Quest was made in ‘about 30 minutes’ with AI",
+          "url": "https://www.videogameschronicle.com/news/the-lastest-game-from-the-creator-of-dragon-quest-was-made-in-about-30-minutes-with-ai/",
+          "published": "2026-10-12T09:33:47+00:00"
         },
         {
-          "headline": "Will GTA 6 make its way to Switch 2? Nintendo isn’t saying",
-          "shared_terms": [
-            "playable"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "GTA 6 Leaker Threatens to Release Build With Full Story Mode Played to the End, Ties Lucia's Clothing to Crypto Scheme",
-          "url": "https://www.ign.com/articles/gta-6-leaker-threatens-to-release-build-with-full-story-mode-played-to-the-end-ties-lucias-clothing-to-crypto-scheme",
-          "published": "2026-10-10T16:23:47+00:00"
+          "source": "Multiplayer",
+          "title": "Yuji Horii, il papà di Dragon Quest, ha pubblicato un gioco realizzato con l’IA in \"una trentina di minuti\"",
+          "url": "https://multiplayer.it/notizie/yuji-horii-il-papa-di-dragon-quest-ha-pubblicato-un-gioco-realizzato-con-lia-in-una-trentina-di-minuti.html",
+          "published": "2026-10-12T10:51:11+00:00"
         },
-        {
-          "source": "Eurogamer",
-          "title": "GTA 6 leaker CyberLeek is now reportedly threatening to release a full, playable build of the game",
-          "url": "https://www.eurogamer.net/gta-6-leaker-cyberleek-threatens-playable-build-leak",
-          "published": "2026-10-10T19:42:21+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "GTA 6 leaker threatens to upload a build with 'full story mode'",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-leaker-threatens-to-upload-a-build-with-full-story-mode/",
-          "published": "2026-10-10T23:32:29+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "2024-date-inventive-movie-officially-release",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "2024's Most Inventive Slasher Movie Officially Sets Sequel Release Date",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 11.9,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "inventive 2024 date sets sequel",
-      "related": [
-        {
-          "headline": "Tekken 8's Reina Officially Announced as Fatal Fury PS5's Next Challenger",
-          "shared_terms": [
-            "officially"
-          ]
-        },
-        {
-          "headline": "Forget a 'Halloween' Rewatch, Dan Stevens' Best Horror Movie Is a Slasher Surprise",
-          "shared_terms": [
-            "slasher"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "2024's Most Inventive Slasher Movie Officially Sets Sequel Release Date",
-          "url": "https://www.polygon.com/in-a-violent-nature-2-horror-movie-release-date-shudder/",
-          "published": "2026-10-10T23:30:16+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "blue-boy-jukebox-pok-mon-psa-red",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock",
-      "topics": [
-        "pokemon"
-      ],
-      "age_hours": 8.8,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "psa jukebox blue red stock",
-      "related": [
-        {
-          "headline": "Resident Evil inspired, cannibal dungeon crawler Medium Rare has a delightful art style trick up its sleeve: stock photos",
-          "shared_terms": [
-            "stock"
-          ]
-        }
-      ],
-      "articles": [
         {
           "source": "Nintendo Life",
-          "title": "﻿﻿PSA: Pokémon Red & Blue Game Boy Jukebox Back In Stock",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-pokemon-red-and-blue-game-boy-jukebox-back-in-stock",
-          "published": "2026-10-11T02:35:00+00:00"
+          "title": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes",
+          "url": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes",
+          "published": "2026-10-12T12:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "finger-great-hbo-later-line-quote",
-      "score": 31.2,
+      "story_id": "avengers-brolin-doctor-doom-josh-secret",
+      "score": 31.3,
       "already_proposed": false,
-      "headline": "13 Years Later, Little Finger's Best 'Game of Thrones' Quote is Still a All-Time Great HBO Line",
+      "headline": "Josh Brolin Teases a Thanos vs. Doctor Doom Showdown in 'Avengers: Secret Wars'",
       "topics": [
         "easter_egg"
       ],
-      "age_hours": 8.4,
+      "age_hours": 3.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -363,38 +371,31 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
+        "video_count": 1,
         "median_views": 0,
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "hbo finger thrones quote line",
-      "related": [
-        {
-          "headline": "Mafia 3, which PC Gamer scored 54% but which I say is great, got a nice little 10th-anniversary update",
-          "shared_terms": [
-            "great"
-          ]
-        }
-      ],
+      "youtube_query": "doctor secret brolin thanos teases",
+      "related": [],
       "articles": [
         {
           "source": "Polygon",
-          "title": "13 Years Later, Little Finger's Best 'Game of Thrones' Quote is Still a All-Time Great HBO Line",
-          "url": "https://www.polygon.com/game-of-thrones-best-littlefinger-quote/",
-          "published": "2026-10-11T03:00:16+00:00"
+          "title": "Josh Brolin Teases a Thanos vs. Doctor Doom Showdown in 'Avengers: Secret Wars'",
+          "url": "https://www.polygon.com/nycc-josh-brolin-thanos-vs-doom/",
+          "published": "2026-10-12T09:30:15+00:00"
         }
       ]
     },
     {
-      "story_id": "dan-forget-halloween-horror-movie-rewatch",
+      "story_id": "fantasy-film-official-polarizing-release-spielberg",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "Forget a 'Halloween' Rewatch, Dan Stevens' Best Horror Movie Is a Slasher Surprise",
+      "headline": "Steven Spielberg's Polarizing Fantasy Film Gets Official New Release",
       "topics": [
         "feel_good"
       ],
-      "age_hours": 7.3,
+      "age_hours": 11.3,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -415,86 +416,26 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "rewatch stevens forget dan surprise",
-      "related": [
-        {
-          "headline": "2024's Most Inventive Slasher Movie Officially Sets Sequel Release Date",
-          "shared_terms": [
-            "slasher"
-          ]
-        }
-      ],
+      "youtube_query": "official fantasy steven polarizing spielberg",
+      "related": [],
       "articles": [
         {
           "source": "Polygon",
-          "title": "Forget a 'Halloween' Rewatch, Dan Stevens' Best Horror Movie Is a Slasher Surprise",
-          "url": "https://www.polygon.com/the-guest-halloween-countdown-2026/",
-          "published": "2026-10-11T04:00:23+00:00"
+          "title": "Steven Spielberg's Polarizing Fantasy Film Gets Official New Release",
+          "url": "https://www.polygon.com/steven-spielberg-hook-4k-anniversary-rerelease/",
+          "published": "2026-10-12T01:46:16+00:00"
         }
       ]
     },
     {
-      "story_id": "adorable-comic-ever-greatest-later-masterpiece",
+      "story_id": "boy-case-curious-debut-dubious-land",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "65 Years Later, The Greatest 'Peanuts' Comic Strip Ever is Still an Adorable Masterpiece",
-      "topics": [
-        "easter_egg"
-      ],
-      "age_hours": 1.4,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "comic masterpiece peanuts ever adorable",
-      "related": [
-        {
-          "headline": "Skate Devs Forced To Respond To Offline Mods That Strip Out All The Paid Cosmetics: ‘We Are Not Against Creativity’",
-          "shared_terms": [
-            "strip"
-          ]
-        },
-        {
-          "headline": "Gary Larson's 10 Greatest 'Far Side' Comics, Ranked",
-          "shared_terms": [
-            "greatest"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "65 Years Later, The Greatest 'Peanuts' Comic Strip Ever is Still an Adorable Masterpiece",
-          "url": "https://www.polygon.com/best-peanuts-comic-strip-ever/",
-          "published": "2026-10-11T10:00:15+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "city-deadlock-favorite-moba-setting-sleeps",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
+      "headline": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut",
       "topics": [
         "steam"
       ],
-      "age_hours": 0.4,
+      "age_hours": 10.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -515,33 +456,26 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "valve moba setting favorite sleeps",
-      "related": [
-        {
-          "headline": "Be warned: Nivalis Nights may not be the cozy game you expect: 'If you want a cozy existence in this city, you're going to have to earn it'",
-          "shared_terms": [
-            "city"
-          ]
-        }
-      ],
+      "youtube_query": "dubious wonder curious land monster",
+      "related": [],
       "articles": [
         {
           "source": "PC Gamer",
-          "title": "Deadlock's City Never Sleeps update makes Valve's MOBA my favorite videogame setting in years",
-          "url": "https://www.pcgamer.com/games/moba/deadlocks-city-never-sleeps-update-makes-valves-moba-my-favorite-videogame-setting-in-years/",
-          "published": "2026-10-11T11:00:00+00:00"
+          "title": "Steam Week in Review: The curious case of Wonder Boy in Monster Land's dubious PC debut",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-the-curious-case-of-wonder-boy-in-monster-lands-dubious-pc-debut/",
+          "published": "2026-10-12T02:57:30+00:00"
         }
       ]
     },
     {
-      "story_id": "2013-hardware-hit-lowest-playstation-price",
-      "score": 31.0,
+      "story_id": "complexity-embraces-hands-interview-preview-radiance",
+      "score": 31.2,
       "already_proposed": false,
-      "headline": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem",
+      "headline": "Riftbound: Radiance Hands-On Preview and Interview - Riftbound Embraces Complexity",
       "topics": [
-        "playstation"
+        "storie"
       ],
-      "age_hours": 12.4,
+      "age_hours": 6.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -549,7 +483,47 @@
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.33,
-        "freshness": 0.98,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "hands complexity riftbound preview radiance",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Riftbound: Radiance Hands-On Preview and Interview - Riftbound Embraces Complexity",
+          "url": "https://www.ign.com/articles/riftbound-radiance-hands-on-preview-and-interview-riftbound-embraces-complexity",
+          "published": "2026-10-12T07:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "america-buy-choice-europe-feature-north",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 4.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
@@ -562,38 +536,49 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "lowest 2013 problem hit price",
+      "youtube_query": "choice north america buy europe",
       "related": [
         {
-          "headline": "US console hardware market at its most precarious position ‘since the 80s’, says Circana",
+          "headline": "'I'm the type of player who loves to 100% a game': SungWon Cho on achievement hunting, why he doesn’t like multiplayer games, and the one Balatro joker that nearly drove him to despair",
           "shared_terms": [
-            "hardware",
-            "since"
+            "player"
+          ]
+        },
+        {
+          "headline": "80+ Games Are Reduced By 90-95% In The Xbox Seasonal Savings Sale 2026",
+          "shared_terms": [
+            "sale"
+          ]
+        },
+        {
+          "headline": "Sonic Racing: CrossWorlds Receives Huge Permanent Price Drop On The Xbox Store",
+          "shared_terms": [
+            "store"
           ]
         }
       ],
       "articles": [
         {
           "source": "Push Square",
-          "title": "PlayStation Hardware Sales Hit Lowest Point Since 2013 in US, and PS5's Price Is the Problem",
-          "url": "https://www.pushsquare.com/news/2026/10/playstation-hardware-sales-hit-lowest-point-since-2013-in-us-and-ps5s-price-is-the-problem",
-          "published": "2026-10-10T23:00:00+00:00"
+          "title": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)",
+          "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-the-ps-store-players-choice-sale-north-americaeurope",
+          "published": "2026-10-12T09:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "bit-capcom-doveva-focused-horror-iniziali",
-      "score": 30.0,
+      "story_id": "akin-including-october-rhythm-roguelite-rush",
+      "score": 31.2,
       "already_proposed": false,
-      "headline": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\"",
+      "headline": "Two Xbox Games Are Out Today, Including A Rhythm Roguelite Akin To Hi-Fi RUSH (October 12)",
       "topics": [
-        "aaa"
+        "xbox"
       ],
-      "age_hours": 7.1,
+      "age_hours": 3.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.11,
+        "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.33,
@@ -601,53 +586,7 @@
         "weak_format": false
       },
       "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [
-        "Multiplayer"
-      ],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "pragmata capcom horror focused bit",
-      "related": [],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "At One Point, Capcom Was Going To Make Pragmata \"A Little Bit More Horror Focused\"",
-          "url": "https://www.nintendolife.com/news/2026/10/at-one-point-capcom-was-going-to-make-pragmata-a-little-bit-more-horror-focused",
-          "published": "2026-10-11T04:15:00+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "Pragmata doveva essere \"più horror\" secondo i piani iniziali di Capcom",
-          "url": "https://multiplayer.it/notizie/pragmata-doveva-essere-piu-horror-secondo-i-piani-iniziali-di-capcom.html",
-          "published": "2026-10-11T10:03:16+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "ago-buffy-character-desperately-needed-replacement",
-      "score": 29.0,
-      "already_proposed": false,
-      "headline": "26 Years Ago, 'Buffy's Worst Character Got the Replacement He Desperately Needed",
-      "topics": [],
-      "age_hours": 10.4,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
+        "Pure Xbox"
       ],
       "coverage_it": [],
       "youtube": {
@@ -656,23 +595,32 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "buffy desperately character replacement ago",
-      "related": [],
+      "youtube_query": "rhythm rush akin roguelite today",
+      "related": [
+        {
+          "headline": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale",
+          "shared_terms": [
+            "roguelite"
+          ]
+        }
+      ],
       "articles": [
         {
-          "source": "Polygon",
-          "title": "26 Years Ago, 'Buffy's Worst Character Got the Replacement He Desperately Needed",
-          "url": "https://www.polygon.com/buffy-the-vampire-slayer-episode-xander/",
-          "published": "2026-10-11T01:00:15+00:00"
+          "source": "Pure Xbox",
+          "title": "Two Xbox Games Are Out Today, Including A Rhythm Roguelite Akin To Hi-Fi RUSH (October 12)",
+          "url": "https://www.purexbox.com/news/2026/10/two-xbox-games-are-out-today-including-a-rhythm-roguelite-akin-to-hi-fi-rush-october-12",
+          "published": "2026-10-12T10:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "battle-ded-different-gameshow-hyperviolence-krafton",
-      "score": 29.0,
+      "story_id": "concurrent-major-record-set-steam-user",
+      "score": 31.2,
       "already_proposed": false,
-      "headline": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale",
-      "topics": [],
+      "headline": "For the second time this year, Steam has set a major new concurrent user record",
+      "topics": [
+        "steam"
+      ],
       "age_hours": 2.4,
       "signals": {
         "coverage": 0.17,
@@ -680,7 +628,7 @@
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.0,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -694,30 +642,32 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "net twist pulpy royale battle",
+      "youtube_query": "concurrent major user record set",
       "related": [
         {
-          "headline": "A Crimson Desert exec thinks critic review scores were lower because they didn't have enough time to play it, and boy oh boy I wonder whose fault that is",
+          "headline": "Notorious Hacker Steals 250,000 User Discord Server For Infamous Terraria Mod Calamity, Immediately Uses It To Pump And Dump A Crypto Coin",
           "shared_terms": [
-            "thinks"
+            "user"
           ]
         }
       ],
       "articles": [
         {
           "source": "Eurogamer",
-          "title": "\"We have to go a different path\" - Krafton thinks PUBG Ded.Net's pulpy gameshow hyperviolence and roguelite twist can make it the next big battle royale",
-          "url": "https://www.eurogamer.net/we-have-to-go-a-different-path-krafton-thinks-pubg-dednets-pulpy-gameshow-hyperviolence-and-roguelite-twist-can-make-it-the-next-big-battle-royale",
-          "published": "2026-10-11T09:00:00+00:00"
+          "title": "For the second time this year, Steam has set a major new concurrent user record",
+          "url": "https://www.eurogamer.net/steam-new-user-concurrent-record-october-2026",
+          "published": "2026-10-12T10:35:07+00:00"
         }
       ]
     },
     {
-      "story_id": "art-box-brawl-duel-feature-resort",
-      "score": 29.0,
+      "story_id": "became-card-market-normal-paying-pok-mon",
+      "score": 31.2,
       "already_proposed": false,
-      "headline": "Feature: Box Art Brawl - Duel: Wii Sports Resort",
-      "topics": [],
+      "headline": "Why Paying \"Market Price\" for Rare Pokémon Card Sets Somehow Became The New Normal",
+      "topics": [
+        "pokemon"
+      ],
       "age_hours": 2.4,
       "signals": {
         "coverage": 0.17,
@@ -725,12 +675,12 @@
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.0,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Nintendo Life"
+        "IGN"
       ],
       "coverage_it": [],
       "youtube": {
@@ -739,21 +689,68 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "sports wii brawl resort duel",
+      "youtube_query": "somehow normal paying market rare",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Why Paying \"Market Price\" for Rare Pokémon Card Sets Somehow Became The New Normal",
+          "url": "https://www.ign.com/articles/why-paying-market-price-pokemon-cards-the-new-normal",
+          "published": "2026-10-12T10:36:19+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "crossworlds-drop-huge-permanent-price-racing",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Sonic Racing: CrossWorlds Receives Huge Permanent Price Drop On The Xbox Store",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "receives huge drop permanent racing",
       "related": [
         {
-          "headline": "Feature: These 30+ Games Are Coming To Xbox Next Week (October 12-16)",
+          "headline": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)",
           "shared_terms": [
-            "feature"
+            "store"
+          ]
+        },
+        {
+          "headline": "Sonic Racing CrossWorlds players demand Year 2 for free after noting the Digital Deluxe Edition promised ‘all future paid DLC’",
+          "shared_terms": [
+            "crossworlds",
+            "racing"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Nintendo Life",
-          "title": "Feature: Box Art Brawl - Duel: Wii Sports Resort",
-          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-wii-sports-resort",
-          "published": "2026-10-11T09:00:00+00:00"
+          "source": "Pure Xbox",
+          "title": "Sonic Racing: CrossWorlds Receives Huge Permanent Price Drop On The Xbox Store",
+          "url": "https://www.purexbox.com/news/2026/10/sonic-racing-crossworlds-receives-huge-permanent-price-drop-on-the-xbox-store",
+          "published": "2026-10-12T11:00:00+00:00"
         }
       ]
     }
