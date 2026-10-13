@@ -1,0 +1,982 @@
+{
+  "generated_at": "2026-10-13T12:36:41.712007+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "kingdom-officially-peek-revealed-sneak-statue",
+      "score": 50.4,
+      "already_proposed": false,
+      "headline": "Tears Of The Kingdom Zelda Statue Officially Revealed, Here's A Sneak Peek",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 12.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.25,
+        "yt_room": 1.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 6439,
+        "top_views": 6439,
+        "top_title": "The Legend of Zelda™: Tears of the Kingdom – Zelda | Sneak Peek"
+      },
+      "youtube_query": "sneak statue tears peek revealed",
+      "related": [
+        {
+          "headline": "UK Charts: Kingdom Hearts Collection Performs Well, But It's Missing The Keys To The Podium",
+          "shared_terms": [
+            "kingdom"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Tears Of The Kingdom Zelda Statue Officially Revealed, Here's A Sneak Peek",
+          "url": "https://www.nintendolife.com/news/2026/10/tears-of-the-kingdom-zelda-statue-officially-revealed-heres-a-sneak-peek",
+          "published": "2026-10-13T00:39:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "action-belmont-castlevania-classic-curse-fantastic",
+      "score": 46.2,
+      "already_proposed": false,
+      "headline": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania",
+      "topics": [
+        "nintendo",
+        "playstation",
+        "feel_good"
+      ],
+      "age_hours": 5.6,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.5,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "metroidvania belmont curse castlevania fine",
+      "related": [
+        {
+          "headline": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'",
+          "shared_terms": [
+            "classic"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania",
+          "url": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
+          "published": "2026-10-13T07:00:00+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Castlevania: Belmont’s Curse Is a Near-Perfect Metroidvania",
+          "url": "https://www.polygon.com/castlevania-belmonts-curse-review/",
+          "published": "2026-10-13T07:01:16+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania",
+          "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
+          "published": "2026-10-13T10:03:04+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "ahead-belmont-brilliant-castlevania-curse-entry",
+      "score": 44.6,
+      "already_proposed": false,
+      "headline": "Castlevania Belmont’s Curse review: The first new 2D entry in 13 years looks incredible but lacks teeth",
+      "topics": [],
+      "age_hours": 5.6,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 1.0,
+        "it_gap": 0.67,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Polygon",
+        "Pure Xbox",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "belmont curse castlevania teeth lacks",
+      "related": [
+        {
+          "headline": "Does Blizzard's revival of its classic games signal a return of the 'old Blizzard?'",
+          "shared_terms": [
+            "return"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Castlevania Belmont’s Curse review: The first new 2D entry in 13 years looks incredible but lacks teeth",
+          "url": "https://www.videogameschronicle.com/review/castlevania-belmonts-curse-review/",
+          "published": "2026-10-13T07:00:31+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Castlevania: Belmont’s Curse Review",
+          "url": "https://www.ign.com/articles/castlevania-belmonts-curse-review",
+          "published": "2026-10-13T07:01:00+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Castlevania: Belmont's Curse Is Getting Some Brilliant Review Scores Ahead Of Launch",
+          "url": "https://www.purexbox.com/news/2026/10/castlevania-belmonts-curse-is-getting-some-brilliant-review-scores-ahead-of-launch",
+          "published": "2026-10-13T11:00:00+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Castlevania: Belmont's Curse Reviews Hail a Triumphant Return",
+          "url": "https://www.polygon.com/castlevania-belmonts-curse-review-roundup/",
+          "published": "2026-10-13T11:01:15+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "abandon-america-company-confirms-ditch-enjoy",
+      "score": 42.0,
+      "already_proposed": false,
+      "headline": "Nintendo States That It Has No Plans To Ditch Physical Media",
+      "topics": [
+        "nintendo",
+        "playstation",
+        "feel_good"
+      ],
+      "age_hours": 28.1,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.0,
+        "it_gap": 0.83,
+        "yt_demand": 0.32,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.1,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot",
+        "GamesIndustry",
+        "Kotaku",
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 5,
+        "median_views": 10397,
+        "top_views": 75459,
+        "top_title": "Nintendo Says They Will Not KILL PHYSICAL GAMES Like Sony!"
+      },
+      "youtube_query": "physical plans nintendo ditch media",
+      "related": [
+        {
+          "headline": "Feature: 50+ PS5, PS4 Games to Buy in the PS Store Player's Choice Sale (North America/Europe)",
+          "shared_terms": [
+            "america"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Nintendo States That It Has No Plans To Ditch Physical Media",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-states-that-it-has-no-plans-to-ditch-physical-media",
+          "published": "2026-10-12T08:30:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Nintendo executive confirms company has \"no plans to ditch physical games\"",
+          "url": "https://www.eurogamer.net/nintendo-executive-confirms-company-has-no-plans-to-ditch-physical-games",
+          "published": "2026-10-12T12:00:16+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Unlike Sony, Nintendo Exec Says Switch 2 Maker Has No Plans To Abandon Physical: ‘We Know How Much Fans Enjoy It’",
+          "url": "https://kotaku.com/unlike-sony-nintendo-exec-says-switch-2-maker-has-no-plans-to-abandon-physical-we-know-how-much-fans-enjoy-it-2000744191",
+          "published": "2026-10-12T13:45:23+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Nintendo Says It Has No Plans To Ditch Physical Games Yet",
+          "url": "https://www.gamespot.com/articles/nintendo-says-it-has-no-plans-to-ditch-physical-games-yet/",
+          "published": "2026-10-12T14:29:29+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Nintendo's Latin America VP says there are no plans to ditch physical games",
+          "url": "https://www.gamesindustry.biz/nintendos-latin-america-vp-says-there-are-no-plans-to-ditch-physical-games",
+          "published": "2026-10-12T17:58:32+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "asha-cannot-ceo-employees-franchises-giving",
+      "score": 41.7,
+      "already_proposed": false,
+      "headline": "Xbox insists it’s not giving up on original IP: ‘We won’t survive if we only relive the past’",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 3.2,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.5,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "Pure Xbox",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "past xbox survive won relive",
+      "related": [
+        {
+          "headline": "Former Editor Of Game Developer Launches Vertical Slice, A ‘Fearless’ New Trade Publication",
+          "shared_terms": [
+            "giving"
+          ]
+        },
+        {
+          "headline": "Museum strings together 30 old Mac minis for replica of most successful supercomputer, builds something more powerful than the original",
+          "shared_terms": [
+            "original"
+          ]
+        },
+        {
+          "headline": "XBOX, Asha Sharma ammette che non si vive solo col passato",
+          "shared_terms": [
+            "employees"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Xbox insists it’s not giving up on original IP: ‘We won’t survive if we only relive the past’",
+          "url": "https://www.videogameschronicle.com/news/xbox-insists-its-not-giving-up-on-original-ip-we-wont-survive-if-we-only-relive-the-past/",
+          "published": "2026-10-13T09:26:17+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Xbox CEO: We Must Rely On The Past, But We Cannot Rely On The Past",
+          "url": "https://www.gamespot.com/articles/xbox-ceo-we-must-rely-on-the-past-but-we-cannot-rely-on-the-past/",
+          "published": "2026-10-13T10:48:37+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Asha Sharma Tells Employees That Xbox Won't Survive By 'Only' Relying On Past Franchises",
+          "url": "https://www.purexbox.com/news/2026/10/asha-sharma-tells-employees-that-xbox-wont-survive-by-only-relying-on-past-franchises",
+          "published": "2026-10-13T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "attack-attacks-because-blame-coalition-confirm",
+      "score": 39.8,
+      "already_proposed": false,
+      "headline": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says",
+      "topics": [
+        "xbox",
+        "industria"
+      ],
+      "age_hours": 25.0,
+      "signals": {
+        "coverage": 1.0,
+        "velocity": 0.0,
+        "it_gap": 1.0,
+        "yt_demand": 0.06,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.28,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN",
+        "Kotaku",
+        "Pure Xbox",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 353,
+        "top_views": 3059,
+        "top_title": "GEARS E DAY SUFRE ATAQUE DDOS Y EL CULPABLE ES SONY Y XBOX?? Las teorias locas de internet 🤣"
+      },
+      "youtube_query": "gears day war ddos attack",
+      "related": [
+        {
+          "headline": "Cut Assassin’s Creed Black Flag Resynced Epilogue Seemingly Teases Assassin’s Creed 3 Prequel",
+          "shared_terms": [
+            "taken"
+          ]
+        },
+        {
+          "headline": "Epic Games delays Disney game and tells developers to go \"AI first\"",
+          "shared_terms": [
+            "developers"
+          ]
+        },
+        {
+          "headline": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems",
+          "shared_terms": [
+            "problems"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says",
+          "url": "https://www.eurogamer.net/gears-of-war-e-day-server-crashes-login-issues-ddos",
+          "published": "2026-10-12T11:38:55+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Gears Of War: E-Day's Online Services Suffer DDoS Attack",
+          "url": "https://www.purexbox.com/news/2026/10/gears-of-war-e-days-online-services-suffer-ddos-attack",
+          "published": "2026-10-12T12:00:00+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Gears Of War: E-Day Was Taken Down By DDoS Attack, Developers Confirm",
+          "url": "https://kotaku.com/gears-of-war-e-day-the-coalition-microsoft-ddos-attack-woke-2000744559",
+          "published": "2026-10-12T12:29:26+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Gears of War: E-Day DDoS attacks are to blame for \"intermittent disconnects\" and \"login issues\", The Coalition confirm",
+          "url": "https://www.rockpapershotgun.com/gears-of-war-e-day-ddos-attacks-are-to-blame-for-intermittent-disconnects-and-login-issues-the-coalition-confirm",
+          "published": "2026-10-12T14:31:41+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Gears of War E-Day suffered connection issues after being hit by a DDoS attack, The Coalition says",
+          "url": "https://www.videogameschronicle.com/news/gears-of-war-e-day-suffered-connection-issues-after-being-hit-by-a-ddos-attack-the-coalition-says/",
+          "published": "2026-10-12T15:00:16+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Gears of War: E-Day Review",
+          "url": "https://www.ign.com/articles/gears-of-war-e-day-review",
+          "published": "2026-10-12T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "amazing-astonishing-code-crazy-creator-dragon",
+      "score": 38.7,
+      "already_proposed": false,
+      "headline": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes",
+      "topics": [],
+      "age_hours": 24.6,
+      "signals": {
+        "coverage": 1.0,
+        "velocity": 0.17,
+        "it_gap": 1.0,
+        "yt_demand": 0.09,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.3,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GamesIndustry",
+        "Kotaku",
+        "Nintendo Life",
+        "Polygon",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 9,
+        "median_views": 820,
+        "top_views": 6036,
+        "top_title": "Is Dragon Quest XII Cooked? - Yuji Horii's AI Slop Problem"
+      },
+      "youtube_query": "quest creator dragon horii yuji",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "\"It's Truly Astonishing\" - Dragon Quest Creator Yuji Horii Made An AI-Generated Game In 30 Minutes",
+          "url": "https://www.nintendolife.com/news/2026/10/its-truly-astonishing-dragon-quest-creator-yuji-horii-made-an-ai-generated-game-in-30-minutes",
+          "published": "2026-10-12T12:00:00+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Dragon Quest Creator Yuji Horii Thinks AI Is Amazing As He No Longer Needs To Code Or Draw To Make A Game",
+          "url": "https://kotaku.com/dragon-quest-creator-yuji-horii-thinks-ai-is-amazing-as-he-no-longer-needs-to-code-or-draw-to-make-a-game-2000744194",
+          "published": "2026-10-12T15:34:17+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Dragon Quest co-creator Yuji Horii releases new AI-generated game, and he says it took 30 minutes to make",
+          "url": "https://www.eurogamer.net/dragon-quest-yuji-horii-new-game-ai-30-minutes",
+          "published": "2026-10-12T17:15:59+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "The Crazy Wait for Dragon Quest 12 Made Worse by Creator's 'Astonishing' Praise for AI",
+          "url": "https://www.pushsquare.com/news/2026/10/the-crazy-wait-for-dragon-quest-12-made-worse-by-creators-astonishing-praise-for-ai",
+          "published": "2026-10-12T18:30:00+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Dragon Quest creator Yuji Horii releases game he says he made with AI in about 30 minutes",
+          "url": "https://www.gamesindustry.biz/dragon-quest-creator-yuji-horii-releases-game-he-says-he-made-with-ai-in-about-30-minutes",
+          "published": "2026-10-12T18:49:25+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Dragon Quest Creator Has a New Game, but It's AI-Generated",
+          "url": "https://www.polygon.com/dragon-quest-creator-yuji-horii-new-ai-game/",
+          "published": "2026-10-13T10:14:44+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "celebrate-crashes-cryptocurrency-cyberleek-fans-gta",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "GTA 6 Fans Celebrate as Cyberleek Cryptocurrency Crashes Hard",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 2.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "celebrate cryptocurrency hard cyberleek crashes",
+      "related": [
+        {
+          "headline": "The New Squadron 42 Trailer Looks Great, But That 2027 Release Date Is Hard To Believe",
+          "shared_terms": [
+            "hard"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "GTA 6 Fans Celebrate as Cyberleek Cryptocurrency Crashes Hard",
+          "url": "https://www.ign.com/articles/gta-6-fans-celebrate-as-cyberleek-cryptocurrency-crashes-hard",
+          "published": "2026-10-13T09:56:22+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "biggest-dlc-drop-ps5-skyrim-surprise",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Skyrim Gets Surprise DLC Drop on PS5, Its Biggest in Years",
+      "topics": [
+        "playstation",
+        "feel_good"
+      ],
+      "age_hours": 0.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "surprise biggest skyrim drop dlc",
+      "related": [
+        {
+          "headline": "Sonic Racing: CrossWorlds Receives Huge Permanent Price Drop On The Xbox Store",
+          "shared_terms": [
+            "drop"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Skyrim Gets Surprise DLC Drop on PS5, Its Biggest in Years",
+          "url": "https://www.pushsquare.com/news/2026/10/skyrim-gets-surprise-dlc-drop-on-ps5-its-biggest-in-years",
+          "published": "2026-10-13T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "available-avr-box-collector-contenuti-doesn",
+      "score": 33.0,
+      "already_proposed": false,
+      "headline": "La Collector's Edition di God of War Laufey è stata svelata da PlayStation",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 3.0,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku",
+        "Push Square"
+      ],
+      "coverage_it": [
+        "Everyeye",
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 9,
+        "median_views": 254,
+        "top_views": 6902,
+        "top_title": "GOD OF WAR LAUFEY 🔥 LE COLLECTOR DÉVOILÉ... SANS LE JEU !!!"
+      },
+      "youtube_query": "god laufey collector war edition",
+      "related": [
+        {
+          "headline": "Nvidia are abandoning their RTX 5090 graphics cards in order to focus on AI dev friendly RTX Pro ones, leaker claims",
+          "shared_terms": [
+            "order"
+          ]
+        },
+        {
+          "headline": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available",
+          "shared_terms": [
+            "available"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Multiplayer",
+          "title": "La Collector's Edition di God of War Laufey è stata svelata da PlayStation",
+          "url": "https://multiplayer.it/notizie/collectors-edition-god-of-war-laufey-svelata-playstation.html",
+          "published": "2026-10-13T09:37:38+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "God of War Laufey avrà una Collector's Edition senza il gioco: prezzo, contenuti e come prenotarla",
+          "url": "https://www.everyeye.it/notizie/god-of-war-laufey-avra-collector-s-edition-gioco-prezzo-contenuti-come-prenotarla-905752.html",
+          "published": "2026-10-13T10:12:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "God of War Laufey Collector Box Available for Pre-Order Now, Doesn't Include the Game",
+          "url": "https://www.pushsquare.com/news/2026/10/god-of-war-laufey-collector-box-available-for-pre-order-now-doesnt-include-the-game",
+          "published": "2026-10-13T10:15:00+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "God Of War Laufey Collector’s Edition Doesn’t Include The Game, This Time On Purpose",
+          "url": "https://kotaku.com/god-of-war-laufey-collector-box-no-disc-download-code-statue-cards-2000745249",
+          "published": "2026-10-13T11:59:12+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "blames-callisto-cking-covid-creator-dead",
+      "score": 32.7,
+      "already_proposed": false,
+      "headline": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems",
+      "topics": [],
+      "age_hours": 3.9,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 112,
+        "top_views": 112,
+        "top_title": "The Callisto Protocol Director Says Krafton Forced Broken Launch"
+      },
+      "youtube_query": "krafton callisto protocol ship forced",
+      "related": [
+        {
+          "headline": "Gears of War: E-Day server crashes and login problems are because of DDoS attacks, studio says",
+          "shared_terms": [
+            "problems"
+          ]
+        },
+        {
+          "headline": "Review: Planet Zoo 2 (PS5) - Sublime Wildlife Management Sim Is Frontier at Its Finest",
+          "shared_terms": [
+            "management"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "\"I was forced to ship the game\" - Glen Schofield blames Krafton management for The Callisto Protocol's problems",
+          "url": "https://www.eurogamer.net/glen-schofield-the-callisto-protocol-krafton-problems",
+          "published": "2026-10-13T08:40:04+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Il director di The Callisto Protocol incolpa Krafton per i problemi al lancio del gioco",
+          "url": "https://multiplayer.it/notizie/il-director-di-the-callisto-protocol-incolpa-krafton-per-i-problemi-al-lancio-del-gioco.html",
+          "published": "2026-10-13T10:10:14+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Dead Space creator says he was 'forced to ship' The Callisto Protocol by Krafton: 'We had f*cking Covid'",
+          "url": "https://www.pcgamer.com/gaming-industry/game-development/dead-space-creator-says-he-was-forced-to-ship-the-callisto-protocol-by-krafton-we-had-f-cking-covid/",
+          "published": "2026-10-13T11:32:01+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "announced-annuncia-annunciato-black-confirmed-exclusive",
+      "score": 32.6,
+      "already_proposed": false,
+      "headline": "Sony annuncia la PS5 Slim Midnight Black in nero ma non per l'Italia",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 5.8,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Everyeye",
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 106,
+        "top_views": 188,
+        "top_title": "Sony restricts new PS5 hardware to Japan"
+      },
+      "youtube_query": "midnight black sony ps5 japan",
+      "related": [
+        {
+          "headline": "Street Fighter 6 Reveals Movie Costumes for Zangief, E. Honda and Dhalsim | IGN Fall Fan Fest 2026",
+          "shared_terms": [
+            "exclusive"
+          ]
+        },
+        {
+          "headline": "'No More Hand Written Code': Fortnite Dev's Disney Game to Be an 'AI First' Project",
+          "shared_terms": [
+            "model"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Everyeye",
+          "title": "Sony annuncia la PS5 Slim Midnight Black in nero ma non per l'Italia",
+          "url": "https://www.everyeye.it/notizie/sony-annuncia-ps5-slim-midnight-black-nero-non-italia-905667.html",
+          "published": "2026-10-13T06:48:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Sony ha annunciato una nuova PS5 nera \"Midnight Black\", ma non per l'Italia al momento",
+          "url": "https://multiplayer.it/notizie/sony-ha-annunciato-una-nuova-ps5-nera-midnight-black-ma-non-per-litalia-al-momento.html",
+          "published": "2026-10-13T07:17:27+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Sony has announced a Midnight Black PS5 but it’s only confirmed for Japan so far",
+          "url": "https://www.videogameschronicle.com/news/sony-has-announced-a-midnight-black-ps5-but-its-only-confirmed-for-japan-so-far/",
+          "published": "2026-10-13T08:59:40+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Sony Reveals Slick Midnight Black PS5 Model, But It's a Japan Exclusive for Now",
+          "url": "https://www.pushsquare.com/news/2026/10/sony-reveals-slick-midnight-black-ps5-model-but-its-a-japan-exclusive-for-now",
+          "published": "2026-10-13T11:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "available-demo-gratis-metaphor-prova-psa",
+      "score": 32.3,
+      "already_proposed": false,
+      "headline": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available",
+      "topics": [
+        "nintendo",
+        "feel_good"
+      ],
+      "age_hours": 7.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [
+        "SpazioGames"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "refantazio metaphor switch psa demo",
+      "related": [
+        {
+          "headline": "La Collector's Edition di God of War Laufey è stata svelata da PlayStation",
+          "shared_terms": [
+            "available"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "PSA: Metaphor: ReFantazio Demo For Switch 2 Now Available",
+          "url": "https://www.nintendolife.com/news/2026/10/psa-metaphor-refantazio-demo-for-switch-2-now-available",
+          "published": "2026-10-13T04:55:00+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "Metaphor: ReFantazio in prova gratis su Switch 2",
+          "url": "https://www.spaziogames.it/notizie/metaphor-refantazio-arriva-in-prova-gratis-su-switch-2",
+          "published": "2026-10-13T08:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "apparently-breaking-devs-engine-faster-mods",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "RimWorld switches engine from Unity to the devs' own, faster Waylith Engine, all apparently without breaking mods somehow",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 3.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "apparently switches without rimworld unity",
+      "related": [
+        {
+          "headline": "Here come the weird and wonderful mods for the Steam Frame, as Valve drops the full CAD files for free",
+          "shared_terms": [
+            "mods"
+          ]
+        },
+        {
+          "headline": "No Man's Sky is somehow coming to mobile, and Hello Games says it's partly thanks to Light No Fire",
+          "shared_terms": [
+            "somehow"
+          ]
+        },
+        {
+          "headline": "SEGA Labelled 'Stupid Liars' After Failing to Fulfil 'All Future Paid DLC' Promise for Sonic Racing: CrossWorlds",
+          "shared_terms": [
+            "breaking"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "RimWorld switches engine from Unity to the devs' own, faster Waylith Engine, all apparently without breaking mods somehow",
+          "url": "https://www.rockpapershotgun.com/rimworld-switches-engine-from-unity-to-the-devs-own-faster-waylith-engine-all-apparently-without-breaking-mods-somehow",
+          "published": "2026-10-13T08:51:40+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2021-elon-musk-nintendo-not-random",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Random: 2021 Elon Musk SNL Skit \"Was Not Received Well\" By Nintendo",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 2.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "snl 2021 received skit well",
+      "related": [
+        {
+          "headline": "Random: Sonic Figure Containing The Blue Blur's \"DNA\" Comes With An Eye-Watering Price Tag",
+          "shared_terms": [
+            "random"
+          ]
+        },
+        {
+          "headline": "UK Charts: Kingdom Hearts Collection Performs Well, But It's Missing The Keys To The Podium",
+          "shared_terms": [
+            "well"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Random: 2021 Elon Musk SNL Skit \"Was Not Received Well\" By Nintendo",
+          "url": "https://www.nintendolife.com/news/2026/10/random-2021-elon-musk-snl-skit-was-not-received-well-by-nintendo",
+          "published": "2026-10-13T09:45:00+00:00"
+        }
+      ]
+    }
+  ]
+}
