@@ -1,0 +1,826 @@
+{
+  "generated_at": "2026-10-14T10:03:11.574800+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "broke-degradation-fixes-global-issue-oblivion",
+      "score": 55.3,
+      "already_proposed": false,
+      "headline": "New Oblivion Remastered Patch Fixes What The Old Oblivion Remastered Patch Broke On Switch 2",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 16.8,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.67,
+        "it_gap": 0.5,
+        "yt_demand": 0.24,
+        "yt_room": 1.0,
+        "topic": 0.67,
+        "freshness": 0.73,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku",
+        "Nintendo Life",
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 5647,
+        "top_views": 5647,
+        "top_title": "Oblivion Remastered Switch 2 Blur Fix: Before vs After (October Hotfix)"
+      },
+      "youtube_query": "remastered switch oblivion patch fixes",
+      "related": [
+        {
+          "headline": "Steam's new Big Art Mode is a lovely visual upgrade for my living room setup",
+          "shared_terms": [
+            "visual"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "New Oblivion Remastered Patch Fixes What The Old Oblivion Remastered Patch Broke On Switch 2",
+          "url": "https://kotaku.com/bethesda-updates-oblivion-remastered-on-switch-2-to-fix-issues-added-in-the-last-update-2000745324",
+          "published": "2026-10-13T17:15:29+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Oblivion Remastered Gets A New Switch 2 Update, Resolves \"Global Visual Degradation\" Issue",
+          "url": "https://www.nintendolife.com/news/2026/10/oblivion-remastered-gets-a-new-switch-2-update-resolves-global-visual-degradation-issue",
+          "published": "2026-10-14T02:45:00+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "The Witcher 3 Remastered Switch 2 Patch Is Officially 'On the Way'",
+          "url": "https://www.polygon.com/the-witcher-3-remastered-nintendo-switch-2-patch-update/",
+          "published": "2026-10-14T09:48:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "action-ahead-ass-belmont-brilliant-castlevania",
+      "score": 39.2,
+      "already_proposed": false,
+      "headline": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania",
+      "topics": [
+        "nintendo",
+        "playstation",
+        "feel_good"
+      ],
+      "age_hours": 27.1,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.2,
+        "it_gap": 0.83,
+        "yt_demand": 0.07,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.16,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku",
+        "Nintendo Life",
+        "Pure Xbox",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 518,
+        "top_views": 518,
+        "top_title": "The Dead Cells Devs Just Saved Castlevania!"
+      },
+      "youtube_query": "belmont curse castlevania metroidvania stellar",
+      "related": [
+        {
+          "headline": "Planet Zoo 2 review: Superstar animals and frustrating micromanagement",
+          "shared_terms": [
+            "fine"
+          ]
+        },
+        {
+          "headline": "Rockstar's Multi-Million Dollar Miami Takeover Continues to Expand Ahead of GTA 6 Launch, Despite Protests from Some Officials",
+          "shared_terms": [
+            "ahead"
+          ]
+        },
+        {
+          "headline": "Hideo Kojima Reviews The Resident Evil Movie",
+          "shared_terms": [
+            "reviews"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania",
+          "url": "https://www.pushsquare.com/reviews/ps5/castlevania-belmonts-curse",
+          "published": "2026-10-13T07:00:00+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Castlevania: Belmont’s Curse review - a fantastic action game, a less than stellar Metroidvania",
+          "url": "https://www.rockpapershotgun.com/castlevania-belmonts-curse-review-a-fantastic-action-game-a-less-than-stellar-metroidvania",
+          "published": "2026-10-13T10:03:04+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Castlevania: Belmont's Curse Is Getting Some Brilliant Review Scores Ahead Of Launch",
+          "url": "https://www.purexbox.com/news/2026/10/castlevania-belmonts-curse-is-getting-some-brilliant-review-scores-ahead-of-launch",
+          "published": "2026-10-13T11:00:00+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Castlevania: Belmont’s Curse Is Kicking My Ass In The Worst Way",
+          "url": "https://kotaku.com/castlevania-belmonts-curse-is-kicking-my-ass-in-the-worst-way-2000745234",
+          "published": "2026-10-13T13:12:46+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Round Up: The Reviews For Castlevania: Belmont's Curse Are In",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-castlevania-belmonts-curse-are-in",
+          "published": "2026-10-13T23:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "crossworlds-dlc-final-live-pack-ps5",
+      "score": 37.4,
+      "already_proposed": false,
+      "headline": "Sonic Racing: CrossWorlds's Final Year One DLC Pack Is Live Now on PS5",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 0.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.24,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 5913,
+        "top_views": 127415,
+        "top_title": "Sonic Racing: CrossWorlds - Avatar Legends Pack Launch Trailer"
+      },
+      "youtube_query": "pack crossworlds final racing sonic",
+      "related": [],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Sonic Racing: CrossWorlds's Final Year One DLC Pack Is Live Now on PS5",
+          "url": "https://www.pushsquare.com/news/2026/10/sonic-racing-crossworldss-final-year-one-dlc-pack-is-live-now-on-ps5",
+          "published": "2026-10-14T09:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "advance-expands-gba-including-japan-library",
+      "score": 36.5,
+      "already_proposed": false,
+      "headline": "Nintendo Expands Switch Online's GBA Library With Three More Titles",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 8.8,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 1,
+        "top_views": 745,
+        "top_title": "Play these Game Boy Advance titles with Nintendo Classics! (October 2026)"
+      },
+      "youtube_query": "three gba online switch titles",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Nintendo Expands Switch Online's GBA Library With Three More Titles",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-gba-library-with-three-more-titles",
+          "published": "2026-10-14T01:15:00+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Three more GBA games come to Switch Online, including Metal Slug Advance and a previously Japan-only title",
+          "url": "https://www.videogameschronicle.com/news/three-more-gba-games-come-to-switch-online-including-metal-slug-advance-and-a-previously-japan-only-title/",
+          "published": "2026-10-14T08:49:58+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "autori-chiusura-closing-cutting-developer-jobs",
+      "score": 36.3,
+      "already_proposed": false,
+      "headline": "Ubisoft closing Trials developer RedLynx and cutting jobs in Singapore studio",
+      "topics": [
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 1.1,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "redlynx trials singapore ubisoft studio",
+      "related": [],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Ubisoft closing Trials developer RedLynx and cutting jobs in Singapore studio",
+          "url": "https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-and-cutting-jobs-in-singapore-studio",
+          "published": "2026-10-14T08:55:05+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Ubisoft is planning to shut down Trials studio RedLynx and lay off 70 Ubisoft Singapore staff",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-planning-to-shut-down-trials-studio-redlynx-and-lay-off-70-ubisoft-singapore-staff/",
+          "published": "2026-10-14T09:04:52+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Ubisoft propone la chiusura di RedLynx, autori di Trials, e taglia 70 posti a Singapore",
+          "url": "https://multiplayer.it/notizie/ubisoft-propone-chiusura-redlynx-autori-trials-taglia-70-posti-singapore.html",
+          "published": "2026-10-14T09:29:57+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "designer-died-duke-famous-gray-innovative",
+      "score": 33.6,
+      "already_proposed": false,
+      "headline": "Legendary level designer Richard 'Levelord' Gray has died",
+      "topics": [],
+      "age_hours": 13.2,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.93,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "died level levelord designer gray",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Legendary level designer Richard 'Levelord' Gray has died",
+          "url": "https://www.pcgamer.com/gaming-industry/legendary-level-designer-richard-levelord-gray-has-died/",
+          "published": "2026-10-13T20:52:23+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Famous And Innovative Duke Nukem, Quake Level Designer ‘Levelord’ Has Died",
+          "url": "https://kotaku.com/famous-and-innovative-duke-nukem-quake-level-designer-levelord-has-died-2000745380",
+          "published": "2026-10-13T21:56:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "add-announced-battlefield-deserves-edition-fall",
+      "score": 33.2,
+      "already_proposed": false,
+      "headline": "Battlefield 6 Comes To Game Pass, Game Of The Year Edition Announced",
+      "topics": [
+        "xbox",
+        "steam",
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 18.1,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.33,
+        "it_gap": 0.5,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.66,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "IGN",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "edition year announced battlefield wishlist",
+      "related": [
+        {
+          "headline": "Review: Resident Evil 4 Gold Edition (Switch 2) - The Gold Standard For Remakes",
+          "shared_terms": [
+            "deserves"
+          ]
+        },
+        {
+          "headline": "How to complete An Unheard Farewell in Valor Mortis",
+          "shared_terms": [
+            "pass"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "Battlefield 6 Comes To Game Pass, Game Of The Year Edition Announced",
+          "url": "https://www.gamespot.com/articles/battlefield-6-comes-to-game-pass-as-30-microtransaction-that-instantly-unlocks-all-guns-is-now-available/",
+          "published": "2026-10-13T15:59:29+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "9 Newly Announced Games From IGN Fan Fest: Fall Edition to Add to Your Wishlist",
+          "url": "https://www.ign.com/articles/ign-fan-fest-fall-edition-9-new-games-wishlist",
+          "published": "2026-10-13T17:00:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "EA Reckons Battlefield 6 Deserves a Game of the Year Edition",
+          "url": "https://www.pushsquare.com/news/2026/10/ea-reckons-battlefield-6-deserves-a-game-of-the-year-edition",
+          "published": "2026-10-14T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "announced-announcement-annuncia-asha-browser-explosion",
+      "score": 33.2,
+      "already_proposed": false,
+      "headline": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 14.2,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.67,
+        "it_gap": 0.33,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.88,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku",
+        "Polygon",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Everyeye"
+      ],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 205,
+        "top_views": 205,
+        "top_title": "Game News Round-Up - 14th October 2026 #shorts  #gaming #gamenews"
+      },
+      "youtube_query": "labs xbox asha sharma explosion",
+      "related": [
+        {
+          "headline": "Two Shin Chan Ports Coming To Switch 2 In 2027, Physical Bundle Confirmed",
+          "shared_terms": [
+            "ports"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Asha Sharma forms ‘Xbox Labs’ in response to explosion of AI-powered mods and ports",
+          "url": "https://www.videogameschronicle.com/news/asha-sharma-forms-xbox-labs-in-response-to-explosion-of-ai-powered-mods-and-ports/",
+          "published": "2026-10-13T19:53:17+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Xbox Labs Is A Big Announcement About AI That’s Missing The Word AI",
+          "url": "https://kotaku.com/xbox-labs-is-a-big-announcement-about-ai-that-doesnt-mention-ai-once-2000745355",
+          "published": "2026-10-13T20:08:30+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "Asha Sharma annuncia XBOX LABS: l'obiettivo è far girare i giochi anche su browser",
+          "url": "https://www.everyeye.it/notizie/asha-sharma-annuncia-xbox-labs-obiettivpgirare-giochi-browser-905877.html",
+          "published": "2026-10-13T20:55:00+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "New Xbox Labs Team Officially Announced",
+          "url": "https://www.polygon.com/xbox-labs-asha-sharma-ai-vibe-coding/",
+          "published": "2026-10-13T21:08:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "deluxe-kart-mario-notes-patch-updated",
+      "score": 31.9,
+      "already_proposed": false,
+      "headline": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 9.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 65,
+        "top_views": 65,
+        "top_title": "Mario Kart 8 Update v4.0.1 - All Patch Notes & Previous Update Details!"
+      },
+      "youtube_query": "kart notes mario updated deluxe",
+      "related": [
+        {
+          "headline": "Grand Theft Auto VI su PC già a inizio 2027? Il rumor",
+          "shared_terms": [
+            "version"
+          ]
+        },
+        {
+          "headline": "Review: Resident Evil 4 Gold Edition (Switch 2) - The Gold Standard For Remakes",
+          "shared_terms": [
+            "deluxe"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Mario Kart 8 Deluxe Has Been Updated To Version 4.0.1, Here Are The Full Patch Notes",
+          "url": "https://www.nintendolife.com/news/2026/10/mario-kart-8-deluxe-has-been-updated-to-version-4-0-1-here-are-the-full-patch-notes",
+          "published": "2026-10-14T00:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cheap-clearing-discontinued-headsets-history-index",
+      "score": 31.8,
+      "already_proposed": false,
+      "headline": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 9.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 59,
+        "top_views": 59,
+        "top_title": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of h... #Shorts"
+      },
+      "youtube_query": "cheap history headsets clearing discontinued",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Valve is clearing out its discontinued Index VR headsets if you want a cheap piece of history",
+          "url": "https://www.pcgamer.com/hardware/vr-hardware/valve-is-clearing-out-its-discontinued-index-vr-headsets-if-you-want-a-cheap-piece-of-history/",
+          "published": "2026-10-14T00:42:28+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bouncing-corners-doesn-hit-logo-maddening",
+      "score": 31.8,
+      "already_proposed": false,
+      "headline": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 6.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 60,
+        "top_views": 60,
+        "top_title": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't per... #Shorts"
+      },
+      "youtube_query": "corners logo bouncing maddening screensaver",
+      "related": [
+        {
+          "headline": "Review: Castlevania: Belmont's Curse (PS5) - The Classic Series Returns in a Perfectly Fine Metroidvania",
+          "shared_terms": [
+            "perfectly"
+          ]
+        },
+        {
+          "headline": "Dwarf Fortress creator Tarn Adams is as tired of genAI in the industry as anyone else, and is pretty set on never using it",
+          "shared_terms": [
+            "pretty"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Steam now has a maddening bouncing logo screensaver, and I'm pretty sure it doesn't perfectly hit the corners",
+          "url": "https://www.pcgamer.com/software/platforms/steam-now-has-a-maddening-bouncing-logo-screensaver-and-im-pretty-sure-it-doesnt-touch-the-corners/",
+          "published": "2026-10-14T03:08:04+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "comeback-deserve-enix-forgotten-rpgs-square",
+      "score": 31.3,
+      "already_proposed": false,
+      "headline": "5 Forgotten Square Enix RPGs That Deserve a Comeback",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 10.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 2,
+        "top_views": 2,
+        "top_title": "Forgotten Square Enix RPGs That Deserve a Comeback Right Now #Shorts"
+      },
+      "youtube_query": "deserve forgotten enix square rpgs",
+      "related": [
+        {
+          "headline": "K/DA Reactivates Social Accounts, Fueling Rumors of the Virtual K-Pop Group’s Comeback After 6 Years",
+          "shared_terms": [
+            "comeback"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "5 Forgotten Square Enix RPGs That Deserve a Comeback",
+          "url": "https://www.polygon.com/forgotten-square-enix-rpgs/",
+          "published": "2026-10-14T00:00:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "completely-huge-hypercharge-shooter-switch-toy",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Toy Shooter Hypercharge: Unboxed Is Getting A \"Huge\" And \"Completely Free\" Update On Switch This Week",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 5.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "toy hypercharge unboxed shooter completely",
+      "related": [
+        {
+          "headline": "Dan Houser Reveals Rockstar’s Struggle to Make Bully",
+          "shared_terms": [
+            "completely"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Toy Shooter Hypercharge: Unboxed Is Getting A \"Huge\" And \"Completely Free\" Update On Switch This Week",
+          "url": "https://www.nintendolife.com/news/2026/10/toy-shooter-hypercharge-unboxed-is-getting-a-huge-and-completely-free-update-on-switch-this-week",
+          "published": "2026-10-14T04:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "announces-avoiding-department-focused-generative-labs",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 1.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "department avoiding focused mentioning generative",
+      "related": [
+        {
+          "headline": "Echoes of Delicious in Dungeon ring out in Deep Dish Dungeon, a co-op dungeon crawler about making meals with whatever you can scrounge up that's out now",
+          "shared_terms": [
+            "making"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI",
+          "url": "https://www.eurogamer.net/xbox-labs-genai-game-ports-vibe-code",
+          "published": "2026-10-14T08:35:47+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "art-living-lovely-mode-room-setup",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Steam's new Big Art Mode is a lovely visual upgrade for my living room setup",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 0.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "setup living upgrade lovely mode",
+      "related": [
+        {
+          "headline": "New Oblivion Remastered Patch Fixes What The Old Oblivion Remastered Patch Broke On Switch 2",
+          "shared_terms": [
+            "visual"
+          ]
+        },
+        {
+          "headline": "\"You don't listen to the loudest people in the room\" - World of Warcraft: Forever boss discusses how to approach a deluge of feedback",
+          "shared_terms": [
+            "room"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Steam's new Big Art Mode is a lovely visual upgrade for my living room setup",
+          "url": "https://www.pcgamer.com/software/platforms/steams-new-big-art-mode-is-a-lovely-visual-upgrade-for-my-living-room-setup/",
+          "published": "2026-10-14T09:23:14+00:00"
+        }
+      ]
+    }
+  ]
+}
