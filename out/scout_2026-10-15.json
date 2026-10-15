@@ -1,0 +1,1013 @@
+{
+  "generated_at": "2026-10-15T09:46:42.477107+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "assassin-behind-black-block-chopping-close",
+      "score": 41.8,
+      "already_proposed": false,
+      "headline": "Ubisoft closing Trials developer RedLynx and cutting jobs in Singapore studio",
+      "topics": [
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 24.9,
+      "signals": {
+        "coverage": 1.0,
+        "velocity": 0.12,
+        "it_gap": 1.0,
+        "yt_demand": 0.06,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.29,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Game Developer",
+        "GameSpot",
+        "GamesIndustry",
+        "Nintendo Life",
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 407,
+        "top_views": 4910,
+        "top_title": "NOTÍCIAS TRISTES da Ubisoft..."
+      },
+      "youtube_query": "redlynx trials ubisoft studio singapore",
+      "related": [
+        {
+          "headline": "Xbox announces what sounds like a generative AI-focused game-making department, Xbox Labs, while avoiding mentioning AI",
+          "shared_terms": [
+            "making"
+          ]
+        },
+        {
+          "headline": "Metro 2039 Dev Puts PS5 Pre-Orders Live and Confirms DLC",
+          "shared_terms": [
+            "puts"
+          ]
+        },
+        {
+          "headline": "Assassin's Creed Black Flag Resynced was a big hit, and now it's time for big layoffs at the studio that made it",
+          "shared_terms": [
+            "layoffs"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Ubisoft closing Trials developer RedLynx and cutting jobs in Singapore studio",
+          "url": "https://www.gamesindustry.biz/ubisoft-closing-trials-developer-redlynx-and-cutting-jobs-in-singapore-studio",
+          "published": "2026-10-14T08:55:05+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Ubisoft is planning to shut down Trials studio RedLynx and lay off 70 Ubisoft Singapore staff",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-planning-to-shut-down-trials-studio-redlynx-and-lay-off-70-ubisoft-singapore-staff/",
+          "published": "2026-10-14T09:04:52+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Ubisoft are making layoffs at Assassin's Creed Black Flag Resynced studio Ubisoft Singapore while closing Trials creators Redlynx",
+          "url": "https://www.rockpapershotgun.com/ubisoft-are-making-layoffs-at-assassins-creed-black-flag-resynced-studio-ubisoft-singapore-while-closing-trials-creators-redlynx-according-to-report",
+          "published": "2026-10-14T10:43:55+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "RedLynx, The Studio Behind The Trials Series, Is Being Closed By Ubisoft",
+          "url": "https://www.nintendolife.com/news/2026/10/redlynx-the-studio-behind-the-trials-series-is-being-closed-by-ubisoft",
+          "published": "2026-10-14T10:45:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Ubisoft closing Trials developer RedLynx and downsizing Assassin's Creed: Black Flag Resynced team in Singapore",
+          "url": "https://www.eurogamer.net/ubisoft-closing-trials-studio-redlyx-layoffs-singapore-black-flag",
+          "published": "2026-10-14T12:30:49+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Trials Studio RedLynx Looks Set to Close as Ubisoft Continues Major Restructure",
+          "url": "https://www.pushsquare.com/news/2026/10/trials-studio-redlynx-looks-set-to-close-as-ubisoft-continues-major-restructure",
+          "published": "2026-10-14T14:30:00+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Ubisoft’s Latest Restructuring Plan Puts Trials Developer RedLynx On The Chopping Block",
+          "url": "https://www.gamespot.com/articles/ubisofts-latest-restructuring-plan-puts-trials-developer-redlynx-on-the-chopping-block/",
+          "published": "2026-10-14T15:02:27+00:00"
+        },
+        {
+          "source": "Game Developer",
+          "title": "Ubisoft to close Trials studio RedLynx, downsize Ubisoft Singapore",
+          "url": "https://www.gamedeveloper.com/business/ubisoft-to-close-trials-studio-redlynx-downsize-ubisoft-singapore",
+          "published": "2026-10-14T22:08:51+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "campaign-fantasy-final-length-ps5-released",
+      "score": 41.0,
+      "already_proposed": false,
+      "headline": "First Final Fantasy Resonance PS5 Review Released, Rough Campaign Length Revealed",
+      "topics": [
+        "playstation",
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 10.3,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "resonance fantasy final length rough",
+      "related": [
+        {
+          "headline": "Guide: Call Of Duty: Modern Warfare 4 Release Date, Release Times & Everything You Need To Know On Xbox & PC",
+          "shared_terms": [
+            "campaign"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "First Final Fantasy Resonance PS5 Review Released, Rough Campaign Length Revealed",
+          "url": "https://www.pushsquare.com/news/2026/10/first-final-fantasy-resonance-ps5-review-released-rough-campaign-length-revealed",
+          "published": "2026-10-14T23:30:00+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "The First Review For Final Fantasy Resonance Is In",
+          "url": "https://www.nintendolife.com/news/2026/10/the-first-review-for-final-fantasy-resonance-is-in",
+          "published": "2026-10-15T00:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "announce-app-because-built-cking-claims",
+      "score": 40.9,
+      "already_proposed": false,
+      "headline": "‘We Vibe Coded a New Epic Games Launcher’ – Epic’s New Store App Was Built Using AI",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 19.2,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.4,
+        "it_gap": 0.83,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.6,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry",
+        "IGN",
+        "Kotaku",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 285,
+        "top_views": 14025,
+        "top_title": "The NEW Epic Games Launcher Is HERE & It's Vibe Coded???"
+      },
+      "youtube_query": "coded vibe launcher epic steam",
+      "related": [
+        {
+          "headline": "OpenAI employee arrested for allegedly using AI and toilet paper to record confidential meetings - FBI director Kash Patel jumps at the chance to say AI companies are 'essential' for national security",
+          "shared_terms": [
+            "using"
+          ]
+        },
+        {
+          "headline": "Epic's Pivot to AI-Driven Game Development Is Somehow Much Worse Than You May Realise",
+          "shared_terms": [
+            "somehow"
+          ]
+        },
+        {
+          "headline": "Zero Escape And Hundred Line Director’s New Game Canceled Before He Could Announce New Studio [UPDATE: Something’s Off]",
+          "shared_terms": [
+            "announce"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "‘We Vibe Coded a New Epic Games Launcher’ – Epic’s New Store App Was Built Using AI",
+          "url": "https://www.ign.com/articles/we-vibe-coded-a-new-epic-games-launcher-epics-new-store-app-was-built-using-ai",
+          "published": "2026-10-14T14:33:23+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "\"We vibe coded a new Epic Games Launcher\" because \"programming is hard\", announce company we're somehow supposed to see as a serious Steam competitor",
+          "url": "https://www.rockpapershotgun.com/we-vibe-coded-a-new-epic-games-launcher-because-programming-is-hard-announce-company-were-somehow-supposed-to-see-as-a-serious-steam-competitor",
+          "published": "2026-10-14T15:32:37+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Epic says it’s ‘vibe coded’ its new Epic Games Launcher with AI, because ‘programming is hard’",
+          "url": "https://www.videogameschronicle.com/news/epic-says-its-vibe-coded-its-new-epic-games-launcher-with-ai-because-programming-is-hard/",
+          "published": "2026-10-14T15:36:17+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Epic Dunks On Steam With Vibe-Coded Storefront And Gets Roasted: ‘This Launcher Is So F*cking Vibeslopped Its Funny’",
+          "url": "https://kotaku.com/epic-dunks-on-steam-with-vibe-coded-storefront-and-gets-roasted-this-launcher-is-so-fucking-vibeslopped-its-funny-2000746031",
+          "published": "2026-10-14T21:30:56+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Epic Games claims its new \"vibe coded\" launcher runs 46% faster than Steam from cold start to store page",
+          "url": "https://www.gamesindustry.biz/epic-games-claims-its-new-vibe-coded-launcher-runs-46-faster-than-steam-from-cold-start-to-store-page",
+          "published": "2026-10-15T09:35:29+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "annuncia-brings-caccia-capcom-demo-fairly",
+      "score": 38.6,
+      "already_proposed": false,
+      "headline": "Monster Hunter Wilds Free Prologue Demo Brings The Hunt To Switch 2 Next Week",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 7.7,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.07,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Nintendo Life",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Multiplayer",
+        "SpazioGames"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 490,
+        "top_views": 7047,
+        "top_title": "【モンハンワイルズ】switch２版試遊してきた🕊steam勢の率直な感想【MHWA】"
+      },
+      "youtube_query": "wilds monster hunter switch demo",
+      "related": [
+        {
+          "headline": "Sony annuncia il controller PS5 di Gran Turismo: data d'uscita, prezzo e come prenotarlo",
+          "shared_terms": [
+            "annuncia"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Monster Hunter Wilds Free Prologue Demo Brings The Hunt To Switch 2 Next Week",
+          "url": "https://www.nintendolife.com/news/2026/10/monster-hunter-wilds-free-prologue-demo-brings-the-hunt-to-switch-2-next-week",
+          "published": "2026-10-15T02:05:00+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "Monster Hunter Wilds, la caccia su Switch 2 è in prova gratis",
+          "url": "https://www.spaziogames.it/notizie/monster-hunter-wilds-la-caccia-su-switch-2-e-in-prova-gratis",
+          "published": "2026-10-15T07:31:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Capcom annuncia la demo di Monster Hunter Wilds per Nintendo Switch 2",
+          "url": "https://multiplayer.it/notizie/capcom-annuncia-la-demo-di-monster-hunter-wilds-per-nintendo-switch-2.html",
+          "published": "2026-10-15T07:45:18+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Monster Hunter Wilds' fairly generous Prologue Demo comes to Switch 2 next week",
+          "url": "https://www.eurogamer.net/monster-hunter-wilds-switch-2-prologue-demo",
+          "published": "2026-10-15T08:30:51+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "The Switch 2 version of Monster Hunter Wilds gets a Prologue Demo next week",
+          "url": "https://www.videogameschronicle.com/news/the-switch-2-version-of-monster-hunter-wilds-gets-a-prologue-demo-next-week/",
+          "published": "2026-10-15T09:36:23+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "18th-2022-allow-almost-altri-americas",
+      "score": 37.1,
+      "already_proposed": false,
+      "headline": "Rockstar Says You Won’t Have To Wait Another 8 Years After GTA 6 For Its Next Game",
+      "topics": [
+        "aaa",
+        "storie",
+        "industria"
+      ],
+      "age_hours": 23.1,
+      "signals": {
+        "coverage": 1.0,
+        "velocity": 0.0,
+        "it_gap": 0.67,
+        "yt_demand": 0.11,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.39,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot",
+        "GamesIndustry",
+        "Kotaku",
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Everyeye"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 1163,
+        "top_views": 67999,
+        "top_title": "Rockstar's GTA 6 Follow-Up Won't Take 8 Years - IGN Daily Fix"
+      },
+      "youtube_query": "rockstar gta won years eight",
+      "related": [
+        {
+          "headline": "GTA 6 was delayed partially because the amount of NPCs was 'horrifying' and required a dedicated studio full of writers to handle",
+          "shared_terms": [
+            "delayed",
+            "npcs"
+          ]
+        },
+        {
+          "headline": "Grand Theft Auto IV – The Legacy Review",
+          "shared_terms": [
+            "auto",
+            "grand",
+            "theft"
+          ]
+        },
+        {
+          "headline": "Guide: Call Of Duty: Modern Warfare 4 Release Date, Release Times & Everything You Need To Know On Xbox & PC",
+          "shared_terms": [
+            "days"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "Rockstar Says You Won’t Have To Wait Another 8 Years After GTA 6 For Its Next Game",
+          "url": "https://www.gamespot.com/articles/rockstar-says-you-wont-have-to-wait-another-8-years-after-gta-6-for-its-next-game/",
+          "published": "2026-10-14T10:43:11+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Rockstar says its next game after Grand Theft Auto 6 won’t take another eight years to make",
+          "url": "https://www.videogameschronicle.com/news/rockstar-says-its-next-game-after-grand-theft-auto-6-wont-take-another-eight-years-to-make/",
+          "published": "2026-10-14T10:57:10+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Rockstar’s GTA 6 Realism Experiment Started With Beer And Sandwiches",
+          "url": "https://www.gamespot.com/articles/rockstars-gta-6-realism-experiment-started-with-beer-and-sandwiches/",
+          "published": "2026-10-14T11:02:14+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Rockstar Built An Entire Studio Just To Create GTA 6 NPCs",
+          "url": "https://www.gamespot.com/articles/rockstar-built-an-entire-studio-just-to-create-gta-6-npcs/",
+          "published": "2026-10-14T11:07:36+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "GTA 6 was originally Project Americas and covered \"big swaths\" of country's north and south, Rockstar reveals, in interview tackling crunch, delays, and leaks",
+          "url": "https://www.eurogamer.net/gta-6-project-americas-rockstar-crunch-delays-leaks",
+          "published": "2026-10-14T11:39:03+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Rockstar Says GTA 6 Didn’t Cost $1.5 Billion To Make, But Won’t Reveal The Real Number",
+          "url": "https://www.gamespot.com/articles/rockstar-says-gta-6-didnt-cost-1-5-billion-to-make-but-wont-reveal-the-real-number/",
+          "published": "2026-10-14T11:42:56+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Rockstar are \"confident\" that GTA 7 won't take another eight years, despite similar promises of greater efficiency seemingly having come with Red Dead Redemption 2",
+          "url": "https://www.rockpapershotgun.com/rockstar-are-confident-that-gta-7-wont-take-another-eight-years-despite-similar-promises-of-greater-efficiency-seemingly-having-come-with-red-dead-redemption-2",
+          "published": "2026-10-14T12:05:28+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Rockstar's next game won't take eight years to make: \"The engine, the tools and the team we've built during GTA 6 will allow us to do things more quickly\"",
+          "url": "https://www.gamesindustry.biz/rockstars-next-game-wont-take-eight-years-to-make-the-engine-the-tools-and-the-team-weve-built-during-gta-6-will-allow-us-to-do-things-more-quickly",
+          "published": "2026-10-14T12:26:32+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "GTA 6 Tech Will Help Create the Next Rockstar Game, Won't Be Another 8-Year Wait",
+          "url": "https://www.pushsquare.com/news/2026/10/gta-6-tech-will-help-create-the-next-rockstar-game-wont-be-another-8-year-wait",
+          "published": "2026-10-14T12:30:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Conclusion of Rockstar's employment tribunal delayed into November, almost day and date with GTA 6's release",
+          "url": "https://www.eurogamer.net/rockstar-iwgb-employment-tribunal-delay-november",
+          "published": "2026-10-14T12:40:59+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Rockstar Swears You Won’t Have To Wait Nearly A Decade For Its Next Game After GTA6",
+          "url": "https://kotaku.com/rockstar-games-next-game-gta6-grand-theft-auto-6-rdr2-2000745886",
+          "published": "2026-10-14T13:14:44+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "GTA 6 Could Have Been Even Bigger And Released Years Sooner, But Then These Things Happened",
+          "url": "https://www.gamespot.com/articles/gta-6-could-have-been-even-bigger-and-released-years-sooner-but-then-these-things-happened/",
+          "published": "2026-10-14T14:02:52+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "GTA 6 Leaker Announces They Won’t Release The Full Game: ‘The Leeks Stop For Now’",
+          "url": "https://kotaku.com/gta-6-leaker-announces-they-wont-leak-the-full-game-the-leeks-stop-for-now-2000745917",
+          "published": "2026-10-14T14:17:10+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "GTA 6, Rockstar svela nuovi dettagli sui costi di sviluppo: è ancora il gioco più costoso di sempre?",
+          "url": "https://www.everyeye.it/notizie/gta-6-rockstar-svela-dettagli-costi-sviluppo-gioco-costoso-sempre-906033.html",
+          "published": "2026-10-14T14:40:00+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Rockstar 'union busting' tribunal extended to November 18th, meaning it will close just days before GTA 6's release date",
+          "url": "https://www.rockpapershotgun.com/rockstar-union-busting-tribunal-extended-to-november-18th-meaning-it-will-close-just-days-before-gta-6s-release-date",
+          "published": "2026-10-14T14:45:00+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "GTA 6 Leaks Are Still Coming, Rockstar Labels The 2022 Hack “Weirdly Invasive”",
+          "url": "https://www.gamespot.com/articles/gta-6-leaks-are-still-coming-rockstar-labels-the-2022-hack-weirdly-invasive/",
+          "published": "2026-10-14T14:57:53+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "Rockstar promette: il gioco dopo GTA 6 non richiederà altri otto anni di sviluppo",
+          "url": "https://www.everyeye.it/notizie/rockstar-promette-gioco-gta-6-non-richiedera-otto-anni-sviluppo-906040.html",
+          "published": "2026-10-14T15:17:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "007-date-finally-interactive-late-light",
+      "score": 36.8,
+      "already_proposed": false,
+      "headline": "\"You're Late, 007\" - First Light Has Finally Locked In A Switch 2 Release Date",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 6.7,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 22,
+        "top_views": 61730,
+        "top_title": "007 First Light - Official Nintendo Switch 2 Release Date Trailer | IGN Fall Fan Fest 2026"
+      },
+      "youtube_query": "light 007 date release switch",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "\"You're Late, 007\" - First Light Has Finally Locked In A Switch 2 Release Date",
+          "url": "https://www.nintendolife.com/news/2026/10/youre-late-007-first-light-has-finally-locked-in-a-switch-2-release-date",
+          "published": "2026-10-15T03:05:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
+          "url": "https://www.eurogamer.net/007-first-light-switch-2-release-date-james-bond-game",
+          "published": "2026-10-15T09:17:26+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bds-boicottaggio-boycott-contro-developer-due",
+      "score": 34.1,
+      "already_proposed": false,
+      "headline": "Big Walk Developer Explains Why the Game Isn't on Xbox",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 1.4,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "walk xbox explains bds developer",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Big Walk Developer Explains Why the Game Isn't on Xbox",
+          "url": "https://www.ign.com/articles/big-walk-developer-explains-why-the-game-isnt-on-xbox",
+          "published": "2026-10-15T08:20:19+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Big Walk developer explains the lack of Xbox version is due to Microsoft's place on the BDS boycott",
+          "url": "https://www.eurogamer.net/big-walk-xbox-version-bds-boycott",
+          "published": "2026-10-15T08:48:27+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Big Walk non è uscito su Xbox perché sostiene il boicottaggio del movimento BDS contro Microsoft",
+          "url": "https://multiplayer.it/notizie/big-walk-non-e-uscito-su-xbox-perche-sostiene-il-boicottaggio-del-movimento-bds-contro-microsoft.html",
+          "published": "2026-10-15T08:48:36+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "celebrates-collection-early-festive-holidays-merch",
+      "score": 31.7,
+      "already_proposed": false,
+      "headline": "Pokémon Celebrates the Holidays Early with a Festive Merch Collection",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 0.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 41,
+        "top_views": 41,
+        "top_title": "🎄 Disney Springs Christmas Merchandise 2026 🎄 + NEW Hallmark Christmas Movie Pop-Up!"
+      },
+      "youtube_query": "collection festive merch holidays early",
+      "related": [
+        {
+          "headline": "Sony annuncia il controller PS5 di Gran Turismo: data d'uscita, prezzo e come prenotarlo",
+          "shared_terms": [
+            "celebrates"
+          ]
+        },
+        {
+          "headline": "Guide: Call Of Duty: Modern Warfare 4 Release Date, Release Times & Everything You Need To Know On Xbox & PC",
+          "shared_terms": [
+            "early"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Pokémon Celebrates the Holidays Early with a Festive Merch Collection",
+          "url": "https://www.polygon.com/pokemon-seasonal-merch-holiday-2026/",
+          "published": "2026-10-15T09:05:38+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "forse-gta-launches-mie-novembre-playstation",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "PlayStation Plus: saranno forse questi i giochi di novembre? Le mie previsioni",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 14.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.87,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [
+        "Everyeye"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "plus playstation forse mie previsioni",
+      "related": [],
+      "articles": [
+        {
+          "source": "Everyeye",
+          "title": "PlayStation Plus: saranno forse questi i giochi di novembre? Le mie previsioni",
+          "url": "https://www.everyeye.it/notizie/playstation-plus-giochi-novembre-previsioni-906082.html",
+          "published": "2026-10-14T19:31:00+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "GTA 5 Is Getting Yanked From PlayStation Plus Right Before GTA VI Launches",
+          "url": "https://kotaku.com/gta-5-leaving-playstation-plus-gta-6-november-2000746022",
+          "published": "2026-10-14T20:00:48+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "complete-edition-fresh-great-lick-mini",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Mini Review: Toy Story 3 Complete Edition (PS5) - An All-Time Great Movie Tie-In Gets a Fresh Lick of Paint",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 10.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "tie lick fresh paint great",
+      "related": [],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Mini Review: Toy Story 3 Complete Edition (PS5) - An All-Time Great Movie Tie-In Gets a Fresh Lick of Paint",
+          "url": "https://www.pushsquare.com/reviews/ps5/toy-story-3-complete-edition",
+          "published": "2026-10-14T23:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "accuse-avoidable-foreseeable-harms-ignoring-lawsuits",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'",
+      "topics": [
+        "industria"
+      ],
+      "age_hours": 10.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "accuse foreseeable harms lawsuits avoidable",
+      "related": [
+        {
+          "headline": "OpenAI employee arrested for allegedly using AI and toilet paper to record confidential meetings - FBI director Kash Patel jumps at the chance to say AI companies are 'essential' for national security",
+          "shared_terms": [
+            "openai"
+          ]
+        },
+        {
+          "headline": "\"This non-profit will be the 'voice of the gamers'\" - Former Disco Elysium devs break new ground with player- and developer-owned studio structure",
+          "shared_terms": [
+            "profit"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "State lawsuits accuse OpenAI of ignoring its own safety warnings for profit: 'All these harms were foreseeable and avoidable'",
+          "url": "https://www.pcgamer.com/software/ai/8-us-states-sue-openai/",
+          "published": "2026-10-14T23:22:11+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "creator-dire-garry-hasn-issues-mod",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "'Garry’s Mod' Creator Issues Dire Update on Spiritual Sequel: ‘It Hasn’t Been Going Well’",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 7.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "well hasn spiritual dire garry",
+      "related": [
+        {
+          "headline": "Garry’s Mod Creator Says He’s ‘Ashamed’ And ‘Embarrassed’ By The Response To His Latest Project: ‘I’ve Let Everybody Down’",
+          "shared_terms": [
+            "garry"
+          ]
+        },
+        {
+          "headline": "How to run an indie game studio: Part 3, Dealing with issues",
+          "shared_terms": [
+            "issues"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "'Garry’s Mod' Creator Issues Dire Update on Spiritual Sequel: ‘It Hasn’t Been Going Well’",
+          "url": "https://www.polygon.com/garrys-mod-creator-sbox-spiritual-sequel-dire-update/",
+          "published": "2026-10-15T02:02:11+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "boss-console-icymi-mode-museum-ocarina",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "ICYMI: Zelda: Ocarina Of Time On Switch 2 Has A Museum & Boss Time Trial Mode",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 5.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "zelda switch trial icymi museum",
+      "related": [
+        {
+          "headline": "Steam's new Big Art Mode is a lovely visual upgrade for my living room setup",
+          "shared_terms": [
+            "mode"
+          ]
+        },
+        {
+          "headline": "With the Steam Frame becoming Valve's new favourite VR child, they're selling off their last Index headset stock",
+          "shared_terms": [
+            "stock"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "ICYMI: Zelda: Ocarina Of Time On Switch 2 Has A Museum & Boss Time Trial Mode",
+          "url": "https://www.nintendolife.com/news/2026/10/icymi-zelda-ocarina-of-time-on-switch-2-has-a-museum-and-boss-time-trial-mode",
+          "published": "2026-10-15T04:35:00+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Zelda Switch 2 Console Is Back In Stock At Smyths In The UK",
+          "url": "https://www.nintendolife.com/news/2026/10/zelda-switch-2-console-is-back-in-stock-at-smyths-in-the-uk",
+          "published": "2026-10-15T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "across-berlin-departure-mainz-part-plan",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Ubisoft to reduce workforce across Düsseldorf, Berlin, and Mainz as part of \"proposed voluntary departure plan\"",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 1.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "sseldorf berlin voluntary across mainz",
+      "related": [
+        {
+          "headline": "Ubisoft closing Trials developer RedLynx and cutting jobs in Singapore studio",
+          "shared_terms": [
+            "plan"
+          ]
+        },
+        {
+          "headline": "How to run an indie game studio: Part 3, Dealing with issues",
+          "shared_terms": [
+            "part"
+          ]
+        },
+        {
+          "headline": "Jeff Kaplan Says Separation From Overwatch Was “Clinical”: ” I Never Go Back”",
+          "shared_terms": [
+            "departure"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Ubisoft to reduce workforce across Düsseldorf, Berlin, and Mainz as part of \"proposed voluntary departure plan\"",
+          "url": "https://www.gamesindustry.biz/ubisoft-to-reduce-workforce-across-dusseldorf-berlin-and-mainz-as-part-of-proposed-voluntary-departure-plan",
+          "published": "2026-10-15T08:09:37+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "brown-charlie-classic-comic-final-heartbreaking",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "26 Years Later, Charlie Brown's Final Quote Is Still a Heartbreaking Comic Strip Classic",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 0.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "strip charlie quote brown heartbreaking",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "26 Years Later, Charlie Brown's Final Quote Is Still a Heartbreaking Comic Strip Classic",
+          "url": "https://www.polygon.com/charlie-brown-last-strip-peanuts/",
+          "published": "2026-10-15T09:00:17+00:00"
+        }
+      ]
+    }
+  ]
+}
