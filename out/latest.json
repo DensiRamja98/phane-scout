@@ -1,704 +1,18 @@
 {
-  "generated_at": "2026-10-16T09:39:42.592766+00:00",
+  "generated_at": "2026-10-17T09:11:50.246988+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "auto-chase-city-drops-dude-end",
-      "score": 56.9,
+      "story_id": "adding-andreas-atelier-fan-gta-jrpg",
+      "score": 35.7,
       "already_proposed": false,
-      "headline": "Rockstar has revealed the official launch trailer for Grand Theft Auto 6",
-      "topics": [
-        "xbox",
-        "aaa",
-        "feel_good"
-      ],
-      "age_hours": 20.5,
-      "signals": {
-        "coverage": 0.83,
-        "velocity": 0.0,
-        "it_gap": 0.56,
-        "yt_demand": 1.0,
-        "yt_room": 0.0,
-        "topic": 1.0,
-        "freshness": 0.53,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "Kotaku",
-        "PC Gamer",
-        "Pure Xbox",
-        "VGC"
-      ],
-      "coverage_it": [
-        "Gamesurf"
-      ],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 820522,
-        "top_views": 23611589,
-        "top_title": "Grand Theft Auto VI Launch Trailer"
-      },
-      "youtube_query": "trailer grand theft auto launch",
-      "related": [
-        {
-          "headline": "How in the world are Intel GPUs still improving so much? The latest driver update claims up to a 31% fps improvement in Resident Evil Requiem",
-          "shared_terms": [
-            "latest"
-          ]
-        },
-        {
-          "headline": "Xbox Asks Fans How They'd Feel About A Really Bold Approach To Exclusive Games",
-          "shared_terms": [
-            "feel"
-          ]
-        },
-        {
-          "headline": "Castlevania: Belmont's Curse review - inspired by great ideas, but doomed by questionable execution",
-          "shared_terms": [
-            "great"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "VGC",
-          "title": "Rockstar has revealed the official launch trailer for Grand Theft Auto 6",
-          "url": "https://www.videogameschronicle.com/news/rockstar-has-revealed-the-official-launch-trailer-for-grand-theft-auto-6/",
-          "published": "2026-10-15T13:06:51+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "Surprise, Here’s A New Grand Theft Auto 6 Trailer",
-          "url": "https://kotaku.com/surprise-heres-a-new-grand-theft-auto-6-trailer-2000746327",
-          "published": "2026-10-15T13:09:32+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Grand Theft Auto 6 launch trailer suddenly drops, showing a saucy shower scene, a tense police chase, and high-flying heists",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-launch-trailer",
-          "published": "2026-10-15T13:24:51+00:00"
-        },
-        {
-          "source": "Pure Xbox",
-          "title": "GTA 6 Looks Great In Official Rockstar Launch Trailer, But Xbox Is Nowhere To Be Seen",
-          "url": "https://www.purexbox.com/news/2026/10/gta-6-looks-great-in-official-rockstar-launch-trailer-but-xbox-is-nowhere-to-be-seen",
-          "published": "2026-10-15T13:30:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "The Grand Theft Auto 6 launch trailer is here",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-launch-trailer/",
-          "published": "2026-10-15T13:43:12+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "The Sex Scene Is One Of The Best Parts Of Grand Theft Auto 6′s New Trailer",
-          "url": "https://kotaku.com/grand-theft-auto-6-new-trailer-sex-scene-jason-lucia-2000746333",
-          "published": "2026-10-15T13:53:58+00:00"
-        },
-        {
-          "source": "Gamesurf",
-          "title": "Grand Theft Auto VI: Vice City splende nel trailer di lancio",
-          "url": "https://www.gamesurf.it/news/grand-theft-auto-vi-6-trailer-lancio-rockstar",
-          "published": "2026-10-15T14:22:56+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "Hearing That Dude Say ‘Grand Theft Auto’ At The End Of The Latest GTA 6 Trailer Made Me Feel Like This",
-          "url": "https://kotaku.com/hearing-that-dude-say-grand-theft-auto-at-the-end-of-the-latest-gta-6-trailer-made-me-feel-like-this-2000746376",
-          "published": "2026-10-15T15:45:54+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "adds-bros-characters-dlc-emblem-expansion",
-      "score": 46.1,
-      "already_proposed": false,
-      "headline": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 19.8,
-      "signals": {
-        "coverage": 0.5,
-        "velocity": 0.67,
-        "it_gap": 0.5,
-        "yt_demand": 0.52,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.56,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "Kotaku",
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 27100,
-        "top_views": 817218,
-        "top_title": "Fire Emblem: Fortune’s Weave Expansion Pass — Announcement Trailer — Nintendo Switch 2"
-      },
-      "youtube_query": "emblem weave fortune fire expansion",
-      "related": [
-        {
-          "headline": "15 Xbox Games Are Out Today, Including A Polished Port Of An Iconic Xbox 360 Masterpiece (October 15)",
-          "shared_terms": [
-            "today"
-          ]
-        },
-        {
-          "headline": "Feature: \"I Lost My Mind\" - Abby Trott On Singing The Smash Bros. Theme & Playing A Belmont In Castlevania",
-          "shared_terms": [
-            "bros",
-            "smash"
-          ]
-        },
-        {
-          "headline": "Star Wars Zero Company Adds Modifiers, Cuts Upgrade Costs, More in Massive Update",
-          "shared_terms": [
-            "adds"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "Fire Emblem: Fortune's Weave gets its first wave of DLC today, and an expansion pass to include it",
-          "url": "https://www.eurogamer.net/fire-emblem-fortunes-weave-expansion-pass",
-          "published": "2026-10-15T13:48:43+00:00"
-        },
-        {
-          "source": "Polygon",
-          "title": "6 Fire Emblem Fortune's Weave Characters Who Need to Be in the Next Smash Bros Game",
-          "url": "https://www.polygon.com/fire-emblem-fortunes-weave-characters-next-smash-bros/",
-          "published": "2026-10-15T21:00:17+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "The Fire Emblem: Fortune’s Weave Expansion Pass Adds Stories For Those Other Four Protagonists The Game Was Supposed To Have",
-          "url": "https://kotaku.com/the-fire-emblem-fortunes-weave-expansion-pass-adds-stories-for-those-other-four-protagonists-the-game-was-supposed-to-have-2000746422",
-          "published": "2026-10-15T21:00:56+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "announced-announcing-canceled-cancellato-cancelled-cancels",
-      "score": 44.5,
-      "already_proposed": false,
-      "headline": "RuneScape Reignited Canceled Less Than Two Weeks After Being Announced",
-      "topics": [
-        "storie"
-      ],
-      "age_hours": 12.8,
-      "signals": {
-        "coverage": 0.67,
-        "velocity": 1.0,
-        "it_gap": 0.44,
-        "yt_demand": 0.11,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.95,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "IGN",
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "coverage_it": [
-        "Multiplayer"
-      ],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 1125,
-        "top_views": 1125,
-        "top_title": "RuneScape Reignited Canceled After Player Backlash"
-      },
-      "youtube_query": "reignited runescape weeks jagex announced",
-      "related": [
-        {
-          "headline": "Why Rockstar Canceled Its PlayStation-Exclusive Follow-Up To GTA 4",
-          "shared_terms": [
-            "canceled"
-          ]
-        },
-        {
-          "headline": "Street Fighter review roundup: sorry, folks, but it sounds like a mess",
-          "shared_terms": [
-            "folks"
-          ]
-        },
-        {
-          "headline": "Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were \"unintended\"",
-          "shared_terms": [
-            "controversial"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "RuneScape Reignited Canceled Less Than Two Weeks After Being Announced",
-          "url": "https://www.ign.com/articles/runescape-reignited-cancelled-less-than-two-weeks-after-being-announced",
-          "published": "2026-10-15T20:49:27+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "Less than 2 weeks after announcing RuneScape Reignited, Jagex is scrapping the whole thing",
-          "url": "https://www.pcgamer.com/games/mmo/less-than-2-weeks-after-announcing-runescape-reignited-jagex-is-scrapping-the-whole-thing/",
-          "published": "2026-10-15T21:09:54+00:00"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "title": "Welp, all of you RuneScape folks who hate Reignited have gotten your wish, as the controversial MMO rejig has been cancelled",
-          "url": "https://www.rockpapershotgun.com/welp-all-of-you-runescape-folks-who-hate-reignited-have-gotten-your-wish-as-the-controversial-mmo-rejig-has-been-cancelled",
-          "published": "2026-10-15T21:51:05+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "RuneScape Reignited è stato subito cancellato, dopo le critiche dei giocatori",
-          "url": "https://multiplayer.it/notizie/runescape-reignited-e-stato-subito-cancellato-dopo-le-critiche-dei-giocatori.html",
-          "published": "2026-10-16T08:36:46+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback",
-          "url": "https://www.eurogamer.net/runescape-reignited-cancelled-two-weeks-player-feedback",
-          "published": "2026-10-16T09:07:10+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "art-assembly-backlash-bringing-bugs-complete",
-      "score": 43.3,
-      "already_proposed": false,
-      "headline": "Sega’s Total War: Shogun 2 Remake Is Such A Disaster It’s Being Pulled From Sale",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 19.7,
-      "signals": {
-        "coverage": 1.0,
-        "velocity": 0.14,
-        "it_gap": 1.0,
-        "yt_demand": 0.11,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.57,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GameSpot",
-        "GamesIndustry",
-        "IGN",
-        "Kotaku",
-        "PC Gamer",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 1109,
-        "top_views": 14072,
-        "top_title": "Shogun 2 Complete Edition Is So Bad Even SEGA Admitted It"
-      },
-      "youtube_query": "sega shogun total war sale",
-      "related": [],
-      "articles": [
-        {
-          "source": "Kotaku",
-          "title": "Sega’s Total War: Shogun 2 Remake Is Such A Disaster It’s Being Pulled From Sale",
-          "url": "https://kotaku.com/sega-total-war-shogun-2-complete-edition-ai-reviews-pulled-from-sale-2000746339",
-          "published": "2026-10-15T13:59:17+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "Sega pulls Total War: Shogun 2 – Complete Edition from stores over bugs and AI art",
-          "url": "https://www.videogameschronicle.com/news/sega-pulls-total-war-shogun-2-complete-edition-from-stores-over-bugs-and-ai-art/",
-          "published": "2026-10-15T14:15:33+00:00"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "title": "\"Total War: Shogun 2 Complete Edition has fallen short of both your expectations and our own standards\", Sega say as they pull it from stores and restore the original",
-          "url": "https://www.rockpapershotgun.com/total-war-shogun-2-complete-edition-has-fallen-short-of-both-your-expectations-and-our-own-standards-sega-say-as-they-pull-it-from-stores-and-restore-the-original",
-          "published": "2026-10-15T14:27:58+00:00"
-        },
-        {
-          "source": "IGN",
-          "title": "Sega Pulls Disastrous Total War: Shogun 2 Remaster From Sale Following Backlash",
-          "url": "https://www.ign.com/articles/total-war-shogun-2-remaster-pulled-from-sale",
-          "published": "2026-10-15T15:09:04+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "The Shogun 2 remaster is so bad, Sega is removing it from sale and bringing back the original",
-          "url": "https://www.pcgamer.com/games/strategy/the-shogun-2-remaster-is-so-bad-sega-is-removing-it-from-sale-and-bringing-back-the-original/",
-          "published": "2026-10-15T15:50:41+00:00"
-        },
-        {
-          "source": "GameSpot",
-          "title": "Sega Pulls Total War: Shogun 2 Remaster After Backlash Over AI-Upscaled Graphics",
-          "url": "https://www.gamespot.com/articles/sega-pulls-total-war-shogun-2-remaster-after-backlash-over-ai-upscaled-graphics/",
-          "published": "2026-10-15T17:10:28+00:00"
-        },
-        {
-          "source": "GamesIndustry",
-          "title": "Sega and Creative Assembly remove Total War: Shogun 2 remaster from sale as it \"falls short of both your expectations and our own standards\"",
-          "url": "https://www.gamesindustry.biz/sega-and-creative-assembly-remove-total-war-shogun-2-remaster-from-sale-as-it-falls-short-of-both-your-expectations-and-our-own-standards",
-          "published": "2026-10-16T08:22:20+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "ancestors-animal-evolution-owners-ps4-ps5",
-      "score": 36.2,
-      "already_proposed": false,
-      "headline": "Animal Evolution Sim Ancestors Gets Surprise PS5 Version, Free Upgrade for PS4 Owners",
+      "headline": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
       "topics": [
         "playstation",
+        "aaa",
         "feel_good"
-      ],
-      "age_hours": 10.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.11,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 1120,
-        "top_views": 1120,
-        "top_title": "Ancestors Surprise PS5 Version Gets Free PS4 Upgrade"
-      },
-      "youtube_query": "animal ps4 ancestors evolution sim",
-      "related": [
-        {
-          "headline": "Rockstar has revealed the official launch trailer for Grand Theft Auto 6",
-          "shared_terms": [
-            "surprise"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Push Square",
-          "title": "Animal Evolution Sim Ancestors Gets Surprise PS5 Version, Free Upgrade for PS4 Owners",
-          "url": "https://www.pushsquare.com/news/2026/10/animal-evolution-sim-ancestors-gets-surprise-ps5-version-free-upgrade-for-ps4-owners",
-          "published": "2026-10-15T23:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "code-colours-critics-everyone-fighter-hates",
-      "score": 35.4,
-      "already_proposed": false,
-      "headline": "The New Street Fighter Movie Gets Savaged By Critics, But Not Everyone Hates It",
-      "topics": [],
-      "age_hours": 10.7,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.05,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku",
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 220,
-        "top_views": 220,
-        "top_title": "Street Fighter 2026 Critics Hate It (28%)… But I Think Audiences Will Love It"
-      },
-      "youtube_query": "movie fighter street hates critics",
-      "related": [
-        {
-          "headline": "The  Ocarina Of Time Remake Doesn’t Do Everyone’s Favorite Bombchu-Bowling Baddie Justice",
-          "shared_terms": [
-            "everyone"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Kotaku",
-          "title": "The New Street Fighter Movie Gets Savaged By Critics, But Not Everyone Hates It",
-          "url": "https://kotaku.com/the-new-street-fighter-movie-gets-savaged-by-critics-but-not-everyone-hates-it-2000746464",
-          "published": "2026-10-15T23:00:23+00:00"
-        },
-        {
-          "source": "Nintendo Life",
-          "title": "Street Fighter 6 Reveals Street Fighter Movie EX Colours, Here's Every Free Code",
-          "url": "https://www.nintendolife.com/news/2026/10/street-fighter-6-reveals-street-fighter-movie-ex-colours-heres-every-free-code",
-          "published": "2026-10-16T05:55:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "announces-hike-japan-nintendo-price-repair",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "Nintendo Announces Switch 2 Repair Price Hike For Japan",
-      "topics": [
-        "nintendo",
-        "industria"
-      ],
-      "age_hours": 6.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "japan repair price hike announces",
-      "related": [],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Nintendo Announces Switch 2 Repair Price Hike For Japan",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-announces-switch-2-repair-price-hike-for-japan",
-          "published": "2026-10-16T02:55:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "beloved-climber-indie-october-peak-release",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule",
-      "topics": [
-        "nintendo",
-        "indie"
-      ],
-      "age_hours": 0.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "beloved climber scales stacked schedule",
-      "related": [
-        {
-          "headline": "Control Resonant Cuts Through the Crazy PS5 Release Schedule with 1 Million Sales",
-          "shared_terms": [
-            "schedule"
-          ]
-        },
-        {
-          "headline": "Humble’s Cozy After Dark Showcase Bundle Is Perfect for Halloween, With 10 Spooky Indie Games for $12",
-          "shared_terms": [
-            "indie"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule",
-          "url": "https://www.nintendolife.com/news/2026/10/peak-the-beloved-indie-climber-scales-octobers-stacked-switch-2-release-schedule",
-          "published": "2026-10-16T09:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "achievements-compare-dlc-easy-friends-huge",
-      "score": 32.1,
-      "already_proposed": false,
-      "headline": "Steam achievements are getting a huge overhaul, with separate sets for DLC and season passes, and an easy way to compare with friends",
-      "topics": [
-        "steam"
-      ],
-      "age_hours": 9.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.04,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 128,
-        "top_views": 128,
-        "top_title": "Steam achievements are getting a huge overhaul, with separate sets for DLC and season p... #Shorts"
-      },
-      "youtube_query": "passes easy achievements sets season",
-      "related": [
-        {
-          "headline": "RE4 Separate Ways: Cliffside Door Symbol puzzle",
-          "shared_terms": [
-            "separate"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "Steam achievements are getting a huge overhaul, with separate sets for DLC and season passes, and an easy way to compare with friends",
-          "url": "https://www.pcgamer.com/software/platforms/steam-achievements-are-getting-a-huge-overhaul-with-separate-sets-for-dlc-and-season-passes-and-an-easy-way-to-compare-with-friends/",
-          "published": "2026-10-15T23:58:30+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "battlefield-charging-content-disrespect-generated-peak",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Battlefield 6 Gets Slammed For More Slop Slipping Through: ‘Charging Players $$$ For AI-Generated Content Is Peak Disrespect’",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 12.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "slammed generated slop disrespect charging",
-      "related": [
-        {
-          "headline": "World of Warcraft: Forever devs say gear upgrades will stay relevant 'for a long, long time': 'It's very much our intention to try wherever we can to not invalidate old content'",
-          "shared_terms": [
-            "content"
-          ]
-        },
-        {
-          "headline": "Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were \"unintended\"",
-          "shared_terms": [
-            "battlefield"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Kotaku",
-          "title": "Battlefield 6 Gets Slammed For More Slop Slipping Through: ‘Charging Players $$$ For AI-Generated Content Is Peak Disrespect’",
-          "url": "https://kotaku.com/battlefield-6-gets-slammed-for-more-slop-slipping-through-charging-players-for-ai-generated-content-is-peak-disrespect-2000746452",
-          "published": "2026-10-15T21:40:48+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "banner-censors-gta-guns-massive-paris",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Massive GTA 6 Banner In Paris Censors All Of The Guns",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 11.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "censors paris banner guns massive",
-      "related": [],
-      "articles": [
-        {
-          "source": "Kotaku",
-          "title": "Massive GTA 6 Banner In Paris Censors All Of The Guns",
-          "url": "https://kotaku.com/massive-gta-6-banner-in-paris-features-some-silly-censorship-2000746458",
-          "published": "2026-10-15T22:00:10+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "edition-exclusive-kingdom-officially-revealed-statue",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Here's A Look",
-      "topics": [
-        "nintendo"
       ],
       "age_hours": 9.2,
       "signals": {
@@ -707,7 +21,258 @@
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "adding karia weight vote andreas",
+      "related": [
+        {
+          "headline": "Preview: 'Eternal Anima' Returns To The Past To Create A Modern JRPG",
+          "shared_terms": [
+            "jrpg"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
+          "published": "2026-10-17T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "among-delayed-remastered-switch-wolf",
+      "score": 35.6,
+      "already_proposed": false,
+      "headline": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 7.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.09,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 731,
+        "top_views": 731,
+        "top_title": "The Wolf Among Us Remastered Delayed on Switch"
+      },
+      "youtube_query": "wolf delayed among remastered switch",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+          "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+          "published": "2026-10-17T01:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "dex-event-guide-habitat-list-pokopia",
+      "score": 34.6,
+      "already_proposed": false,
+      "headline": "Pokémon Pokopia 'Pumpkaboo's Sweet Surprises' event guide",
+      "topics": [
+        "pokemon",
+        "feel_good"
+      ],
+      "age_hours": 5.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 7,
+        "median_views": 203,
+        "top_views": 7153,
+        "top_title": "Pumpkaboo's Sweet Surprise Event Guide, Items, Bonus Reward & HABITATS in Pokemon Pokopia!"
+      },
+      "youtube_query": "event pokopia pokémon sweet surprises",
+      "related": [
+        {
+          "headline": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule",
+          "shared_terms": [
+            "schedule"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Pokémon Pokopia 'Pumpkaboo's Sweet Surprises' event guide",
+          "url": "https://www.polygon.com/pokemon-pokopia-pumpkaboos-sweet-surprises-gourgeist-habitats-items/",
+          "published": "2026-10-17T04:01:18+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Event Habitat Dex and Pokédex list in Pokémon Pokopia",
+          "url": "https://www.polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock/",
+          "published": "2026-10-17T04:01:19+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Pokémon Pokopia event schedule",
+          "url": "https://www.polygon.com/pokemon-pokopia-event-schedule-holiday-dates/",
+          "published": "2026-10-17T04:01:19+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "auto-blurry-comparing-complaining-downgrade-fans",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 11.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "comparing complaining theft grand blurry",
+      "related": [
+        {
+          "headline": "Roundup: All The Biggest Xbox Reveals From The Galaxies Autumn 2026 Showcase",
+          "shared_terms": [
+            "latest"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’",
+          "url": "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855",
+          "published": "2026-10-16T21:30:28+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "banned-bites-bros-bug-concerns-health",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
+      "topics": [
+        "nintendo",
+        "industria"
+      ],
+      "age_hours": 11.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "tournament bug concerns bites health",
+      "related": [
+        {
+          "headline": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback",
+          "shared_terms": [
+            "player"
+          ]
+        },
+        {
+          "headline": "‘It Was an Unofficial Goal of the Team to Be Banned, Unrated, or Restricted’ – How Hellraiser: Revival Expands Cenobite Lore While Staying True to Clive Barker",
+          "shared_terms": [
+            "banned"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
+          "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+          "published": "2026-10-16T21:54:09+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "aspyr-remastering-shrek-surprise",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Surprise! Aspyr Is Remastering A Shrek Game",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 3.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -721,33 +286,73 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "statue tears kingdom exclusive revealed",
+      "youtube_query": "remastering aspyr surprise shrek",
       "related": [
         {
-          "headline": "Japanese Charts: Kingdom Hearts Collection Grabs The Top Spot, Despite A Slow Start",
+          "headline": "Here's Our First Look at Dark Link in The Legend of Zelda: Ocarina of Time Remake",
           "shared_terms": [
-            "kingdom"
+            "surprise"
           ]
         }
       ],
       "articles": [
         {
           "source": "Nintendo Life",
-          "title": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Here's A Look",
-          "url": "https://www.nintendolife.com/news/2026/10/zelda-tears-of-the-kingdom-exclusive-edition-statue-officially-revealed-heres-a-look",
-          "published": "2026-10-16T00:25:00+00:00"
+          "title": "Surprise! Aspyr Is Remastering A Shrek Game",
+          "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
+          "published": "2026-10-17T06:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "ever-far-later-leave-quote-side",
+      "story_id": "break-gta-records",
+      "score": 33.3,
+      "already_proposed": false,
+      "headline": "All The Records GTA 6 Will Break, We Think",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 12.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.09,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.96,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 892,
+        "top_views": 2085,
+        "top_title": "The GTA 6 Trailer That Broke the Internet 🤯 #shorts"
+      },
+      "youtube_query": "break records gta",
+      "related": [],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "All The Records GTA 6 Will Break, We Think",
+          "url": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
+          "published": "2026-10-16T20:27:22+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "approach-comments-covid-gta-officially-rockstar",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "34 Years Later, the Best-Ever 'Far Side' Quote Will Still Leave You Speechless",
+      "headline": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19",
       "topics": [
-        "easter_egg"
+        "aaa"
       ],
-      "age_hours": 5.7,
+      "age_hours": 8.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -768,96 +373,24 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "side speechless leave ever far",
-      "related": [
-        {
-          "headline": "Control Resonant sells 1 million copies in 3 weeks to become Remedy's fastest-selling game ever",
-          "shared_terms": [
-            "ever"
-          ]
-        },
-        {
-          "headline": "53 Years Later, The Greatest Closing Line In Sci-Fi History Is Still The Best Book Quote Of The 1970s",
-          "shared_terms": [
-            "quote"
-          ]
-        }
-      ],
+      "youtube_query": "approach covid trump comments rockstar",
+      "related": [],
       "articles": [
         {
           "source": "Polygon",
-          "title": "34 Years Later, the Best-Ever 'Far Side' Quote Will Still Leave You Speechless",
-          "url": "https://www.polygon.com/best-far-side-quote-ever/",
-          "published": "2026-10-16T04:00:23+00:00"
+          "title": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19",
+          "url": "https://www.polygon.com/gta-6-trump-rockstar-games/",
+          "published": "2026-10-17T00:43:17+00:00"
         }
       ]
     },
     {
-      "story_id": "battlefield-changes-controversial-reversed-saying-studios",
+      "story_id": "beloved-fantasy-novel-redwall-return-series",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were \"unintended\"",
+      "headline": "Beloved Fantasy Novel Series Redwall Sets Return After 16 Years",
       "topics": [
-        "aaa"
-      ],
-      "age_hours": 1.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "reversed unintended saying battlefield controversial",
-      "related": [
-        {
-          "headline": "007 First Light gets Switch 2 release date, with IO Interactive saying time for \"optimisation and performance\" was needed",
-          "shared_terms": [
-            "saying"
-          ]
-        },
-        {
-          "headline": "\"Some people like it, some people are annoyed by it\": Substructure may look like Factorio, but it changes the automation game in some fundamental ways",
-          "shared_terms": [
-            "changes"
-          ]
-        },
-        {
-          "headline": "RuneScape Reignited Canceled Less Than Two Weeks After Being Announced",
-          "shared_terms": [
-            "controversial"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "Controversial Battlefield 6 XP changes have been reversed, with Battlefield Studios saying they were \"unintended\"",
-          "url": "https://www.eurogamer.net/battlefield-6-xp-cap-season-5-reverted",
-          "published": "2026-10-16T08:37:38+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "1970s-book-closing-greatest-history-later",
-      "score": 31.2,
-      "already_proposed": true,
-      "headline": "53 Years Later, The Greatest Closing Line In Sci-Fi History Is Still The Best Book Quote Of The 1970s",
-      "topics": [
-        "easter_egg"
+        "feel_good"
       ],
       "age_hours": 7.3,
       "signals": {
@@ -880,27 +413,329 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "line 1970s closing greatest book",
+      "youtube_query": "novel redwall beloved fantasy sets",
       "related": [
         {
-          "headline": "K/DA Is Getting an Official Louis Vuitton Art Book Ahead of 'Start a Fire' Comeback",
+          "headline": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule",
           "shared_terms": [
-            "book"
+            "beloved"
           ]
         },
         {
-          "headline": "34 Years Later, the Best-Ever 'Far Side' Quote Will Still Leave You Speechless",
+          "headline": "New RPG From Final Fantasy, Persona Vets Borrows From The Past To Ask How We Can Save The Future",
           "shared_terms": [
-            "quote"
+            "fantasy"
           ]
         }
       ],
       "articles": [
         {
           "source": "Polygon",
-          "title": "53 Years Later, The Greatest Closing Line In Sci-Fi History Is Still The Best Book Quote Of The 1970s",
-          "url": "https://www.polygon.com/best-scifi-book-closing-line/",
-          "published": "2026-10-16T02:21:17+00:00"
+          "title": "Beloved Fantasy Novel Series Redwall Sets Return After 16 Years",
+          "url": "https://www.polygon.com/redwall-fantasy-book-series-2027-release-orphans-of-mossflower/",
+          "published": "2026-10-17T01:52:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "coastal-coral-cosy-farming-island-officially",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 5.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "coastal winter farming coral island",
+      "related": [
+        {
+          "headline": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion",
+          "shared_terms": [
+            "cosy"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
+          "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
+          "published": "2026-10-17T04:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "confirmed-cult-lamb-path-summons-switch",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 1.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "path version lamb summons upgrade",
+      "related": [
+        {
+          "headline": "Forgotten Monkey Survival Sim Getting Free Xbox Series X|S Upgrade This December",
+          "shared_terms": [
+            "upgrade"
+          ]
+        },
+        {
+          "headline": "Zero Parades, The Successor To Disco Elysium, Has Been Confirmed For Switch 2",
+          "shared_terms": [
+            "confirmed"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+          "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
+          "published": "2026-10-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "award-aware-belmont-castlevania-curse-dads",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "‘There Should be a Game Award for Hot Dads’ — Castlevania: Belmont’s Curse Devs Are Fully Aware and Loving the ‘Horny’ Fanart for Their Game",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 12.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.99,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "horny award belmont fanart aware",
+      "related": [
+        {
+          "headline": "Castlevania‘s Most Iconic Song Should Chain Whip Me To Death, Not Put Me In A Thousand Year Sleep",
+          "shared_terms": [
+            "castlevania"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "‘There Should be a Game Award for Hot Dads’ — Castlevania: Belmont’s Curse Devs Are Fully Aware and Loving the ‘Horny’ Fanart for Their Game",
+          "url": "https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
+          "published": "2026-10-16T21:03:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "analyst-behind-estimates-ghost-lag-ps5",
+      "score": 30.6,
+      "already_proposed": false,
+      "headline": "Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 13.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.93,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "tsushima lag analyst estimates sales",
+      "related": [
+        {
+          "headline": "Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US",
+          "shared_terms": [
+            "show"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show",
+          "url": "https://www.ign.com/articles/ghost-of-yotei-sales-lagging-behind-tsushima-but-still-strong-on-ps5-analyst-estimates-show",
+          "published": "2026-10-16T19:59:45+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "capcom-cult-diventa-evil-favorite-horror",
+      "score": 29.5,
+      "already_proposed": false,
+      "headline": "Resident Evil 2, 3 e 4: tre remake cult sbarcano su Switch 2 e la paura diventa portatile!",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 17.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.67,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [
+        "Everyeye"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "resident evil switch portatile sbarcano",
+      "related": [
+        {
+          "headline": "I Never Played Ocarina of Time, But 2 Hours With the Remake Proves There’s So Much More to This Masterpiece Than Nostalgia",
+          "shared_terms": [
+            "masterpiece"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Everyeye",
+          "title": "Resident Evil 2, 3 e 4: tre remake cult sbarcano su Switch 2 e la paura diventa portatile!",
+          "url": "https://www.everyeye.it/articoli/speciale-resident-evil-2-3-4-tre-remake-cult-sbarcano-switch-2-paura-portatile-67722.html",
+          "published": "2026-10-16T15:20:00+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Resident Evil 2 on Switch 2 Is My New Favorite Way to Play Capcom's Horror Masterpiece",
+          "url": "https://www.polygon.com/resident-evil-2-switch-2-impressions/",
+          "published": "2026-10-16T21:00:19+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "coding-criticized-founder-francisco-neighborhood-poorest",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
+      "topics": [],
+      "age_hours": 9.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "zombies shooting criticized founder neighborhood",
+      "related": [
+        {
+          "headline": "Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding",
+          "shared_terms": [
+            "coding",
+            "vibe"
+          ]
+        },
+        {
+          "headline": "Linux kernel drops AI-contribution disclosure rule, as Linus Torvalds says banning the tech would be 'utterly stupid'",
+          "shared_terms": [
+            "tech"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
+          "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
+          "published": "2026-10-16T23:53:11+00:00"
         }
       ]
     }

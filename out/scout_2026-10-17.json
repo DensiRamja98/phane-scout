@@ -1,0 +1,743 @@
+{
+  "generated_at": "2026-10-17T09:11:50.246988+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "adding-andreas-atelier-fan-gta-jrpg",
+      "score": 35.7,
+      "already_proposed": false,
+      "headline": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
+      "topics": [
+        "playstation",
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 9.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "adding karia weight vote andreas",
+      "related": [
+        {
+          "headline": "Preview: 'Eternal Anima' Returns To The Past To Create A Modern JRPG",
+          "shared_terms": [
+            "jrpg"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
+          "published": "2026-10-17T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "among-delayed-remastered-switch-wolf",
+      "score": 35.6,
+      "already_proposed": false,
+      "headline": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 7.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.09,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 731,
+        "top_views": 731,
+        "top_title": "The Wolf Among Us Remastered Delayed on Switch"
+      },
+      "youtube_query": "wolf delayed among remastered switch",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+          "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+          "published": "2026-10-17T01:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "dex-event-guide-habitat-list-pokopia",
+      "score": 34.6,
+      "already_proposed": false,
+      "headline": "Pokémon Pokopia 'Pumpkaboo's Sweet Surprises' event guide",
+      "topics": [
+        "pokemon",
+        "feel_good"
+      ],
+      "age_hours": 5.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 7,
+        "median_views": 203,
+        "top_views": 7153,
+        "top_title": "Pumpkaboo's Sweet Surprise Event Guide, Items, Bonus Reward & HABITATS in Pokemon Pokopia!"
+      },
+      "youtube_query": "event pokopia pokémon sweet surprises",
+      "related": [
+        {
+          "headline": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule",
+          "shared_terms": [
+            "schedule"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Pokémon Pokopia 'Pumpkaboo's Sweet Surprises' event guide",
+          "url": "https://www.polygon.com/pokemon-pokopia-pumpkaboos-sweet-surprises-gourgeist-habitats-items/",
+          "published": "2026-10-17T04:01:18+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Event Habitat Dex and Pokédex list in Pokémon Pokopia",
+          "url": "https://www.polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock/",
+          "published": "2026-10-17T04:01:19+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Pokémon Pokopia event schedule",
+          "url": "https://www.polygon.com/pokemon-pokopia-event-schedule-holiday-dates/",
+          "published": "2026-10-17T04:01:19+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "auto-blurry-comparing-complaining-downgrade-fans",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 11.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "comparing complaining theft grand blurry",
+      "related": [
+        {
+          "headline": "Roundup: All The Biggest Xbox Reveals From The Galaxies Autumn 2026 Showcase",
+          "shared_terms": [
+            "latest"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’",
+          "url": "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855",
+          "published": "2026-10-16T21:30:28+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "banned-bites-bros-bug-concerns-health",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
+      "topics": [
+        "nintendo",
+        "industria"
+      ],
+      "age_hours": 11.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "tournament bug concerns bites health",
+      "related": [
+        {
+          "headline": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback",
+          "shared_terms": [
+            "player"
+          ]
+        },
+        {
+          "headline": "‘It Was an Unofficial Goal of the Team to Be Banned, Unrated, or Restricted’ – How Hellraiser: Revival Expands Cenobite Lore While Staying True to Clive Barker",
+          "shared_terms": [
+            "banned"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
+          "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
+          "published": "2026-10-16T21:54:09+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "aspyr-remastering-shrek-surprise",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Surprise! Aspyr Is Remastering A Shrek Game",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 3.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "remastering aspyr surprise shrek",
+      "related": [
+        {
+          "headline": "Here's Our First Look at Dark Link in The Legend of Zelda: Ocarina of Time Remake",
+          "shared_terms": [
+            "surprise"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Surprise! Aspyr Is Remastering A Shrek Game",
+          "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
+          "published": "2026-10-17T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "break-gta-records",
+      "score": 33.3,
+      "already_proposed": false,
+      "headline": "All The Records GTA 6 Will Break, We Think",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 12.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.09,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.96,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 892,
+        "top_views": 2085,
+        "top_title": "The GTA 6 Trailer That Broke the Internet 🤯 #shorts"
+      },
+      "youtube_query": "break records gta",
+      "related": [],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "All The Records GTA 6 Will Break, We Think",
+          "url": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
+          "published": "2026-10-16T20:27:22+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "approach-comments-covid-gta-officially-rockstar",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 8.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "approach covid trump comments rockstar",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19",
+          "url": "https://www.polygon.com/gta-6-trump-rockstar-games/",
+          "published": "2026-10-17T00:43:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "beloved-fantasy-novel-redwall-return-series",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Beloved Fantasy Novel Series Redwall Sets Return After 16 Years",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 7.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "novel redwall beloved fantasy sets",
+      "related": [
+        {
+          "headline": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule",
+          "shared_terms": [
+            "beloved"
+          ]
+        },
+        {
+          "headline": "New RPG From Final Fantasy, Persona Vets Borrows From The Past To Ask How We Can Save The Future",
+          "shared_terms": [
+            "fantasy"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Beloved Fantasy Novel Series Redwall Sets Return After 16 Years",
+          "url": "https://www.polygon.com/redwall-fantasy-book-series-2027-release-orphans-of-mossflower/",
+          "published": "2026-10-17T01:52:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "coastal-coral-cosy-farming-island-officially",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 5.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "coastal winter farming coral island",
+      "related": [
+        {
+          "headline": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion",
+          "shared_terms": [
+            "cosy"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
+          "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
+          "published": "2026-10-17T04:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "confirmed-cult-lamb-path-summons-switch",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 1.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "path version lamb summons upgrade",
+      "related": [
+        {
+          "headline": "Forgotten Monkey Survival Sim Getting Free Xbox Series X|S Upgrade This December",
+          "shared_terms": [
+            "upgrade"
+          ]
+        },
+        {
+          "headline": "Zero Parades, The Successor To Disco Elysium, Has Been Confirmed For Switch 2",
+          "shared_terms": [
+            "confirmed"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+          "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
+          "published": "2026-10-17T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "award-aware-belmont-castlevania-curse-dads",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "‘There Should be a Game Award for Hot Dads’ — Castlevania: Belmont’s Curse Devs Are Fully Aware and Loving the ‘Horny’ Fanart for Their Game",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 12.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.99,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "horny award belmont fanart aware",
+      "related": [
+        {
+          "headline": "Castlevania‘s Most Iconic Song Should Chain Whip Me To Death, Not Put Me In A Thousand Year Sleep",
+          "shared_terms": [
+            "castlevania"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "‘There Should be a Game Award for Hot Dads’ — Castlevania: Belmont’s Curse Devs Are Fully Aware and Loving the ‘Horny’ Fanart for Their Game",
+          "url": "https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
+          "published": "2026-10-16T21:03:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "analyst-behind-estimates-ghost-lag-ps5",
+      "score": 30.6,
+      "already_proposed": false,
+      "headline": "Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 13.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.93,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "tsushima lag analyst estimates sales",
+      "related": [
+        {
+          "headline": "Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US",
+          "shared_terms": [
+            "show"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show",
+          "url": "https://www.ign.com/articles/ghost-of-yotei-sales-lagging-behind-tsushima-but-still-strong-on-ps5-analyst-estimates-show",
+          "published": "2026-10-16T19:59:45+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "capcom-cult-diventa-evil-favorite-horror",
+      "score": 29.5,
+      "already_proposed": false,
+      "headline": "Resident Evil 2, 3 e 4: tre remake cult sbarcano su Switch 2 e la paura diventa portatile!",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 17.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.67,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [
+        "Everyeye"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "resident evil switch portatile sbarcano",
+      "related": [
+        {
+          "headline": "I Never Played Ocarina of Time, But 2 Hours With the Remake Proves There’s So Much More to This Masterpiece Than Nostalgia",
+          "shared_terms": [
+            "masterpiece"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Everyeye",
+          "title": "Resident Evil 2, 3 e 4: tre remake cult sbarcano su Switch 2 e la paura diventa portatile!",
+          "url": "https://www.everyeye.it/articoli/speciale-resident-evil-2-3-4-tre-remake-cult-sbarcano-switch-2-paura-portatile-67722.html",
+          "published": "2026-10-16T15:20:00+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Resident Evil 2 on Switch 2 Is My New Favorite Way to Play Capcom's Horror Masterpiece",
+          "url": "https://www.polygon.com/resident-evil-2-switch-2-impressions/",
+          "published": "2026-10-16T21:00:19+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "coding-criticized-founder-francisco-neighborhood-poorest",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
+      "topics": [],
+      "age_hours": 9.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "zombies shooting criticized founder neighborhood",
+      "related": [
+        {
+          "headline": "Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding",
+          "shared_terms": [
+            "coding",
+            "vibe"
+          ]
+        },
+        {
+          "headline": "Linux kernel drops AI-contribution disclosure rule, as Linus Torvalds says banning the tech would be 'utterly stupid'",
+          "shared_terms": [
+            "tech"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
+          "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
+          "published": "2026-10-16T23:53:11+00:00"
+        }
+      ]
+    }
+  ]
+}
