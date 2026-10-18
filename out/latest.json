@@ -1,27 +1,147 @@
 {
-  "generated_at": "2026-10-17T09:11:50.246988+00:00",
+  "generated_at": "2026-10-18T09:28:20.293613+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "adding-andreas-atelier-fan-gta-jrpg",
-      "score": 35.7,
+      "story_id": "actor-call-campaign-captain-duty-fans",
+      "score": 54.8,
       "already_proposed": false,
-      "headline": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
+      "headline": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
       "topics": [
-        "playstation",
         "aaa",
         "feel_good"
       ],
-      "age_hours": 9.2,
+      "age_hours": 21.3,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.33,
+        "it_gap": 0.5,
+        "yt_demand": 1.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.48,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku",
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 420503,
+        "top_views": 1556226,
+        "top_title": "CALL OF DUTY MODERN WARFARE 4 Campaign Walkthrough Gameplay Part 1 - INTRO (FULL GAME)"
+      },
+      "youtube_query": "campaign warfare modern reviews call",
+      "related": [
+        {
+          "headline": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm",
+          "shared_terms": [
+            "actor"
+          ]
+        },
+        {
+          "headline": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original",
+          "shared_terms": [
+            "sound"
+          ]
+        },
+        {
+          "headline": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring",
+          "shared_terms": [
+            "price"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
+          "url": "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857",
+          "published": "2026-10-17T12:09:26+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
+          "url": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
+          "published": "2026-10-17T15:52:41+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In",
+          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in",
+          "published": "2026-10-18T07:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "aim-battlefield-cosmetic-devs-pistols-players",
+      "score": 34.0,
+      "already_proposed": false,
+      "headline": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 12.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.11,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 1214,
+        "top_views": 1214,
+        "top_title": "Battlefield 6 Devs Respond to Ridiculed Season 5 Skins"
+      },
+      "youtube_query": "aim devs secuty cosmetic respond",
+      "related": [
+        {
+          "headline": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo",
+          "shared_terms": [
+            "typo"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
+          "url": "https://www.ign.com/articles/battlefield-6-devs-respond-after-players-take-aim-at-secuty-typo-and-cosmetic-with-5-pistols",
+          "published": "2026-10-17T21:27:10+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "don-gta-launch-not-ps5-qssr",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 9.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 1.0,
+        "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -35,190 +155,40 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "adding karia weight vote andreas",
+      "youtube_query": "seeing qssr upscaler launch don",
       "related": [
         {
-          "headline": "Preview: 'Eternal Anima' Returns To The Past To Create A Modern JRPG",
+          "headline": "Debra Wilson Also Confused On Why Games Keep Using Her Likeness",
           "shared_terms": [
-            "jrpg"
+            "using"
           ]
         }
       ],
       "articles": [
         {
           "source": "Push Square",
-          "title": "PS5 JRPG Atelier Karia Adding GTA San Andreas-Style Weight Mechanic After Overwhelming Fan Vote",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-jrpg-atelier-karia-adding-gta-san-andreas-style-weight-mechanic-after-overwhelming-fan-vote",
-          "published": "2026-10-17T00:00:00+00:00"
+          "title": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
+          "url": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
+          "published": "2026-10-18T00:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "among-delayed-remastered-switch-wolf",
-      "score": 35.6,
+      "story_id": "behind-cancels-concerns-copycat-demo-dev",
+      "score": 31.7,
       "already_proposed": false,
-      "headline": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+      "headline": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
       "topics": [
-        "nintendo",
-        "aaa"
+        "steam"
       ],
-      "age_hours": 7.3,
+      "age_hours": 10.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.09,
+        "yt_demand": 0.02,
         "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 2,
-        "median_views": 731,
-        "top_views": 731,
-        "top_title": "The Wolf Among Us Remastered Delayed on Switch"
-      },
-      "youtube_query": "wolf delayed among remastered switch",
-      "related": [],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "The Wolf Among Us Remastered Has Been Delayed For Switch",
-          "url": "https://www.nintendolife.com/news/2026/10/the-wolf-among-us-remastered-has-been-delayed-for-switch",
-          "published": "2026-10-17T01:55:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "dex-event-guide-habitat-list-pokopia",
-      "score": 34.6,
-      "already_proposed": false,
-      "headline": "Pokémon Pokopia 'Pumpkaboo's Sweet Surprises' event guide",
-      "topics": [
-        "pokemon",
-        "feel_good"
-      ],
-      "age_hours": 5.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.05,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 7,
-        "median_views": 203,
-        "top_views": 7153,
-        "top_title": "Pumpkaboo's Sweet Surprise Event Guide, Items, Bonus Reward & HABITATS in Pokemon Pokopia!"
-      },
-      "youtube_query": "event pokopia pokémon sweet surprises",
-      "related": [
-        {
-          "headline": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule",
-          "shared_terms": [
-            "schedule"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "Pokémon Pokopia 'Pumpkaboo's Sweet Surprises' event guide",
-          "url": "https://www.polygon.com/pokemon-pokopia-pumpkaboos-sweet-surprises-gourgeist-habitats-items/",
-          "published": "2026-10-17T04:01:18+00:00"
-        },
-        {
-          "source": "Polygon",
-          "title": "Event Habitat Dex and Pokédex list in Pokémon Pokopia",
-          "url": "https://www.polygon.com/pokemon-pokopia-event-habitat-dex-pokedex-list-requirements-unlock/",
-          "published": "2026-10-17T04:01:19+00:00"
-        },
-        {
-          "source": "Polygon",
-          "title": "Pokémon Pokopia event schedule",
-          "url": "https://www.polygon.com/pokemon-pokopia-event-schedule-holiday-dates/",
-          "published": "2026-10-17T04:01:19+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "auto-blurry-comparing-complaining-downgrade-fans",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’",
-      "topics": [
-        "aaa",
-        "feel_good"
-      ],
-      "age_hours": 11.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "comparing complaining theft grand blurry",
-      "related": [
-        {
-          "headline": "Roundup: All The Biggest Xbox Reveals From The Galaxies Autumn 2026 Showcase",
-          "shared_terms": [
-            "latest"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Kotaku",
-          "title": "Fans Are Comparing Grand Theft Auto 6′s Latest Trailer To Its First And Complaining That It’s A Blurry ‘Downgrade’",
-          "url": "https://kotaku.com/fans-are-comparing-grand-theft-auto-6s-latest-trailer-to-its-first-and-complaining-that-its-a-blurry-downgrade-2000746855",
-          "published": "2026-10-16T21:30:28+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "banned-bites-bros-bug-concerns-health",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
-      "topics": [
-        "nintendo",
-        "industria"
-      ],
-      "age_hours": 11.3,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -227,128 +197,81 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 1,
+        "median_views": 37,
+        "top_views": 37,
+        "top_title": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat... #Shorts"
       },
-      "youtube_query": "tournament bug concerns bites health",
+      "youtube_query": "plans russian copycat concerns roulette",
       "related": [
         {
-          "headline": "Jagex cancels RuneScape Reignited less than two weeks after it was announced, due to \"a ton\" of player feedback",
+          "headline": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
           "shared_terms": [
-            "player"
+            "cancels",
+            "drinking"
           ]
         },
         {
-          "headline": "‘It Was an Unofficial Goal of the Team to Be Banned, Unrated, or Restricted’ – How Hellraiser: Revival Expands Cenobite Lore While Staying True to Clive Barker",
+          "headline": "Smash Bros. Player Barred From Austin Competition Following Bed Bug Concern",
           "shared_terms": [
-            "banned"
+            "following"
           ]
         }
       ],
       "articles": [
         {
           "source": "IGN",
-          "title": "Super Smash Bros. Player Mew2King Banned From Tournament After Bug Bites Spark Health Concerns",
-          "url": "https://www.ign.com/articles/super-smash-bros-player-mew2king-banned-from-tournament-after-bug-bites-spark-health-concerns",
-          "published": "2026-10-16T21:54:09+00:00"
+          "title": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
+          "url": "https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns",
+          "published": "2026-10-17T23:00:23+00:00"
         }
       ]
     },
     {
-      "story_id": "aspyr-remastering-shrek-surprise",
-      "score": 33.5,
+      "story_id": "minior-pok-mon-schedule-shower",
+      "score": 31.4,
       "already_proposed": false,
-      "headline": "Surprise! Aspyr Is Remastering A Shrek Game",
+      "headline": "Pokémon Go Minior Shower schedule",
       "topics": [
-        "aaa",
-        "feel_good"
+        "pokemon"
       ],
-      "age_hours": 3.2,
+      "age_hours": 12.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "remastering aspyr surprise shrek",
-      "related": [
-        {
-          "headline": "Here's Our First Look at Dark Link in The Legend of Zelda: Ocarina of Time Remake",
-          "shared_terms": [
-            "surprise"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Surprise! Aspyr Is Remastering A Shrek Game",
-          "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
-          "published": "2026-10-17T06:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "break-gta-records",
-      "score": 33.3,
-      "already_proposed": false,
-      "headline": "All The Records GTA 6 Will Break, We Think",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 12.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.09,
+        "yt_demand": 0.02,
         "yt_room": 0.0,
         "topic": 0.33,
-        "freshness": 0.96,
+        "freshness": 0.97,
         "weak_format": false
       },
       "coverage_en": [
-        "GameSpot"
+        "Polygon"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 10,
-        "median_views": 892,
-        "top_views": 2085,
-        "top_title": "The GTA 6 Trailer That Broke the Internet 🤯 #shorts"
+        "video_count": 5,
+        "median_views": 24,
+        "top_views": 2002,
+        "top_title": "Minior Is Finally Coming to Pokémon GO ☄️ All 7 Colours + Every Date #pokemongo #pokemongoshorts"
       },
-      "youtube_query": "break records gta",
+      "youtube_query": "shower schedule minior pokémon",
       "related": [],
       "articles": [
         {
-          "source": "GameSpot",
-          "title": "All The Records GTA 6 Will Break, We Think",
-          "url": "https://www.gamespot.com/articles/all-the-records-gta-6-will-break-we-think/",
-          "published": "2026-10-16T20:27:22+00:00"
+          "source": "Polygon",
+          "title": "Pokémon Go Minior Shower schedule",
+          "url": "https://www.polygon.com/pokemon-go-minior-shower-schedule-how-to-find-shiny/",
+          "published": "2026-10-17T21:01:18+00:00"
         }
       ]
     },
     {
-      "story_id": "approach-comments-covid-gta-officially-rockstar",
-      "score": 31.2,
+      "story_id": "andreas-bigfoot-classic-gta-legend-myth",
+      "score": 31.3,
       "already_proposed": false,
-      "headline": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19",
+      "headline": "GTA: San Andreas’ Bigfoot myth is a classic urban legend",
       "topics": [
         "aaa"
       ],
@@ -368,231 +291,31 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
+        "video_count": 1,
         "median_views": 0,
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "approach covid trump comments rockstar",
+      "youtube_query": "bigfoot andreas legend urban classic",
       "related": [],
       "articles": [
         {
           "source": "Polygon",
-          "title": "Rockstar Officially Comments on GTA 6's Approach to Trump & COVID-19",
-          "url": "https://www.polygon.com/gta-6-trump-rockstar-games/",
-          "published": "2026-10-17T00:43:17+00:00"
+          "title": "GTA: San Andreas’ Bigfoot myth is a classic urban legend",
+          "url": "https://www.polygon.com/gta-san-andreas-bigfoot-myth/",
+          "published": "2026-10-18T01:00:18+00:00"
         }
       ]
     },
     {
-      "story_id": "beloved-fantasy-novel-redwall-return-series",
+      "story_id": "000-centres-component-costs-data-facing",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "Beloved Fantasy Novel Series Redwall Sets Return After 16 Years",
-      "topics": [
-        "feel_good"
-      ],
-      "age_hours": 7.3,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "novel redwall beloved fantasy sets",
-      "related": [
-        {
-          "headline": "'Peak', The Beloved Indie Climber, Scales October's Stacked Switch 2 Release Schedule",
-          "shared_terms": [
-            "beloved"
-          ]
-        },
-        {
-          "headline": "New RPG From Final Fantasy, Persona Vets Borrows From The Past To Ask How We Can Save The Future",
-          "shared_terms": [
-            "fantasy"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "Beloved Fantasy Novel Series Redwall Sets Return After 16 Years",
-          "url": "https://www.polygon.com/redwall-fantasy-book-series-2027-release-orphans-of-mossflower/",
-          "published": "2026-10-17T01:52:18+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "coastal-coral-cosy-farming-island-officially",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 5.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "coastal winter farming coral island",
-      "related": [
-        {
-          "headline": "Review: The Witch's Bakery (Switch 2) – A Cosy Narrative Sim That Rises To The Occasion",
-          "shared_terms": [
-            "cosy"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "The Cosy Coastal Farming Sim Coral Island Is Officially On Its Way To Switch 2 This Winter",
-          "url": "https://www.nintendolife.com/news/2026/10/the-cosy-coastal-farming-sim-coral-island-is-officially-on-its-way-to-switch-2-this-winter",
-          "published": "2026-10-17T04:05:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "confirmed-cult-lamb-path-summons-switch",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 1.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "path version lamb summons upgrade",
-      "related": [
-        {
-          "headline": "Forgotten Monkey Survival Sim Getting Free Xbox Series X|S Upgrade This December",
-          "shared_terms": [
-            "upgrade"
-          ]
-        },
-        {
-          "headline": "Zero Parades, The Successor To Disco Elysium, Has Been Confirmed For Switch 2",
-          "shared_terms": [
-            "confirmed"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
-          "url": "https://www.nintendolife.com/news/2026/10/cult-of-the-lamb-summons-a-switch-2-version-free-upgrade-path-confirmed",
-          "published": "2026-10-17T08:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "award-aware-belmont-castlevania-curse-dads",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "‘There Should be a Game Award for Hot Dads’ — Castlevania: Belmont’s Curse Devs Are Fully Aware and Loving the ‘Horny’ Fanart for Their Game",
-      "topics": [
-        "feel_good"
-      ],
-      "age_hours": 12.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.99,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "IGN"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "horny award belmont fanart aware",
-      "related": [
-        {
-          "headline": "Castlevania‘s Most Iconic Song Should Chain Whip Me To Death, Not Put Me In A Thousand Year Sleep",
-          "shared_terms": [
-            "castlevania"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "‘There Should be a Game Award for Hot Dads’ — Castlevania: Belmont’s Curse Devs Are Fully Aware and Loving the ‘Horny’ Fanart for Their Game",
-          "url": "https://www.ign.com/articles/there-should-be-a-game-award-for-hot-dads-castlevania-belmonts-curse-devs-are-fully-aware-and-loving-the-horny-fanart-for-their-game",
-          "published": "2026-10-16T21:03:50+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "analyst-behind-estimates-ghost-lag-ps5",
-      "score": 30.6,
-      "already_proposed": false,
-      "headline": "Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show",
+      "headline": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring",
       "topics": [
         "playstation"
       ],
-      "age_hours": 13.2,
+      "age_hours": 10.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -600,11 +323,11 @@
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.33,
-        "freshness": 0.93,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "IGN"
+        "Push Square"
       ],
       "coverage_it": [],
       "youtube": {
@@ -613,87 +336,124 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "tsushima lag analyst estimates sales",
+      "youtube_query": "soaring nightmare costs send facing",
       "related": [
         {
-          "headline": "Gamescom Asia x Thailand Game Show 2026 announces four additional pavilions from Indonesia, Japan, Malaysia, and the US",
+          "headline": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
           "shared_terms": [
-            "show"
+            "price"
           ]
         }
       ],
       "articles": [
         {
-          "source": "IGN",
-          "title": "Ghost of Yotei Sales Lag Behind Tsushima but Are Still Strong on PS5, Analyst Estimates Show",
-          "url": "https://www.ign.com/articles/ghost-of-yotei-sales-lagging-behind-tsushima-but-still-strong-on-ps5-analyst-estimates-show",
-          "published": "2026-10-16T19:59:45+00:00"
+          "source": "Push Square",
+          "title": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring",
+          "url": "https://www.pushsquare.com/news/2026/10/ps6-price-tag-facing-usd1000plus-nightmare-as-ai-data-centres-send-component-costs-soaring",
+          "published": "2026-10-17T23:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "capcom-cult-diventa-evil-favorite-horror",
-      "score": 29.5,
+      "story_id": "arisen-currently-dark-development-dogma-dragon",
+      "score": 31.2,
       "already_proposed": false,
-      "headline": "Resident Evil 2, 3 e 4: tre remake cult sbarcano su Switch 2 e la paura diventa portatile!",
+      "headline": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development",
       "topics": [
-        "nintendo",
-        "aaa"
+        "nintendo"
       ],
-      "age_hours": 17.9,
+      "age_hours": 6.4,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.11,
+        "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.67,
+        "topic": 0.33,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Polygon"
+        "Nintendo Life"
       ],
-      "coverage_it": [
-        "Everyeye"
-      ],
+      "coverage_it": [],
       "youtube": {
         "video_count": 0,
         "median_views": 0,
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "resident evil switch portatile sbarcano",
+      "youtube_query": "dogma arisen development dragon currently",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development",
+          "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
+          "published": "2026-10-18T03:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "black-doesn-ever-happen-molyneux-ole",
+      "score": 30.8,
+      "already_proposed": false,
+      "headline": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 13.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.95,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "slip original happen white molyneux",
       "related": [
         {
-          "headline": "I Never Played Ocarina of Time, But 2 Hours With the Remake Proves There’s So Much More to This Masterpiece Than Nostalgia",
+          "headline": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
           "shared_terms": [
-            "masterpiece"
+            "sound"
+          ]
+        },
+        {
+          "headline": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
+          "shared_terms": [
+            "doesn"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Everyeye",
-          "title": "Resident Evil 2, 3 e 4: tre remake cult sbarcano su Switch 2 e la paura diventa portatile!",
-          "url": "https://www.everyeye.it/articoli/speciale-resident-evil-2-3-4-tre-remake-cult-sbarcano-switch-2-paura-portatile-67722.html",
-          "published": "2026-10-16T15:20:00+00:00"
-        },
-        {
-          "source": "Polygon",
-          "title": "Resident Evil 2 on Switch 2 Is My New Favorite Way to Play Capcom's Horror Masterpiece",
-          "url": "https://www.polygon.com/resident-evil-2-switch-2-impressions/",
-          "published": "2026-10-16T21:00:19+00:00"
+          "source": "Rock Paper Shotgun",
+          "title": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original",
+          "url": "https://www.rockpapershotgun.com/black-white-3-doesnt-sound-like-its-ever-going-to-happen-but-good-ole-overpromising-peter-molyneux-may-have-let-slip-about-a-remaster-of-the-original",
+          "published": "2026-10-17T20:29:12+00:00"
         }
       ]
     },
     {
-      "story_id": "coding-criticized-founder-francisco-neighborhood-poorest",
+      "story_id": "blue-end-experiments-hued-inspired-lain",
       "score": 29.0,
       "already_proposed": false,
-      "headline": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
+      "headline": "Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world",
       "topics": [],
-      "age_hours": 9.3,
+      "age_hours": 11.6,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -705,7 +465,7 @@
         "weak_format": false
       },
       "coverage_en": [
-        "PC Gamer"
+        "Rock Paper Shotgun"
       ],
       "coverage_it": [],
       "youtube": {
@@ -714,28 +474,225 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "zombies shooting criticized founder neighborhood",
+      "youtube_query": "novel serial lain hued end",
       "related": [
         {
-          "headline": "Former Valve writer baffled by Epic CEO Tim Sweeney's attempts to compete with Steam via vibe coding",
+          "headline": "Car Park Capital Is The World’s Most Evil Simulator (Complimentary)",
           "shared_terms": [
-            "coding",
-            "vibe"
-          ]
-        },
-        {
-          "headline": "Linux kernel drops AI-contribution disclosure rule, as Linus Torvalds says banning the tech would be 'utterly stupid'",
-          "shared_terms": [
-            "tech"
+            "world"
           ]
         }
       ],
       "articles": [
         {
-          "source": "PC Gamer",
-          "title": "Tech founder criticized for vibe coding game about shooting 'zombies' in San Francisco's poorest neighborhood",
-          "url": "https://www.pcgamer.com/software/ai/tech-founder-vibe-codes-game-about-shooting-zombies-in-san-franciscos-poorest-neighborhood/",
-          "published": "2026-10-16T23:53:11+00:00"
+          "source": "Rock Paper Shotgun",
+          "title": "Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world",
+          "url": "https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world",
+          "published": "2026-10-17T21:50:37+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2027-king-mad-officially-prequel-returns",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Game of Thrones Prequel The Mad King Officially Returns in 2027",
+      "topics": [],
+      "age_hours": 8.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "king mad thrones returns prequel",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Game of Thrones Prequel The Mad King Officially Returns in 2027",
+          "url": "https://www.polygon.com/game-of-thrones-the-mad-king-prequel-2027-return/",
+          "published": "2026-10-18T00:44:23+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "atelier-body-change-confirmed-feature-fuller",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Slim Or Fuller? Atelier Karia \"Body Shape Change Feature\" Confirmed",
+      "topics": [],
+      "age_hours": 3.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "fuller karia shape atelier body",
+      "related": [
+        {
+          "headline": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+          "shared_terms": [
+            "confirmed"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Slim Or Fuller? Atelier Karia \"Body Shape Change Feature\" Confirmed",
+          "url": "https://www.nintendolife.com/news/2026/10/slim-or-fuller-atelier-karia-body-shape-change-feature-confirmed",
+          "published": "2026-10-18T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "ago-brown-charlie-movie-perfect-quote",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "60 Years Ago, the Best Charlie Brown Quote Was So Perfect It Made It Into the Movie",
+      "topics": [],
+      "age_hours": 3.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "perfect ago brown charlie quote",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "60 Years Ago, the Best Charlie Brown Quote Was So Perfect It Made It Into the Movie",
+          "url": "https://www.polygon.com/peanuts-best-charlie-brown-quote-ever/",
+          "published": "2026-10-18T06:28:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "age-boy-entire-human-man-museum",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons",
+      "topics": [],
+      "age_hours": 0.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "squeezing age boy entire museum",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons",
+          "url": "https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug",
+          "published": "2026-10-18T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "advance-art-box-brawl-duel-feature",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Feature: Box Art Brawl - Duel: Metal Slug Advance (GBA)",
+      "topics": [],
+      "age_hours": 0.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "advance slug gba brawl duel",
+      "related": [
+        {
+          "headline": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
+          "shared_terms": [
+            "metal"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Feature: Box Art Brawl - Duel: Metal Slug Advance (GBA)",
+          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-metal-slug-advance-gba",
+          "published": "2026-10-18T09:00:00+00:00"
         }
       ]
     }
