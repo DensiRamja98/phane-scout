@@ -1,96 +1,192 @@
 {
-  "generated_at": "2026-10-18T09:28:20.293613+00:00",
+  "generated_at": "2026-10-19T10:40:20.130788+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "actor-call-campaign-captain-duty-fans",
-      "score": 54.8,
+      "story_id": "anno-archer-beat-call-campagna-campaign",
+      "score": 57.2,
       "already_proposed": false,
-      "headline": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
+      "headline": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In",
       "topics": [
+        "nintendo",
+        "steam",
         "aaa",
         "feel_good"
       ],
-      "age_hours": 21.3,
+      "age_hours": 27.2,
       "signals": {
-        "coverage": 0.5,
-        "velocity": 0.33,
-        "it_gap": 0.5,
+        "coverage": 0.67,
+        "velocity": 0.8,
+        "it_gap": 0.22,
         "yt_demand": 1.0,
         "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.48,
+        "topic": 1.0,
+        "freshness": 0.16,
         "weak_format": false
       },
       "coverage_en": [
+        "Eurogamer",
         "IGN",
-        "Kotaku",
-        "Nintendo Life"
+        "Nintendo Life",
+        "VGC"
       ],
-      "coverage_it": [],
+      "coverage_it": [
+        "Everyeye",
+        "Multiplayer"
+      ],
       "youtube": {
         "video_count": 10,
-        "median_views": 420503,
-        "top_views": 1556226,
-        "top_title": "CALL OF DUTY MODERN WARFARE 4 Campaign Walkthrough Gameplay Part 1 - INTRO (FULL GAME)"
+        "median_views": 455601,
+        "top_views": 4187819,
+        "top_title": "The Difference Between North Korea and South Korea in MW4 #callofdutymodernwarfare4 #modernwarfare4"
       },
-      "youtube_query": "campaign warfare modern reviews call",
+      "youtube_query": "call warfare modern duty campaign",
       "related": [
         {
-          "headline": "'I am overwhelmed and overstimulated': The actor behind Star Wars: Galactic Racer’s Biddy Blas is scribbing doon all your enthusiasm",
+          "headline": "Eight Games Are Leaving Xbox Game Pass In Late October 2026",
           "shared_terms": [
-            "actor"
+            "late"
           ]
         },
         {
-          "headline": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original",
+          "headline": "Mailbox: Rising Costs, Non-Compliant EU Switches, WarioWare Fantasia - Nintendo Life Letters",
           "shared_terms": [
-            "sound"
+            "life"
           ]
         },
         {
-          "headline": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring",
+          "headline": "Feature: Last Chance to Buy These 60+ PS5, PS4 Games in the PS Store Player's Choice Sale",
           "shared_terms": [
-            "price"
+            "player"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Kotaku",
-          "title": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
-          "url": "https://kotaku.com/modern-warfare-4-campaign-reviews-make-it-sound-like-its-surprisingly-good-2000746857",
-          "published": "2026-10-17T12:09:26+00:00"
-        },
-        {
-          "source": "IGN",
-          "title": "Captain Price Actor Sends Message to Fans as Call of Duty: Modern Warfare 4 Campaign Praise Rolls in",
-          "url": "https://www.ign.com/articles/captain-price-actor-sends-message-to-fans-as-call-of-duty-modern-warfare-4-campaign-praise-rolls-in",
-          "published": "2026-10-17T15:52:41+00:00"
-        },
-        {
           "source": "Nintendo Life",
           "title": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In",
           "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in",
           "published": "2026-10-18T07:30:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Call of Duty: Modern Warfare 4 su Nintendo Switch 2 permette di scegliere tra due opzioni di upscaling",
+          "url": "https://multiplayer.it/notizie/call-of-duty-modern-warfare-4-nintendo-switch-2-permette-di-scegliere-tra-due-opzioni-di-upscaling.html",
+          "published": "2026-10-18T09:00:09+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "I primi voti della campagna di Call of Duty: Modern Warfare 4 svelano i pareri della stampa",
+          "url": "https://multiplayer.it/notizie/primi-voti-campagna-call-of-duty-modern-warfare-4-svelano-pareri-stampa.html",
+          "published": "2026-10-18T09:06:57+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Call of Duty: Modern Warfare 4 ha la valutazione migliore dell'ultimo decennio nelle recensioni di Steam",
+          "url": "https://multiplayer.it/notizie/call-of-duty-modern-warfare-4-ha-la-valutazione-migliore-dellultimo-decennio-nelle-recensioni-di-steam.html",
+          "published": "2026-10-18T16:31:45+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history",
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
+          "published": "2026-10-19T08:36:43+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Call of Duty: Modern Warfare 4 pays tribute to late COD co-creator and Infinity Ward co-founder Vince Zampella",
+          "url": "https://www.videogameschronicle.com/news/call-of-duty-modern-warfare-4-pays-tribute-to-late-cod-co-creator-and-infinity-ward-co-founder-vince-zampella/",
+          "published": "2026-10-19T08:48:49+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Call of Duty: Modern Warfare 4 Player Reveals How They Beat the Campaign on One-Life YOLO Difficulty",
+          "url": "https://www.ign.com/articles/modern-warfare-4-player-finished-yolo-mode",
+          "published": "2026-10-19T09:34:28+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Call of Duty: Modern Warfare 4 rende omaggio a Vince Zampella a quasi un anno dalla scomparsa",
+          "url": "https://multiplayer.it/notizie/call-of-duty-modern-warfare-4-rende-omaggio-vince-zampella-quasi-un-anno-dalla-scomparsa.html",
+          "published": "2026-10-19T10:02:55+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "Mads Mikkelsen in Call of Duty Modern Warfare 4: come nasce il nuovo villain, i segreti di The Archer",
+          "url": "https://www.everyeye.it/articoli/intervista-mads-mikkelsen-call-of-duty-modern-warfare-4-come-nasce-villain-segreti-the-archer-67743.html",
+          "published": "2026-10-19T10:11:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Modern Warfare 4 Pays Tribute to Call of Duty Co-Creator Vince Zampella",
+          "url": "https://www.ign.com/articles/modern-warfare-4-pays-tribute-to-call-of-duty-co-creator-vince-zampella",
+          "published": "2026-10-19T10:17:11+00:00"
         }
       ]
     },
     {
-      "story_id": "aim-battlefield-cosmetic-devs-pistols-players",
-      "score": 34.0,
+      "story_id": "activision-authorise-bargain-claims-cwa-failed",
+      "score": 33.5,
       "already_proposed": false,
-      "headline": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
+      "headline": "Activision QA United-CWA union vote to authorise strike, claims publisher has \"failed to bargain in good faith over key issues\"",
       "topics": [
-        "aaa"
+        "xbox",
+        "industria"
       ],
-      "age_hours": 12.0,
+      "age_hours": 0.4,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "authorise faith publisher strike activision",
+      "related": [
+        {
+          "headline": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months",
+          "shared_terms": [
+            "claims"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Activision QA United-CWA union vote to authorise strike, claims publisher has \"failed to bargain in good faith over key issues\"",
+          "url": "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues",
+          "published": "2026-10-19T10:13:55+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "dead-mod-modder-mordor-nemesis-ombra",
+      "score": 32.9,
+      "already_proposed": false,
+      "headline": "Red Dead Redemption 2 riceve una specie di Nemesis System in stile l'Ombra di Mordor, con una mod",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 1.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
         "yt_demand": 0.11,
         "yt_room": 0.0,
         "topic": 0.33,
@@ -100,182 +196,89 @@
       "coverage_en": [
         "IGN"
       ],
-      "coverage_it": [],
+      "coverage_it": [
+        "Multiplayer"
+      ],
       "youtube": {
         "video_count": 2,
-        "median_views": 1214,
-        "top_views": 1214,
-        "top_title": "Battlefield 6 Devs Respond to Ridiculed Season 5 Skins"
+        "median_views": 1260,
+        "top_views": 1260,
+        "top_title": "This RDR2 Mod Changes EVERYTHING"
       },
-      "youtube_query": "aim devs secuty cosmetic respond",
-      "related": [
-        {
-          "headline": "Qualcomm wins $2 legal decision against fellow tech giant Arm, and that's not a typo",
-          "shared_terms": [
-            "typo"
-          ]
-        }
-      ],
+      "youtube_query": "dead nemesis red system redemption",
+      "related": [],
       "articles": [
+        {
+          "source": "Multiplayer",
+          "title": "Red Dead Redemption 2 riceve una specie di Nemesis System in stile l'Ombra di Mordor, con una mod",
+          "url": "https://multiplayer.it/notizie/red-dead-redemption-2-riceve-una-specie-di-nemesis-system-in-stile-lombra-di-mordor-con-una-mod.html",
+          "published": "2026-10-19T09:14:19+00:00"
+        },
         {
           "source": "IGN",
-          "title": "Battlefield 6 Devs Respond After Players Take Aim at 'Secuty' Typo and Cosmetic With 5 Pistols",
-          "url": "https://www.ign.com/articles/battlefield-6-devs-respond-after-players-take-aim-at-secuty-typo-and-cosmetic-with-5-pistols",
-          "published": "2026-10-17T21:27:10+00:00"
+          "title": "Modder Uses AI to Put Shadow of War's Nemesis System in Rockstar's Red Dead Redemption 2",
+          "url": "https://www.ign.com/articles/red-dead-redemption-2-enrage-mod-nemesis-system",
+          "published": "2026-10-19T10:32:10+00:00"
         }
       ]
     },
     {
-      "story_id": "don-gta-launch-not-ps5-qssr",
-      "score": 33.5,
+      "story_id": "000-coded-demos-fest-levels-slop",
+      "score": 32.0,
       "already_proposed": false,
-      "headline": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
-      "topics": [
-        "playstation",
-        "aaa"
-      ],
-      "age_hours": 9.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "seeing qssr upscaler launch don",
-      "related": [
-        {
-          "headline": "Debra Wilson Also Confused On Why Games Keep Using Her Likeness",
-          "shared_terms": [
-            "using"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Push Square",
-          "title": "'I Don't Think We're Seeing It Here': GTA 6 Launch Trailer Not Using PS5's New QSSR Upscaler",
-          "url": "https://www.pushsquare.com/news/2026/10/i-dont-think-were-seeing-it-here-gta-6-launch-trailer-not-using-ps5s-new-qssr-upscaler",
-          "published": "2026-10-18T00:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "behind-cancels-concerns-copycat-demo-dev",
-      "score": 31.7,
-      "already_proposed": false,
-      "headline": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
+      "headline": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
       "topics": [
         "steam"
       ],
-      "age_hours": 10.5,
+      "age_hours": 7.7,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.02,
+        "yt_demand": 0.03,
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "IGN"
+        "PC Gamer"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 1,
-        "median_views": 37,
-        "top_views": 37,
-        "top_title": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat... #Shorts"
+        "median_views": 87,
+        "top_views": 87,
+        "top_title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slo... #Shorts"
       },
-      "youtube_query": "plans russian copycat concerns roulette",
+      "youtube_query": "slop worthless demos fest levels",
       "related": [
         {
-          "headline": "Developer cancels public demo of its upcoming horror drinking game, fearing it will be instantly cloned by AI vibe coders: 'We sincerely apologise for the short notice'",
+          "headline": "Gaming’s Vibe-Coded Apocalypse Even Has Devs Who Rip Off Viral Steam Hits Complaining",
           "shared_terms": [
-            "cancels",
-            "drinking"
-          ]
-        },
-        {
-          "headline": "Smash Bros. Player Barred From Austin Competition Following Bed Bug Concern",
-          "shared_terms": [
-            "following"
+            "coded",
+            "vibe"
           ]
         }
       ],
       "articles": [
         {
-          "source": "IGN",
-          "title": "Dev Behind Russian Roulette Drinking Game Cancels Steam Demo Plans Following AI Copycat Concerns",
-          "url": "https://www.ign.com/articles/dev-behind-russian-roulette-drinking-game-cancels-steam-demo-plans-following-ai-copycat-concerns",
-          "published": "2026-10-17T23:00:23+00:00"
+          "source": "PC Gamer",
+          "title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/",
+          "published": "2026-10-19T03:00:45+00:00"
         }
       ]
     },
     {
-      "story_id": "minior-pok-mon-schedule-shower",
-      "score": 31.4,
+      "story_id": "2027-galar-officially-pok-mon-release-returns",
+      "score": 31.3,
       "already_proposed": false,
-      "headline": "Pokémon Go Minior Shower schedule",
+      "headline": "Pokémon Officially Returns to Galar in 2027 for New Release",
       "topics": [
         "pokemon"
       ],
-      "age_hours": 12.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.02,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.97,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 5,
-        "median_views": 24,
-        "top_views": 2002,
-        "top_title": "Minior Is Finally Coming to Pokémon GO ☄️ All 7 Colours + Every Date #pokemongo #pokemongoshorts"
-      },
-      "youtube_query": "shower schedule minior pokémon",
-      "related": [],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "Pokémon Go Minior Shower schedule",
-          "url": "https://www.polygon.com/pokemon-go-minior-shower-schedule-how-to-find-shiny/",
-          "published": "2026-10-17T21:01:18+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "andreas-bigfoot-classic-gta-legend-myth",
-      "score": 31.3,
-      "already_proposed": false,
-      "headline": "GTA: San Andreas’ Bigfoot myth is a classic urban legend",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 8.5,
+      "age_hours": 7.8,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -292,30 +295,183 @@
       "coverage_it": [],
       "youtube": {
         "video_count": 1,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "median_views": 2,
+        "top_views": 2,
+        "top_title": "Gaming News / Pokemon Heads Back to Galar"
       },
-      "youtube_query": "bigfoot andreas legend urban classic",
-      "related": [],
+      "youtube_query": "release pokémon galar 2027 returns",
+      "related": [
+        {
+          "headline": "31 Years Later, Calvin and Hobbes' Scariest Comic Is Still a Controversial Classic",
+          "shared_terms": [
+            "returns"
+          ]
+        }
+      ],
       "articles": [
         {
           "source": "Polygon",
-          "title": "GTA: San Andreas’ Bigfoot myth is a classic urban legend",
-          "url": "https://www.polygon.com/gta-san-andreas-bigfoot-myth/",
-          "published": "2026-10-18T01:00:18+00:00"
+          "title": "Pokémon Officially Returns to Galar in 2027 for New Release",
+          "url": "https://www.polygon.com/pokemon-sirfetchd-pichu-animated-series-streaming-disney-plus-2027/",
+          "published": "2026-10-19T02:51:19+00:00"
         }
       ]
     },
     {
-      "story_id": "000-centres-component-costs-data-facing",
+      "story_id": "calvin-character-classic-comic-controversial-hobbes",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring",
+      "headline": "31 Years Later, Calvin and Hobbes' Scariest Comic Is Still a Controversial Classic",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 7.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "later controversial years classic scariest",
+      "related": [
+        {
+          "headline": "Pokémon Officially Returns to Galar in 2027 for New Release",
+          "shared_terms": [
+            "returns"
+          ]
+        },
+        {
+          "headline": "The Best 'Peanuts' Great Pumpkin Comic Strip Came Out 2 Years Before the Famous TV Special",
+          "shared_terms": [
+            "comic"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "31 Years Later, Calvin and Hobbes' Scariest Comic Is Still a Controversial Classic",
+          "url": "https://www.polygon.com/calvin-hobbes-halloween/",
+          "published": "2026-10-19T03:00:18+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "9 Years Later, The Simpsons' Controversial Character Officially Returns",
+          "url": "https://www.polygon.com/the-simpsons-apu-returns-sunil-malhotra-hank-azaria/",
+          "published": "2026-10-19T08:54:07+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "conference-croatian-develop-feeling-half-holiday",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "New Croatian conference Splitscreen wants to keep \"that half-holiday, half-work feeling\" of Reboot Develop",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 1.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "work reboot splitscreen develop feeling",
+      "related": [],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "New Croatian conference Splitscreen wants to keep \"that half-holiday, half-work feeling\" of Reboot Develop",
+          "url": "https://www.gamesindustry.biz/new-croatian-conference-splitscreen-wants-to-keep-that-half-holiday-half-work-feeling-of-reboot-develop",
+          "published": "2026-10-19T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "capcom-development-discusses-evil-manager-place",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "\"It Was So All Over The Place\" - Ex-Capcom Manager Discusses Resident Evil 7's Tumultuous Development",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 0.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "tumultuous capcom discusses manager place",
+      "related": [
+        {
+          "headline": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts",
+          "shared_terms": [
+            "place"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "\"It Was So All Over The Place\" - Ex-Capcom Manager Discusses Resident Evil 7's Tumultuous Development",
+          "url": "https://www.nintendolife.com/news/2026/10/it-was-so-all-over-the-place-ex-capcom-manager-discusses-resident-evil-7s-tumultuous-development",
+          "published": "2026-10-19T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "buy-chance-choice-feature-player-ps4",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Feature: Last Chance to Buy These 60+ PS5, PS4 Games in the PS Store Player's Choice Sale",
       "topics": [
         "playstation"
       ],
-      "age_hours": 10.5,
+      "age_hours": 0.7,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -336,33 +492,86 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "soaring nightmare costs send facing",
+      "youtube_query": "ps4 buy choice chance player",
       "related": [
         {
-          "headline": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
+          "headline": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In",
           "shared_terms": [
-            "price"
+            "player"
+          ]
+        },
+        {
+          "headline": "Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch",
+          "shared_terms": [
+            "sale"
           ]
         }
       ],
       "articles": [
         {
           "source": "Push Square",
-          "title": "PS6 Price Tag Facing $1,000+ Nightmare as AI Data Centres Send Component Costs Soaring",
-          "url": "https://www.pushsquare.com/news/2026/10/ps6-price-tag-facing-usd1000plus-nightmare-as-ai-data-centres-send-component-costs-soaring",
-          "published": "2026-10-17T23:00:00+00:00"
+          "title": "Feature: Last Chance to Buy These 60+ PS5, PS4 Games in the PS Store Player's Choice Sale",
+          "url": "https://www.pushsquare.com/features/last-chance-to-buy-these-60plus-ps5-ps4-games-in-the-ps-store-players-choice-sale",
+          "published": "2026-10-19T10:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "arisen-currently-dark-development-dogma-dragon",
+      "story_id": "discs-future-hiring-involving-physical-role",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development",
+      "headline": "Xbox Hiring For Role Involving Physical Games, But What About The Future Of Discs?",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 0.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "role involving future discs hiring",
+      "related": [
+        {
+          "headline": "Silent Hill Remake Studio Wants to Make Physical Games 'for as Long as Possible'",
+          "shared_terms": [
+            "physical"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Xbox Hiring For Role Involving Physical Games, But What About The Future Of Discs?",
+          "url": "https://www.purexbox.com/news/2026/10/xbox-hiring-for-role-involving-physical-games-but-what-about-the-future-of-discs",
+          "published": "2026-10-19T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2401-analysis-computational-infamous-mario-not",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Computational analysis ‘solves’ what Mario 64’s infamous plaque says, and it’s not ‘L is Real 2401’",
       "topics": [
         "nintendo"
       ],
-      "age_hours": 6.4,
+      "age_hours": 0.4,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -374,7 +583,7 @@
         "weak_format": false
       },
       "coverage_en": [
-        "Nintendo Life"
+        "VGC"
       ],
       "coverage_it": [],
       "youtube": {
@@ -383,26 +592,26 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "dogma arisen development dragon currently",
+      "youtube_query": "analysis plaque computational not solves",
       "related": [],
       "articles": [
         {
-          "source": "Nintendo Life",
-          "title": "Dragon's Dogma 2: Dark Arisen Switch 2 Update Currently In Development",
-          "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-switch-2-update-currently-in-development",
-          "published": "2026-10-18T03:05:00+00:00"
+          "source": "VGC",
+          "title": "Computational analysis ‘solves’ what Mario 64’s infamous plaque says, and it’s not ‘L is Real 2401’",
+          "url": "https://www.videogameschronicle.com/news/someone-has-used-computational-analysis-to-decide-what-mario-64s-infamous-plaque-says-and-its-not-l-is-real-2401/",
+          "published": "2026-10-19T10:14:46+00:00"
         }
       ]
     },
     {
-      "story_id": "black-doesn-ever-happen-molyneux-ole",
-      "score": 30.8,
+      "story_id": "5090-9000-brings-day-eye-man",
+      "score": 31.2,
       "already_proposed": false,
-      "headline": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original",
+      "headline": "Man moved to tears by RTX 5090 on his wedding day - $9000+ price tag brings a tear to my eye too",
       "topics": [
-        "aaa"
+        "pc_gaming"
       ],
-      "age_hours": 13.0,
+      "age_hours": 0.2,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -410,62 +619,11 @@
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.33,
-        "freshness": 0.95,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Rock Paper Shotgun"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "slip original happen white molyneux",
-      "related": [
-        {
-          "headline": "Modern Warfare 4 Campaign Reviews Make It Sound Like It’s Surprisingly Good",
-          "shared_terms": [
-            "sound"
-          ]
-        },
-        {
-          "headline": "Surprising no-one, Wizards of the Coast 'doesn't intend to voluntarily recognize' union efforts for the second time this year",
-          "shared_terms": [
-            "doesn"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Rock Paper Shotgun",
-          "title": "Black & White 3 doesn't sound like it's ever going to happen, but good ole overpromising Peter Molyneux may have let slip about a remaster of the original",
-          "url": "https://www.rockpapershotgun.com/black-white-3-doesnt-sound-like-its-ever-going-to-happen-but-good-ole-overpromising-peter-molyneux-may-have-let-slip-about-a-remaster-of-the-original",
-          "published": "2026-10-17T20:29:12+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "blue-end-experiments-hued-inspired-lain",
-      "score": 29.0,
-      "already_proposed": false,
-      "headline": "Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world",
-      "topics": [],
-      "age_hours": 11.6,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "coverage_it": [],
       "youtube": {
@@ -474,31 +632,31 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "novel serial lain hued end",
+      "youtube_query": "tear wedding eye day tag",
       "related": [
         {
-          "headline": "Car Park Capital Is The World’s Most Evil Simulator (Complimentary)",
+          "headline": "Insignia Brings Back Online Multiplayer For Lots More Xbox Games, Including Burnout 3",
           "shared_terms": [
-            "world"
+            "brings"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Rock Paper Shotgun",
-          "title": "Rain98 is a blue-hued, pre-Y2K, Serial Experiments Lain inspired visual novel about time travelling to the past to end the world",
-          "url": "https://www.rockpapershotgun.com/rain98-is-a-blue-hued-pre-y2k-serial-experiments-lain-inspired-visual-novel-about-time-travelling-to-the-past-to-end-the-world",
-          "published": "2026-10-17T21:50:37+00:00"
+          "source": "PC Gamer",
+          "title": "Man moved to tears by RTX 5090 on his wedding day - $9000+ price tag brings a tear to my eye too",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/man-moved-to-tears-by-rtx-5090-on-his-wedding-day-usd9000-price-tag-brings-a-tear-to-my-eye-too/",
+          "published": "2026-10-19T10:29:15+00:00"
         }
       ]
     },
     {
-      "story_id": "2027-king-mad-officially-prequel-returns",
+      "story_id": "finish-nes-start-worth",
       "score": 29.0,
       "already_proposed": false,
-      "headline": "Game of Thrones Prequel The Mad King Officially Returns in 2027",
+      "headline": "10 NES Games That Are Still Worth Playing From Start to Finish",
       "topics": [],
-      "age_hours": 8.7,
+      "age_hours": 8.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -519,24 +677,24 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "king mad thrones returns prequel",
+      "youtube_query": "worth nes finish start",
       "related": [],
       "articles": [
         {
           "source": "Polygon",
-          "title": "Game of Thrones Prequel The Mad King Officially Returns in 2027",
-          "url": "https://www.polygon.com/game-of-thrones-the-mad-king-prequel-2027-return/",
-          "published": "2026-10-18T00:44:23+00:00"
+          "title": "10 NES Games That Are Still Worth Playing From Start to Finish",
+          "url": "https://www.polygon.com/best-nes-games/",
+          "published": "2026-10-19T02:34:47+00:00"
         }
       ]
     },
     {
-      "story_id": "atelier-body-change-confirmed-feature-fuller",
+      "story_id": "development-laws-state",
       "score": 29.0,
       "already_proposed": false,
-      "headline": "Slim Or Fuller? Atelier Karia \"Body Shape Change Feature\" Confirmed",
+      "headline": "The AI state of play: AI laws and game development",
       "topics": [],
-      "age_hours": 3.5,
+      "age_hours": 2.7,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -548,7 +706,7 @@
         "weak_format": false
       },
       "coverage_en": [
-        "Nintendo Life"
+        "GamesIndustry"
       ],
       "coverage_it": [],
       "youtube": {
@@ -557,142 +715,59 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "fuller karia shape atelier body",
+      "youtube_query": "laws state development",
+      "related": [],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "The AI state of play: AI laws and game development",
+          "url": "https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development",
+          "published": "2026-10-19T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "based-browser-devs-feels-innovative-questionable",
+      "score": 28.9,
+      "already_proposed": false,
+      "headline": "23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare",
+      "topics": [],
+      "age_hours": 12.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "volume sliders based questionable teamed",
       "related": [
         {
-          "headline": "Cult Of The Lamb Summons A Switch 2 Version, Free Upgrade Path Confirmed",
+          "headline": "Mailbox: Rising Costs, Non-Compliant EU Switches, WarioWare Fantasia - Nintendo Life Letters",
           "shared_terms": [
-            "confirmed"
+            "warioware"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Nintendo Life",
-          "title": "Slim Or Fuller? Atelier Karia \"Body Shape Change Feature\" Confirmed",
-          "url": "https://www.nintendolife.com/news/2026/10/slim-or-fuller-atelier-karia-body-shape-change-feature-confirmed",
-          "published": "2026-10-18T06:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "ago-brown-charlie-movie-perfect-quote",
-      "score": 29.0,
-      "already_proposed": false,
-      "headline": "60 Years Ago, the Best Charlie Brown Quote Was So Perfect It Made It Into the Movie",
-      "topics": [],
-      "age_hours": 3.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "perfect ago brown charlie quote",
-      "related": [],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "60 Years Ago, the Best Charlie Brown Quote Was So Perfect It Made It Into the Movie",
-          "url": "https://www.polygon.com/peanuts-best-charlie-brown-quote-ever/",
-          "published": "2026-10-18T06:28:18+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "age-boy-entire-human-man-museum",
-      "score": 29.0,
-      "already_proposed": false,
-      "headline": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons",
-      "topics": [],
-      "age_hours": 0.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "squeezing age boy entire museum",
-      "related": [],
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "In the age of AI, one man spent years squeezing an entire museum onto a Game Boy - Why? For the most human of reasons",
-          "url": "https://www.eurogamer.net/game-boy-musuem-cartridge-marcel-pflug",
-          "published": "2026-10-18T09:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "advance-art-box-brawl-duel-feature",
-      "score": 29.0,
-      "already_proposed": false,
-      "headline": "Feature: Box Art Brawl - Duel: Metal Slug Advance (GBA)",
-      "topics": [],
-      "age_hours": 0.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "advance slug gba brawl duel",
-      "related": [
-        {
-          "headline": "Vampire: The Masquerade - Bloodlines remaster rumoured, with leaker insisting it's not a remake",
-          "shared_terms": [
-            "metal"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Feature: Box Art Brawl - Duel: Metal Slug Advance (GBA)",
-          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-metal-slug-advance-gba",
-          "published": "2026-10-18T09:00:00+00:00"
+          "source": "PC Gamer",
+          "title": "23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare",
+          "url": "https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/",
+          "published": "2026-10-18T22:36:22+00:00"
         }
       ]
     }
