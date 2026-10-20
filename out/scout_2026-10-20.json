@@ -1,0 +1,695 @@
+{
+  "generated_at": "2026-10-20T09:57:15.865205+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "anywhere-biddy-blas-boss-circus-company",
+      "score": 43.6,
+      "already_proposed": false,
+      "headline": "Star Wars: Galactic Racer Might Be Getting Xbox Play Anywhere Support",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 22.0,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.25,
+        "it_gap": 0.67,
+        "yt_demand": 0.51,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.45,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "PC Gamer",
+        "Pure Xbox",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 25596,
+        "top_views": 65367,
+        "top_title": "Biddy Blas actor on his viral Star Wars performance! | We're Voice Actors ft Richard Summers-Calvert"
+      },
+      "youtube_query": "racer galactic star wars blas",
+      "related": [
+        {
+          "headline": "We've had two great Star Wars games this year, probably because Lucasfilm Games says it's now \"more flexible\" about who it takes pitches from",
+          "shared_terms": [
+            "flexible",
+            "pitches"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Star Wars: Galactic Racer Might Be Getting Xbox Play Anywhere Support",
+          "url": "https://www.purexbox.com/news/2026/10/star-wars-galactic-racer-might-be-getting-xbox-play-anywhere-support",
+          "published": "2026-10-19T12:00:00+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Star Wars: Galactic Racer boss on DLC and the ‘remarkable’ rise of Biddy Blas",
+          "url": "https://www.videogameschronicle.com/features/star-wars-galactic-racer-boss-on-dlc-and-the-remarkable-rise-of-biddy-blas/",
+          "published": "2026-10-19T15:19:51+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Star Wars: Galactic Racer’s Biddy Blas Is Voiced By A Sinister Circus Ringmaster Pro Wrestler, And This Makes Sense",
+          "url": "https://www.gamespot.com/articles/star-wars-galactic-racers-biddy-blas-is-voiced-by-a-sinister-circus-ringmaster-pro-wrestler-and-this-makes-sense/",
+          "published": "2026-10-19T16:18:07+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Lucasfilm wants to do more Star Wars games like Zero Company and Galactic Racer: 'We’ve tried to be more flexible about who we’re willing to take pitches from'",
+          "url": "https://www.pcgamer.com/gaming-industry/lucasfilm-wants-to-do-more-star-wars-games-like-zero-company-and-galactic-racer-weve-tried-to-be-more-flexible-about-who-were-willing-to-take-pitches-from/",
+          "published": "2026-10-19T21:46:23+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "available-demo-disponibile-hunter-monster-nintendo",
+      "score": 40.4,
+      "already_proposed": false,
+      "headline": "Reminder: Monster Hunter Wilds Switch 2 Prologue Demo Now Available",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 9.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.41,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 16482,
+        "top_views": 108481,
+        "top_title": "Nintendo Switch 2 『モンスターハンターワイルズ』序盤体験版 紹介映像"
+      },
+      "youtube_query": "wilds hunter monster demo switch",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Reminder: Monster Hunter Wilds Switch 2 Prologue Demo Now Available",
+          "url": "https://www.nintendolife.com/news/2026/10/reminder-monster-hunter-wilds-switch-2-prologue-demo-now-available",
+          "published": "2026-10-20T00:30:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "La demo con il Prologo di Monster Hunter Wilds è disponibile su Nintendo Switch 2",
+          "url": "https://multiplayer.it/notizie/la-demo-con-il-prologo-di-monster-hunter-wilds-e-disponibile-su-nintendo-switch-2.html",
+          "published": "2026-10-20T06:32:51+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "achievement-anything-customise-deck-desires-heart",
+      "score": 35.7,
+      "already_proposed": false,
+      "headline": "New Steam Deck plugin means you can customise your Steam Achievement pop-ups to match Xbox, PlayStation, Nintendo, or anything your heart desires",
+      "topics": [
+        "nintendo",
+        "playstation",
+        "xbox",
+        "pc_gaming",
+        "steam"
+      ],
+      "age_hours": 0.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "achievement anything ups match customise",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "New Steam Deck plugin means you can customise your Steam Achievement pop-ups to match Xbox, PlayStation, Nintendo, or anything your heart desires",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/new-steam-deck-plugin-means-you-can-customise-your-steam-achievement-pop-ups-to-match-xbox-playstation-nintendo-or-anything-your-heart-desires/",
+          "published": "2026-10-20T09:38:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "console-emblem-fire-fortune-pokopia-pok-mon",
+      "score": 33.9,
+      "already_proposed": false,
+      "headline": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
+      "topics": [
+        "pokemon",
+        "nintendo"
+      ],
+      "age_hours": 7.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 32,
+        "top_views": 32,
+        "top_title": "Nintendo Shack 446 - Pokopia 2.0"
+      },
+      "youtube_query": "fortune weave fire pokopia emblem",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
+          "published": "2026-10-20T02:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "anti-cheat-crackdown-cue-easy-effective",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods",
+      "topics": [
+        "nintendo",
+        "industria"
+      ],
+      "age_hours": 0.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "cue mods wasn crackdown policing",
+      "related": [
+        {
+          "headline": "Vampire: The Masquerade - Bloodlines remaster or remake rumours begin to flow, reportedly in part thanks to a metal band from the original's score",
+          "shared_terms": [
+            "part"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods",
+          "url": "https://www.rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods",
+          "published": "2026-10-20T09:32:27+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "blade-canceled-character-crossover-deepspace-draw",
+      "score": 33.1,
+      "already_proposed": false,
+      "headline": "Love and Deepspace Launches Blade Runner Crossover as Fans Draw Parallels to Canceled Character Valko",
+      "topics": [
+        "feel_good",
+        "storie"
+      ],
+      "age_hours": 12.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.96,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "fans parallels valko draw canceled",
+      "related": [
+        {
+          "headline": "Cyberpunk: Edgerunners II: The Kotaku Review",
+          "shared_terms": [
+            "character"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Love and Deepspace Launches Blade Runner Crossover as Fans Draw Parallels to Canceled Character Valko",
+          "url": "https://www.ign.com/articles/love-and-deepspace-launches-blade-runner-crossover-as-fans-draw-parallels-to-canceled-character-valko",
+          "published": "2026-10-19T21:14:31+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "adventure-barely-classic-playable-playstation-today",
+      "score": 31.7,
+      "already_proposed": false,
+      "headline": "8 Classic PlayStation Adventure Games that are Barely Playable Today",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 10.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 30,
+        "top_views": 30,
+        "top_title": "The Luna & Nova Show · Evening Edition · 19 Oct 2026"
+      },
+      "youtube_query": "playable classic barely adventure today",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "8 Classic PlayStation Adventure Games that are Barely Playable Today",
+          "url": "https://www.polygon.com/classic-playstation-adventure-games-unplayable-today/",
+          "published": "2026-10-19T23:01:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "dies-flushing-genre-monster-munching-ps5",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Review: Stupid Never Dies (PS5) - Toilet-Flushing, Monster-Munching Roguelite Stands Out in a Stacked Genre",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 12.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "roguelite stands flushing genre toilet",
+      "related": [],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Review: Stupid Never Dies (PS5) - Toilet-Flushing, Monster-Munching Roguelite Stands Out in a Stacked Genre",
+          "url": "https://www.pushsquare.com/reviews/ps5/stupid-never-dies",
+          "published": "2026-10-19T22:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "amazon-encyclopedia-legend-sale-today-zelda",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "The Legend of Zelda Encyclopedia Is on Sale at Amazon Today",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 10.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "legend encyclopedia zelda today sale",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "The Legend of Zelda Encyclopedia Is on Sale at Amazon Today",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-encyclopedia-book-sale-amazon-october-2026",
+          "published": "2026-10-19T23:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "blade-mode-photo-shift-shows-stellar",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "\"Wow, What A View\" - Shift Up Shows Off Stellar Blade's Stunning Photo Mode On Switch 2",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 4.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "view photo shows stunning shift",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "\"Wow, What A View\" - Shift Up Shows Off Stellar Blade's Stunning Photo Mode On Switch 2",
+          "url": "https://www.nintendolife.com/news/2026/10/wow-what-a-view-shift-up-shows-off-stellar-blades-stunning-photo-mode-on-switch-2",
+          "published": "2026-10-20T05:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "belmont-castlevania-curse-curve-grade-learning",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Review: Castlevania: Belmont's Curse (Switch) - A Pro-Grade Metroidvania With A Stiff Learning Curve",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 1.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "stiff metroidvania curve grade learning",
+      "related": [
+        {
+          "headline": "UK Charts: Castlevania: Belmont's Curse Whips Up A Fine Debut, But It's Not King Of The Castle",
+          "shared_terms": [
+            "belmont",
+            "castlevania",
+            "curse"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Review: Castlevania: Belmont's Curse (Switch) - A Pro-Grade Metroidvania With A Stiff Learning Curve",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch/castlevania-belmonts-curse",
+          "published": "2026-10-20T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "account-biz-business-deletes-devs-don",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 13.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.93,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 42,
+        "top_views": 42,
+        "top_title": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't ... #Shorts"
+      },
+      "youtube_query": "guy saying deletes business biz",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'",
+          "url": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
+          "published": "2026-10-19T20:44:12+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "arkham-art-exclusive-horror-preview-remastered",
+      "score": 31.0,
+      "already_proposed": false,
+      "headline": "Arkham Horror: Remastered Preview and Exclusive Art Reveal",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 12.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.97,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "art arkham preview reveal exclusive",
+      "related": [
+        {
+          "headline": "PS5-exclusive Demon's Souls Remake not only runs on PC now, it's running at twice the fps cap on an RTX 5070 with frame gen",
+          "shared_terms": [
+            "exclusive"
+          ]
+        },
+        {
+          "headline": "New Fortnite Season Might Not Be One Piece After All, New Official Ads Reveal",
+          "shared_terms": [
+            "reveal"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Arkham Horror: Remastered Preview and Exclusive Art Reveal",
+          "url": "https://www.ign.com/articles/arkham-horror-remastered-preview-and-exclusive-art-reveal",
+          "published": "2026-10-19T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "add-balls-cool-devs-features-freedom",
+      "score": 30.8,
+      "already_proposed": false,
+      "headline": "'There's No One Person That Has This Whole Thing in Their Head' — GTA 6 Devs Had Freedom to Add Cool Features Just Like RDR2's Horse Balls",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 12.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.95,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "features person balls add whole",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "'There's No One Person That Has This Whole Thing in Their Head' — GTA 6 Devs Had Freedom to Add Cool Features Just Like RDR2's Horse Balls",
+          "url": "https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls",
+          "published": "2026-10-19T21:06:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "finally-lets-pok-mon-release-rocket-team",
+      "score": 30.7,
+      "already_proposed": false,
+      "headline": "New Pokémon Release Finally Lets You Play As Team Rocket",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 13.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.94,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "finally rocket team lets release",
+      "related": [
+        {
+          "headline": "Final Fantasy 7 Revelation Lets You Play On The Hardest Difficulty From The Start Because Of The ‘Wide Variety Of End-Game Content’",
+          "shared_terms": [
+            "lets"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "New Pokémon Release Finally Lets You Play As Team Rocket",
+          "url": "https://www.polygon.com/new-pokemon-game-team-rocket-evolved-what-is-trailer-release/",
+          "published": "2026-10-19T20:53:22+00:00"
+        }
+      ]
+    }
+  ]
+}

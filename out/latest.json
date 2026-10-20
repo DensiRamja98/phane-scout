@@ -1,138 +1,218 @@
 {
-  "generated_at": "2026-10-19T10:40:20.130788+00:00",
+  "generated_at": "2026-10-20T09:57:15.865205+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "anno-archer-beat-call-campagna-campaign",
-      "score": 57.2,
+      "story_id": "anywhere-biddy-blas-boss-circus-company",
+      "score": 43.6,
       "already_proposed": false,
-      "headline": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In",
+      "headline": "Star Wars: Galactic Racer Might Be Getting Xbox Play Anywhere Support",
       "topics": [
-        "nintendo",
-        "steam",
-        "aaa",
-        "feel_good"
+        "xbox"
       ],
-      "age_hours": 27.2,
+      "age_hours": 22.0,
       "signals": {
         "coverage": 0.67,
-        "velocity": 0.8,
-        "it_gap": 0.22,
-        "yt_demand": 1.0,
+        "velocity": 0.25,
+        "it_gap": 0.67,
+        "yt_demand": 0.51,
         "yt_room": 0.0,
-        "topic": 1.0,
-        "freshness": 0.16,
+        "topic": 0.33,
+        "freshness": 0.45,
         "weak_format": false
       },
       "coverage_en": [
-        "Eurogamer",
-        "IGN",
-        "Nintendo Life",
+        "GameSpot",
+        "PC Gamer",
+        "Pure Xbox",
         "VGC"
       ],
-      "coverage_it": [
-        "Everyeye",
-        "Multiplayer"
-      ],
+      "coverage_it": [],
       "youtube": {
         "video_count": 10,
-        "median_views": 455601,
-        "top_views": 4187819,
-        "top_title": "The Difference Between North Korea and South Korea in MW4 #callofdutymodernwarfare4 #modernwarfare4"
+        "median_views": 25596,
+        "top_views": 65367,
+        "top_title": "Biddy Blas actor on his viral Star Wars performance! | We're Voice Actors ft Richard Summers-Calvert"
       },
-      "youtube_query": "call warfare modern duty campaign",
+      "youtube_query": "racer galactic star wars blas",
       "related": [
         {
-          "headline": "Eight Games Are Leaving Xbox Game Pass In Late October 2026",
+          "headline": "We've had two great Star Wars games this year, probably because Lucasfilm Games says it's now \"more flexible\" about who it takes pitches from",
           "shared_terms": [
-            "late"
-          ]
-        },
-        {
-          "headline": "Mailbox: Rising Costs, Non-Compliant EU Switches, WarioWare Fantasia - Nintendo Life Letters",
-          "shared_terms": [
-            "life"
-          ]
-        },
-        {
-          "headline": "Feature: Last Chance to Buy These 60+ PS5, PS4 Games in the PS Store Player's Choice Sale",
-          "shared_terms": [
-            "player"
+            "flexible",
+            "pitches"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Nintendo Life",
-          "title": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In",
-          "url": "https://www.nintendolife.com/news/2026/10/round-up-the-reviews-for-call-of-duty-modern-warfare-4s-campaign-are-in",
-          "published": "2026-10-18T07:30:00+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "Call of Duty: Modern Warfare 4 su Nintendo Switch 2 permette di scegliere tra due opzioni di upscaling",
-          "url": "https://multiplayer.it/notizie/call-of-duty-modern-warfare-4-nintendo-switch-2-permette-di-scegliere-tra-due-opzioni-di-upscaling.html",
-          "published": "2026-10-18T09:00:09+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "I primi voti della campagna di Call of Duty: Modern Warfare 4 svelano i pareri della stampa",
-          "url": "https://multiplayer.it/notizie/primi-voti-campagna-call-of-duty-modern-warfare-4-svelano-pareri-stampa.html",
-          "published": "2026-10-18T09:06:57+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "Call of Duty: Modern Warfare 4 ha la valutazione migliore dell'ultimo decennio nelle recensioni di Steam",
-          "url": "https://multiplayer.it/notizie/call-of-duty-modern-warfare-4-ha-la-valutazione-migliore-dellultimo-decennio-nelle-recensioni-di-steam.html",
-          "published": "2026-10-18T16:31:45+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Players on Steam so far seem delighted with Modern Warfare 4's campaign, making it one of the most well-received Call of Dutys in recent history",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-campaign-steam-review-rating",
-          "published": "2026-10-19T08:36:43+00:00"
+          "source": "Pure Xbox",
+          "title": "Star Wars: Galactic Racer Might Be Getting Xbox Play Anywhere Support",
+          "url": "https://www.purexbox.com/news/2026/10/star-wars-galactic-racer-might-be-getting-xbox-play-anywhere-support",
+          "published": "2026-10-19T12:00:00+00:00"
         },
         {
           "source": "VGC",
-          "title": "Call of Duty: Modern Warfare 4 pays tribute to late COD co-creator and Infinity Ward co-founder Vince Zampella",
-          "url": "https://www.videogameschronicle.com/news/call-of-duty-modern-warfare-4-pays-tribute-to-late-cod-co-creator-and-infinity-ward-co-founder-vince-zampella/",
-          "published": "2026-10-19T08:48:49+00:00"
+          "title": "Star Wars: Galactic Racer boss on DLC and the ‘remarkable’ rise of Biddy Blas",
+          "url": "https://www.videogameschronicle.com/features/star-wars-galactic-racer-boss-on-dlc-and-the-remarkable-rise-of-biddy-blas/",
+          "published": "2026-10-19T15:19:51+00:00"
         },
         {
-          "source": "IGN",
-          "title": "Call of Duty: Modern Warfare 4 Player Reveals How They Beat the Campaign on One-Life YOLO Difficulty",
-          "url": "https://www.ign.com/articles/modern-warfare-4-player-finished-yolo-mode",
-          "published": "2026-10-19T09:34:28+00:00"
+          "source": "GameSpot",
+          "title": "Star Wars: Galactic Racer’s Biddy Blas Is Voiced By A Sinister Circus Ringmaster Pro Wrestler, And This Makes Sense",
+          "url": "https://www.gamespot.com/articles/star-wars-galactic-racers-biddy-blas-is-voiced-by-a-sinister-circus-ringmaster-pro-wrestler-and-this-makes-sense/",
+          "published": "2026-10-19T16:18:07+00:00"
         },
         {
-          "source": "Multiplayer",
-          "title": "Call of Duty: Modern Warfare 4 rende omaggio a Vince Zampella a quasi un anno dalla scomparsa",
-          "url": "https://multiplayer.it/notizie/call-of-duty-modern-warfare-4-rende-omaggio-vince-zampella-quasi-un-anno-dalla-scomparsa.html",
-          "published": "2026-10-19T10:02:55+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "Mads Mikkelsen in Call of Duty Modern Warfare 4: come nasce il nuovo villain, i segreti di The Archer",
-          "url": "https://www.everyeye.it/articoli/intervista-mads-mikkelsen-call-of-duty-modern-warfare-4-come-nasce-villain-segreti-the-archer-67743.html",
-          "published": "2026-10-19T10:11:00+00:00"
-        },
-        {
-          "source": "IGN",
-          "title": "Modern Warfare 4 Pays Tribute to Call of Duty Co-Creator Vince Zampella",
-          "url": "https://www.ign.com/articles/modern-warfare-4-pays-tribute-to-call-of-duty-co-creator-vince-zampella",
-          "published": "2026-10-19T10:17:11+00:00"
+          "source": "PC Gamer",
+          "title": "Lucasfilm wants to do more Star Wars games like Zero Company and Galactic Racer: 'We’ve tried to be more flexible about who we’re willing to take pitches from'",
+          "url": "https://www.pcgamer.com/gaming-industry/lucasfilm-wants-to-do-more-star-wars-games-like-zero-company-and-galactic-racer-weve-tried-to-be-more-flexible-about-who-were-willing-to-take-pitches-from/",
+          "published": "2026-10-19T21:46:23+00:00"
         }
       ]
     },
     {
-      "story_id": "activision-authorise-bargain-claims-cwa-failed",
+      "story_id": "available-demo-disponibile-hunter-monster-nintendo",
+      "score": 40.4,
+      "already_proposed": false,
+      "headline": "Reminder: Monster Hunter Wilds Switch 2 Prologue Demo Now Available",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 9.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.41,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 16482,
+        "top_views": 108481,
+        "top_title": "Nintendo Switch 2 『モンスターハンターワイルズ』序盤体験版 紹介映像"
+      },
+      "youtube_query": "wilds hunter monster demo switch",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Reminder: Monster Hunter Wilds Switch 2 Prologue Demo Now Available",
+          "url": "https://www.nintendolife.com/news/2026/10/reminder-monster-hunter-wilds-switch-2-prologue-demo-now-available",
+          "published": "2026-10-20T00:30:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "La demo con il Prologo di Monster Hunter Wilds è disponibile su Nintendo Switch 2",
+          "url": "https://multiplayer.it/notizie/la-demo-con-il-prologo-di-monster-hunter-wilds-e-disponibile-su-nintendo-switch-2.html",
+          "published": "2026-10-20T06:32:51+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "achievement-anything-customise-deck-desires-heart",
+      "score": 35.7,
+      "already_proposed": false,
+      "headline": "New Steam Deck plugin means you can customise your Steam Achievement pop-ups to match Xbox, PlayStation, Nintendo, or anything your heart desires",
+      "topics": [
+        "nintendo",
+        "playstation",
+        "xbox",
+        "pc_gaming",
+        "steam"
+      ],
+      "age_hours": 0.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "achievement anything ups match customise",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "New Steam Deck plugin means you can customise your Steam Achievement pop-ups to match Xbox, PlayStation, Nintendo, or anything your heart desires",
+          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/new-steam-deck-plugin-means-you-can-customise-your-steam-achievement-pop-ups-to-match-xbox-playstation-nintendo-or-anything-your-heart-desires/",
+          "published": "2026-10-20T09:38:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "console-emblem-fire-fortune-pokopia-pok-mon",
+      "score": 33.9,
+      "already_proposed": false,
+      "headline": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
+      "topics": [
+        "pokemon",
+        "nintendo"
+      ],
+      "age_hours": 7.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 32,
+        "top_views": 32,
+        "top_title": "Nintendo Shack 446 - Pokopia 2.0"
+      },
+      "youtube_query": "fortune weave fire pokopia emblem",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
+          "published": "2026-10-20T02:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "anti-cheat-crackdown-cue-easy-effective",
       "score": 33.5,
       "already_proposed": false,
-      "headline": "Activision QA United-CWA union vote to authorise strike, claims publisher has \"failed to bargain in good faith over key issues\"",
+      "headline": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods",
       "topics": [
-        "xbox",
+        "nintendo",
         "industria"
       ],
       "age_hours": 0.4,
@@ -147,7 +227,7 @@
         "weak_format": false
       },
       "coverage_en": [
-        "GamesIndustry"
+        "Rock Paper Shotgun"
       ],
       "coverage_it": [],
       "youtube": {
@@ -156,322 +236,121 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "authorise faith publisher strike activision",
+      "youtube_query": "cue mods wasn crackdown policing",
       "related": [
         {
-          "headline": "Liquid Swords, developer of open-city crime sim Samson, has gone bankrupt following staff claims that they haven't been paid in two months",
+          "headline": "Vampire: The Masquerade - Bloodlines remaster or remake rumours begin to flow, reportedly in part thanks to a metal band from the original's score",
           "shared_terms": [
-            "claims"
+            "part"
           ]
         }
       ],
       "articles": [
         {
-          "source": "GamesIndustry",
-          "title": "Activision QA United-CWA union vote to authorise strike, claims publisher has \"failed to bargain in good faith over key issues\"",
-          "url": "https://www.gamesindustry.biz/activision-qa-united-cwa-union-vote-to-authorise-strike-claims-publisher-has-failed-to-bargain-in-good-faith-over-key-issues",
-          "published": "2026-10-19T10:13:55+00:00"
+          "source": "Rock Paper Shotgun",
+          "title": "Helldivers 2's GameGuard cheat policing \"wasn't as effective as it could have been\", cue a switch to Easy Anti-Cheat as part of a crackdown on cheat mods",
+          "url": "https://www.rockpapershotgun.com/helldivers-2s-gameguard-cheat-policing-wasnt-as-effective-as-it-could-have-been-cue-a-switch-to-easy-anti-cheat-as-part-of-a-crackdown-on-cheat-mods",
+          "published": "2026-10-20T09:32:27+00:00"
         }
       ]
     },
     {
-      "story_id": "dead-mod-modder-mordor-nemesis-ombra",
-      "score": 32.9,
+      "story_id": "blade-canceled-character-crossover-deepspace-draw",
+      "score": 33.1,
       "already_proposed": false,
-      "headline": "Red Dead Redemption 2 riceve una specie di Nemesis System in stile l'Ombra di Mordor, con una mod",
+      "headline": "Love and Deepspace Launches Blade Runner Crossover as Fans Draw Parallels to Canceled Character Valko",
       "topics": [
-        "aaa"
+        "feel_good",
+        "storie"
       ],
-      "age_hours": 1.4,
+      "age_hours": 12.7,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.11,
-        "yt_demand": 0.11,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
+        "topic": 0.67,
+        "freshness": 0.96,
         "weak_format": false
       },
       "coverage_en": [
         "IGN"
       ],
-      "coverage_it": [
-        "Multiplayer"
-      ],
+      "coverage_it": [],
       "youtube": {
-        "video_count": 2,
-        "median_views": 1260,
-        "top_views": 1260,
-        "top_title": "This RDR2 Mod Changes EVERYTHING"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "dead nemesis red system redemption",
-      "related": [],
-      "articles": [
+      "youtube_query": "fans parallels valko draw canceled",
+      "related": [
         {
-          "source": "Multiplayer",
-          "title": "Red Dead Redemption 2 riceve una specie di Nemesis System in stile l'Ombra di Mordor, con una mod",
-          "url": "https://multiplayer.it/notizie/red-dead-redemption-2-riceve-una-specie-di-nemesis-system-in-stile-lombra-di-mordor-con-una-mod.html",
-          "published": "2026-10-19T09:14:19+00:00"
-        },
+          "headline": "Cyberpunk: Edgerunners II: The Kotaku Review",
+          "shared_terms": [
+            "character"
+          ]
+        }
+      ],
+      "articles": [
         {
           "source": "IGN",
-          "title": "Modder Uses AI to Put Shadow of War's Nemesis System in Rockstar's Red Dead Redemption 2",
-          "url": "https://www.ign.com/articles/red-dead-redemption-2-enrage-mod-nemesis-system",
-          "published": "2026-10-19T10:32:10+00:00"
+          "title": "Love and Deepspace Launches Blade Runner Crossover as Fans Draw Parallels to Canceled Character Valko",
+          "url": "https://www.ign.com/articles/love-and-deepspace-launches-blade-runner-crossover-as-fans-draw-parallels-to-canceled-character-valko",
+          "published": "2026-10-19T21:14:31+00:00"
         }
       ]
     },
     {
-      "story_id": "000-coded-demos-fest-levels-slop",
-      "score": 32.0,
+      "story_id": "adventure-barely-classic-playable-playstation-today",
+      "score": 31.7,
       "already_proposed": false,
-      "headline": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
-      "topics": [
-        "steam"
-      ],
-      "age_hours": 7.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.03,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 87,
-        "top_views": 87,
-        "top_title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slo... #Shorts"
-      },
-      "youtube_query": "slop worthless demos fest levels",
-      "related": [
-        {
-          "headline": "Gaming’s Vibe-Coded Apocalypse Even Has Devs Who Rip Off Viral Steam Hits Complaining",
-          "shared_terms": [
-            "coded",
-            "vibe"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "Steam Week in Review: Steam Next Fest has over 8,000 demos, as worthless vibe coded slop levels up",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-steam-next-fest-has-over-8-000-demos-as-worthless-vibe-coded-slop-levels-up/",
-          "published": "2026-10-19T03:00:45+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "2027-galar-officially-pok-mon-release-returns",
-      "score": 31.3,
-      "already_proposed": false,
-      "headline": "Pokémon Officially Returns to Galar in 2027 for New Release",
-      "topics": [
-        "pokemon"
-      ],
-      "age_hours": 7.8,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 2,
-        "top_views": 2,
-        "top_title": "Gaming News / Pokemon Heads Back to Galar"
-      },
-      "youtube_query": "release pokémon galar 2027 returns",
-      "related": [
-        {
-          "headline": "31 Years Later, Calvin and Hobbes' Scariest Comic Is Still a Controversial Classic",
-          "shared_terms": [
-            "returns"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "Pokémon Officially Returns to Galar in 2027 for New Release",
-          "url": "https://www.polygon.com/pokemon-sirfetchd-pichu-animated-series-streaming-disney-plus-2027/",
-          "published": "2026-10-19T02:51:19+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "calvin-character-classic-comic-controversial-hobbes",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "31 Years Later, Calvin and Hobbes' Scariest Comic Is Still a Controversial Classic",
-      "topics": [
-        "easter_egg"
-      ],
-      "age_hours": 7.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "later controversial years classic scariest",
-      "related": [
-        {
-          "headline": "Pokémon Officially Returns to Galar in 2027 for New Release",
-          "shared_terms": [
-            "returns"
-          ]
-        },
-        {
-          "headline": "The Best 'Peanuts' Great Pumpkin Comic Strip Came Out 2 Years Before the Famous TV Special",
-          "shared_terms": [
-            "comic"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "31 Years Later, Calvin and Hobbes' Scariest Comic Is Still a Controversial Classic",
-          "url": "https://www.polygon.com/calvin-hobbes-halloween/",
-          "published": "2026-10-19T03:00:18+00:00"
-        },
-        {
-          "source": "Polygon",
-          "title": "9 Years Later, The Simpsons' Controversial Character Officially Returns",
-          "url": "https://www.polygon.com/the-simpsons-apu-returns-sunil-malhotra-hank-azaria/",
-          "published": "2026-10-19T08:54:07+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "conference-croatian-develop-feeling-half-holiday",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "New Croatian conference Splitscreen wants to keep \"that half-holiday, half-work feeling\" of Reboot Develop",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 1.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GamesIndustry"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "work reboot splitscreen develop feeling",
-      "related": [],
-      "articles": [
-        {
-          "source": "GamesIndustry",
-          "title": "New Croatian conference Splitscreen wants to keep \"that half-holiday, half-work feeling\" of Reboot Develop",
-          "url": "https://www.gamesindustry.biz/new-croatian-conference-splitscreen-wants-to-keep-that-half-holiday-half-work-feeling-of-reboot-develop",
-          "published": "2026-10-19T09:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "capcom-development-discusses-evil-manager-place",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "\"It Was So All Over The Place\" - Ex-Capcom Manager Discusses Resident Evil 7's Tumultuous Development",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 0.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "tumultuous capcom discusses manager place",
-      "related": [
-        {
-          "headline": "'There were a lot of disagreements across the place': Former Marathon director Joe Ziegler on leading Bungie's extraction shooter, playing Path of Exile for 3,437 hours, and why he'll never uninstall Kingdom Hearts",
-          "shared_terms": [
-            "place"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "\"It Was So All Over The Place\" - Ex-Capcom Manager Discusses Resident Evil 7's Tumultuous Development",
-          "url": "https://www.nintendolife.com/news/2026/10/it-was-so-all-over-the-place-ex-capcom-manager-discusses-resident-evil-7s-tumultuous-development",
-          "published": "2026-10-19T10:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "buy-chance-choice-feature-player-ps4",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Feature: Last Chance to Buy These 60+ PS5, PS4 Games in the PS Store Player's Choice Sale",
+      "headline": "8 Classic PlayStation Adventure Games that are Barely Playable Today",
       "topics": [
         "playstation"
       ],
-      "age_hours": 0.7,
+      "age_hours": 10.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 30,
+        "top_views": 30,
+        "top_title": "The Luna & Nova Show · Evening Edition · 19 Oct 2026"
+      },
+      "youtube_query": "playable classic barely adventure today",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "8 Classic PlayStation Adventure Games that are Barely Playable Today",
+          "url": "https://www.polygon.com/classic-playstation-adventure-games-unplayable-today/",
+          "published": "2026-10-19T23:01:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "dies-flushing-genre-monster-munching-ps5",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Review: Stupid Never Dies (PS5) - Toilet-Flushing, Monster-Munching Roguelite Stands Out in a Stacked Genre",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 12.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -492,126 +371,26 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "ps4 buy choice chance player",
-      "related": [
-        {
-          "headline": "Round Up: The Reviews For Call Of Duty: Modern Warfare 4's Campaign Are In",
-          "shared_terms": [
-            "player"
-          ]
-        },
-        {
-          "headline": "Tenebris Somnia Blends 2D Visuals With Live-Action Horror Scenes, And It’s Already On Sale At Launch",
-          "shared_terms": [
-            "sale"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Push Square",
-          "title": "Feature: Last Chance to Buy These 60+ PS5, PS4 Games in the PS Store Player's Choice Sale",
-          "url": "https://www.pushsquare.com/features/last-chance-to-buy-these-60plus-ps5-ps4-games-in-the-ps-store-players-choice-sale",
-          "published": "2026-10-19T10:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "discs-future-hiring-involving-physical-role",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Xbox Hiring For Role Involving Physical Games, But What About The Future Of Discs?",
-      "topics": [
-        "xbox"
-      ],
-      "age_hours": 0.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Pure Xbox"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "role involving future discs hiring",
-      "related": [
-        {
-          "headline": "Silent Hill Remake Studio Wants to Make Physical Games 'for as Long as Possible'",
-          "shared_terms": [
-            "physical"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Pure Xbox",
-          "title": "Xbox Hiring For Role Involving Physical Games, But What About The Future Of Discs?",
-          "url": "https://www.purexbox.com/news/2026/10/xbox-hiring-for-role-involving-physical-games-but-what-about-the-future-of-discs",
-          "published": "2026-10-19T10:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "2401-analysis-computational-infamous-mario-not",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Computational analysis ‘solves’ what Mario 64’s infamous plaque says, and it’s not ‘L is Real 2401’",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 0.4,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "analysis plaque computational not solves",
+      "youtube_query": "roguelite stands flushing genre toilet",
       "related": [],
       "articles": [
         {
-          "source": "VGC",
-          "title": "Computational analysis ‘solves’ what Mario 64’s infamous plaque says, and it’s not ‘L is Real 2401’",
-          "url": "https://www.videogameschronicle.com/news/someone-has-used-computational-analysis-to-decide-what-mario-64s-infamous-plaque-says-and-its-not-l-is-real-2401/",
-          "published": "2026-10-19T10:14:46+00:00"
+          "source": "Push Square",
+          "title": "Review: Stupid Never Dies (PS5) - Toilet-Flushing, Monster-Munching Roguelite Stands Out in a Stacked Genre",
+          "url": "https://www.pushsquare.com/reviews/ps5/stupid-never-dies",
+          "published": "2026-10-19T22:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "5090-9000-brings-day-eye-man",
+      "story_id": "amazon-encyclopedia-legend-sale-today-zelda",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "Man moved to tears by RTX 5090 on his wedding day - $9000+ price tag brings a tear to my eye too",
+      "headline": "The Legend of Zelda Encyclopedia Is on Sale at Amazon Today",
       "topics": [
-        "pc_gaming"
+        "nintendo"
       ],
-      "age_hours": 0.2,
+      "age_hours": 10.9,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -620,6 +399,135 @@
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "legend encyclopedia zelda today sale",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "The Legend of Zelda Encyclopedia Is on Sale at Amazon Today",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-encyclopedia-book-sale-amazon-october-2026",
+          "published": "2026-10-19T23:01:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "blade-mode-photo-shift-shows-stellar",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "\"Wow, What A View\" - Shift Up Shows Off Stellar Blade's Stunning Photo Mode On Switch 2",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 4.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "view photo shows stunning shift",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "\"Wow, What A View\" - Shift Up Shows Off Stellar Blade's Stunning Photo Mode On Switch 2",
+          "url": "https://www.nintendolife.com/news/2026/10/wow-what-a-view-shift-up-shows-off-stellar-blades-stunning-photo-mode-on-switch-2",
+          "published": "2026-10-20T05:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "belmont-castlevania-curse-curve-grade-learning",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Review: Castlevania: Belmont's Curse (Switch) - A Pro-Grade Metroidvania With A Stiff Learning Curve",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 1.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "stiff metroidvania curve grade learning",
+      "related": [
+        {
+          "headline": "UK Charts: Castlevania: Belmont's Curse Whips Up A Fine Debut, But It's Not King Of The Castle",
+          "shared_terms": [
+            "belmont",
+            "castlevania",
+            "curse"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Review: Castlevania: Belmont's Curse (Switch) - A Pro-Grade Metroidvania With A Stiff Learning Curve",
+          "url": "https://www.nintendolife.com/reviews/nintendo-switch/castlevania-belmonts-curse",
+          "published": "2026-10-20T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "account-biz-business-deletes-devs-don",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 13.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.93,
         "weak_format": false
       },
       "coverage_en": [
@@ -627,44 +535,132 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 1,
+        "median_views": 42,
+        "top_views": 42,
+        "top_title": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't ... #Shorts"
       },
-      "youtube_query": "tear wedding eye day tag",
-      "related": [
-        {
-          "headline": "Insignia Brings Back Online Multiplayer For Lots More Xbox Games, Including Burnout 3",
-          "shared_terms": [
-            "brings"
-          ]
-        }
-      ],
+      "youtube_query": "guy saying deletes business biz",
+      "related": [],
       "articles": [
         {
           "source": "PC Gamer",
-          "title": "Man moved to tears by RTX 5090 on his wedding day - $9000+ price tag brings a tear to my eye too",
-          "url": "https://www.pcgamer.com/hardware/graphics-cards/man-moved-to-tears-by-rtx-5090-on-his-wedding-day-usd9000-price-tag-brings-a-tear-to-my-eye-too/",
-          "published": "2026-10-19T10:29:15+00:00"
+          "title": "Xbox biz guy deletes his X account less than 24 hours after saying game devs who don't embrace AI 'should not be in the business of being a business'",
+          "url": "https://www.pcgamer.com/software/ai/xbox-biz-guy-deletes-his-x-account-less-than-24-hours-after-saying-game-devs-who-dont-embrace-ai-should-not-be-in-the-business-of-being-a-business/",
+          "published": "2026-10-19T20:44:12+00:00"
         }
       ]
     },
     {
-      "story_id": "finish-nes-start-worth",
-      "score": 29.0,
+      "story_id": "arkham-art-exclusive-horror-preview-remastered",
+      "score": 31.0,
       "already_proposed": false,
-      "headline": "10 NES Games That Are Still Worth Playing From Start to Finish",
-      "topics": [],
-      "age_hours": 8.1,
+      "headline": "Arkham Horror: Remastered Preview and Exclusive Art Reveal",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 12.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
+        "topic": 0.33,
+        "freshness": 0.97,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "art arkham preview reveal exclusive",
+      "related": [
+        {
+          "headline": "PS5-exclusive Demon's Souls Remake not only runs on PC now, it's running at twice the fps cap on an RTX 5070 with frame gen",
+          "shared_terms": [
+            "exclusive"
+          ]
+        },
+        {
+          "headline": "New Fortnite Season Might Not Be One Piece After All, New Official Ads Reveal",
+          "shared_terms": [
+            "reveal"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Arkham Horror: Remastered Preview and Exclusive Art Reveal",
+          "url": "https://www.ign.com/articles/arkham-horror-remastered-preview-and-exclusive-art-reveal",
+          "published": "2026-10-19T21:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "add-balls-cool-devs-features-freedom",
+      "score": 30.8,
+      "already_proposed": false,
+      "headline": "'There's No One Person That Has This Whole Thing in Their Head' — GTA 6 Devs Had Freedom to Add Cool Features Just Like RDR2's Horse Balls",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 12.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.95,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "features person balls add whole",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "'There's No One Person That Has This Whole Thing in Their Head' — GTA 6 Devs Had Freedom to Add Cool Features Just Like RDR2's Horse Balls",
+          "url": "https://www.ign.com/articles/theres-no-one-person-that-has-this-whole-thing-in-their-head-gta-6-devs-had-freedom-to-add-cool-features-just-like-rdr2s-horse-balls",
+          "published": "2026-10-19T21:06:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "finally-lets-pok-mon-release-rocket-team",
+      "score": 30.7,
+      "already_proposed": false,
+      "headline": "New Pokémon Release Finally Lets You Play As Team Rocket",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 13.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.94,
         "weak_format": false
       },
       "coverage_en": [
@@ -677,97 +673,21 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "worth nes finish start",
-      "related": [],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "10 NES Games That Are Still Worth Playing From Start to Finish",
-          "url": "https://www.polygon.com/best-nes-games/",
-          "published": "2026-10-19T02:34:47+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "development-laws-state",
-      "score": 29.0,
-      "already_proposed": false,
-      "headline": "The AI state of play: AI laws and game development",
-      "topics": [],
-      "age_hours": 2.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GamesIndustry"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "laws state development",
-      "related": [],
-      "articles": [
-        {
-          "source": "GamesIndustry",
-          "title": "The AI state of play: AI laws and game development",
-          "url": "https://www.gamesindustry.biz/the-ai-state-of-play-ai-laws-and-game-development",
-          "published": "2026-10-19T08:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "based-browser-devs-feels-innovative-questionable",
-      "score": 28.9,
-      "already_proposed": false,
-      "headline": "23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare",
-      "topics": [],
-      "age_hours": 12.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "volume sliders based questionable teamed",
+      "youtube_query": "finally rocket team lets release",
       "related": [
         {
-          "headline": "Mailbox: Rising Costs, Non-Compliant EU Switches, WarioWare Fantasia - Nintendo Life Letters",
+          "headline": "Final Fantasy 7 Revelation Lets You Play On The Hardest Difficulty From The Start Because Of The ‘Wide Variety Of End-Game Content’",
           "shared_terms": [
-            "warioware"
+            "lets"
           ]
         }
       ],
       "articles": [
         {
-          "source": "PC Gamer",
-          "title": "23 devs teamed up to make a free game of 'innovative yet questionable volume sliders,' and it feels like browser-based WarioWare",
-          "url": "https://www.pcgamer.com/games/23-devs-teamed-up-to-make-a-free-game-of-innovative-yet-questionable-volume-sliders-and-it-feels-like-browser-based-warioware/",
-          "published": "2026-10-18T22:36:22+00:00"
+          "source": "Polygon",
+          "title": "New Pokémon Release Finally Lets You Play As Team Rocket",
+          "url": "https://www.polygon.com/new-pokemon-game-team-rocket-evolved-what-is-trailer-release/",
+          "published": "2026-10-19T20:53:22+00:00"
         }
       ]
     }
