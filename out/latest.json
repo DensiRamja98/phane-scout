@@ -1,384 +1,233 @@
 {
-  "generated_at": "2026-10-21T10:01:02.585941+00:00",
+  "generated_at": "2026-10-22T10:01:31.567116+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "200-2027-2028-800-between-claims",
-      "score": 43.2,
+      "story_id": "55bn-age-ago-arabia-bioware-boss",
+      "score": 56.7,
       "already_proposed": false,
-      "headline": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
+      "headline": "BioWare is closing after 30 years",
       "topics": [
-        "playstation",
-        "xbox"
+        "feel_good",
+        "storie"
       ],
-      "age_hours": 14.5,
+      "age_hours": 16.1,
       "signals": {
-        "coverage": 0.83,
-        "velocity": 0.4,
-        "it_gap": 0.56,
-        "yt_demand": 0.2,
+        "coverage": 0.67,
+        "velocity": 0.25,
+        "it_gap": 0.67,
+        "yt_demand": 0.82,
         "yt_room": 0.0,
         "topic": 0.67,
-        "freshness": 0.86,
+        "freshness": 0.77,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Game Developer",
+        "GamesIndustry",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 67621,
+        "top_views": 257700,
+        "top_title": "EA Shuts Down BioWare"
+      },
+      "youtube_query": "bioware years closing effect mass",
+      "related": [
+        {
+          "headline": "Report: Xbox Planning Major Overhaul Of Game Pass With 'À La Carte' Options",
+          "shared_terms": [
+            "massive"
+          ]
+        },
+        {
+          "headline": "EA To Shut Down BioWare And Cancel The Next Mass Effect Game",
+          "shared_terms": [
+            "closes"
+          ]
+        },
+        {
+          "headline": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft'",
+          "shared_terms": [
+            "tribute"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "BioWare is closing after 30 years",
+          "url": "https://www.gamesindustry.biz/bioware-is-closing-after-30-years",
+          "published": "2026-10-21T17:55:20+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout",
+          "url": "https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled",
+          "published": "2026-10-21T17:55:57+00:00"
+        },
+        {
+          "source": "Game Developer",
+          "title": "EA closes Mass Effect, Dragon Age creator BioWare after 30 years of game development",
+          "url": "https://www.gamedeveloper.com/business/ea-closes-mass-effect-dragon-age-creator-bioware-after-30-years-of-game-development",
+          "published": "2026-10-21T18:57:37+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "CD Projekt boss pays tribute to BioWare for helping bring The Witcher to life 20 years ago: 'BioWare has been a massive part of CDPR history'",
+          "url": "https://www.pcgamer.com/gaming-industry/cd-projekt-boss-pays-tribute-to-bioware-for-helping-bring-the-witcher-to-life-20-years-ago-bioware-has-been-a-massive-part-of-cdpr-history/",
+          "published": "2026-10-21T21:43:06+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cloud-hourly-hours-insiders-members-pass",
+      "score": 55.5,
+      "already_proposed": false,
+      "headline": "Three Price Tiers Revealed As Xbox Rolls Out 'Cloud Playtime' To Insiders",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 15.0,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.25,
+        "it_gap": 0.67,
+        "yt_demand": 0.35,
+        "yt_room": 1.0,
+        "topic": 0.33,
+        "freshness": 0.83,
         "weak_format": false
       },
       "coverage_en": [
         "Eurogamer",
         "GameSpot",
-        "Pure Xbox",
-        "Push Square",
-        "VGC"
-      ],
-      "coverage_it": [
-        "Everyeye"
-      ],
-      "youtube": {
-        "video_count": 4,
-        "median_views": 3901,
-        "top_views": 17868,
-        "top_title": "NEW LEAK: Next Gen XBOX and PS6 are $1,800 and DELAYED to 2028?!"
-      },
-      "youtube_query": "xbox 2028 gen 800 helix",
-      "related": [
-        {
-          "headline": "I'm not sure if the Steam Frame hits any corners in this bouncing screensaver, but maybe if I watch long enough the headset will come down in price",
-          "shared_terms": [
-            "price"
-          ]
-        },
-        {
-          "headline": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
-          "shared_terms": [
-            "expensive"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "GameSpot",
-          "title": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
-          "url": "https://www.gamespot.com/articles/next-gen-xbox-could-be-1800-and-launch-in-2028-report/",
-          "published": "2026-10-20T19:29:33+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "Report claims next Xbox is targeting 2028 and could cost between $1,200 and $1,800",
-          "url": "https://www.videogameschronicle.com/news/report-claims-next-xbox-is-targeting-2028-and-could-cost-between-1200-and-1800/",
-          "published": "2026-10-20T19:31:18+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "Prezzi folli per la next-gen? Xbox Helix potrebbe costare tra i 1.200 e i 1.800 dollari, ecco quando dovrebbe uscire",
-          "url": "https://www.everyeye.it/notizie/prezzi-folli-next-gen-xbox-helix-costare-1-200-1-800-dollari-quando-dovrebbe-uscire-907108.html",
-          "published": "2026-10-20T19:57:00+00:00"
-        },
-        {
-          "source": "Push Square",
-          "title": "Worried About PS6 Price? Next Xbox Could Be as Much as $1,800",
-          "url": "https://www.pushsquare.com/news/2026/10/worried-about-ps6-price-next-xbox-could-be-as-much-as-usd1800",
-          "published": "2026-10-20T20:00:00+00:00"
-        },
-        {
-          "source": "Pure Xbox",
-          "title": "Report: Xbox To Release Next-Gen Handheld In 2027 & Expensive Helix Console In 2028",
-          "url": "https://www.purexbox.com/news/2026/10/report-xbox-to-release-next-gen-handheld-in-2027-and-expensive-helix-console-in-2028",
-          "published": "2026-10-20T20:20:00+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Xbox's next-gen console to reportedly cost up to $1,800, with a Helix handheld coming in 2027 and a full release in holiday 2028",
-          "url": "https://www.eurogamer.net/microsoft-next-gen-xbox-helix-date-price",
-          "published": "2026-10-21T08:40:37+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "PS6 e Xbox Helix nel 2028? La next-gen sembra essere stata silenziosamente rimandata",
-          "url": "https://www.everyeye.it/notizie/ps6-xbox-helix-2028-next-gen-silenziosamente-rimandata-907179.html",
-          "published": "2026-10-21T09:35:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "discless-discs-evil-future-march-money",
-      "score": 35.7,
-      "already_proposed": false,
-      "headline": "Resident Evil: Requiem made more money from PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues",
-      "topics": [
-        "playstation",
-        "xbox",
-        "aaa"
-      ],
-      "age_hours": 0.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 1.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "discless discs resident requiem march",
-      "related": [
-        {
-          "headline": "COD Black Ops 1 and 2 dev says it’s ‘hard to watch’ the new ports selling well while ‘the actual creators don’t see a dime’",
-          "shared_terms": [
-            "money"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "Resident Evil: Requiem made more money from PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues",
-          "url": "https://www.eurogamer.net/playstation-physical-disc-sales-statistics-alinea",
-          "published": "2026-10-21T09:21:49+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "date-era-gta-nostalgic-november-official",
-      "score": 34.6,
-      "already_proposed": false,
-      "headline": "Shrek 2 Remastered Gets Official November Release Date For Xbox Series X|S",
-      "topics": [
-        "playstation",
-        "xbox",
-        "aaa"
-      ],
-      "age_hours": 16.3,
-      "signals": {
-        "coverage": 0.5,
-        "velocity": 0.33,
-        "it_gap": 0.5,
-        "yt_demand": 0.02,
-        "yt_room": 0.0,
-        "topic": 1.0,
-        "freshness": 0.76,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "IGN",
-        "Pure Xbox",
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 6,
-        "median_views": 56,
-        "top_views": 3592,
-        "top_title": "Shrek 2 Remastered Is The Perfect Price & Gets Its Release Date!"
-      },
-      "youtube_query": "november shrek remastered date release",
-      "related": [
-        {
-          "headline": "Abiotic Factor's second year of updates confirmed to include official mod support and a DLC taking science to the tropics",
-          "shared_terms": [
-            "official"
-          ]
-        },
-        {
-          "headline": "Final Fantasy Resonance Review: A nostalgic JRPG limited by its mobile origins",
-          "shared_terms": [
-            "nostalgic"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Pure Xbox",
-          "title": "Shrek 2 Remastered Gets Official November Release Date For Xbox Series X|S",
-          "url": "https://www.purexbox.com/news/2026/10/shrek-2-remastered-gets-official-november-release-date-for-xbox-series-xs",
-          "published": "2026-10-20T17:45:00+00:00"
-        },
-        {
-          "source": "IGN",
-          "title": "Shrek 2 Remastered Reveal Trailer Parodies GTA 6, Sets November Release Date",
-          "url": "https://www.ign.com/articles/shrek-2-remastered-reveal-trailer-parodies-gta-6-sets-november-release-date",
-          "published": "2026-10-20T18:24:07+00:00"
-        },
-        {
-          "source": "Push Square",
-          "title": "Shrek 2 Remastered Takes PS5 to a 'Nostalgic Era of Gaming' This November",
-          "url": "https://www.pushsquare.com/news/2026/10/shrek-2-remastered-takes-ps5-to-a-nostalgic-era-of-gaming-this-november",
-          "published": "2026-10-20T20:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "estimated-file-legend-ocarina-revealed-size",
-      "score": 34.0,
-      "already_proposed": false,
-      "headline": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 6.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.11,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
+        "Kotaku",
+        "Pure Xbox"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 2,
-        "median_views": 1175,
-        "top_views": 1175,
-        "top_title": "Ocarina of Time Went From 32 MB to 27 GB #Shorts"
+        "median_views": 11919,
+        "top_views": 11919,
+        "top_title": "XCLOUD NÃO MORREU! PREÇO do PACOTE de HORAS em REAIS me SURPREENDEU!"
       },
-      "youtube_query": "file estimated size legend ocarina",
-      "related": [],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 Estimated File Size Revealed",
-          "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-estimated-file-size-revealed",
-          "published": "2026-10-21T03:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "action-elaborate-expensive-fans-gta-live",
-      "score": 33.7,
-      "already_proposed": false,
-      "headline": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
-      "topics": [
-        "aaa",
-        "feel_good"
-      ],
-      "age_hours": 11.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.01,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "IGN"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 10,
-        "top_views": 10,
-        "top_title": "Rumor: GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action…"
-      },
-      "youtube_query": "shooting miami elaborate expensive action",
+      "youtube_query": "cloud xbox revealed prices insiders",
       "related": [
         {
-          "headline": "Next-Gen Xbox Could Be $1,800 And Launch In 2028 – Report",
+          "headline": "Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours",
           "shared_terms": [
-            "expensive"
-          ]
-        },
-        {
-          "headline": "This Love And Deepspace / Blade Runner 2049 Event Is Either An Unfortunate Coincidence Or An Elaborate Troll",
-          "shared_terms": [
-            "elaborate"
+            "pricing"
           ]
         }
       ],
       "articles": [
         {
-          "source": "IGN",
-          "title": "GTA 6 Fans Think Rockstar Games Is Shooting an Elaborate and Expensive Live-Action Trailer in Miami",
-          "url": "https://www.ign.com/articles/gta-6-fans-think-rockstar-games-is-shooting-an-elaborate-and-expensive-live-action-trailer-in-miami",
-          "published": "2026-10-20T22:48:37+00:00"
+          "source": "Pure Xbox",
+          "title": "Three Price Tiers Revealed As Xbox Rolls Out 'Cloud Playtime' To Insiders",
+          "url": "https://www.purexbox.com/news/2026/10/three-price-tiers-revealed-as-xbox-rolls-out-cloud-playtime-to-insiders",
+          "published": "2026-10-21T19:00:00+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Xbox Cloud Gaming Hourly Prices Revealed For Non-Game Pass Members",
+          "url": "https://www.gamespot.com/articles/xbox-cloud-gaming-hourly-prices-revealed-for-non-game-pass-members/",
+          "published": "2026-10-21T19:10:33+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Xbox Reveals New Pricing Plans For Cloud Gaming",
+          "url": "https://kotaku.com/xbox-reveals-new-pricing-plans-for-cloud-gaming-2000748436",
+          "published": "2026-10-21T19:20:05+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Xbox cloud gaming prices revealed, with 50 hours of ad-free game-time priced $11.99",
+          "url": "https://www.eurogamer.net/xbox-cloud-gaming-prices-revealed",
+          "published": "2026-10-22T09:10:43+00:00"
         }
       ]
     },
     {
-      "story_id": "aggravated-aleksib-charges-counter-faces-four",
-      "score": 32.4,
+      "story_id": "align-bioware-developer-ever-greatest-growth",
+      "score": 41.7,
       "already_proposed": false,
-      "headline": "Counter-Strike 2 Pro Aleksib Faces Four-Month Suspended Prison Sentence Over Charges of Aggravated Tax Fraud",
+      "headline": "BioWare Was the Greatest RPG Developer Ever",
       "topics": [
-        "steam"
+        "industria"
       ],
-      "age_hours": 11.3,
+      "age_hours": 11.4,
       "signals": {
-        "coverage": 0.17,
+        "coverage": 0.5,
         "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.05,
+        "it_gap": 0.5,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "IGN"
+        "IGN",
+        "Nintendo Life",
+        "Rock Paper Shotgun"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 1,
-        "median_views": 215,
-        "top_views": 215,
-        "top_title": "Counter-Strike 2 Pro Aleksib Faces Suspended Sentence Over Valve Stickers"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "prison suspended fraud counter sentence",
+      "youtube_query": "rpg bioware greatest developer term",
       "related": [
         {
-          "headline": "GDC Festival of Gaming 2027 moves to four-day format to \"create a higher quality, more focused and valuable experience\"",
+          "headline": "EA To Shut Down BioWare And Cancel The Next Mass Effect Game",
           "shared_terms": [
-            "four"
-          ]
-        },
-        {
-          "headline": "Xbox to Slash Even More Jobs This Month, with Further Cuts in November and January",
-          "shared_terms": [
-            "month"
+            "veteran"
           ]
         }
       ],
       "articles": [
         {
           "source": "IGN",
-          "title": "Counter-Strike 2 Pro Aleksib Faces Four-Month Suspended Prison Sentence Over Charges of Aggravated Tax Fraud",
-          "url": "https://www.ign.com/articles/counter-strike-2-pro-aleksib-faces-four-month-suspended-prison-sentence-over-charges-of-aggravated-tax-fraud",
-          "published": "2026-10-20T22:45:55+00:00"
+          "title": "BioWare Was the Greatest RPG Developer Ever",
+          "url": "https://www.ign.com/articles/bioware-was-the-greatest-rpg-developer-ever",
+          "published": "2026-10-21T22:38:17+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "EA Shuts Down Legendary RPG Developer BioWare",
+          "url": "https://www.nintendolife.com/news/2026/10/ea-shuts-down-legendary-rpg-developer-bioware",
+          "published": "2026-10-22T01:25:00+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "EA is shutting down RPG veteran Bioware \"to align talent and investments where we see the greatest opportunities for players and long-term growth\"",
+          "url": "https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth",
+          "published": "2026-10-22T06:56:00+00:00"
         }
       ]
     },
     {
-      "story_id": "arriva-december-extreme-launches-playground-republic",
-      "score": 32.3,
+      "story_id": "accounts-affected-breach-capcom-card-credit",
+      "score": 33.5,
       "already_proposed": false,
-      "headline": "Ubisoft's Extreme Sports Playground 'Riders Republic' Launches On Switch 2 This December",
+      "headline": "Capcom says a data breach affected more than 11 million Capcom ID accounts, credit card details unaffected",
       "topics": [
-        "nintendo",
-        "aaa"
+        "aaa",
+        "industria"
       ],
-      "age_hours": 8.1,
+      "age_hours": 0.3,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.11,
+        "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
@@ -386,99 +235,205 @@
         "weak_format": false
       },
       "coverage_en": [
-        "Nintendo Life"
+        "VGC"
       ],
-      "coverage_it": [
-        "SpazioGames"
-      ],
+      "coverage_it": [],
       "youtube": {
         "video_count": 0,
         "median_views": 0,
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "riders republic switch playground launches",
+      "youtube_query": "accounts unaffected credit capcom breach",
       "related": [],
       "articles": [
         {
-          "source": "Nintendo Life",
-          "title": "Ubisoft's Extreme Sports Playground 'Riders Republic' Launches On Switch 2 This December",
-          "url": "https://www.nintendolife.com/news/2026/10/ubisofts-extreme-sports-playground-riders-republic-launches-on-switch-2-this-december",
-          "published": "2026-10-21T01:55:00+00:00"
-        },
-        {
-          "source": "SpazioGames",
-          "title": "Riders Republic arriva su Switch 2 con una sorpresa",
-          "url": "https://www.spaziogames.it/notizie/riders-republic-su-switch-2-arriva-con-una-novita-attesa",
-          "published": "2026-10-21T07:48:00+00:00"
+          "source": "VGC",
+          "title": "Capcom says a data breach affected more than 11 million Capcom ID accounts, credit card details unaffected",
+          "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
+          "published": "2026-10-22T09:45:28+00:00"
         }
       ]
     },
     {
-      "story_id": "available-cambia-cosa-download-firmware-gta",
-      "score": 32.3,
+      "story_id": "employees-layoffs-live-mandatory-miles-office",
+      "score": 33.2,
       "already_proposed": false,
-      "headline": "PS5, anche il firmware 14.10 sarebbe stato violato: cosa cambia per GTA 6",
+      "headline": "Xbox Employees Who Survive Upcoming Layoffs Will Be Rewarded With More Mandatory Time In The Office If They Live Within 50 Miles",
       "topics": [
-        "playstation",
-        "aaa"
+        "xbox",
+        "industria"
       ],
-      "age_hours": 1.6,
+      "age_hours": 12.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.11,
+        "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
-        "freshness": 1.0,
+        "freshness": 0.97,
         "weak_format": false
       },
       "coverage_en": [
-        "Push Square"
+        "Kotaku"
       ],
-      "coverage_it": [
-        "SpazioGames"
-      ],
+      "coverage_it": [],
       "youtube": {
         "video_count": 0,
         "median_views": 0,
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "firmware ps5 sarebbe violato cosa",
+      "youtube_query": "survive employees upcoming office rewarded",
       "related": [
         {
-          "headline": "5 October 2026 PS Plus Extra, Premium Games Available to Download Now",
+          "headline": "'We expect mass attacks to start within 15 minutes of the release': Web admins braced for emergency PHP updates to plug leaked high-severity holes",
           "shared_terms": [
-            "download"
+            "within"
           ]
         }
       ],
       "articles": [
         {
-          "source": "SpazioGames",
-          "title": "PS5, anche il firmware 14.10 sarebbe stato violato: cosa cambia per GTA 6",
-          "url": "https://www.spaziogames.it/notizie/ps5-anche-il-firmware-1410-sarebbe-stato-violato-cosa-cambia-per-gta-6",
-          "published": "2026-10-21T08:25:00+00:00"
-        },
-        {
-          "source": "Push Square",
-          "title": "PS5 Firmware Update 26.07-14.20.00 Available to Download Now",
-          "url": "https://www.pushsquare.com/news/2026/10/ps5-firmware-update-26-07-14-20-00-available-to-download-now",
-          "published": "2026-10-21T09:00:00+00:00"
+          "source": "Kotaku",
+          "title": "Xbox Employees Who Survive Upcoming Layoffs Will Be Rewarded With More Mandatory Time In The Office If They Live Within 50 Miles",
+          "url": "https://kotaku.com/xbox-employees-who-survive-upcoming-layoffs-will-be-rewarded-with-more-mandatory-time-in-the-office-if-they-live-within-50-miles-2000748473",
+          "published": "2026-10-21T21:30:41+00:00"
         }
       ]
     },
     {
-      "story_id": "age-grateful-maybe-pervasive-remastered-shrek",
-      "score": 31.3,
+      "story_id": "fantasy-final-isn-minigame-pissing-players",
+      "score": 32.8,
       "already_proposed": false,
-      "headline": "In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered",
+      "headline": "The Final Fantasy 14 Typing Minigame Isn’t Even Out Yet And It’s Already Pissing Players Off",
       "topics": [
-        "aaa"
+        "aaa",
+        "feel_good"
       ],
-      "age_hours": 7.9,
+      "age_hours": 13.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.92,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "typing minigame pissing yet players",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "The Final Fantasy 14 Typing Minigame Isn’t Even Out Yet And It’s Already Pissing Players Off",
+          "url": "https://kotaku.com/the-final-fantasy-14-typing-minigame-isnt-even-out-yet-but-its-not-going-over-so-well-right-now-2000748365",
+          "published": "2026-10-21T20:31:41+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2027-arriveranno-aspettare-bisogna-blade-catch",
+      "score": 31.7,
+      "already_proposed": false,
+      "headline": "Il trailer di lancio di Phantom Blade Zero svela le edizioni fisiche per PS5, ma arriveranno solo nel 2027",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 2.9,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon",
+        "Push Square"
+      ],
+      "coverage_it": [
+        "Everyeye",
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "zero blade phantom 2027 lancio",
+      "related": [
+        {
+          "headline": "Resident Evil: Requiem made more money from PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues",
+          "shared_terms": [
+            "fisiche"
+          ]
+        },
+        {
+          "headline": "Xbox Exec Shows Off New Version Of The Blades Dashboard They've Been 'Cooking Up'",
+          "shared_terms": [
+            "version"
+          ]
+        },
+        {
+          "headline": "Final Fantasy Resonance, il gioco esce domani e preordine scontato su Amazon",
+          "shared_terms": [
+            "esce"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Multiplayer",
+          "title": "Il trailer di lancio di Phantom Blade Zero svela le edizioni fisiche per PS5, ma arriveranno solo nel 2027",
+          "url": "https://multiplayer.it/notizie/trailer-lancio-phantom-blade-zero-svela-edizioni-fisiche-ps5-ma-arriveranno-solo-nel-2027.html",
+          "published": "2026-10-22T07:05:49+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Phantom Blade Zero Physical Version Set for 2027, 3 PS5 Editions Revealed",
+          "url": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-physical-version-set-for-2027-3-ps5-editions-revealed",
+          "published": "2026-10-22T08:30:00+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "Phantom Blade Zero esce al lancio solo in digitale, per la versione fisica bisogna aspettare il 2027",
+          "url": "https://www.everyeye.it/notizie/phantom-blade-zero-esce-lancio-digitale-versione-fisica-bisogna-aspettare-2027-907411.html",
+          "published": "2026-10-22T09:38:00+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Phantom Blade Zero Will Get a Physical Release, But There's a Catch",
+          "url": "https://www.polygon.com/phantom-blade-zero-physical-release-disc/",
+          "published": "2026-10-22T09:43:37+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cops-craft-disgusting-flogging-machinarium-nothing",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft'",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 11.6,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -494,34 +449,295 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 1,
+        "video_count": 0,
         "median_views": 0,
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "slop grateful pervasive age maybe",
+      "youtube_query": "machinarium nothing craft disgusting cops",
       "related": [
         {
-          "headline": "I'm not sure if the Steam Frame hits any corners in this bouncing screensaver, but maybe if I watch long enough the headset will come down in price",
+          "headline": "BioWare is closing after 30 years",
           "shared_terms": [
-            "maybe"
+            "tribute"
           ]
         }
       ],
       "articles": [
         {
           "source": "PC Gamer",
-          "title": "In this age of pervasive slop maybe we should be grateful for Shrek 2 Remastered",
-          "url": "https://www.pcgamer.com/games/action/in-this-age-of-pervasive-slop-maybe-we-should-be-grateful-for-shrek-2-remastered/",
-          "published": "2026-10-21T02:08:18+00:00"
+          "title": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft'",
+          "url": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/",
+          "published": "2026-10-21T22:26:41+00:00"
         }
       ]
     },
     {
-      "story_id": "coffin-fest-flop-list-mix-qwop",
+      "story_id": "cuts-gta-scenes-shower-spicy",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "Mix ‘Coffin Flop’ With QWOP And You’ve Got A Game That’s At The Top Of My Steam Next Fest List",
+      "headline": "GTA 6‘s First TV Ad Cuts The Spicy Shower Scenes",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 10.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "cuts scenes spicy shower gta",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "GTA 6‘s First TV Ad Cuts The Spicy Shower Scenes",
+          "url": "https://kotaku.com/gta-6s-first-tv-ad-cuts-the-spicy-shower-scenes-2000748474",
+          "published": "2026-10-21T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "coffee-costs-frothy-not-playstation-timer",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Do Not Miss This PlayStation All-Timer While It Costs Less Than a Frothy Coffee",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 10.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "timer frothy coffee costs not",
+      "related": [
+        {
+          "headline": "PS6 Costs $200 Less to Make Than Xbox Helix, Snoop Claims",
+          "shared_terms": [
+            "costs"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Do Not Miss This PlayStation All-Timer While It Costs Less Than a Frothy Coffee",
+          "url": "https://www.pushsquare.com/news/2026/10/do-not-miss-this-playstation-all-timer-while-it-costs-less-than-a-frothy-coffee",
+          "published": "2026-10-22T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "absolution-announces-hitman-limited-physical-release",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Limited Run Announces Hitman: Absolution Switch 2 Physical Release, Here's A Look",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 7.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "absolution announces limited hitman run",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Limited Run Announces Hitman: Absolution Switch 2 Physical Release, Here's A Look",
+          "url": "https://www.nintendolife.com/news/2026/10/limited-run-announces-hitman-absolution-switch-2-physical-release-heres-a-look",
+          "published": "2026-10-22T02:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "30th-amazon-below-celebration-etbs-invite",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Amazon Is Selling Pokémon TCG: 30th Celebration ETBs Below Market Rate — if You Can Secure an Invite",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 1.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "etbs invite selling secure tcg",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Amazon Is Selling Pokémon TCG: 30th Celebration ETBs Below Market Rate — if You Can Secure an Invite",
+          "url": "https://www.ign.com/articles/pokemon-tcg-30th-celebration-elite-trainer-box-down-to-5999-at-amazon",
+          "published": "2026-10-22T08:33:40+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cloud-hours-limits-pricing-reveals-starting",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 0.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "limits starting pricing reveals hours",
+      "related": [
+        {
+          "headline": "Three Price Tiers Revealed As Xbox Rolls Out 'Cloud Playtime' To Insiders",
+          "shared_terms": [
+            "pricing"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours",
+          "url": "https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours",
+          "published": "2026-10-22T09:14:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "become-creative-developers-dominate-important-masahiro",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Masahiro Sakurai says as AI games dominate Steam, developers who are truly creative will become even more important",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 0.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "become sakurai truly masahiro important",
+      "related": [
+        {
+          "headline": "Subnautica 2's next major update adds \"the scariest region we've ever done\", together with frog mechs and a very welcome tweak for dashing",
+          "shared_terms": [
+            "developers"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Masahiro Sakurai says as AI games dominate Steam, developers who are truly creative will become even more important",
+          "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/",
+          "published": "2026-10-22T09:17:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "access-early-end-period-scarier-sight",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Subnautica 2 Is Getting Scarier With ‘Early Access 2.0,’ But Its Early Access Period Has No End In Sight",
       "topics": [
         "steam"
       ],
@@ -546,255 +762,14 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "flop qwop coffin mix list",
-      "related": [
-        {
-          "headline": "Ace Combat 8 Carpet Bombs a Massive List of Bugs in an Upcoming Patch on PS5",
-          "shared_terms": [
-            "list"
-          ]
-        }
-      ],
+      "youtube_query": "access period scarier sight subnautica",
+      "related": [],
       "articles": [
         {
           "source": "Kotaku",
-          "title": "Mix ‘Coffin Flop’ With QWOP And You’ve Got A Game That’s At The Top Of My Steam Next Fest List",
-          "url": "https://kotaku.com/mix-coffin-flop-with-qwop-and-youve-got-a-game-thats-at-the-top-of-my-steam-next-fest-list-2000746058",
-          "published": "2026-10-20T22:00:46+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "cuts-further-january-jobs-month-november",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Xbox to Slash Even More Jobs This Month, with Further Cuts in November and January",
-      "topics": [
-        "xbox"
-      ],
-      "age_hours": 11.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "jobs cuts further slash january",
-      "related": [
-        {
-          "headline": "JRPG Villion: Code Adds to the Insanity of PS5's January Release Schedule",
-          "shared_terms": [
-            "january"
-          ]
-        },
-        {
-          "headline": "Counter-Strike 2 Pro Aleksib Faces Four-Month Suspended Prison Sentence Over Charges of Aggravated Tax Fraud",
-          "shared_terms": [
-            "month"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Push Square",
-          "title": "Xbox to Slash Even More Jobs This Month, with Further Cuts in November and January",
-          "url": "https://www.pushsquare.com/news/2026/10/xbox-to-slash-even-more-jobs-this-month-with-further-cuts-in-november-and-january",
-          "published": "2026-10-20T23:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "2027-aboard-arriving-denshattack-edition-physical",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "All Aboard! Denshattack Physical Edition Arriving On Switch 2 In 2027",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 5.3,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "denshattack physical aboard arriving edition",
-      "related": [],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "All Aboard! Denshattack Physical Edition Arriving On Switch 2 In 2027",
-          "url": "https://www.nintendolife.com/news/2026/10/all-aboard-denshattack-physical-edition-arriving-on-switch-2-in-2027",
-          "published": "2026-10-21T04:45:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "demystifying-leaders-unions",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Demystifying unions: What games leaders need to know",
-      "topics": [
-        "industria"
-      ],
-      "age_hours": 2.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GamesIndustry"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "unions demystifying leaders",
-      "related": [
-        {
-          "headline": "Vivrato: 97% of studio leaders use AI in some form during development in EU and North America",
-          "shared_terms": [
-            "leaders"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "GamesIndustry",
-          "title": "Demystifying unions: What games leaders need to know",
-          "url": "https://www.gamesindustry.biz/demystifying-unions-what-games-leaders-need-to-know",
-          "published": "2026-10-21T08:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "broken-canceled-cloned-demo-fearing-moonlighter",
-      "score": 31.0,
-      "already_proposed": false,
-      "headline": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo",
-      "topics": [
-        "storie"
-      ],
-      "age_hours": 12.4,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.98,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "broken something moonlighter cloned fearing",
-      "related": [
-        {
-          "headline": "Umamusume: Pretty Derby Los Angeles concert cancelled last minute due to US visa issues, despite exploring \"every possible option\"",
-          "shared_terms": [
-            "canceled"
-          ]
-        },
-        {
-          "headline": "Project Helix Xbox Consoles Could Reportedly Cost Between $1,200 And $1,800 Without Subsidies",
-          "shared_terms": [
-            "without"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "'If you can’t show your game to the world without fearing it’ll be cloned, something’s broken' says Moonlighter studio on its canceled demo",
-          "url": "https://www.pcgamer.com/gaming-industry/if-you-cant-show-your-game-to-the-world-without-fearing-itll-be-cloned-somethings-broken-says-moonlighter-studio-on-its-canceled-demo/",
-          "published": "2026-10-20T21:34:35+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "aspyr-remastering-shrek-surprise",
-      "score": 33.5,
-      "already_proposed": true,
-      "headline": "Surprise! Aspyr Is Remastering A Shrek Game",
-      "topics": [
-        "aaa",
-        "feel_good"
-      ],
-      "age_hours": 10.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "remastering aspyr surprise shrek",
-      "related": [],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Surprise! Aspyr Is Remastering A Shrek Game",
-          "url": "https://www.nintendolife.com/news/2026/10/surprise-aspyr-is-remastering-a-shrek-game",
-          "published": "2026-10-20T23:30:00+00:00"
+          "title": "Subnautica 2 Is Getting Scarier With ‘Early Access 2.0,’ But Its Early Access Period Has No End In Sight",
+          "url": "https://kotaku.com/subnautica-2-is-getting-scarier-with-early-access-2-0-but-its-early-access-period-has-no-end-in-sight-2000748322",
+          "published": "2026-10-21T22:00:11+00:00"
         }
       ]
     }

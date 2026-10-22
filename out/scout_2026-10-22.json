@@ -1,0 +1,777 @@
+{
+  "generated_at": "2026-10-22T10:01:31.567116+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "55bn-age-ago-arabia-bioware-boss",
+      "score": 56.7,
+      "already_proposed": false,
+      "headline": "BioWare is closing after 30 years",
+      "topics": [
+        "feel_good",
+        "storie"
+      ],
+      "age_hours": 16.1,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.25,
+        "it_gap": 0.67,
+        "yt_demand": 0.82,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.77,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Game Developer",
+        "GamesIndustry",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 67621,
+        "top_views": 257700,
+        "top_title": "EA Shuts Down BioWare"
+      },
+      "youtube_query": "bioware years closing effect mass",
+      "related": [
+        {
+          "headline": "Report: Xbox Planning Major Overhaul Of Game Pass With 'À La Carte' Options",
+          "shared_terms": [
+            "massive"
+          ]
+        },
+        {
+          "headline": "EA To Shut Down BioWare And Cancel The Next Mass Effect Game",
+          "shared_terms": [
+            "closes"
+          ]
+        },
+        {
+          "headline": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft'",
+          "shared_terms": [
+            "tribute"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "BioWare is closing after 30 years",
+          "url": "https://www.gamesindustry.biz/bioware-is-closing-after-30-years",
+          "published": "2026-10-21T17:55:20+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "BioWare is closing down and Mass Effect 5 is cancelled, months after Saudi Arabia's $55bn EA buyout",
+          "url": "https://www.eurogamer.net/bioware-closing-down-mass-effect-5-cancelled",
+          "published": "2026-10-21T17:55:57+00:00"
+        },
+        {
+          "source": "Game Developer",
+          "title": "EA closes Mass Effect, Dragon Age creator BioWare after 30 years of game development",
+          "url": "https://www.gamedeveloper.com/business/ea-closes-mass-effect-dragon-age-creator-bioware-after-30-years-of-game-development",
+          "published": "2026-10-21T18:57:37+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "CD Projekt boss pays tribute to BioWare for helping bring The Witcher to life 20 years ago: 'BioWare has been a massive part of CDPR history'",
+          "url": "https://www.pcgamer.com/gaming-industry/cd-projekt-boss-pays-tribute-to-bioware-for-helping-bring-the-witcher-to-life-20-years-ago-bioware-has-been-a-massive-part-of-cdpr-history/",
+          "published": "2026-10-21T21:43:06+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cloud-hourly-hours-insiders-members-pass",
+      "score": 55.5,
+      "already_proposed": false,
+      "headline": "Three Price Tiers Revealed As Xbox Rolls Out 'Cloud Playtime' To Insiders",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 15.0,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.25,
+        "it_gap": 0.67,
+        "yt_demand": 0.35,
+        "yt_room": 1.0,
+        "topic": 0.33,
+        "freshness": 0.83,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot",
+        "Kotaku",
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 11919,
+        "top_views": 11919,
+        "top_title": "XCLOUD NÃO MORREU! PREÇO do PACOTE de HORAS em REAIS me SURPREENDEU!"
+      },
+      "youtube_query": "cloud xbox revealed prices insiders",
+      "related": [
+        {
+          "headline": "Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours",
+          "shared_terms": [
+            "pricing"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Three Price Tiers Revealed As Xbox Rolls Out 'Cloud Playtime' To Insiders",
+          "url": "https://www.purexbox.com/news/2026/10/three-price-tiers-revealed-as-xbox-rolls-out-cloud-playtime-to-insiders",
+          "published": "2026-10-21T19:00:00+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Xbox Cloud Gaming Hourly Prices Revealed For Non-Game Pass Members",
+          "url": "https://www.gamespot.com/articles/xbox-cloud-gaming-hourly-prices-revealed-for-non-game-pass-members/",
+          "published": "2026-10-21T19:10:33+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Xbox Reveals New Pricing Plans For Cloud Gaming",
+          "url": "https://kotaku.com/xbox-reveals-new-pricing-plans-for-cloud-gaming-2000748436",
+          "published": "2026-10-21T19:20:05+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Xbox cloud gaming prices revealed, with 50 hours of ad-free game-time priced $11.99",
+          "url": "https://www.eurogamer.net/xbox-cloud-gaming-prices-revealed",
+          "published": "2026-10-22T09:10:43+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "align-bioware-developer-ever-greatest-growth",
+      "score": 41.7,
+      "already_proposed": false,
+      "headline": "BioWare Was the Greatest RPG Developer Ever",
+      "topics": [
+        "industria"
+      ],
+      "age_hours": 11.4,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.5,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Nintendo Life",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "rpg bioware greatest developer term",
+      "related": [
+        {
+          "headline": "EA To Shut Down BioWare And Cancel The Next Mass Effect Game",
+          "shared_terms": [
+            "veteran"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "BioWare Was the Greatest RPG Developer Ever",
+          "url": "https://www.ign.com/articles/bioware-was-the-greatest-rpg-developer-ever",
+          "published": "2026-10-21T22:38:17+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "EA Shuts Down Legendary RPG Developer BioWare",
+          "url": "https://www.nintendolife.com/news/2026/10/ea-shuts-down-legendary-rpg-developer-bioware",
+          "published": "2026-10-22T01:25:00+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "EA is shutting down RPG veteran Bioware \"to align talent and investments where we see the greatest opportunities for players and long-term growth\"",
+          "url": "https://www.rockpapershotgun.com/development-on-the-next-mass-effect-is-ending-ea-is-shutting-down-rpg-veteran-bioware-to-align-talent-and-investments-where-we-see-the-greatest-opportunities-for-players-and-long-term-growth",
+          "published": "2026-10-22T06:56:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "accounts-affected-breach-capcom-card-credit",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Capcom says a data breach affected more than 11 million Capcom ID accounts, credit card details unaffected",
+      "topics": [
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 0.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "accounts unaffected credit capcom breach",
+      "related": [],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Capcom says a data breach affected more than 11 million Capcom ID accounts, credit card details unaffected",
+          "url": "https://www.videogameschronicle.com/news/capcom-says-a-data-breach-affected-more-than-11-million-capcom-id-accounts-credit-card-details-unaffected/",
+          "published": "2026-10-22T09:45:28+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "employees-layoffs-live-mandatory-miles-office",
+      "score": 33.2,
+      "already_proposed": false,
+      "headline": "Xbox Employees Who Survive Upcoming Layoffs Will Be Rewarded With More Mandatory Time In The Office If They Live Within 50 Miles",
+      "topics": [
+        "xbox",
+        "industria"
+      ],
+      "age_hours": 12.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.97,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "survive employees upcoming office rewarded",
+      "related": [
+        {
+          "headline": "'We expect mass attacks to start within 15 minutes of the release': Web admins braced for emergency PHP updates to plug leaked high-severity holes",
+          "shared_terms": [
+            "within"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Xbox Employees Who Survive Upcoming Layoffs Will Be Rewarded With More Mandatory Time In The Office If They Live Within 50 Miles",
+          "url": "https://kotaku.com/xbox-employees-who-survive-upcoming-layoffs-will-be-rewarded-with-more-mandatory-time-in-the-office-if-they-live-within-50-miles-2000748473",
+          "published": "2026-10-21T21:30:41+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "fantasy-final-isn-minigame-pissing-players",
+      "score": 32.8,
+      "already_proposed": false,
+      "headline": "The Final Fantasy 14 Typing Minigame Isn’t Even Out Yet And It’s Already Pissing Players Off",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 13.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.92,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "typing minigame pissing yet players",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "The Final Fantasy 14 Typing Minigame Isn’t Even Out Yet And It’s Already Pissing Players Off",
+          "url": "https://kotaku.com/the-final-fantasy-14-typing-minigame-isnt-even-out-yet-but-its-not-going-over-so-well-right-now-2000748365",
+          "published": "2026-10-21T20:31:41+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2027-arriveranno-aspettare-bisogna-blade-catch",
+      "score": 31.7,
+      "already_proposed": false,
+      "headline": "Il trailer di lancio di Phantom Blade Zero svela le edizioni fisiche per PS5, ma arriveranno solo nel 2027",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 2.9,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon",
+        "Push Square"
+      ],
+      "coverage_it": [
+        "Everyeye",
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "zero blade phantom 2027 lancio",
+      "related": [
+        {
+          "headline": "Resident Evil: Requiem made more money from PlayStation discs than on Xbox in total, reportedly, as Sony's march to a discless future continues",
+          "shared_terms": [
+            "fisiche"
+          ]
+        },
+        {
+          "headline": "Xbox Exec Shows Off New Version Of The Blades Dashboard They've Been 'Cooking Up'",
+          "shared_terms": [
+            "version"
+          ]
+        },
+        {
+          "headline": "Final Fantasy Resonance, il gioco esce domani e preordine scontato su Amazon",
+          "shared_terms": [
+            "esce"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Multiplayer",
+          "title": "Il trailer di lancio di Phantom Blade Zero svela le edizioni fisiche per PS5, ma arriveranno solo nel 2027",
+          "url": "https://multiplayer.it/notizie/trailer-lancio-phantom-blade-zero-svela-edizioni-fisiche-ps5-ma-arriveranno-solo-nel-2027.html",
+          "published": "2026-10-22T07:05:49+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Phantom Blade Zero Physical Version Set for 2027, 3 PS5 Editions Revealed",
+          "url": "https://www.pushsquare.com/news/2026/10/phantom-blade-zero-physical-version-set-for-2027-3-ps5-editions-revealed",
+          "published": "2026-10-22T08:30:00+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "Phantom Blade Zero esce al lancio solo in digitale, per la versione fisica bisogna aspettare il 2027",
+          "url": "https://www.everyeye.it/notizie/phantom-blade-zero-esce-lancio-digitale-versione-fisica-bisogna-aspettare-2027-907411.html",
+          "published": "2026-10-22T09:38:00+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Phantom Blade Zero Will Get a Physical Release, But There's a Catch",
+          "url": "https://www.polygon.com/phantom-blade-zero-physical-release-disc/",
+          "published": "2026-10-22T09:43:37+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cops-craft-disgusting-flogging-machinarium-nothing",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft'",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 11.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "machinarium nothing craft disgusting cops",
+      "related": [
+        {
+          "headline": "BioWare is closing after 30 years",
+          "shared_terms": [
+            "tribute"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Machinarium AI tribute cops a flogging from studio: 'This looks disgusting and has nothing to do with us or our craft'",
+          "url": "https://www.pcgamer.com/gaming-industry/machinarium-ai-tribute-cops-a-flogging-from-studio-this-looks-disgusting-and-has-nothing-to-do-with-us-or-our-craft/",
+          "published": "2026-10-21T22:26:41+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cuts-gta-scenes-shower-spicy",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "GTA 6‘s First TV Ad Cuts The Spicy Shower Scenes",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 10.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "cuts scenes spicy shower gta",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "GTA 6‘s First TV Ad Cuts The Spicy Shower Scenes",
+          "url": "https://kotaku.com/gta-6s-first-tv-ad-cuts-the-spicy-shower-scenes-2000748474",
+          "published": "2026-10-21T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "coffee-costs-frothy-not-playstation-timer",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Do Not Miss This PlayStation All-Timer While It Costs Less Than a Frothy Coffee",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 10.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "timer frothy coffee costs not",
+      "related": [
+        {
+          "headline": "PS6 Costs $200 Less to Make Than Xbox Helix, Snoop Claims",
+          "shared_terms": [
+            "costs"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Do Not Miss This PlayStation All-Timer While It Costs Less Than a Frothy Coffee",
+          "url": "https://www.pushsquare.com/news/2026/10/do-not-miss-this-playstation-all-timer-while-it-costs-less-than-a-frothy-coffee",
+          "published": "2026-10-22T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "absolution-announces-hitman-limited-physical-release",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Limited Run Announces Hitman: Absolution Switch 2 Physical Release, Here's A Look",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 7.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "absolution announces limited hitman run",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Limited Run Announces Hitman: Absolution Switch 2 Physical Release, Here's A Look",
+          "url": "https://www.nintendolife.com/news/2026/10/limited-run-announces-hitman-absolution-switch-2-physical-release-heres-a-look",
+          "published": "2026-10-22T02:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "30th-amazon-below-celebration-etbs-invite",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Amazon Is Selling Pokémon TCG: 30th Celebration ETBs Below Market Rate — if You Can Secure an Invite",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 1.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "etbs invite selling secure tcg",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Amazon Is Selling Pokémon TCG: 30th Celebration ETBs Below Market Rate — if You Can Secure an Invite",
+          "url": "https://www.ign.com/articles/pokemon-tcg-30th-celebration-elite-trainer-box-down-to-5999-at-amazon",
+          "published": "2026-10-22T08:33:40+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cloud-hours-limits-pricing-reveals-starting",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 0.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "limits starting pricing reveals hours",
+      "related": [
+        {
+          "headline": "Three Price Tiers Revealed As Xbox Rolls Out 'Cloud Playtime' To Insiders",
+          "shared_terms": [
+            "pricing"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Xbox reveals pricing for cloud gaming limits, starting at $3.99 for 10 hours",
+          "url": "https://www.gamesindustry.biz/xbox-reveals-pricing-for-cloud-gaming-limits-starting-at-399-for-10-hours",
+          "published": "2026-10-22T09:14:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "become-creative-developers-dominate-important-masahiro",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Masahiro Sakurai says as AI games dominate Steam, developers who are truly creative will become even more important",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 0.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "become sakurai truly masahiro important",
+      "related": [
+        {
+          "headline": "Subnautica 2's next major update adds \"the scariest region we've ever done\", together with frog mechs and a very welcome tweak for dashing",
+          "shared_terms": [
+            "developers"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Masahiro Sakurai says as AI games dominate Steam, developers who are truly creative will become even more important",
+          "url": "https://www.videogameschronicle.com/news/masahiro-sakurai-says-as-ai-games-dominate-steam-developers-who-are-truly-creative-will-become-even-more-important/",
+          "published": "2026-10-22T09:17:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "access-early-end-period-scarier-sight",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Subnautica 2 Is Getting Scarier With ‘Early Access 2.0,’ But Its Early Access Period Has No End In Sight",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 12.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "access period scarier sight subnautica",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Subnautica 2 Is Getting Scarier With ‘Early Access 2.0,’ But Its Early Access Period Has No End In Sight",
+          "url": "https://kotaku.com/subnautica-2-is-getting-scarier-with-early-access-2-0-but-its-early-access-period-has-no-end-in-sight-2000748322",
+          "published": "2026-10-21T22:00:11+00:00"
+        }
+      ]
+    }
+  ]
+}
