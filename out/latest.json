@@ -1,346 +1,18 @@
 {
-  "generated_at": "2026-10-23T09:55:54.181639+00:00",
+  "generated_at": "2026-10-24T09:25:45.517700+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "absolutely-appears-autentico-because-bioware-cancellato",
-      "score": 53.7,
+      "story_id": "classic-jrpgs-remake",
+      "score": 34.0,
       "already_proposed": false,
-      "headline": "A Convincing Trailer For What May Have Been Mass Effect 5 Has Leaked [UPDATE: It’s Real]",
-      "topics": [
-        "aaa",
-        "storie",
-        "industria"
-      ],
-      "age_hours": 17.6,
-      "signals": {
-        "coverage": 1.0,
-        "velocity": 0.27,
-        "it_gap": 0.33,
-        "yt_demand": 0.78,
-        "yt_room": 0.0,
-        "topic": 1.0,
-        "freshness": 0.69,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "GameSpot",
-        "IGN",
-        "Kotaku",
-        "Nintendo Life",
-        "PC Gamer",
-        "Pure Xbox",
-        "Push Square",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "coverage_it": [
-        "Everyeye",
-        "Multiplayer"
-      ],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 60081,
-        "top_views": 227459,
-        "top_title": "Mass Effect: Universe Trailer"
-      },
-      "youtube_query": "trailer effect mass leaked universe",
-      "related": [
-        {
-          "headline": "Cyberpunk 2077 PS5 Update 2.5 Live Now, Get the Patch Notes Here",
-          "shared_terms": [
-            "returning"
-          ]
-        },
-        {
-          "headline": "How to get electronic sensors in Modern Warfare 4 DMZ",
-          "shared_terms": [
-            "giorno"
-          ]
-        },
-        {
-          "headline": "While EA shuts down BioWare, developers of The Sims, Skate, and Battlefield say they've also lost their jobs",
-          "shared_terms": [
-            "shuts"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Kotaku",
-          "title": "A Convincing Trailer For What May Have Been Mass Effect 5 Has Leaked [UPDATE: It’s Real]",
-          "url": "https://kotaku.com/mass-effect-5-universe-leaked-trailer-liara-bioware-2000748858",
-          "published": "2026-10-22T16:17:51+00:00"
-        },
-        {
-          "source": "IGN",
-          "title": "Mass Effect 5 Trailer Leaks Online With 'Mass Effect: Universe' Title, Reveals Returning Characters and Much More",
-          "url": "https://www.ign.com/articles/mass-effect-5-trailer-leaks-online-with-mass-effect-universe-title-reveals-returning-characters-and-much-more",
-          "published": "2026-10-22T16:42:20+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "Un trailer del nuovo Mass Effect cancellato trapela il giorno dopo la chiusura di BioWare",
-          "url": "https://multiplayer.it/notizie/un-trailer-del-nuovo-mass-effect-cancellato-trapela-il-giorno-dopo-la-chiusura-di-bioware.html",
-          "published": "2026-10-22T16:52:46+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "Someone leaked a Mass Effect 5 trailer and now I feel even worse, because it looks really good",
-          "url": "https://www.pcgamer.com/games/mass-effect/someone-leaked-a-mass-effect-5-trailer-and-now-i-feel-even-worse-because-it-looks-really-good/",
-          "published": "2026-10-22T16:56:08+00:00"
-        },
-        {
-          "source": "Pure Xbox",
-          "title": "'Mass Effect Universe' Trailer Suddenly Appears Online Following BioWare Closure",
-          "url": "https://www.purexbox.com/news/2026/10/mass-effect-universe-trailer-suddenly-appears-online-following-bioware-closure",
-          "published": "2026-10-22T17:00:00+00:00"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "title": "An internal Mass Effect 5 trailer has reportedly leaked, offering you a glimpse at the sequel you'll never get to play",
-          "url": "https://www.rockpapershotgun.com/an-internal-mass-effect-5-trailer-has-reportedly-leaked-offering-you-a-glimpse-at-the-sequel-youll-never-get-to-play",
-          "published": "2026-10-22T17:45:41+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "Mass Effect Universe trailer leaks online, showcases what BioWare was working on before being shut down",
-          "url": "https://www.videogameschronicle.com/news/mass-effect-universe-trailer-leaks-online-showcases-what-bioware-was-working-on-before-being-shut-down/",
-          "published": "2026-10-22T18:45:56+00:00"
-        },
-        {
-          "source": "GameSpot",
-          "title": "The Leaked Mass Effect 5 Trailer Is Absolutely Heartbreaking",
-          "url": "https://www.gamespot.com/articles/the-leaked-mass-effect-5-trailer-is-absolutely-heartbreaking/",
-          "published": "2026-10-22T19:06:27+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "Mass Effect 5’s Leaked Trailer: 9 Things We Noticed",
-          "url": "https://kotaku.com/mass-effect-5-universe-leak-trailer-breakdown-liara-bioware-2000748896",
-          "published": "2026-10-22T19:36:14+00:00"
-        },
-        {
-          "source": "Push Square",
-          "title": "Leaked Mass Effect 5 Trailer Is Real, Offers Glimpse of Cancelled Game",
-          "url": "https://www.pushsquare.com/news/2026/10/leaked-mass-effect-5-trailer-is-real-offers-glimpse-of-cancelled-game",
-          "published": "2026-10-22T23:00:00+00:00"
-        },
-        {
-          "source": "Nintendo Life",
-          "title": "Mass Effect: Universe Trailer Leaked Online As BioWare Shuts Down",
-          "url": "https://www.nintendolife.com/news/2026/10/mass-effect-universe-trailer-leaked-online-as-bioware-shuts-down",
-          "published": "2026-10-23T05:55:00+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "Mass Effect Universe: il trailer leakato dopo la chiusura di BioWare è autentico, Jason Schreier conferma",
-          "url": "https://www.everyeye.it/notizie/mass-effect-universe-trailer-leakato-chiusura-bioware-autentico-jason-schreier-conferma-907504.html",
-          "published": "2026-10-23T06:09:00+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Flashy internal trailer for now-cancelled Mass Effect Universe appears online, following EA's closure of BioWare",
-          "url": "https://www.eurogamer.net/mass-effect-universe-trailer-leak-real",
-          "published": "2026-10-23T09:11:49+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "auto-changed-differences-grand-launch-theft",
-      "score": 50.8,
-      "already_proposed": false,
-      "headline": "Grand Theft Auto 6 Launch Trailer Was Changed for TV: Here Are All the Differences",
+      "headline": "7 Classic JRPGs That Are So Good They Never Need a Remake",
       "topics": [
         "aaa"
       ],
-      "age_hours": 0.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.27,
-        "yt_room": 1.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 2,
-        "median_views": 7360,
-        "top_views": 7360,
-        "top_title": "GTA 5 vs GTA 6: Franklin vs Jason After 13 Years 😳🔥 #Shorts #GTAVI #GTAV #GTAComparison"
-      },
-      "youtube_query": "differences grand changed theft auto",
-      "related": [
-        {
-          "headline": "Dispatch Gets Over 16 Hours of New Content With Commentary Track, Mobile Version, and Live Concert to Celebrate Its First Anniversary",
-          "shared_terms": [
-            "launch"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "Grand Theft Auto 6 Launch Trailer Was Changed for TV: Here Are All the Differences",
-          "url": "https://www.polygon.com/grand-theft-auto-gta-6-launch-trailer-tv-commercial-changes/",
-          "published": "2026-10-23T09:42:37+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "accidentally-codename-confirmed-davvero-dev-developer",
-      "score": 45.5,
-      "already_proposed": false,
-      "headline": "Valve Developer Mistakenly Mentions Rumored Half-Life 3 Codename",
-      "topics": [
-        "steam",
-        "feel_good"
-      ],
-      "age_hours": 15.2,
-      "signals": {
-        "coverage": 1.0,
-        "velocity": 0.5,
-        "it_gap": 0.67,
-        "yt_demand": 0.08,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.82,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GameSpot",
-        "IGN",
-        "Kotaku",
-        "PC Gamer",
-        "Polygon",
-        "VGC"
-      ],
-      "coverage_it": [
-        "Everyeye"
-      ],
-      "youtube": {
-        "video_count": 5,
-        "median_views": 658,
-        "top_views": 2462,
-        "top_title": "Valve Dev Leaks Rumored Half-Life Codename HLX on Stage"
-      },
-      "youtube_query": "valve life half codename mentions",
-      "related": [
-        {
-          "headline": "A new Fallout 4 mod adds an entire town, but more importantly, it lets you join a gang",
-          "shared_terms": [
-            "lets"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "Valve Developer Mistakenly Mentions Rumored Half-Life 3 Codename",
-          "url": "https://www.ign.com/articles/valve-developer-mistakenly-mentions-rumored-half-life-3-codename",
-          "published": "2026-10-22T18:46:00+00:00"
-        },
-        {
-          "source": "GameSpot",
-          "title": "Why People Think Valve Just Accidentally Confirmed Half-Life 3",
-          "url": "https://www.gamespot.com/articles/why-people-think-valve-just-accidentally-confirmed-half-life-3/",
-          "published": "2026-10-22T19:02:15+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "Valve Employee Accidentally Mentions Half-Life 3 Codename For The First Time Ever",
-          "url": "https://kotaku.com/valve-employee-seemingly-slips-up-and-says-rumored-half-life-3-codename-on-stage-2000748885",
-          "published": "2026-10-22T19:04:14+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "Half-Life 3 esiste davvero? La gaffe di un developer Valve fa sognare i fan",
-          "url": "https://www.everyeye.it/notizie/half-life-3-esiste-davvero-gaffe-developer-valve-sognare-fan-907531.html",
-          "published": "2026-10-22T19:44:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "Half-Life 3 re-re-re-confirmed: A Valve dev just said 'HLX' out loud",
-          "url": "https://www.pcgamer.com/games/fps/half-life-3-re-re-re-confirmed-a-valve-dev-just-said-hlx-out-loud/",
-          "published": "2026-10-22T20:16:39+00:00"
-        },
-        {
-          "source": "Polygon",
-          "title": "Half-Life 3 Rumors Reignite After Valve Employee Lets Codename Slip",
-          "url": "https://www.polygon.com/valve-half-life-3-hlx/",
-          "published": "2026-10-22T21:16:28+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "Half-Life 3 speculation grows as Valve developer mentions ‘HLX’ during stage panel",
-          "url": "https://www.videogameschronicle.com/news/half-life-3-speculation-grows-as-valve-developer-mentions-hlx-during-stage-panel/",
-          "published": "2026-10-23T08:44:30+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "associate-cdpr-cyberpunk-director-former-half",
-      "score": 34.2,
-      "already_proposed": false,
-      "headline": "Cyberpunk 2 Associate Director Says Half of Game's Quest Team Are Former Modders",
-      "topics": [],
-      "age_hours": 11.6,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "IGN",
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "associate team quest director half",
-      "related": [],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "Cyberpunk 2 Associate Director Says Half of Game's Quest Team Are Former Modders",
-          "url": "https://www.ign.com/articles/cyberpunk-2-associate-director-says-half-of-games-quest-team-are-former-modders",
-          "published": "2026-10-22T22:18:28+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "Cyberpunk 2 associate director says half the quest team were hired for their modding work on other CDPR games",
-          "url": "https://www.videogameschronicle.com/news/cyberpunk-2-associate-director-says-half-the-quest-team-were-hired-for-their-modding-work-on-other-cdpr-games/",
-          "published": "2026-10-23T09:15:07+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "edition-exclusive-kingdom-officially-open-orders",
-      "score": 34.0,
-      "already_proposed": false,
-      "headline": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Pre-Orders Now Open",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 9.4,
+      "age_hours": 11.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -352,55 +24,76 @@
         "weak_format": false
       },
       "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1177,
+        "top_views": 1177,
+        "top_title": "ESSE CLÁSSICO MERECIA UM REMAKE😮 #games #ps1 #playstation #gamezu #thelegenddragoon #rpg #jogosdeps1"
+      },
+      "youtube_query": "jrpgs classic remake",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "7 Classic JRPGs That Are So Good They Never Need a Remake",
+          "url": "https://www.polygon.com/best-classic-jrpgs-no-remake/",
+          "published": "2026-10-23T22:19:03+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "esrb-legend-ocarina-published-rating-summary",
+      "score": 33.9,
+      "already_proposed": false,
+      "headline": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 9.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.1,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
         "Nintendo Life"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 1,
-        "median_views": 1201,
-        "top_views": 1201,
-        "top_title": "F4F Presents - The Legend of Zelda™: Tears of the Kingdom – Zelda"
+        "median_views": 1088,
+        "top_views": 1088,
+        "top_title": "Zelda: Ocarina of Time Switch 2 Remake ESRB Rating Summary Revealed"
       },
-      "youtube_query": "statue kingdom open tears orders",
-      "related": [
-        {
-          "headline": "Phantom Blade Zero Physical Version Set for 2027, 3 PS5 Editions Revealed",
-          "shared_terms": [
-            "exclusive"
-          ]
-        },
-        {
-          "headline": "Reminder: Pre-Orders Go Live Today for Gran Turismo's Gorgeous PS5 Controller",
-          "shared_terms": [
-            "orders"
-          ]
-        },
-        {
-          "headline": "'Clayface' Officially Sets Up Another Iconic Batman Villain in the DC Universe",
-          "shared_terms": [
-            "officially"
-          ]
-        }
-      ],
+      "youtube_query": "summary published rating esrb legend",
+      "related": [],
       "articles": [
         {
           "source": "Nintendo Life",
-          "title": "Zelda: Tears Of The Kingdom \"Exclusive Edition\" Statue Officially Revealed, Pre-Orders Now Open",
-          "url": "https://www.nintendolife.com/news/2026/10/zelda-tears-of-the-kingdom-exclusive-edition-statue-officially-revealed-pre-orders-now-open",
-          "published": "2026-10-23T00:30:00+00:00"
+          "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published",
+          "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
+          "published": "2026-10-23T23:30:00+00:00"
         }
       ]
     },
     {
-      "story_id": "decades-effect-fans-leak-mass-promised",
+      "story_id": "2026-deliver-fantasy-final-perfect-php",
       "score": 33.5,
       "already_proposed": false,
-      "headline": "'Mass Effect Universe' Leak Promised What Fans Have Waited Decades For",
+      "headline": "Final Fantasy 14 Players Deliver Perfect Response to 2026’s PHP Vulnerability",
       "topics": [
-        "feel_good",
-        "storie"
+        "aaa",
+        "feel_good"
       ],
-      "age_hours": 11.6,
+      "age_hours": 0.3,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -421,164 +114,124 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "waited decades leak promised fans",
+      "youtube_query": "deliver php response perfect vulnerability",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Final Fantasy 14 Players Deliver Perfect Response to 2026’s PHP Vulnerability",
+          "url": "https://www.polygon.com/final-fantasy-14-php-issues-planet-watering-community-response/",
+          "published": "2026-10-24T09:05:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "chucky-content-daylight-dead-losing-michael",
+      "score": 31.9,
+      "already_proposed": false,
+      "headline": "Dead by Daylight to Remove Chucky Content Just Months After Losing Michael Myers",
+      "topics": [],
+      "age_hours": 9.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.12,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 1379,
+        "top_views": 1379,
+        "top_title": "Dead by Daylight Is Removing Chucky From Digital Stores"
+      },
+      "youtube_query": "remove michael daylight chucky months",
       "related": [
         {
-          "headline": "Epic Games Is Just Trolling Fans at This Point With New $50k AI Game Contest",
+          "headline": "EA Appears to Have Quietly Pulled Mass Effect Content From Battlefield 6 Following BioWare Shutdown",
           "shared_terms": [
-            "fans"
+            "content"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Polygon",
-          "title": "'Mass Effect Universe' Leak Promised What Fans Have Waited Decades For",
-          "url": "https://www.polygon.com/mass-effect-universe-new-characters-male-quarian-asari-krogan-aliens/",
-          "published": "2026-10-22T22:19:07+00:00"
+          "source": "IGN",
+          "title": "Dead by Daylight to Remove Chucky Content Just Months After Losing Michael Myers",
+          "url": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers",
+          "published": "2026-10-24T00:01:07+00:00"
         }
       ]
     },
     {
-      "story_id": "altri-arrivano-boy-catalogo-classici-espande",
-      "score": 32.5,
+      "story_id": "based-capcom-data-difficulty-happy-hit",
+      "score": 31.3,
       "already_proposed": false,
-      "headline": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles",
+      "headline": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
       "topics": [
-        "nintendo"
+        "aaa"
       ],
-      "age_hours": 8.5,
+      "age_hours": 11.7,
       "signals": {
-        "coverage": 0.33,
+        "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.11,
-        "yt_demand": 0.03,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Nintendo Life",
-        "VGC"
-      ],
-      "coverage_it": [
-        "Multiplayer",
-        "SpazioGames"
-      ],
-      "youtube": {
-        "video_count": 3,
-        "median_views": 81,
-        "top_views": 209,
-        "top_title": "3 clásicos de Game Boy a Switch"
-      },
-      "youtube_query": "boy online switch three tre",
-      "related": [
-        {
-          "headline": "How Pantaloon is curating an \"evolving library of bold and bizarre games\" with its new subscription service",
-          "shared_terms": [
-            "library"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Nintendo Expands Switch Online's Game Boy Library With Three More Titles",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-expands-switch-onlines-game-boy-library-with-three-more-titles",
-          "published": "2026-10-23T01:25:00+00:00"
-        },
-        {
-          "source": "SpazioGames",
-          "title": "Switch Online, arrivano tre classici Game Boy",
-          "url": "https://www.spaziogames.it/notizie/nintendo-switch-online-tre-classici-game-boy-arrivano-il-27-ottobre",
-          "published": "2026-10-23T07:36:00+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "Il catalogo di vecchie glorie del Game Boy di Nintendo Switch Online si espande con altri tre giochi",
-          "url": "https://multiplayer.it/notizie/catalogo-vecchie-glorie-game-boy-nintendo-switch-online-si-espande-con-altri-tre-giochi.html",
-          "published": "2026-10-23T08:07:49+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "Three more Game Boy games are coming to Switch Online, including one produced by Shigeru Miyamoto",
-          "url": "https://www.videogameschronicle.com/news/three-more-game-boy-games-are-coming-to-switch-online-including-one-produced-by-shigeru-miyamoto/",
-          "published": "2026-10-23T08:33:27+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "access-accounts-addresses-affected-against-birthdays",
-      "score": 31.5,
-      "already_proposed": false,
-      "headline": "Resident Evil makers Capcom reveal data breach has affected over 11 million Capcom ID accounts, warn against potential phishing emails",
-      "topics": [
-        "aaa",
-        "industria"
-      ],
-      "age_hours": 21.9,
-      "signals": {
-        "coverage": 0.5,
-        "velocity": 0.33,
-        "it_gap": 0.5,
-        "yt_demand": 0.1,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.45,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life",
-        "PC Gamer",
-        "Rock Paper Shotgun"
+        "PC Gamer"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 10,
-        "median_views": 932,
-        "top_views": 132716,
-        "top_title": "ゲーム大手「カプコン」1177万件のメアドなどの情報が漏洩　会員IDに不正アクセス【スーパーJチャンネル】(2026年10月22日)"
+        "video_count": 1,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "breach data capcom million emails",
+      "youtube_query": "spot level difficulty sword onimusha",
       "related": [
         {
-          "headline": "Captivating cosmic megastructure adventure game Hypnos leaves early access next week, offering up a world I'm desperate to dig into further",
+          "headline": "Review: Call Of Duty: Modern Warfare 4 (Switch 2) - Best-In-Class Bombast That Doesn't Shortchange Nintendo Gamers",
           "shared_terms": [
-            "access"
+            "pretty"
+          ]
+        },
+        {
+          "headline": "Capcom and Square Enix Suffer Online Attacks As Hackers Access Player Data",
+          "shared_terms": [
+            "player"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Rock Paper Shotgun",
-          "title": "Resident Evil makers Capcom reveal data breach has affected over 11 million Capcom ID accounts, warn against potential phishing emails",
-          "url": "https://www.rockpapershotgun.com/resident-evil-makers-capcom-reveal-data-breach-has-affected-over-11-million-capcom-id-accounts-warn-against-potential-phishing-emails",
-          "published": "2026-10-22T12:00:00+00:00"
-        },
-        {
           "source": "PC Gamer",
-          "title": "Capcom confirms a data breach has affected over 11 million people, with emails, IP addresses, and birthdays caught up in the mix",
-          "url": "https://www.pcgamer.com/hardware/capcom-confirms-a-data-breach-has-affected-over-11-million-people-with-emails-ip-addresses-and-birthdays-caught-up-in-the-mix/",
-          "published": "2026-10-22T15:11:26+00:00"
-        },
-        {
-          "source": "Nintendo Life",
-          "title": "Capcom Data Breach Results In Unauthorised Access To More Than 11.7 Million 'CAPCOM ID' Accounts",
-          "url": "https://www.nintendolife.com/news/2026/10/capcom-data-breach-results-in-unauthorised-access-to-more-than-11-7-million-capcom-id-accounts",
-          "published": "2026-10-23T03:55:00+00:00"
+          "title": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
+          "url": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
+          "published": "2026-10-23T21:43:44+00:00"
         }
       ]
     },
     {
-      "story_id": "253-goty-reviews-steam",
+      "story_id": "acquisitions-bioware-claimed-dreaded-equity-private",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "My GOTY is $7 and has 253 Steam reviews",
+      "headline": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded",
       "topics": [
-        "steam"
+        "industria"
       ],
-      "age_hours": 11.4,
+      "age_hours": 10.6,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -599,86 +252,33 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "253 reviews goty steam",
-      "related": [],
+      "youtube_query": "equity acquisitions private dreaded claimed",
+      "related": [
+        {
+          "headline": "Arkane has until November to find a buyer or face closure, it’s claimed",
+          "shared_terms": [
+            "claimed"
+          ]
+        }
+      ],
       "articles": [
         {
           "source": "PC Gamer",
-          "title": "My GOTY is $7 and has 253 Steam reviews",
-          "url": "https://www.pcgamer.com/games/racing/my-goty-is-usd7-and-has-253-steam-reviews/",
-          "published": "2026-10-22T22:29:10+00:00"
+          "title": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded",
+          "url": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
+          "published": "2026-10-23T22:46:50+00:00"
         }
       ]
     },
     {
-      "story_id": "brilliant-callback-comic-final-later-linus",
+      "story_id": "arms-battle-expands-final-library-music",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "27 Years Later, Linus' Final 'Peanuts' Quote Is a Brilliant Comic Strip Callback",
-      "topics": [
-        "easter_egg"
-      ],
-      "age_hours": 1.9,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "peanuts callback linus quote brilliant",
-      "related": [
-        {
-          "headline": "Redditor's mother-in-law finds missing Steam Deck on train, returns it to its rightful owner in a soap box nine months later",
-          "shared_terms": [
-            "later"
-          ]
-        },
-        {
-          "headline": "Beyond Good & Evil 2 is ‘still in pre-production’ after 18 years as its vision keeps changing, report claims",
-          "shared_terms": [
-            "years"
-          ]
-        },
-        {
-          "headline": "I've never seen a laptop cooler come with its own comic strip before, but it still hasn't convinced me this noisy beast is worth $50",
-          "shared_terms": [
-            "comic",
-            "strip"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "27 Years Later, Linus' Final 'Peanuts' Quote Is a Brilliant Comic Strip Callback",
-          "url": "https://www.polygon.com/linus-last-appearance-peanuts/",
-          "published": "2026-10-23T08:00:19+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "absolution-hitman-path-psa-quick-switch",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!",
+      "headline": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack",
       "topics": [
         "nintendo"
       ],
-      "age_hours": 0.9,
+      "age_hours": 1.4,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -699,33 +299,39 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "quick path absolution psa hitman",
+      "youtube_query": "soundtrack library battle expands arms",
       "related": [
         {
-          "headline": "GTA 6 Is Almost Here: Trade in Your Old Console and Save on an Upgrade at PayMore",
+          "headline": "Thai Rapper Lisa's 'Tarantino' Music Video Squeezes in PS5 Product Placement",
           "shared_terms": [
-            "upgrade"
+            "music"
+          ]
+        },
+        {
+          "headline": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive",
+          "shared_terms": [
+            "arms"
           ]
         }
       ],
       "articles": [
         {
           "source": "Nintendo Life",
-          "title": "PSA: Hitman: Absolution's Switch 2 Upgrade Path Is Free For Now, But Be Quick!",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-hitman-absolutions-switch-2-upgrade-path-is-free-for-now-but-be-quick",
-          "published": "2026-10-23T09:00:00+00:00"
+          "title": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack",
+          "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
+          "published": "2026-10-24T08:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "beta-branches-distros-kernel-linux-outing",
-      "score": 31.2,
+      "story_id": "archeage-chronicles-demos-emberville-far-fart",
+      "score": 30.7,
       "already_proposed": false,
-      "headline": "A public outing of severe and unfixed Linux kernel vulnerabilities should have you thinking of updating your SteamOS or other distros to beta branches",
+      "headline": "Steam Next Fest: Most-Played Demos So Far Include Fart Together, Emberville, ArcheAge Chronicles",
       "topics": [
         "steam"
       ],
-      "age_hours": 0.5,
+      "age_hours": 13.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -733,11 +339,11 @@
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.33,
-        "freshness": 1.0,
+        "freshness": 0.94,
         "weak_format": false
       },
       "coverage_en": [
-        "PC Gamer"
+        "IGN"
       ],
       "coverage_it": [],
       "youtube": {
@@ -746,74 +352,33 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "outing branches updating linux severe",
-      "related": [],
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "A public outing of severe and unfixed Linux kernel vulnerabilities should have you thinking of updating your SteamOS or other distros to beta branches",
-          "url": "https://www.pcgamer.com/hardware/a-public-outing-of-severe-and-unfixed-linux-kernel-vulnerabilities-should-have-you-thinking-of-updating-your-steamos-or-other-distros-to-beta-branches/",
-          "published": "2026-10-23T09:26:40+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "creativity-explains-human-miyamoto-obsolete-shigeru",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Shigeru Miyamoto explains why AI won’t make human creativity obsolete",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 0.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "explains obsolete won human creativity",
+      "youtube_query": "archeage chronicles fest demos emberville",
       "related": [
         {
-          "headline": "Smash Bros. director Masahiro Sakurai thinks gen-AI will cause a surge of unoriginal games, but says human creativity can't be replicated",
+          "headline": "Cyberpunk 2077's new dual wielding has already been modded to include shotguns and rifles, provided you're down to get \"janky and wildly overpowered\"",
           "shared_terms": [
-            "creativity",
-            "human"
+            "include"
           ]
         }
       ],
       "articles": [
         {
-          "source": "VGC",
-          "title": "Shigeru Miyamoto explains why AI won’t make human creativity obsolete",
-          "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-explains-why-ai-wont-make-human-creativity-obsolete/",
-          "published": "2026-10-23T09:45:13+00:00"
+          "source": "IGN",
+          "title": "Steam Next Fest: Most-Played Demos So Far Include Fart Together, Emberville, ArcheAge Chronicles",
+          "url": "https://www.ign.com/articles/steam-next-fest-most-played-demos-so-far-include-fart-together-emberville-archeage-chronicles",
+          "published": "2026-10-23T20:20:41+00:00"
         }
       ]
     },
     {
-      "story_id": "50k-contest-epic-fans-trolling",
-      "score": 31.2,
+      "story_id": "capcom-community-fighter-players-popular-reeling",
+      "score": 30.5,
       "already_proposed": false,
-      "headline": "Epic Games Is Just Trolling Fans at This Point With New $50k AI Game Contest",
+      "headline": "Street Fighter 6 Players Reeling After Capcom Takes Down Popular Community Resource Site",
       "topics": [
-        "feel_good"
+        "aaa"
       ],
-      "age_hours": 0.1,
+      "age_hours": 13.4,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -821,54 +386,7 @@
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "trolling contest 50k fans epic",
-      "related": [
-        {
-          "headline": "'Mass Effect Universe' Leak Promised What Fans Have Waited Decades For",
-          "shared_terms": [
-            "fans"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "Epic Games Is Just Trolling Fans at This Point With New $50k AI Game Contest",
-          "url": "https://www.polygon.com/epic-games-unreal-engine-ai-competition/",
-          "published": "2026-10-23T09:51:40+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "digital-future-kills-march-player-reportedly",
-      "score": 30.6,
-      "already_proposed": false,
-      "headline": "Sony Continues Its March Towards An All-Digital Future As It Reportedly Kills Off Its Last 4K UHD Player",
-      "topics": [
-        "playstation"
-      ],
-      "age_hours": 13.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.93,
+        "freshness": 0.92,
         "weak_format": false
       },
       "coverage_en": [
@@ -881,27 +399,286 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "kills march towards digital player",
+      "youtube_query": "site reeling resource street popular",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Street Fighter 6 Players Reeling After Capcom Takes Down Popular Community Resource Site",
+          "url": "https://kotaku.com/street-fighter-6-players-reeling-after-capcom-takes-down-popular-community-resource-site-2000749159",
+          "published": "2026-10-23T20:00:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "beast-luc-a-players-resort-returned-sports",
+      "score": 30.3,
+      "already_proposed": false,
+      "headline": "Table Tennis Beast Lucía Has Returned To Torment Players Again In Switch Sports Resort",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 13.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.89,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "table beast resort tennis lucía",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Table Tennis Beast Lucía Has Returned To Torment Players Again In Switch Sports Resort",
+          "url": "https://kotaku.com/table-tennis-beast-lucia-has-returned-to-torment-players-again-in-switch-sports-resort-2000749121",
+          "published": "2026-10-23T19:30:42+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "addresses-assembly-blame-boss-complete-creative",
+      "score": 29.4,
+      "already_proposed": false,
+      "headline": "\"This was not a Creative Assembly developed game\": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 17.4,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.33,
+        "it_gap": 0.5,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.7,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 25,
+        "top_views": 25,
+        "top_title": "The Shogun's Own Commanders | SEGA's Glorious Disaster"
+      },
+      "youtube_query": "shogun creative assembly disaster developed",
       "related": [
         {
-          "headline": "Sony Exits UHD Blu-ray Player Market as Pull Back from Physical Media Continues",
+          "headline": "Finger Out How To Prep For GTA 6 With These Exercises",
           "shared_terms": [
-            "player"
+            "finger"
           ]
         },
         {
-          "headline": "Digital Foundry Dives Into Monster Hunter Wilds' Switch 2 Demo",
+          "headline": "50 Years Later, the Best War Series of All Time Is Still Unlike Anything Else on TV",
           "shared_terms": [
-            "digital"
+            "else"
           ]
         }
       ],
       "articles": [
         {
+          "source": "Rock Paper Shotgun",
+          "title": "\"This was not a Creative Assembly developed game\": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster",
+          "url": "https://www.rockpapershotgun.com/this-was-not-a-creative-assembly-developed-game-total-war-boss-points-the-finger-at-external-partner-for-shogun-2-complete-edition-disaster",
+          "published": "2026-10-23T16:01:24+00:00"
+        },
+        {
           "source": "Kotaku",
-          "title": "Sony Continues Its March Towards An All-Digital Future As It Reportedly Kills Off Its Last 4K UHD Player",
-          "url": "https://kotaku.com/sony-continues-its-march-towards-an-all-digital-future-as-it-reportedly-kills-off-its-last-4k-uhd-player-2000748873",
-          "published": "2026-10-22T20:41:01+00:00"
+          "title": "Creative Assembly Finally Addresses The Shogun 2 Remaster Disaster By Pointing Fingers",
+          "url": "https://kotaku.com/total-war-shogun-2-complete-edition-ai-creative-assembly-mataboo-2000749108",
+          "published": "2026-10-23T16:57:38+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Creative Assembly exec pins the blame for the Shogun 2 remaster mess on someone else: 'This was not a Creative Assembly developed game'",
+          "url": "https://www.pcgamer.com/games/strategy/creative-assembly-exec-pins-the-blame-for-the-shogun-2-remaster-mess-on-someone-else-this-was-not-a-creative-assembly-developed-game/",
+          "published": "2026-10-23T19:35:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "belmont-curse-important-lesson-namely-parrying",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Belmont’s Curse Taught Me An Important Lesson About Parrying, Namely I Should Do It More",
+      "topics": [],
+      "age_hours": 12.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "taught parrying important belmont lesson",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Belmont’s Curse Taught Me An Important Lesson About Parrying, Namely I Should Do It More",
+          "url": "https://kotaku.com/belmonts-curse-taught-me-an-important-lesson-about-parrying-namely-i-should-do-it-more-2000749181",
+          "published": "2026-10-23T21:26:36+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "500-barnes-carl-crawler-dungeon-jigsaw",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Barnes & Noble Has the First 500-Piece Dungeon Crawler Carl Jigsaw Puzzle for Sale",
+      "topics": [],
+      "age_hours": 10.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "carl crawler jigsaw noble barnes",
+      "related": [
+        {
+          "headline": "Guide: 61 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Halloween Sale' (Europe)",
+          "shared_terms": [
+            "sale"
+          ]
+        },
+        {
+          "headline": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #6 - Forget The Hate, It Still Floats My Boat",
+          "shared_terms": [
+            "dungeon"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Barnes & Noble Has the First 500-Piece Dungeon Crawler Carl Jigsaw Puzzle for Sale",
+          "url": "https://www.ign.com/articles/barnes-noble-has-the-first-500-piece-dungeon-crawler-carl-jigsaw-puzzle-for-sale",
+          "published": "2026-10-23T23:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "90s-bringing-cartoon-disney-icon-officially",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Disney's Officially Bringing Back a '90s Cartoon Icon After 35 Years",
+      "topics": [],
+      "age_hours": 9.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "icon bringing disney cartoon 90s",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Disney's Officially Bringing Back a '90s Cartoon Icon After 35 Years",
+          "url": "https://www.polygon.com/darkwing-duck-reboot-disney-plus/",
+          "published": "2026-10-23T23:33:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "adventure-geralt-officially-returns-witcher",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "The Witcher's Geralt Officially Returns for New Adventure",
+      "topics": [],
+      "age_hours": 8.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "adventure geralt returns witcher officially",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "The Witcher's Geralt Officially Returns for New Adventure",
+          "url": "https://www.polygon.com/the-witcher-geralt-returns-in-2026-with-new-release/",
+          "published": "2026-10-24T00:43:18+00:00"
         }
       ]
     }

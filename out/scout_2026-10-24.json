@@ -1,0 +1,686 @@
+{
+  "generated_at": "2026-10-24T09:25:45.517700+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "classic-jrpgs-remake",
+      "score": 34.0,
+      "already_proposed": false,
+      "headline": "7 Classic JRPGs That Are So Good They Never Need a Remake",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 11.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.11,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1177,
+        "top_views": 1177,
+        "top_title": "ESSE CLÁSSICO MERECIA UM REMAKE😮 #games #ps1 #playstation #gamezu #thelegenddragoon #rpg #jogosdeps1"
+      },
+      "youtube_query": "jrpgs classic remake",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "7 Classic JRPGs That Are So Good They Never Need a Remake",
+          "url": "https://www.polygon.com/best-classic-jrpgs-no-remake/",
+          "published": "2026-10-23T22:19:03+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "esrb-legend-ocarina-published-rating-summary",
+      "score": 33.9,
+      "already_proposed": false,
+      "headline": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 9.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.1,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1088,
+        "top_views": 1088,
+        "top_title": "Zelda: Ocarina of Time Switch 2 Remake ESRB Rating Summary Revealed"
+      },
+      "youtube_query": "summary published rating esrb legend",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "The Legend Of Zelda: Ocarina Of Time Switch 2 ESRB Rating Summary Published",
+          "url": "https://www.nintendolife.com/news/2026/10/the-legend-of-zelda-ocarina-of-time-switch-2-esrb-rating-summary-published",
+          "published": "2026-10-23T23:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2026-deliver-fantasy-final-perfect-php",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Final Fantasy 14 Players Deliver Perfect Response to 2026’s PHP Vulnerability",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 0.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "deliver php response perfect vulnerability",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Final Fantasy 14 Players Deliver Perfect Response to 2026’s PHP Vulnerability",
+          "url": "https://www.polygon.com/final-fantasy-14-php-issues-planet-watering-community-response/",
+          "published": "2026-10-24T09:05:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "chucky-content-daylight-dead-losing-michael",
+      "score": 31.9,
+      "already_proposed": false,
+      "headline": "Dead by Daylight to Remove Chucky Content Just Months After Losing Michael Myers",
+      "topics": [],
+      "age_hours": 9.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.12,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 1379,
+        "top_views": 1379,
+        "top_title": "Dead by Daylight Is Removing Chucky From Digital Stores"
+      },
+      "youtube_query": "remove michael daylight chucky months",
+      "related": [
+        {
+          "headline": "EA Appears to Have Quietly Pulled Mass Effect Content From Battlefield 6 Following BioWare Shutdown",
+          "shared_terms": [
+            "content"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Dead by Daylight to Remove Chucky Content Just Months After Losing Michael Myers",
+          "url": "https://www.ign.com/articles/dead-by-daylight-to-remove-chucky-content-just-months-after-losing-michael-myers",
+          "published": "2026-10-24T00:01:07+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "based-capcom-data-difficulty-happy-hit",
+      "score": 31.3,
+      "already_proposed": false,
+      "headline": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 11.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "spot level difficulty sword onimusha",
+      "related": [
+        {
+          "headline": "Review: Call Of Duty: Modern Warfare 4 (Switch 2) - Best-In-Class Bombast That Doesn't Shortchange Nintendo Gamers",
+          "shared_terms": [
+            "pretty"
+          ]
+        },
+        {
+          "headline": "Capcom and Square Enix Suffer Online Attacks As Hackers Access Player Data",
+          "shared_terms": [
+            "player"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Based on player data, Capcom's pretty happy with the difficulty level of Onimusha: Way of the Sword: 'We think it's hit the right spot'",
+          "url": "https://www.pcgamer.com/games/action/based-on-player-data-capcoms-pretty-happy-with-the-difficulty-level-of-onimusha-way-of-the-sword-we-think-its-hit-the-right-spot/",
+          "published": "2026-10-23T21:43:44+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "acquisitions-bioware-claimed-dreaded-equity-private",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded",
+      "topics": [
+        "industria"
+      ],
+      "age_hours": 10.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "equity acquisitions private dreaded claimed",
+      "related": [
+        {
+          "headline": "Arkane has until November to find a buyer or face closure, it’s claimed",
+          "shared_terms": [
+            "claimed"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Why private equity acquisitions like the one that just claimed BioWare are so dreaded",
+          "url": "https://www.pcgamer.com/gaming-industry/why-private-equity-acquisitions-like-the-one-that-just-claimed-bioware-are-so-dreaded/",
+          "published": "2026-10-23T22:46:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "arms-battle-expands-final-library-music",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 1.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "soundtrack library battle expands arms",
+      "related": [
+        {
+          "headline": "Thai Rapper Lisa's 'Tarantino' Music Video Squeezes in PS5 Product Placement",
+          "shared_terms": [
+            "music"
+          ]
+        },
+        {
+          "headline": "\"Why the f**k would they add a perk like that?\" - Modern Warfare 4 DMZ players are up in arms over the ability to self-revive",
+          "shared_terms": [
+            "arms"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "\"Final Battle\" - Nintendo Music Expands Its Library With The ARMS Soundtrack",
+          "url": "https://www.nintendolife.com/news/2026/10/final-battle-nintendo-music-expands-its-library-with-the-arms-soundtrack",
+          "published": "2026-10-24T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "archeage-chronicles-demos-emberville-far-fart",
+      "score": 30.7,
+      "already_proposed": false,
+      "headline": "Steam Next Fest: Most-Played Demos So Far Include Fart Together, Emberville, ArcheAge Chronicles",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 13.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.94,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "archeage chronicles fest demos emberville",
+      "related": [
+        {
+          "headline": "Cyberpunk 2077's new dual wielding has already been modded to include shotguns and rifles, provided you're down to get \"janky and wildly overpowered\"",
+          "shared_terms": [
+            "include"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Steam Next Fest: Most-Played Demos So Far Include Fart Together, Emberville, ArcheAge Chronicles",
+          "url": "https://www.ign.com/articles/steam-next-fest-most-played-demos-so-far-include-fart-together-emberville-archeage-chronicles",
+          "published": "2026-10-23T20:20:41+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "capcom-community-fighter-players-popular-reeling",
+      "score": 30.5,
+      "already_proposed": false,
+      "headline": "Street Fighter 6 Players Reeling After Capcom Takes Down Popular Community Resource Site",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 13.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.92,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "site reeling resource street popular",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Street Fighter 6 Players Reeling After Capcom Takes Down Popular Community Resource Site",
+          "url": "https://kotaku.com/street-fighter-6-players-reeling-after-capcom-takes-down-popular-community-resource-site-2000749159",
+          "published": "2026-10-23T20:00:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "beast-luc-a-players-resort-returned-sports",
+      "score": 30.3,
+      "already_proposed": false,
+      "headline": "Table Tennis Beast Lucía Has Returned To Torment Players Again In Switch Sports Resort",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 13.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.89,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "table beast resort tennis lucía",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Table Tennis Beast Lucía Has Returned To Torment Players Again In Switch Sports Resort",
+          "url": "https://kotaku.com/table-tennis-beast-lucia-has-returned-to-torment-players-again-in-switch-sports-resort-2000749121",
+          "published": "2026-10-23T19:30:42+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "addresses-assembly-blame-boss-complete-creative",
+      "score": 29.4,
+      "already_proposed": false,
+      "headline": "\"This was not a Creative Assembly developed game\": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 17.4,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.33,
+        "it_gap": 0.5,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.7,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 25,
+        "top_views": 25,
+        "top_title": "The Shogun's Own Commanders | SEGA's Glorious Disaster"
+      },
+      "youtube_query": "shogun creative assembly disaster developed",
+      "related": [
+        {
+          "headline": "Finger Out How To Prep For GTA 6 With These Exercises",
+          "shared_terms": [
+            "finger"
+          ]
+        },
+        {
+          "headline": "50 Years Later, the Best War Series of All Time Is Still Unlike Anything Else on TV",
+          "shared_terms": [
+            "else"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "\"This was not a Creative Assembly developed game\": Total War boss points the finger at external partner for Shogun 2 Complete Edition disaster",
+          "url": "https://www.rockpapershotgun.com/this-was-not-a-creative-assembly-developed-game-total-war-boss-points-the-finger-at-external-partner-for-shogun-2-complete-edition-disaster",
+          "published": "2026-10-23T16:01:24+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Creative Assembly Finally Addresses The Shogun 2 Remaster Disaster By Pointing Fingers",
+          "url": "https://kotaku.com/total-war-shogun-2-complete-edition-ai-creative-assembly-mataboo-2000749108",
+          "published": "2026-10-23T16:57:38+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Creative Assembly exec pins the blame for the Shogun 2 remaster mess on someone else: 'This was not a Creative Assembly developed game'",
+          "url": "https://www.pcgamer.com/games/strategy/creative-assembly-exec-pins-the-blame-for-the-shogun-2-remaster-mess-on-someone-else-this-was-not-a-creative-assembly-developed-game/",
+          "published": "2026-10-23T19:35:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "belmont-curse-important-lesson-namely-parrying",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Belmont’s Curse Taught Me An Important Lesson About Parrying, Namely I Should Do It More",
+      "topics": [],
+      "age_hours": 12.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "taught parrying important belmont lesson",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Belmont’s Curse Taught Me An Important Lesson About Parrying, Namely I Should Do It More",
+          "url": "https://kotaku.com/belmonts-curse-taught-me-an-important-lesson-about-parrying-namely-i-should-do-it-more-2000749181",
+          "published": "2026-10-23T21:26:36+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "500-barnes-carl-crawler-dungeon-jigsaw",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Barnes & Noble Has the First 500-Piece Dungeon Crawler Carl Jigsaw Puzzle for Sale",
+      "topics": [],
+      "age_hours": 10.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "carl crawler jigsaw noble barnes",
+      "related": [
+        {
+          "headline": "Guide: 61 Switch 1 & 2 Games You Should Check Out In Nintendo's 'Halloween Sale' (Europe)",
+          "shared_terms": [
+            "sale"
+          ]
+        },
+        {
+          "headline": "Countdown: Zelda: Ocarina Of Time Dungeon Crawl #6 - Forget The Hate, It Still Floats My Boat",
+          "shared_terms": [
+            "dungeon"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Barnes & Noble Has the First 500-Piece Dungeon Crawler Carl Jigsaw Puzzle for Sale",
+          "url": "https://www.ign.com/articles/barnes-noble-has-the-first-500-piece-dungeon-crawler-carl-jigsaw-puzzle-for-sale",
+          "published": "2026-10-23T23:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "90s-bringing-cartoon-disney-icon-officially",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Disney's Officially Bringing Back a '90s Cartoon Icon After 35 Years",
+      "topics": [],
+      "age_hours": 9.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "icon bringing disney cartoon 90s",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Disney's Officially Bringing Back a '90s Cartoon Icon After 35 Years",
+          "url": "https://www.polygon.com/darkwing-duck-reboot-disney-plus/",
+          "published": "2026-10-23T23:33:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "adventure-geralt-officially-returns-witcher",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "The Witcher's Geralt Officially Returns for New Adventure",
+      "topics": [],
+      "age_hours": 8.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "adventure geralt returns witcher officially",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "The Witcher's Geralt Officially Returns for New Adventure",
+          "url": "https://www.polygon.com/the-witcher-geralt-returns-in-2026-with-new-release/",
+          "published": "2026-10-24T00:43:18+00:00"
+        }
+      ]
+    }
+  ]
+}
