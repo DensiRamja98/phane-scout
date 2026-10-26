@@ -1,194 +1,266 @@
 {
-  "generated_at": "2026-10-25T09:43:55.248637+00:00",
+  "generated_at": "2026-10-26T10:57:53.341603+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "30th-anniversary-celebrates-raider-series-tomb",
-      "score": 33.1,
+      "story_id": "2026-action-arts-beat-blade-capolavoro",
+      "score": 45.6,
       "already_proposed": false,
-      "headline": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week",
-      "topics": [],
-      "age_hours": 1.7,
+      "headline": "Phantom Blade Zero review",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 11.0,
       "signals": {
-        "coverage": 0.17,
+        "coverage": 0.83,
         "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.16,
+        "it_gap": 0.0,
+        "yt_demand": 0.44,
         "yt_room": 0.0,
-        "topic": 0.0,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Nintendo Life"
+        "Eurogamer",
+        "IGN",
+        "Polygon",
+        "Push Square",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Everyeye",
+        "Gamesurf",
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 19349,
+        "top_views": 447942,
+        "top_title": "Phantom Blade Zero Review"
+      },
+      "youtube_query": "zero phantom blade action recensione",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Phantom Blade Zero review",
+          "url": "https://www.eurogamer.net/phantom-blade-zero-review-1",
+          "published": "2026-10-26T00:00:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Phantom Blade Zero Review",
+          "url": "https://www.ign.com/articles/phantom-blade-zero-review",
+          "published": "2026-10-26T00:00:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Review: Phantom Blade Zero (PS5) - One of the Generation's Greatest Action Experiences",
+          "url": "https://www.pushsquare.com/reviews/ps5/phantom-blade-zero",
+          "published": "2026-10-26T00:00:00+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "Phantom Blade Zero Recensione: un Action Tripla A epico, longevo e impegnativo",
+          "url": "https://www.everyeye.it/articoli/recensione-phantom-blade-zero-action-tripla-epico-longevo-impegnativo-67763.html",
+          "published": "2026-10-26T00:00:00+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse",
+          "url": "https://www.polygon.com/phantom-blade-zero-review/",
+          "published": "2026-10-26T00:00:18+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Phantom Blade Zero review: A damn good action game that shouldn’t be ignored",
+          "url": "https://www.videogameschronicle.com/review/phantom-blade-zero-review/",
+          "published": "2026-10-26T00:00:34+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Phantom Blade Zero Reviews Just Beat Every Soulslike In 2026",
+          "url": "https://www.polygon.com/phantom-blade-zero-review-roundup-score/",
+          "published": "2026-10-26T00:56:40+00:00"
+        },
+        {
+          "source": "Gamesurf",
+          "title": "Phantom Blade Zero Recensione PC: il Kungfupunk di S-GAME promette un capolavoro ma lo seppellisce sotto troppi difetti",
+          "url": "https://www.gamesurf.it/recensioni/gioco/phantom-blade-zero-recensione",
+          "published": "2026-10-26T01:00:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Phantom Blade Zero conquista la critica internazionale: pioggia di voti eccellenti per l'action di S-GAME",
+          "url": "https://multiplayer.it/notizie/phantom-blade-zero-conquista-critica-internazionale-pioggia-voti-eccellenti-action-s-game.html",
+          "published": "2026-10-26T07:13:26+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "Come gira Phantom Blade Zero su PS5 e PS5 PRO? Modalità grafiche a confronto",
+          "url": "https://www.everyeye.it/notizie/come-gira-phantom-blade-zero-ps5-ps5-pro-modalit-grafiche-confronto-907987.html",
+          "published": "2026-10-26T08:22:00+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "Quanto dura Phantom Blade Zero? Servono parecchie ore per finirlo",
+          "url": "https://www.everyeye.it/notizie/dura-phantom-blade-zero-servono-ore-finirlo-908024.html",
+          "published": "2026-10-26T10:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "000-180-187k-200-actors-bioware",
+      "score": 40.7,
+      "already_proposed": false,
+      "headline": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure",
+      "topics": [
+        "feel_good",
+        "industria"
+      ],
+      "age_hours": 16.6,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.5,
+        "it_gap": 0.67,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.75,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN",
+        "PC Gamer",
+        "VGC"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 10,
-        "median_views": 2722,
-        "top_views": 28668,
-        "top_title": "【ポケカ】ピカチュウ高騰！30th CELEBRATION 最新販売価格ランキング！【Pokémon cards】30th CELEBRATION ranking"
+        "median_views": 259,
+        "top_views": 43593,
+        "top_title": "Gamers DUNK On \"Save BioWare\" Petition 🤡 Media Demands Your Signatures & Threatens Boycotts"
       },
-      "youtube_query": "anniversary celebrates 30th series video",
-      "related": [],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Video: The Tomb Raider Series Celebrates Its 30th Anniversary This Week",
-          "url": "https://www.nintendolife.com/news/2026/10/video-the-tomb-raider-series-celebrates-its-30th-anniversary-this-week",
-          "published": "2026-10-25T08:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "aonuma-arti-cavaliere-culture-eiji-french",
-      "score": 31.8,
-      "already_proposed": false,
-      "headline": "Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 14.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.11,
-        "yt_demand": 0.11,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.89,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku"
-      ],
-      "coverage_it": [
-        "Multiplayer"
-      ],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 1157,
-        "top_views": 1157,
-        "top_title": "Zelda Producer Eiji Aonuma Knighted by French Ministry of Culture"
-      },
-      "youtube_query": "eiji aonuma producer zelda ministry",
+      "youtube_query": "effect mass petition save signatures",
       "related": [
         {
-          "headline": "Every Legend of Zelda Movie Character and Cast Member Confirmed So Far",
+          "headline": "Six Xbox Game Pass Titles Are Confirmed For The Final Few Days Of October",
           "shared_terms": [
-            "legend"
+            "days"
+          ]
+        },
+        {
+          "headline": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass",
+          "shared_terms": [
+            "hits"
+          ]
+        },
+        {
+          "headline": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
+          "shared_terms": [
+            "actors",
+            "commander",
+            "shepard"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Kotaku",
-          "title": "Legend Of Zelda Producer Eiji Aonuma Knighted By French Ministry Of Culture",
-          "url": "https://kotaku.com/legend-of-zelda-producer-eiji-aonuma-knighted-by-french-ministry-of-culture-2000749331",
-          "published": "2026-10-24T19:45:31+00:00"
+          "source": "PC Gamer",
+          "title": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure",
+          "url": "https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
+          "published": "2026-10-25T18:24:00+00:00"
         },
         {
-          "source": "Multiplayer",
-          "title": "Eiji Aonuma, il producer di Zelda, nominato Cavaliere delle Arti e delle Lettere a Parigi",
-          "url": "https://multiplayer.it/notizie/eiji-aonuma-il-producer-di-zelda-nominato-cavaliere-delle-arti-e-delle-lettere-a-parigi.html",
-          "published": "2026-10-24T20:00:00+00:00"
+          "source": "Eurogamer",
+          "title": "187K+ fans call for EA to \"Save Mass Effect\"",
+          "url": "https://www.eurogamer.net/save-mass-effect-petition",
+          "published": "2026-10-25T18:50:44+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Mass Effect's Commander Shepard Actors, Destiny Community Help #SaveMassEffect Petition Cross 200,000 Signatures",
+          "url": "https://www.ign.com/articles/mass-effects-commander-shepard-actors-destiny-community-help-savemasseffect-petition-cross-200000-signatures",
+          "published": "2026-10-26T02:03:53+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "‘Save Mass Effect’ petition cracks 200,000 signatures as fans plead for the series to continue",
+          "url": "https://www.videogameschronicle.com/news/save-mass-effect-petition-cracks-200000-signatures-as-fans-plead-for-the-series-to-continue/",
+          "published": "2026-10-26T10:28:31+00:00"
         }
       ]
     },
     {
-      "story_id": "acknowledged-allowed-choices-effect-generate-mass",
-      "score": 31.7,
+      "story_id": "bauza-beloved-bugs-bunny-daffy-died",
+      "score": 39.5,
       "already_proposed": false,
-      "headline": "Mass Effect: Universe Would Have Allowed Players To ‘Generate’ Timelines That Acknowledged Multiple Choices From The Trilogy",
+      "headline": "Eric Bauza, The Voice Of Bugs Bunny, Daffy Duck, And Many More Has Died At 46",
       "topics": [],
-      "age_hours": 8.0,
+      "age_hours": 7.1,
       "signals": {
-        "coverage": 0.17,
+        "coverage": 0.33,
         "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.11,
+        "it_gap": 0.33,
+        "yt_demand": 0.21,
         "yt_room": 0.0,
         "topic": 0.0,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Kotaku"
+        "Kotaku",
+        "Polygon"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 1,
-        "median_views": 1150,
-        "top_views": 1150,
-        "top_title": "Mass Effect: Universe Almost Let You Generate Custom Timelines"
+        "video_count": 10,
+        "median_views": 4407,
+        "top_views": 15838,
+        "top_title": "Eric Bauza, actor who voiced Bugs Bunny, Daffy Duck and other cartoon characters, dies at 46"
       },
-      "youtube_query": "trilogy acknowledged generate players multiple",
-      "related": [],
+      "youtube_query": "eric bugs bunny duck bauza",
+      "related": [
+        {
+          "headline": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass",
+          "shared_terms": [
+            "beloved"
+          ]
+        }
+      ],
       "articles": [
         {
           "source": "Kotaku",
-          "title": "Mass Effect: Universe Would Have Allowed Players To ‘Generate’ Timelines That Acknowledged Multiple Choices From The Trilogy",
-          "url": "https://kotaku.com/mass-effect-universe-would-have-allowed-players-to-generate-timelines-that-acknowledged-multiple-choices-from-the-trilogy-2000749344",
-          "published": "2026-10-25T01:46:01+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "abelina-afterlife-animator-composer-cregger-evil",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 11.9,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Rock Paper Shotgun"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "through natural afterlife former legends",
-      "related": [],
-      "articles": [
+          "title": "Eric Bauza, The Voice Of Bugs Bunny, Daffy Duck, And Many More Has Died At 46",
+          "url": "https://kotaku.com/eric-bauza-looney-tunes-death-dies-announcement-2000749416",
+          "published": "2026-10-26T03:54:20+00:00"
+        },
         {
-          "source": "Rock Paper Shotgun",
-          "title": "Abelina is a strange, platforming romp through a natural afterlife from a former League of Legends animator and the composer of Zach Cregger's Resident Evil",
-          "url": "https://www.rockpapershotgun.com/abelina-is-a-strange-platforming-romp-through-a-natural-afterlife-from-a-former-league-of-legends-animator-and-the-composer-of-zach-creggers-resident-evil",
-          "published": "2026-10-24T21:52:00+00:00"
+          "source": "Polygon",
+          "title": "Beloved Bugs Bunny and Daffy Duck Voice Eric Bauza Passes Away at 46",
+          "url": "https://www.polygon.com/bugs-bunny-daffy-duck-actor-eric-bauza-death/",
+          "published": "2026-10-26T08:28:40+00:00"
         }
       ]
     },
     {
-      "story_id": "buffy-coldest-dune-history-later-line",
-      "score": 31.2,
+      "story_id": "1999-action-adventure-later-movie-officially",
+      "score": 34.9,
       "already_proposed": false,
-      "headline": "61 Years Later, Paul's Best Dune Line Is Still the Coldest Quote in Sci-Fi History",
+      "headline": "27 Years Later, the Best Action Adventure Movie of 1999 Is Officially Free on Youtube",
       "topics": [
         "easter_egg"
       ],
-      "age_hours": 1.7,
+      "age_hours": 12.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "yt_demand": 0.14,
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
@@ -199,51 +271,95 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 10,
+        "median_views": 2061,
+        "top_views": 11698824,
+        "top_title": "DO NOT go Swimming at 3AM 🩳🏊‍♂️ #shorts"
       },
-      "youtube_query": "history later quote years paul",
+      "youtube_query": "youtube officially adventure 1999 later",
       "related": [
         {
-          "headline": "'I drank from the chalice of blood': indie dev scrubs his game of AI-generated voice lines, having previously described the technology as 'anti-human and anti-art'",
+          "headline": "Feature: 30 Years Later, I'm Finally Learning To Play The Ocarina (And You Should Too)",
           "shared_terms": [
-            "lines"
+            "later",
+            "years"
           ]
         }
       ],
       "articles": [
         {
           "source": "Polygon",
-          "title": "61 Years Later, Paul's Best Dune Line Is Still the Coldest Quote in Sci-Fi History",
-          "url": "https://www.polygon.com/paul-atreides-best-dune-quote/",
-          "published": "2026-10-25T08:00:18+00:00"
-        },
-        {
-          "source": "Polygon",
-          "title": "23 Years Later, Spike's Best 'Buffy' Quote Is Still One of the Best Lines in TV History",
-          "url": "https://www.polygon.com/buffy-vampire-slayer-best-spike-quote/",
-          "published": "2026-10-25T08:08:18+00:00"
+          "title": "27 Years Later, the Best Action Adventure Movie of 1999 Is Officially Free on Youtube",
+          "url": "https://www.polygon.com/the-mummy-free-on-youtube/",
+          "published": "2026-10-25T23:00:18+00:00"
         }
       ]
     },
     {
-      "story_id": "darkest-dungeon-edition-embrace-forward-inky",
-      "score": 31.2,
+      "story_id": "calls-ceo-disclosures-discourse-enter-epic",
+      "score": 33.5,
       "already_proposed": false,
-      "headline": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition",
+      "headline": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
       "topics": [
-        "nintendo"
+        "steam",
+        "industria"
       ],
-      "age_hours": 0.7,
+      "age_hours": 7.8,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "essays disclosures calls epic mandatory",
+      "related": [
+        {
+          "headline": "Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back",
+          "shared_terms": [
+            "political"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
+          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
+          "published": "2026-10-26T03:12:41+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "call-charts-duty-fast-line-resort",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "UK Charts: Switch Sports Resort And Call Of Duty Are Fast Off The Start Line",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 0.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -257,36 +373,46 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "embrace oblivion darkest forward inky",
-      "related": [],
+      "youtube_query": "resort charts line sports fast",
+      "related": [
+        {
+          "headline": "Amazon's Fourth Wing Show Reportedly Set to Start Filming Soon",
+          "shared_terms": [
+            "start"
+          ]
+        }
+      ],
       "articles": [
         {
           "source": "Nintendo Life",
-          "title": "\"Forward Now, Into Oblivion's Inky Embrace\" - Darkest Dungeon II Now Has A Switch 2 Edition",
-          "url": "https://www.nintendolife.com/news/2026/10/forward-now-into-oblivions-inky-embrace-darkest-dungeon-ii-now-has-a-switch-2-edition",
-          "published": "2026-10-25T09:00:00+00:00"
+          "title": "UK Charts: Switch Sports Resort And Call Of Duty Are Fast Off The Start Line",
+          "url": "https://www.nintendolife.com/news/2026/10/uk-charts-switch-sports-resort-and-call-of-duty-are-fast-off-the-start-line",
+          "published": "2026-10-26T10:30:00+00:00"
         }
       ]
     },
     {
-      "story_id": "absolutely-don-hearts-kingdom-worlds",
-      "score": 29.0,
+      "story_id": "berry-blacksmith-busiest-cancelled-concert-day",
+      "score": 32.8,
       "already_proposed": false,
-      "headline": "The 6 Kingdom Hearts 4 Worlds We Want to See — and 4 We Absolutely Don't",
-      "topics": [],
-      "age_hours": 9.1,
+      "headline": "Following Cancelled Concert, Umamusume Fans Give Knott’s Berry Farm Blacksmith Busiest Day Of His Life",
+      "topics": [
+        "feel_good",
+        "storie"
+      ],
+      "age_hours": 13.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
+        "topic": 0.67,
+        "freshness": 0.92,
         "weak_format": false
       },
       "coverage_en": [
-        "Polygon"
+        "Kotaku"
       ],
       "coverage_it": [],
       "youtube": {
@@ -295,36 +421,38 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "don worlds absolutely kingdom hearts",
+      "youtube_query": "blacksmith busiest cancelled following berry",
       "related": [],
       "articles": [
         {
-          "source": "Polygon",
-          "title": "The 6 Kingdom Hearts 4 Worlds We Want to See — and 4 We Absolutely Don't",
-          "url": "https://www.polygon.com/kingdom-hearts-4-worlds-theories/",
-          "published": "2026-10-25T00:39:16+00:00"
+          "source": "Kotaku",
+          "title": "Following Cancelled Concert, Umamusume Fans Give Knott’s Berry Farm Blacksmith Busiest Day Of His Life",
+          "url": "https://kotaku.com/following-cancelled-concert-umamusume-fans-give-knotts-berry-farm-blacksmith-busiest-day-of-his-life-2000749394",
+          "published": "2026-10-25T21:26:29+00:00"
         }
       ]
     },
     {
-      "story_id": "1980s-nobody-perfect-remembers",
-      "score": 29.0,
+      "story_id": "blade-buyer-dev-dishonored-find-finish",
+      "score": 31.2,
       "already_proposed": false,
-      "headline": "5 Most Perfect 1980s Games That Nobody Remembers",
-      "topics": [],
-      "age_hours": 8.8,
+      "headline": "Microsoft Gives Dishonored Dev More Time to Find a Buyer, Needs a Partner to Finish Blade",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 1.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.0,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Polygon"
+        "Push Square"
       ],
       "coverage_it": [],
       "youtube": {
@@ -333,36 +461,38 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "1980s remembers perfect nobody",
+      "youtube_query": "dev needs buyer find microsoft",
       "related": [],
       "articles": [
         {
-          "source": "Polygon",
-          "title": "5 Most Perfect 1980s Games That Nobody Remembers",
-          "url": "https://www.polygon.com/best-forgotten-1980s-games/",
-          "published": "2026-10-25T00:53:58+00:00"
+          "source": "Push Square",
+          "title": "Microsoft Gives Dishonored Dev More Time to Find a Buyer, Needs a Partner to Finish Blade",
+          "url": "https://www.pushsquare.com/news/2026/10/microsoft-gives-dishonored-dev-more-time-to-find-a-buyer-needs-a-partner-to-finish-blade",
+          "published": "2026-10-26T09:30:00+00:00"
         }
       ]
     },
     {
-      "story_id": "action-classic-claude-damme-jean-streaming",
-      "score": 29.0,
+      "story_id": "bioware-blames-buy-canadian-closure-employees",
+      "score": 31.2,
       "already_proposed": false,
-      "headline": "Jean-Claude Van Damme's First Action Classic is Streaming for Free",
-      "topics": [],
-      "age_hours": 8.7,
+      "headline": "Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back",
+      "topics": [
+        "industria"
+      ],
+      "age_hours": 1.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.0,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Polygon"
+        "Eurogamer"
       ],
       "coverage_it": [],
       "youtube": {
@@ -371,49 +501,51 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "streaming jean van damme action",
+      "youtube_query": "private party government employees blames",
       "related": [
         {
-          "headline": "Claude’s Reverse Engineering Capabilities Used To Recompile Games May Have Been Quietly Nerfed",
+          "headline": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure",
           "shared_terms": [
-            "claude"
+            "help"
           ]
         },
         {
-          "headline": "Forget Tom Cruise, Sci-Fi's Foundational 1950s Classic Movie Is Free to Watch on YouTube",
+          "headline": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
           "shared_terms": [
-            "classic"
+            "political"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Polygon",
-          "title": "Jean-Claude Van Damme's First Action Classic is Streaming for Free",
-          "url": "https://www.polygon.com/bloodsport-free-youtube/",
-          "published": "2026-10-25T01:00:18+00:00"
+          "source": "Eurogamer",
+          "title": "Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back",
+          "url": "https://www.eurogamer.net/canadian-politician-bioware-employees-buy-studio-federal-support",
+          "published": "2026-10-26T09:53:04+00:00"
         }
       ]
     },
     {
-      "story_id": "1950s-classic-cruise-forget-foundational-movie",
-      "score": 29.0,
+      "story_id": "america-buy-deals-europe-feature-north",
+      "score": 31.2,
       "already_proposed": false,
-      "headline": "Forget Tom Cruise, Sci-Fi's Foundational 1950s Classic Movie Is Free to Watch on YouTube",
-      "topics": [],
-      "age_hours": 5.7,
+      "headline": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale (North America/Europe)",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 1.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.0,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Polygon"
+        "Push Square"
       ],
       "coverage_it": [],
       "youtube": {
@@ -422,37 +554,83 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "forget youtube tom 1950s foundational",
+      "youtube_query": "north planet europe ps4 sale",
       "related": [
         {
-          "headline": "Every Legend of Zelda Movie Character and Cast Member Confirmed So Far",
+          "headline": "40+ Games Are Reduced By 90% In The Xbox Shocktober Sale 2026",
           "shared_terms": [
-            "movie"
+            "sale"
           ]
         },
         {
-          "headline": "Jean-Claude Van Damme's First Action Classic is Streaming for Free",
+          "headline": "The Best Deals Today: Xenoblade Chronicles 2, Persona 3 Reload, Dragon Quest III HD-2D Remake, and More",
           "shared_terms": [
-            "classic"
+            "deals"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Polygon",
-          "title": "Forget Tom Cruise, Sci-Fi's Foundational 1950s Classic Movie Is Free to Watch on YouTube",
-          "url": "https://www.polygon.com/war-of-worlds-streaming-free-youtube-october-2026/",
-          "published": "2026-10-25T04:01:20+00:00"
+          "source": "Push Square",
+          "title": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale (North America/Europe)",
+          "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale-north-americaeurope",
+          "published": "2026-10-26T10:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "called-despite-deus-gloomwood-immersive-isn",
-      "score": 28.7,
+      "story_id": "amid-assembly-complete-concerns-creative-developed",
+      "score": 30.4,
       "already_proposed": false,
-      "headline": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one",
+      "headline": "Shogun 2 – Complete Edition was \"not a Creative Assembly developed game,\" says Total War VP after it was pulled amid generative AI concerns",
       "topics": [],
-      "age_hours": 13.2,
+      "age_hours": 2.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.1,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [
+        "Gamesurf"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 1044,
+        "top_views": 24470,
+        "top_title": "토탈워 쇼군 2: 컴플리트 에디션 관련총괄 디렉터 로저의 공식 입장문 요약"
+      },
+      "youtube_query": "complete shogun assembly creative edition",
+      "related": [],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Shogun 2 – Complete Edition was \"not a Creative Assembly developed game,\" says Total War VP after it was pulled amid generative AI concerns",
+          "url": "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns",
+          "published": "2026-10-26T08:40:16+00:00"
+        },
+        {
+          "source": "Gamesurf",
+          "title": "Shogun 2 - Complete Edition: Creative Assembly prende le distanze",
+          "url": "https://www.gamesurf.it/news/total-war-shogun-2-complete-edition-creative-assembly-sega-risposta-spiegazione-polemica",
+          "published": "2026-10-26T10:42:29+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "came-centers-data-deforestation-finnish-google",
+      "score": 29.1,
+      "already_proposed": false,
+      "headline": "Google’s Finnish Data Centers Were Already In Trouble Over Deforestation, Then The Wolves Came",
+      "topics": [],
+      "age_hours": 12.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -460,242 +638,49 @@
         "yt_demand": 0.01,
         "yt_room": 0.0,
         "topic": 0.0,
-        "freshness": 0.93,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Rock Paper Shotgun"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 15,
-        "top_views": 15,
-        "top_title": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publis... #Shorts"
-      },
-      "youtube_query": "publisher despite called shock term",
-      "related": [
-        {
-          "headline": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare",
-          "shared_terms": [
-            "rpgs"
-          ]
-        },
-        {
-          "headline": "New Blood CEO confirms it: the worst way to sell immersive sims like Gloomwood and Fallen Aces is to call them immersive sims",
-          "shared_terms": [
-            "gloomwood"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Rock Paper Shotgun",
-          "title": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one",
-          "url": "https://www.rockpapershotgun.com/system-shock-and-deus-ex-they-were-rpgs-people-called-them-rpgs-gloomwoods-publisher-isnt-too-keen-on-using-the-term-immersive-sim-despite-it-being-one",
-          "published": "2026-10-24T20:29:27+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "call-cosa-details-director-dmz-dominare",
-      "score": 22.6,
-      "already_proposed": false,
-      "headline": "Cosa giocherete questo weekend? Call of Duty: Modern Warfare 4 o Final Fantasy Resonance",
-      "topics": [
-        "nintendo",
-        "aaa",
-        "feel_good"
-      ],
-      "age_hours": 26.4,
-      "signals": {
-        "coverage": 0.5,
-        "velocity": 0.33,
-        "it_gap": 0.17,
-        "yt_demand": 0.02,
-        "yt_room": 0.0,
-        "topic": 1.0,
-        "freshness": 0.2,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku",
-        "Nintendo Life",
-        "Pure Xbox"
-      ],
-      "coverage_it": [
-        "Everyeye",
-        "Multiplayer"
-      ],
-      "youtube": {
-        "video_count": 8,
-        "median_views": 32,
-        "top_views": 463,
-        "top_title": "Нові ігри у Steam: Call of Duty за 2449₴ 🎮"
-      },
-      "youtube_query": "modern warfare duty call fantasy",
-      "related": [],
-      "articles": [
-        {
-          "source": "Multiplayer",
-          "title": "Cosa giocherete questo weekend? Call of Duty: Modern Warfare 4 o Final Fantasy Resonance",
-          "url": "https://multiplayer.it/notizie/cosa-giocherete-questo-weekend-call-of-duty-modern-warfare-4-o-final-fantasy-resonance.html",
-          "published": "2026-10-24T07:19:56+00:00"
-        },
-        {
-          "source": "Pure Xbox",
-          "title": "Poll: If You're Playing Modern Warfare 4, What Do You Think So Far?",
-          "url": "https://www.purexbox.com/features/poll-if-youre-playing-modern-warfare-4-what-do-you-think-so-far",
-          "published": "2026-10-24T15:00:00+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "Call Of Duty: Modern Warfare 4 Director Says There’s Probably No Such Thing As ‘Perfected’ Matchmaking",
-          "url": "https://kotaku.com/call-of-duty-modern-warfare-4-director-says-theres-probably-no-such-thing-as-perfected-matchmaking-2000749327",
-          "published": "2026-10-24T18:25:14+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "Call of Duty Modern Warfare 4: tutti i trucchi per dominare in DMZ e multiplayer!",
-          "url": "https://www.everyeye.it/articoli/guida-call-of-duty-modern-warfare-4-trucchi-dominare-dmz-multiplayer-67761.html",
-          "published": "2026-10-24T19:30:00+00:00"
-        },
-        {
-          "source": "Nintendo Life",
-          "title": "PSA: Call Of Duty: Modern Warfare 4 Switch 2 Update Now Live, Here Are The Details",
-          "url": "https://www.nintendolife.com/news/2026/10/psa-call-of-duty-modern-warfare-4-switch-2-update-now-live-here-are-the-details",
-          "published": "2026-10-25T05:55:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "chiang-chief-creation-helen-job-leaves",
-      "score": 17.5,
-      "already_proposed": false,
-      "headline": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job",
-      "topics": [
-        "xbox"
-      ],
-      "age_hours": 20.8,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 0.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.02,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.51,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
         "Kotaku"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 10,
-        "median_views": 36,
-        "top_views": 14928,
-        "top_title": "Pakistan Railways Declares Emergency | Officers' Leaves Cancelled for 3 Months | Pakistan News"
+        "video_count": 1,
+        "median_views": 5,
+        "top_views": 5,
+        "top_title": "Google AI Expansion Sparks Wolf Crisis in Finland"
       },
-      "youtube_query": "officer operating chief three months",
-      "related": [
-        {
-          "headline": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
-          "shared_terms": [
-            "leaves",
-            "role"
-          ]
-        }
-      ],
+      "youtube_query": "finnish google deforestation trouble wolves",
+      "related": [],
       "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job",
-          "url": "https://www.eurogamer.net/xbox-coo-helen-chiang-leaves-microsoft",
-          "published": "2026-10-24T12:57:17+00:00"
-        },
         {
           "source": "Kotaku",
-          "title": "Xbox’s Chief Operating Officer Out Three Months After Role’s Creation",
-          "url": "https://kotaku.com/xboxs-chief-operating-officer-out-three-months-after-roles-creation-2000749324",
-          "published": "2026-10-24T17:27:51+00:00"
+          "title": "Google’s Finnish Data Centers Were Already In Trouble Over Deforestation, Then The Wolves Came",
+          "url": "https://kotaku.com/googles-finnish-data-centers-were-already-in-trouble-over-deforestation-then-the-wolves-came-2000749401",
+          "published": "2026-10-25T22:59:26+00:00"
         }
       ]
     },
     {
-      "story_id": "advised-bioware-claims-continue-creator-effect",
-      "score": 16.0,
+      "story_id": "arrowhead-because-biggest-cco-competitor-development",
+      "score": 29.0,
       "already_proposed": false,
-      "headline": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare",
+      "headline": "Helldivers 3 isn’t in development because its biggest competitor would be Helldivers 2, Arrowhead CCO says",
       "topics": [],
-      "age_hours": 19.3,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 0.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.02,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 0.59,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 36,
-        "top_views": 36,
-        "top_title": "Mass Effect Universe Canceled? #shorts"
-      },
-      "youtube_query": "incredible bioware looked claims creator",
-      "related": [
-        {
-          "headline": "\"System Shock and Deus Ex, they were RPGs. People called them RPGs\": Gloomwood's publisher isn't too keen on using the term immersive sim despite it being one",
-          "shared_terms": [
-            "rpgs"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "Mass Effect Universe \"looked incredible\" says creator who claims he advised BioWare",
-          "url": "https://www.eurogamer.net/mass-effect-universe-details-dantics-claims",
-          "published": "2026-10-24T14:26:27+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "BioWare's incredible legacy will continue as long as there are RPGs",
-          "url": "https://www.pcgamer.com/games/rpg/biowares-incredible-legacy-will-continue-as-long-as-there-are-rpgs/",
-          "published": "2026-10-24T18:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "brand-exec-leaves-months-promoted-reset",
-      "score": 14.7,
-      "already_proposed": false,
-      "headline": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
-      "topics": [
-        "xbox"
-      ],
-      "age_hours": 14.8,
+      "age_hours": 1.0,
       "signals": {
         "coverage": 0.17,
-        "velocity": 0.0,
+        "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.85,
+        "topic": 0.0,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "PC Gamer"
+        "VGC"
       ],
       "coverage_it": [],
       "youtube": {
@@ -704,22 +689,121 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "top exec brand reset promoted",
+      "youtube_query": "isn competitor because development cco",
       "related": [
         {
-          "headline": "Xbox's first chief operating officer Helen Chiang leaves Microsoft just three months into the job",
+          "headline": "Riot resurrected 3 of its biggest League of Legends pop groups, but only one emerged victorious",
           "shared_terms": [
-            "leaves",
-            "role"
+            "biggest"
           ]
         }
       ],
       "articles": [
         {
-          "source": "PC Gamer",
-          "title": "Top Xbox exec promoted in brand 'reset' leaves after 3 months in role",
-          "url": "https://www.pcgamer.com/gaming-industry/top-xbox-exec-promoted-in-brand-reset-leaves-after-3-months-in-role/",
-          "published": "2026-10-24T18:58:24+00:00"
+          "source": "VGC",
+          "title": "Helldivers 3 isn’t in development because its biggest competitor would be Helldivers 2, Arrowhead CCO says",
+          "url": "https://www.videogameschronicle.com/news/helldivers-3-isnt-in-development-because-its-biggest-competitor-would-be-helldivers-2-arrowhead-cco-says/",
+          "published": "2026-10-26T09:57:36+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "amazon-filming-fourth-reportedly-set-show",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Amazon's Fourth Wing Show Reportedly Set to Start Filming Soon",
+      "topics": [],
+      "age_hours": 0.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "filming reportedly wing show fourth",
+      "related": [
+        {
+          "headline": "UK Charts: Switch Sports Resort And Call Of Duty Are Fast Off The Start Line",
+          "shared_terms": [
+            "start"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Amazon's Fourth Wing Show Reportedly Set to Start Filming Soon",
+          "url": "https://www.polygon.com/fourth-wing-filming-start-date-location-vancouver/",
+          "published": "2026-10-26T10:15:12+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "10th-aggiornamento-anni-anniversary-ball-compie",
+      "score": 25.0,
+      "already_proposed": false,
+      "headline": "Dragon Ball Xenoverse 2 compie dieci anni: maxi-aggiornamento e ricompense per Xenoverse 3",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 20.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.06,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.55,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [
+        "Multiplayer",
+        "SpazioGames"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "ball xenoverse dragon compie anni",
+      "related": [],
+      "articles": [
+        {
+          "source": "Multiplayer",
+          "title": "Dragon Ball Xenoverse 2 compie dieci anni: maxi-aggiornamento e ricompense per Xenoverse 3",
+          "url": "https://multiplayer.it/notizie/dragon-ball-xenoverse-2-compie-dieci-anni-maxi-aggiornamento-ricompense-xenoverse-3.html",
+          "published": "2026-10-25T14:51:35+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week",
+          "url": "https://www.ign.com/articles/dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-week",
+          "published": "2026-10-26T03:28:52+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "Red Dead Redemption 2 compie 8 anni",
+          "url": "https://www.spaziogames.it/notizie/red-dead-redemption-2-compie-8-anni",
+          "published": "2026-10-26T09:20:00+00:00"
         }
       ]
     }
