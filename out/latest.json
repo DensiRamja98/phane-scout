@@ -1,315 +1,423 @@
 {
-  "generated_at": "2026-10-26T10:57:53.341603+00:00",
+  "generated_at": "2026-10-27T10:23:26.767993+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "2026-action-arts-beat-blade-capolavoro",
-      "score": 45.6,
+      "story_id": "austin-bioware-bummed-canceled-cancellation-closure",
+      "score": 57.4,
       "already_proposed": false,
-      "headline": "Phantom Blade Zero review",
+      "headline": "The Composer In Talks To Write Mass Effect 5’s Music Posts 22 Minutes Of Unused Songs So Good I’m Bummed Out Again",
       "topics": [
-        "playstation"
+        "easter_egg",
+        "storie",
+        "industria"
       ],
-      "age_hours": 11.0,
+      "age_hours": 13.6,
       "signals": {
         "coverage": 0.83,
         "velocity": 1.0,
-        "it_gap": 0.0,
-        "yt_demand": 0.44,
+        "it_gap": 0.83,
+        "yt_demand": 0.06,
         "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
+        "topic": 1.0,
+        "freshness": 0.91,
         "weak_format": false
       },
       "coverage_en": [
         "Eurogamer",
         "IGN",
-        "Polygon",
-        "Push Square",
-        "VGC"
-      ],
-      "coverage_it": [
-        "Everyeye",
-        "Gamesurf",
-        "Multiplayer"
-      ],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 19349,
-        "top_views": 447942,
-        "top_title": "Phantom Blade Zero Review"
-      },
-      "youtube_query": "zero phantom blade action recensione",
-      "related": [],
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "Phantom Blade Zero review",
-          "url": "https://www.eurogamer.net/phantom-blade-zero-review-1",
-          "published": "2026-10-26T00:00:00+00:00"
-        },
-        {
-          "source": "IGN",
-          "title": "Phantom Blade Zero Review",
-          "url": "https://www.ign.com/articles/phantom-blade-zero-review",
-          "published": "2026-10-26T00:00:00+00:00"
-        },
-        {
-          "source": "Push Square",
-          "title": "Review: Phantom Blade Zero (PS5) - One of the Generation's Greatest Action Experiences",
-          "url": "https://www.pushsquare.com/reviews/ps5/phantom-blade-zero",
-          "published": "2026-10-26T00:00:00+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "Phantom Blade Zero Recensione: un Action Tripla A epico, longevo e impegnativo",
-          "url": "https://www.everyeye.it/articoli/recensione-phantom-blade-zero-action-tripla-epico-longevo-impegnativo-67763.html",
-          "published": "2026-10-26T00:00:00+00:00"
-        },
-        {
-          "source": "Polygon",
-          "title": "Phantom Blade Zero Is the Perfect Martial Arts Game, For Better or Worse",
-          "url": "https://www.polygon.com/phantom-blade-zero-review/",
-          "published": "2026-10-26T00:00:18+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "Phantom Blade Zero review: A damn good action game that shouldn’t be ignored",
-          "url": "https://www.videogameschronicle.com/review/phantom-blade-zero-review/",
-          "published": "2026-10-26T00:00:34+00:00"
-        },
-        {
-          "source": "Polygon",
-          "title": "Phantom Blade Zero Reviews Just Beat Every Soulslike In 2026",
-          "url": "https://www.polygon.com/phantom-blade-zero-review-roundup-score/",
-          "published": "2026-10-26T00:56:40+00:00"
-        },
-        {
-          "source": "Gamesurf",
-          "title": "Phantom Blade Zero Recensione PC: il Kungfupunk di S-GAME promette un capolavoro ma lo seppellisce sotto troppi difetti",
-          "url": "https://www.gamesurf.it/recensioni/gioco/phantom-blade-zero-recensione",
-          "published": "2026-10-26T01:00:00+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "Phantom Blade Zero conquista la critica internazionale: pioggia di voti eccellenti per l'action di S-GAME",
-          "url": "https://multiplayer.it/notizie/phantom-blade-zero-conquista-critica-internazionale-pioggia-voti-eccellenti-action-s-game.html",
-          "published": "2026-10-26T07:13:26+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "Come gira Phantom Blade Zero su PS5 e PS5 PRO? Modalità grafiche a confronto",
-          "url": "https://www.everyeye.it/notizie/come-gira-phantom-blade-zero-ps5-ps5-pro-modalit-grafiche-confronto-907987.html",
-          "published": "2026-10-26T08:22:00+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "Quanto dura Phantom Blade Zero? Servono parecchie ore per finirlo",
-          "url": "https://www.everyeye.it/notizie/dura-phantom-blade-zero-servono-ore-finirlo-908024.html",
-          "published": "2026-10-26T10:35:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "000-180-187k-200-actors-bioware",
-      "score": 40.7,
-      "already_proposed": false,
-      "headline": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure",
-      "topics": [
-        "feel_good",
-        "industria"
-      ],
-      "age_hours": 16.6,
-      "signals": {
-        "coverage": 0.67,
-        "velocity": 0.5,
-        "it_gap": 0.67,
-        "yt_demand": 0.05,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.75,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "IGN",
+        "Kotaku",
         "PC Gamer",
         "VGC"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 10,
-        "median_views": 259,
-        "top_views": 43593,
-        "top_title": "Gamers DUNK On \"Save BioWare\" Petition 🤡 Media Demands Your Signatures & Threatens Boycotts"
+        "video_count": 3,
+        "median_views": 375,
+        "top_views": 81833,
+        "top_title": "My ideas for Mass Effect 5"
       },
-      "youtube_query": "effect mass petition save signatures",
+      "youtube_query": "music composer mass effect minutes",
       "related": [
         {
-          "headline": "Six Xbox Game Pass Titles Are Confirmed For The Final Few Days Of October",
+          "headline": "Xbox Veteran Who Just Got Promoted Under Asha Sharma Promptly Leaves Amid Mysterious Circumstances",
           "shared_terms": [
-            "days"
+            "veteran"
           ]
         },
         {
-          "headline": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass",
+          "headline": "Fans Feel Tricked By Official Pokemon EDM Concert: ‘What Do You Mean I Spent 300 Dollars For A Pokemon Rave For A Total Of 2 Pokemon Songs’",
           "shared_terms": [
-            "hits"
+            "songs"
           ]
         },
         {
-          "headline": "Commander Shepard actors Jennifer Hale & Mark Meer mourn BioWare: 'It was in the hands of ownership that may not have understood what BioWare fully is''",
+          "headline": "Canceled Transformers Game Footage Leaks Online, Showing Never-Before-Seen Final Trailer",
           "shared_terms": [
-            "actors",
-            "commander",
-            "shepard"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure",
-          "url": "https://www.pcgamer.com/games/mass-effect/save-mass-effect-petition-hits-over-180-000-signatures-within-days-of-biowares-closure/",
-          "published": "2026-10-25T18:24:00+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "187K+ fans call for EA to \"Save Mass Effect\"",
-          "url": "https://www.eurogamer.net/save-mass-effect-petition",
-          "published": "2026-10-25T18:50:44+00:00"
-        },
-        {
-          "source": "IGN",
-          "title": "Mass Effect's Commander Shepard Actors, Destiny Community Help #SaveMassEffect Petition Cross 200,000 Signatures",
-          "url": "https://www.ign.com/articles/mass-effects-commander-shepard-actors-destiny-community-help-savemasseffect-petition-cross-200000-signatures",
-          "published": "2026-10-26T02:03:53+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "‘Save Mass Effect’ petition cracks 200,000 signatures as fans plead for the series to continue",
-          "url": "https://www.videogameschronicle.com/news/save-mass-effect-petition-cracks-200000-signatures-as-fans-plead-for-the-series-to-continue/",
-          "published": "2026-10-26T10:28:31+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "bauza-beloved-bugs-bunny-daffy-died",
-      "score": 39.5,
-      "already_proposed": false,
-      "headline": "Eric Bauza, The Voice Of Bugs Bunny, Daffy Duck, And Many More Has Died At 46",
-      "topics": [],
-      "age_hours": 7.1,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.21,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku",
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 4407,
-        "top_views": 15838,
-        "top_title": "Eric Bauza, actor who voiced Bugs Bunny, Daffy Duck and other cartoon characters, dies at 46"
-      },
-      "youtube_query": "eric bugs bunny duck bauza",
-      "related": [
-        {
-          "headline": "'This is the bit where the comet hits the earth and the dinosaurs die:' Tim Sweeney revisits scathing 26-year-old eulogy for beloved studio Looking Glass",
-          "shared_terms": [
-            "beloved"
+            "canceled"
           ]
         }
       ],
       "articles": [
         {
           "source": "Kotaku",
-          "title": "Eric Bauza, The Voice Of Bugs Bunny, Daffy Duck, And Many More Has Died At 46",
-          "url": "https://kotaku.com/eric-bauza-looney-tunes-death-dies-announcement-2000749416",
-          "published": "2026-10-26T03:54:20+00:00"
+          "title": "The Composer In Talks To Write Mass Effect 5’s Music Posts 22 Minutes Of Unused Songs So Good I’m Bummed Out Again",
+          "url": "https://kotaku.com/mass-effect-5-universe-music-austin-wintory-songs-stream-2000749849",
+          "published": "2026-10-26T20:45:58+00:00"
         },
         {
-          "source": "Polygon",
-          "title": "Beloved Bugs Bunny and Daffy Duck Voice Eric Bauza Passes Away at 46",
-          "url": "https://www.polygon.com/bugs-bunny-daffy-duck-actor-eric-bauza-death/",
-          "published": "2026-10-26T08:28:40+00:00"
+          "source": "PC Gamer",
+          "title": "Veteran game composer in talks to score Mass Effect 5 shares 20 minutes of music he wrote for the project: 'To even dream in your sandbox was a privilege'",
+          "url": "https://www.pcgamer.com/games/mass-effect/veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minutes-of-music-he-wrote-for-the-project-to-even-dream-in-your-sandbox-was-a-privilege/",
+          "published": "2026-10-26T21:19:51+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Composer Austin Wintory Shares 22 Minutes of Music Created for BioWare's Canceled Mass Effect 5",
+          "url": "https://www.ign.com/articles/composer-austin-wintory-shares-22-minutes-of-music-created-for-biowares-canceled-mass-effect-5",
+          "published": "2026-10-26T21:36:07+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Grammy-winning composer uploads Mass Effect 5 music following cancellation news",
+          "url": "https://www.videogameschronicle.com/news/grammy-winning-composer-uploads-mass-effect-5-music-following-cancellation-news/",
+          "published": "2026-10-26T22:07:18+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Composer shares 20 minutes of  music created for Mass Effect 5 following tragic closure of BioWare",
+          "url": "https://www.eurogamer.net/mass-effect-5-pitched-music-composer",
+          "published": "2026-10-27T10:02:28+00:00"
         }
       ]
     },
     {
-      "story_id": "1999-action-adventure-later-movie-officially",
-      "score": 34.9,
+      "story_id": "000-across-amid-among-apply-around",
+      "score": 53.3,
       "already_proposed": false,
-      "headline": "27 Years Later, the Best Action Adventure Movie of 1999 Is Officially Free on Youtube",
+      "headline": "Microsoft Gives ‘Voluntary Exit Offer’ To 60,000 Employees, Roughly 25 Percent Of Its Total Workforce",
       "topics": [
-        "easter_egg"
+        "xbox",
+        "industria"
       ],
-      "age_hours": 12.0,
+      "age_hours": 17.8,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.2,
+        "it_gap": 0.83,
+        "yt_demand": 0.55,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.68,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GamesIndustry",
+        "Kotaku",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 29834,
+        "top_views": 100182,
+        "top_title": "Microsoft Targets 60,000 Jobs For Termination"
+      },
+      "youtube_query": "voluntary microsoft offer exit 000",
+      "related": [
+        {
+          "headline": "Clean a whole planet with a toothbrush in Moon Sweepers, the PowerWash genre's latest crime against perfectionists",
+          "shared_terms": [
+            "latest"
+          ]
+        },
+        {
+          "headline": "I have jumped in WoW: Forever's beta 7738 times, roughly 135 jumps an hour, and if you'd like to find out if you beat me there's a stat tracker",
+          "shared_terms": [
+            "roughly"
+          ]
+        },
+        {
+          "headline": "Microsoft has offered a quarter of its entire workforce redundancy",
+          "shared_terms": [
+            "offered"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Microsoft Gives ‘Voluntary Exit Offer’ To 60,000 Employees, Roughly 25 Percent Of Its Total Workforce",
+          "url": "https://kotaku.com/microsoft-gives-voluntary-exit-offer-to-60000-employees-roughly-a-25-percent-of-its-total-workforce-2000749790",
+          "published": "2026-10-26T16:35:42+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "With Xbox cuts not done, Microsoft offer voluntary buyouts to around 60,000 workers across the company in latest attempt to get rid of staff",
+          "url": "https://www.rockpapershotgun.com/with-xbox-cuts-not-done-microsoft-offer-voluntary-buyouts-to-around-60000-workers-across-the-company-in-latest-attempt-to-get-rid-of-staff",
+          "published": "2026-10-26T17:40:40+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Over 25% of Microsoft's workforce is reportedly eligible to apply for a 'voluntary exit offer'",
+          "url": "https://www.pcgamer.com/gaming-industry/microsoft-is-looking-to-cut-more-than-25-percent-of-its-workforce/",
+          "published": "2026-10-26T17:49:25+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Amid sweeping layoffs at Xbox and massive AI investments, Microsoft introduces a \"Voluntary Exit Offer\" to 60,000 workers",
+          "url": "https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000",
+          "published": "2026-10-26T18:44:22+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Xbox staff among up to 60,000 Microsoft employees offered voluntary exit",
+          "url": "https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit",
+          "published": "2026-10-26T21:34:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "adds-assassin-awaited-black-content-creed",
+      "score": 42.8,
+      "already_proposed": false,
+      "headline": "La modalità New Game Plus di Assassin's Creed: Black Flag Resynced ha una data",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 16.4,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.42,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.76,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 17916,
+        "top_views": 371130,
+        "top_title": "Assassin's Creed Black Flag Resynced - Official Final Major Content Update"
+      },
+      "youtube_query": "flag resynced black assassin creed",
+      "related": [
+        {
+          "headline": "Epic Games Boss Tim Sweeney Doubles Down on Valve Criticism, Says Steam's AI Content Disclosure Is a 'Political Act'",
+          "shared_terms": [
+            "content"
+          ]
+        },
+        {
+          "headline": "Despite initial player concerns, Capcom feels good about Onimusha: Way of the Sword's difficulty, and says it has the data to prove it got it right",
+          "shared_terms": [
+            "difficulty"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Multiplayer",
+          "title": "La modalità New Game Plus di Assassin's Creed: Black Flag Resynced ha una data",
+          "url": "https://multiplayer.it/notizie/modalita-new-game-plus-di-assassins-creed-black-flag-resynced-ha-una-data.html",
+          "published": "2026-10-26T17:59:41+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Assassin's Creed Black Flag Resynced Final Major Content Update Coming This Week",
+          "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-final-major-content-update-coming-this-week",
+          "published": "2026-10-26T20:43:26+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Assassin's Creed Black Flag Resynced's final major update adds long-awaited New Game Plus, new Nightmare difficulty and much more",
+          "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-new-game-plus-final-update",
+          "published": "2026-10-27T09:18:45+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2027-access-arpg-day-delayed-early",
+      "score": 39.0,
+      "already_proposed": false,
+      "headline": "One day before launch, ARPG Emberville gets delayed until 2027",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 12.4,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.11,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.98,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 1218,
+        "top_views": 1218,
+        "top_title": "Stardew-like RPG Emberville Delays Launch on Short Notice"
+      },
+      "youtube_query": "day emberville delayed 2027 arpg",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "One day before launch, ARPG Emberville gets delayed until 2027",
+          "url": "https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
+          "published": "2026-10-26T21:57:24+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "One Day Out From Early Access, Emberville Has Been Delayed To 2027",
+          "url": "https://www.gamespot.com/articles/one-day-out-from-early-access-emberville-has-been-delayed-to-2027/",
+          "published": "2026-10-27T10:05:58+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "company-confirmed-moba-pok-mon-shutting-unite",
+      "score": 38.8,
+      "already_proposed": false,
+      "headline": "Pokémon’s free-to-play MOBA Pokémon Unite is shutting down, The Pokémon Company has confirmed",
+      "topics": [
+        "pokemon",
+        "industria"
+      ],
+      "age_hours": 0.8,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1,
+        "top_views": 1,
+        "top_title": "Gaming News PH: Pokemon UNITE is shutting down + Aurora, Falcons head to M8"
+      },
+      "youtube_query": "shutting pokémon moba confirmed company",
+      "related": [],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Pokémon’s free-to-play MOBA Pokémon Unite is shutting down, The Pokémon Company has confirmed",
+          "url": "https://www.videogameschronicle.com/news/pokemons-free-to-play-moba-pokemon-unite-is-shutting-down-the-pokemon-company-has-confirmed/",
+          "published": "2026-10-27T09:34:20+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Free-to-Play Pokémon Game Is Shutting Down After 5 Years",
+          "url": "https://www.polygon.com/pokemon-unite-end-service-announcement/",
+          "published": "2026-10-27T10:05:01+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "announced-francisco-launches-midnight-nintendo-ocarina",
+      "score": 34.0,
+      "already_proposed": false,
+      "headline": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 9.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.14,
+        "yt_demand": 0.11,
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Polygon"
+        "Nintendo Life"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 10,
-        "median_views": 2061,
-        "top_views": 11698824,
-        "top_title": "DO NOT go Swimming at 3AM 🩳🏊‍♂️ #shorts"
+        "video_count": 2,
+        "median_views": 1193,
+        "top_views": 1193,
+        "top_title": "Zelda: Ocarina of Time Remake Midnight Launch Confirmed"
       },
-      "youtube_query": "youtube officially adventure 1999 later",
+      "youtube_query": "launches francisco ocarina midnight san",
       "related": [
         {
-          "headline": "Feature: 30 Years Later, I'm Finally Learning To Play The Ocarina (And You Should Too)",
+          "headline": "Xbox's Newly-Announced COO Is Leaving Microsoft After 21 Years",
           "shared_terms": [
-            "later",
-            "years"
+            "announced"
+          ]
+        },
+        {
+          "headline": "The Fans Trying To Save Mass Effect Just Paid For A Billboard In Times Square",
+          "shared_terms": [
+            "york"
+          ]
+        },
+        {
+          "headline": "Dead by Daylight Devs Explain Chucky's Exit From Stores and Says Horror Icons Removed Due to Licenses Have 'Open Invitation' to Rejoin",
+          "shared_terms": [
+            "stores"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Polygon",
-          "title": "27 Years Later, the Best Action Adventure Movie of 1999 Is Officially Free on Youtube",
-          "url": "https://www.polygon.com/the-mummy-free-on-youtube/",
-          "published": "2026-10-25T23:00:18+00:00"
+          "source": "Nintendo Life",
+          "title": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores",
+          "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-midnight-launches-announced-for-nintendo-new-york-and-san-francisco-stores",
+          "published": "2026-10-27T00:55:00+00:00"
         }
       ]
     },
     {
-      "story_id": "calls-ceo-disclosures-discourse-enter-epic",
-      "score": 33.5,
+      "story_id": "demos-disclosures-fest-haystack-include-incremental",
+      "score": 33.8,
       "already_proposed": false,
-      "headline": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
+      "headline": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
       "topics": [
         "steam",
         "industria"
       ],
-      "age_hours": 7.8,
+      "age_hours": 10.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "yt_demand": 0.01,
         "yt_room": 0.0,
         "topic": 0.67,
         "freshness": 1.0,
@@ -320,39 +428,39 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 1,
+        "median_views": 12,
+        "top_views": 12,
+        "top_title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures,... #Shorts"
       },
-      "youtube_query": "essays disclosures calls epic mandatory",
+      "youtube_query": "slop fest include haystack incremental",
       "related": [
         {
-          "headline": "Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back",
+          "headline": "Steam's AI disclosures are akin to \"forcing developers to list their voting history\", says man who must hate seeing eggs virtue signal that they're free-range",
           "shared_terms": [
-            "political"
+            "disclosures"
           ]
         }
       ],
       "articles": [
         {
           "source": "PC Gamer",
-          "title": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
-          "url": "https://www.pcgamer.com/gaming-industry/steam-week-in-review-ai-disclosures-enter-the-discourse-again-as-epic-ceo-calls-them-just-as-partisan-as-mandatory-political-essays/",
-          "published": "2026-10-26T03:12:41+00:00"
+          "title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
+          "url": "https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/",
+          "published": "2026-10-27T00:18:15+00:00"
         }
       ]
     },
     {
-      "story_id": "call-charts-duty-fast-line-resort",
+      "story_id": "activision-call-changed-duty-launch-nearly",
       "score": 33.5,
       "already_proposed": false,
-      "headline": "UK Charts: Switch Sports Resort And Call Of Duty Are Fast Off The Start Line",
+      "headline": "Here’s How The Way Activision Talks About Call Of Duty Launch Weekend Sales Has Changed Over Nearly 20 Years",
       "topics": [
-        "nintendo",
+        "xbox",
         "aaa"
       ],
-      "age_hours": 0.5,
+      "age_hours": 11.9,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -360,6 +468,253 @@
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "nearly weekend activision changed talks",
+      "related": [
+        {
+          "headline": "Talking Point: Xbox Disc To Digital Has Changed How I Buy Games",
+          "shared_terms": [
+            "changed"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Here’s How The Way Activision Talks About Call Of Duty Launch Weekend Sales Has Changed Over Nearly 20 Years",
+          "url": "https://kotaku.com/heres-how-the-way-activision-talks-about-call-of-duty-launch-weekend-sales-has-changed-over-nearly-20-years-2000749843",
+          "published": "2026-10-26T22:30:49+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "gold-gta-homebrew-pirated-ps5-reason",
+      "score": 33.1,
+      "already_proposed": false,
+      "headline": "AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 12.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.95,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "gold rush pirated triggered reason",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release",
+          "url": "https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776",
+          "published": "2026-10-26T21:30:32+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "capcom-dual-man-master-mega-override",
+      "score": 31.5,
+      "already_proposed": false,
+      "headline": "Capcom Reveals Another Robot Master For Mega Man: Dual Override",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 7.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 4,
+        "median_views": 16,
+        "top_views": 39,
+        "top_title": "Who will Tag Along in Tank Man's Stage?"
+      },
+      "youtube_query": "master mega override dual reveals",
+      "related": [
+        {
+          "headline": "Rare Insight into PS5 Sales Pattern Reveals Significant Wolverine Bump",
+          "shared_terms": [
+            "reveals"
+          ]
+        },
+        {
+          "headline": "Godzilla Minus Zero Director's Upcoming Giant Robot Movie First Cast Members Revealed",
+          "shared_terms": [
+            "robot"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Capcom Reveals Another Robot Master For Mega Man: Dual Override",
+          "url": "https://www.nintendolife.com/news/2026/10/capcom-reveals-another-robot-master-for-mega-man-dual-override",
+          "published": "2026-10-27T02:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "avoid-company-institutes-layoffs-mandatory-merger",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Skydance Institutes Company-Wide Mandatory Return To Office So It Can Avoid Saying ‘Layoffs’ So Soon After Merger",
+      "topics": [
+        "industria"
+      ],
+      "age_hours": 11.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "mandatory merger office institutes wide",
+      "related": [
+        {
+          "headline": "Konami deliberately kept its multiple Silent Hill games secret from each studio, to avoid ideas crossing over",
+          "shared_terms": [
+            "avoid"
+          ]
+        },
+        {
+          "headline": "Valve adds CD-ROM support to Steam Frame kernel less than ten minutes after saying it would look into it",
+          "shared_terms": [
+            "saying"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Skydance Institutes Company-Wide Mandatory Return To Office So It Can Avoid Saying ‘Layoffs’ So Soon After Merger",
+          "url": "https://kotaku.com/skydance-institutes-company-wide-mandatory-return-to-office-so-it-can-avoid-saying-layoffs-so-soon-after-merger-2000749847",
+          "published": "2026-10-26T23:00:49+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "canceled-final-footage-leaks-online-showing",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Canceled Transformers Game Footage Leaks Online, Showing Never-Before-Seen Final Trailer",
+      "topics": [
+        "storie"
+      ],
+      "age_hours": 11.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "leaks footage transformers trailer showing",
+      "related": [
+        {
+          "headline": "32-year-old \"ellipsoid\" horror game Ecstatica gets a PC re-release today, showing us an alternative timeline in which polygonal 3D never became dominant",
+          "shared_terms": [
+            "showing"
+          ]
+        },
+        {
+          "headline": "The Composer In Talks To Write Mass Effect 5’s Music Posts 22 Minutes Of Unused Songs So Good I’m Bummed Out Again",
+          "shared_terms": [
+            "canceled"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Canceled Transformers Game Footage Leaks Online, Showing Never-Before-Seen Final Trailer",
+          "url": "https://www.ign.com/articles/canceled-transformers-game-footage-leaks-online-showing-never-before-seen-final-trailer",
+          "published": "2026-10-26T23:04:32+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "arisen-dark-dogma-dragon-live-notes",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Dragon's Dogma 2: Dark Arisen Title Update 4.1 Now Live On Switch 2, Here Are The Full Patch Notes",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 6.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -373,74 +728,79 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "resort charts line sports fast",
+      "youtube_query": "dragon dogma arisen title notes",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Dragon's Dogma 2: Dark Arisen Title Update 4.1 Now Live On Switch 2, Here Are The Full Patch Notes",
+          "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-title-update-4-1-now-live-on-switch-2-here-are-the-full-patch-notes",
+          "published": "2026-10-27T03:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "brand-hori-legend-products-switch-unveils",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Hori Unveils Brand New Legend Of Zelda Switch 2 Products",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 4.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "products hori unveils legend zelda",
       "related": [
         {
-          "headline": "Amazon's Fourth Wing Show Reportedly Set to Start Filming Soon",
+          "headline": "Leaked video shows hundreds, possibly thousands of brand-new RTX 5090s being dismantled for AI server usage in Chinese factory",
           "shared_terms": [
-            "start"
+            "brand"
+          ]
+        },
+        {
+          "headline": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores",
+          "shared_terms": [
+            "zelda"
           ]
         }
       ],
       "articles": [
         {
           "source": "Nintendo Life",
-          "title": "UK Charts: Switch Sports Resort And Call Of Duty Are Fast Off The Start Line",
-          "url": "https://www.nintendolife.com/news/2026/10/uk-charts-switch-sports-resort-and-call-of-duty-are-fast-off-the-start-line",
-          "published": "2026-10-26T10:30:00+00:00"
+          "title": "Hori Unveils Brand New Legend Of Zelda Switch 2 Products",
+          "url": "https://www.nintendolife.com/news/2026/10/hori-unveils-brand-new-legend-of-zelda-switch-2-products",
+          "published": "2026-10-27T05:30:00+00:00"
         }
       ]
     },
     {
-      "story_id": "berry-blacksmith-busiest-cancelled-concert-day",
-      "score": 32.8,
-      "already_proposed": false,
-      "headline": "Following Cancelled Concert, Umamusume Fans Give Knott’s Berry Farm Blacksmith Busiest Day Of His Life",
-      "topics": [
-        "feel_good",
-        "storie"
-      ],
-      "age_hours": 13.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.92,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "blacksmith busiest cancelled following berry",
-      "related": [],
-      "articles": [
-        {
-          "source": "Kotaku",
-          "title": "Following Cancelled Concert, Umamusume Fans Give Knott’s Berry Farm Blacksmith Busiest Day Of His Life",
-          "url": "https://kotaku.com/following-cancelled-concert-umamusume-fans-give-knotts-berry-farm-blacksmith-busiest-day-of-his-life-2000749394",
-          "published": "2026-10-25T21:26:29+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "blade-buyer-dev-dishonored-find-finish",
+      "story_id": "2027-immediately-offline-pokemon-sales-suspended",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "Microsoft Gives Dishonored Dev More Time to Find a Buyer, Needs a Partner to Finish Blade",
+      "headline": "Pokemon Unite to Be Taken Offline in 2027, In-Game Sales Suspended Immediately",
       "topics": [
-        "xbox"
+        "pokemon"
       ],
-      "age_hours": 1.5,
+      "age_hours": 1.2,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -449,361 +809,26 @@
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "dev needs buyer find microsoft",
-      "related": [],
-      "articles": [
-        {
-          "source": "Push Square",
-          "title": "Microsoft Gives Dishonored Dev More Time to Find a Buyer, Needs a Partner to Finish Blade",
-          "url": "https://www.pushsquare.com/news/2026/10/microsoft-gives-dishonored-dev-more-time-to-find-a-buyer-needs-a-partner-to-finish-blade",
-          "published": "2026-10-26T09:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "bioware-blames-buy-canadian-closure-employees",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back",
-      "topics": [
-        "industria"
-      ],
-      "age_hours": 1.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "private party government employees blames",
-      "related": [
-        {
-          "headline": "'Save Mass Effect' petition hits over 180,000 signatures within days of BioWare's closure",
-          "shared_terms": [
-            "help"
-          ]
-        },
-        {
-          "headline": "Steam Week in Review: AI disclosures enter the discourse again, as Epic CEO calls them 'just as partisan as mandatory political essays'",
-          "shared_terms": [
-            "political"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "Canadian political party leader blames BioWare's closure on private equity, says government should help former employees buy it back",
-          "url": "https://www.eurogamer.net/canadian-politician-bioware-employees-buy-studio-federal-support",
-          "published": "2026-10-26T09:53:04+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "america-buy-deals-europe-feature-north",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale (North America/Europe)",
-      "topics": [
-        "playstation"
-      ],
-      "age_hours": 1.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "north planet europe ps4 sale",
-      "related": [
-        {
-          "headline": "40+ Games Are Reduced By 90% In The Xbox Shocktober Sale 2026",
-          "shared_terms": [
-            "sale"
-          ]
-        },
-        {
-          "headline": "The Best Deals Today: Xenoblade Chronicles 2, Persona 3 Reload, Dragon Quest III HD-2D Remake, and More",
-          "shared_terms": [
-            "deals"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Push Square",
-          "title": "Feature: 50+ PS5, PS4 Games to Buy in PS Store's Planet of the Deals Sale (North America/Europe)",
-          "url": "https://www.pushsquare.com/features/50plus-ps5-ps4-games-to-buy-in-ps-stores-planet-of-the-deals-sale-north-americaeurope",
-          "published": "2026-10-26T10:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "amid-assembly-complete-concerns-creative-developed",
-      "score": 30.4,
-      "already_proposed": false,
-      "headline": "Shogun 2 – Complete Edition was \"not a Creative Assembly developed game,\" says Total War VP after it was pulled amid generative AI concerns",
-      "topics": [],
-      "age_hours": 2.3,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.11,
-        "yt_demand": 0.1,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GamesIndustry"
-      ],
-      "coverage_it": [
-        "Gamesurf"
-      ],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 1044,
-        "top_views": 24470,
-        "top_title": "토탈워 쇼군 2: 컴플리트 에디션 관련총괄 디렉터 로저의 공식 입장문 요약"
-      },
-      "youtube_query": "complete shogun assembly creative edition",
-      "related": [],
-      "articles": [
-        {
-          "source": "GamesIndustry",
-          "title": "Shogun 2 – Complete Edition was \"not a Creative Assembly developed game,\" says Total War VP after it was pulled amid generative AI concerns",
-          "url": "https://www.gamesindustry.biz/shogun-2-complete-edition-was-not-a-creative-assembly-developed-game-says-total-war-vp-after-it-was-pulled-amid-generative-ai-concerns",
-          "published": "2026-10-26T08:40:16+00:00"
-        },
-        {
-          "source": "Gamesurf",
-          "title": "Shogun 2 - Complete Edition: Creative Assembly prende le distanze",
-          "url": "https://www.gamesurf.it/news/total-war-shogun-2-complete-edition-creative-assembly-sega-risposta-spiegazione-polemica",
-          "published": "2026-10-26T10:42:29+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "came-centers-data-deforestation-finnish-google",
-      "score": 29.1,
-      "already_proposed": false,
-      "headline": "Google’s Finnish Data Centers Were Already In Trouble Over Deforestation, Then The Wolves Came",
-      "topics": [],
-      "age_hours": 12.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.01,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 5,
-        "top_views": 5,
-        "top_title": "Google AI Expansion Sparks Wolf Crisis in Finland"
-      },
-      "youtube_query": "finnish google deforestation trouble wolves",
-      "related": [],
-      "articles": [
-        {
-          "source": "Kotaku",
-          "title": "Google’s Finnish Data Centers Were Already In Trouble Over Deforestation, Then The Wolves Came",
-          "url": "https://kotaku.com/googles-finnish-data-centers-were-already-in-trouble-over-deforestation-then-the-wolves-came-2000749401",
-          "published": "2026-10-25T22:59:26+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "arrowhead-because-biggest-cco-competitor-development",
-      "score": 29.0,
-      "already_proposed": false,
-      "headline": "Helldivers 3 isn’t in development because its biggest competitor would be Helldivers 2, Arrowhead CCO says",
-      "topics": [],
-      "age_hours": 1.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "isn competitor because development cco",
-      "related": [
-        {
-          "headline": "Riot resurrected 3 of its biggest League of Legends pop groups, but only one emerged victorious",
-          "shared_terms": [
-            "biggest"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "VGC",
-          "title": "Helldivers 3 isn’t in development because its biggest competitor would be Helldivers 2, Arrowhead CCO says",
-          "url": "https://www.videogameschronicle.com/news/helldivers-3-isnt-in-development-because-its-biggest-competitor-would-be-helldivers-2-arrowhead-cco-says/",
-          "published": "2026-10-26T09:57:36+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "amazon-filming-fourth-reportedly-set-show",
-      "score": 29.0,
-      "already_proposed": false,
-      "headline": "Amazon's Fourth Wing Show Reportedly Set to Start Filming Soon",
-      "topics": [],
-      "age_hours": 0.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "filming reportedly wing show fourth",
-      "related": [
-        {
-          "headline": "UK Charts: Switch Sports Resort And Call Of Duty Are Fast Off The Start Line",
-          "shared_terms": [
-            "start"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "Amazon's Fourth Wing Show Reportedly Set to Start Filming Soon",
-          "url": "https://www.polygon.com/fourth-wing-filming-start-date-location-vancouver/",
-          "published": "2026-10-26T10:15:12+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "10th-aggiornamento-anni-anniversary-ball-compie",
-      "score": 25.0,
-      "already_proposed": false,
-      "headline": "Dragon Ball Xenoverse 2 compie dieci anni: maxi-aggiornamento e ricompense per Xenoverse 3",
-      "topics": [
-        "feel_good"
-      ],
-      "age_hours": 20.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.06,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.55,
         "weak_format": false
       },
       "coverage_en": [
         "IGN"
       ],
-      "coverage_it": [
-        "Multiplayer",
-        "SpazioGames"
-      ],
+      "coverage_it": [],
       "youtube": {
         "video_count": 0,
         "median_views": 0,
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "ball xenoverse dragon compie anni",
+      "youtube_query": "suspended immediately offline taken pokemon",
       "related": [],
       "articles": [
         {
-          "source": "Multiplayer",
-          "title": "Dragon Ball Xenoverse 2 compie dieci anni: maxi-aggiornamento e ricompense per Xenoverse 3",
-          "url": "https://multiplayer.it/notizie/dragon-ball-xenoverse-2-compie-dieci-anni-maxi-aggiornamento-ricompense-xenoverse-3.html",
-          "published": "2026-10-25T14:51:35+00:00"
-        },
-        {
           "source": "IGN",
-          "title": "Dragon Ball Xenoverse 2 Gets Surprise 10th Anniversary Update This Week",
-          "url": "https://www.ign.com/articles/dragon-ball-xenoverse-2-gets-surprise-10th-anniversary-update-this-week",
-          "published": "2026-10-26T03:28:52+00:00"
-        },
-        {
-          "source": "SpazioGames",
-          "title": "Red Dead Redemption 2 compie 8 anni",
-          "url": "https://www.spaziogames.it/notizie/red-dead-redemption-2-compie-8-anni",
-          "published": "2026-10-26T09:20:00+00:00"
+          "title": "Pokemon Unite to Be Taken Offline in 2027, In-Game Sales Suspended Immediately",
+          "url": "https://www.ign.com/articles/pokemon-unite-offline-2027-in-game-sales-suspended",
+          "published": "2026-10-27T09:12:38+00:00"
         }
       ]
     }
