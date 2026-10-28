@@ -1,0 +1,801 @@
+{
+  "generated_at": "2026-10-28T11:14:03.894185+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "battle-despite-diatriba-later-legal-legale",
+      "score": 38.6,
+      "already_proposed": false,
+      "headline": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
+      "topics": [
+        "pokemon",
+        "nintendo",
+        "easter_egg"
+      ],
+      "age_hours": 0.9,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Polygon"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "nintendo switch palworld pocketpair battle",
+      "related": [
+        {
+          "headline": "Pocketpair CEO on keeping the indie spirit alive after Palworld’s success",
+          "shared_terms": [
+            "love"
+          ]
+        },
+        {
+          "headline": "18 Years Later, The Definitive 2000s Gothic Cult Classic is Still a Divisive Guilty Pleasure",
+          "shared_terms": [
+            "later"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
+          "url": "https://www.ign.com/articles/pocketpair-wants-palworld-on-nintendo-switch-2-pokemon",
+          "published": "2026-10-28T10:17:33+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Pocketpair vorrebbe portare Palworld su Switch 2, nonostante la diatriba legale con Nintendo",
+          "url": "https://multiplayer.it/notizie/pocketpair-vorrebbe-portare-palworld-su-switch-2-nonostante-la-diatriba-legale-con-nintendo.html",
+          "published": "2026-10-28T10:27:07+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "25 Years Later, Nintendo’s Spookiest Game Is a Must-Play On Switch 2",
+          "url": "https://www.polygon.com/luigis-mansion-gamecube-retrospective-switch-online/",
+          "published": "2026-10-28T11:00:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "affected-breaking-company-cyberattack-data-deliverance",
+      "score": 37.5,
+      "already_proposed": false,
+      "headline": "Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'",
+      "topics": [],
+      "age_hours": 23.3,
+      "signals": {
+        "coverage": 1.0,
+        "velocity": 0.0,
+        "it_gap": 1.0,
+        "yt_demand": 0.12,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.37,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GamesIndustry",
+        "Kotaku",
+        "PC Gamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 1413,
+        "top_views": 1413,
+        "top_title": "Kingdom Come: Deliverance 2 Studio Hit by Cyberattack"
+      },
+      "youtube_query": "cyberattack warhorse kingdom hit serious",
+      "related": [
+        {
+          "headline": "Virtue and a Sledgehammer review – a haunting sci-fi drama about breaking walls, AI faces, and your heart",
+          "shared_terms": [
+            "breaking"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'",
+          "url": "https://www.pcgamer.com/gaming-industry/kingdom-come-lord-of-the-rings-studio-warhorse-hit-by-a-cyberattack/",
+          "published": "2026-10-27T11:55:58+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Lord Of The Rings RPG Game Studio Hit By ‘Serious’ Cyberattack As The Internet Continues Breaking",
+          "url": "https://kotaku.com/lord-of-the-rings-rpg-game-studio-hit-by-serious-cyberattack-as-the-internet-continues-breaking-2000750137",
+          "published": "2026-10-27T12:46:45+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Warhorse Studios hit by cyberattack, company systems and data affected",
+          "url": "https://www.gamesindustry.biz/warhorse-studios-hit-by-cyberattack-company-systems-and-data-affected",
+          "published": "2026-10-27T14:20:32+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Kingdom Come Developer Warhorse Studios Suffers Cyberattack, Full Impact Unknown",
+          "url": "https://www.pushsquare.com/news/2026/10/kingdom-come-developer-warhorse-studios-suffers-cyberattack-full-impact-unknown",
+          "published": "2026-10-27T15:00:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "\"This is a serious incident\" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack",
+          "url": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance",
+          "published": "2026-10-27T16:53:16+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "\"This is a serious incident\": Kingdom Come: Deliverance 2 devs Warhorse hit by cyberattack targeting their systems and data",
+          "url": "https://www.rockpapershotgun.com/this-is-a-serious-incident-kingdom-come-deliverance-2-devs-warhorse-hit-by-cyberattack-targeting-their-systems-and-data",
+          "published": "2026-10-27T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "auto-employees-grand-hold-launches-locked",
+      "score": 37.3,
+      "already_proposed": false,
+      "headline": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
+      "topics": [
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 15.7,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.67,
+        "it_gap": 0.5,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.8,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Game Developer",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 7,
+        "top_views": 491,
+        "top_title": "Rockstar paid Miami $975,000. $1 million needed a vote 🌴"
+      },
+      "youtube_query": "theft grand auto vote rockstar",
+      "related": [
+        {
+          "headline": "Nintendo’s next Indie World showcase will take place this week",
+          "shared_terms": [
+            "place"
+          ]
+        },
+        {
+          "headline": "Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6",
+          "shared_terms": [
+            "month"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Game Developer",
+          "title": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
+          "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
+          "published": "2026-10-27T19:34:13+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
+          "published": "2026-10-27T22:23:23+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
+          "url": "https://www.eurogamer.net/rockstar-union-vote-november",
+          "published": "2026-10-28T09:49:39+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "210gb-download-gta-massive-playstation",
+      "score": 35.1,
+      "already_proposed": false,
+      "headline": "GTA 6 is a massive 210GB download on PlayStation 5",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.06,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 421,
+        "top_views": 1349,
+        "top_title": "GTA 6's Download Size Is INSANE 🫢 #shorts #gta6 #gtavi"
+      },
+      "youtube_query": "210gb download massive playstation gta",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "GTA 6 is a massive 210GB download on PlayStation 5",
+          "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
+          "published": "2026-10-28T09:14:37+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "certain-december-discord-discoverable-forums-google",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Discord Messages in Discoverable Servers Will Soon Be Searchable on Google",
+      "topics": [],
+      "age_hours": 15.5,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.67,
+        "it_gap": 0.5,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.8,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 6,
+        "median_views": 110,
+        "top_views": 15490,
+        "top_title": "Discord Just Made a HUGE Mistake"
+      },
+      "youtube_query": "searchable discord messages servers discoverable",
+      "related": [
+        {
+          "headline": "Call Of Duty Lifetime Revenue Surges Past $40 Billion, Microsoft Confirms",
+          "shared_terms": [
+            "making"
+          ]
+        },
+        {
+          "headline": "Phantom Blade Zero is asking players to free up 300GB of space for pre-loading, double its actual 145GB file size",
+          "shared_terms": [
+            "question"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Discord Messages in Discoverable Servers Will Soon Be Searchable on Google",
+          "url": "https://www.ign.com/articles/discord-messages-in-discoverable-servers-will-soon-be-searchable-on-google",
+          "published": "2026-10-27T19:41:58+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Discord know they replaced forums, so they're making your messages in discoverable servers searchable, which immediately raises one question: what about AI?",
+          "url": "https://www.rockpapershotgun.com/discord-know-they-replaced-forums-so-theyre-making-your-messages-in-discoverable-servers-searchable-which-immediately-raises-one-question-what-about-ai",
+          "published": "2026-10-27T21:28:32+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Messages in certain large public Discord servers will be searchable on the web after December",
+          "url": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
+          "published": "2026-10-27T21:53:41+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "chiang-company-coo-helen-leaves-months",
+      "score": 31.7,
+      "already_proposed": false,
+      "headline": "First Xbox COO Helen Chiang leaves company after three months in the role",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 1.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 7,
+        "median_views": 33,
+        "top_views": 72749,
+        "top_title": "Xbox’s First COO Is Already Gone - Inside Games Daily"
+      },
+      "youtube_query": "leaves chiang role months helen",
+      "related": [],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "First Xbox COO Helen Chiang leaves company after three months in the role",
+          "url": "https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-after-three-months-in-the-role",
+          "published": "2026-10-28T10:15:53+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "based-devs-during-gta-historic-hold",
+      "score": 31.5,
+      "already_proposed": false,
+      "headline": "Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6",
+      "topics": [
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 17.1,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.33,
+        "it_gap": 0.5,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.71,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 6,
+        "top_views": 135,
+        "top_title": "GTA 6 Devs Will Vote on a Union During Launch Week (GTA VI)"
+      },
+      "youtube_query": "vote union rockstar gta during",
+      "related": [
+        {
+          "headline": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
+          "shared_terms": [
+            "month"
+          ]
+        },
+        {
+          "headline": "GTA 6 Developers Are About To Do Something Historic",
+          "shared_terms": [
+            "historic"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6",
+          "url": "https://kotaku.com/rockstar-games-devs-in-the-uk-will-hold-a-union-vote-during-the-launch-of-gta-6-2000750216",
+          "published": "2026-10-27T18:05:51+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month",
+          "url": "https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
+          "published": "2026-10-27T18:37:53+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Rockstar Games Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
+          "url": "https://www.ign.com/articles/rockstar-games-staff-set-for-historic-union-vote-at-the-same-time-gta-6-comes-out",
+          "published": "2026-10-28T10:06:45+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "gta-guide-preload-release-start-times",
+      "score": 31.3,
+      "already_proposed": false,
+      "headline": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 11.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 2,
+        "top_views": 2,
+        "top_title": "GTA 6 Preload: Digital vs Physical (Don’t Get Stuck)"
+      },
+      "youtube_query": "preload times start guide release",
+      "related": [
+        {
+          "headline": "Guide: Every Nintendo Switch Online Game Boy (Color) Game Ranked",
+          "shared_terms": [
+            "guide"
+          ]
+        },
+        {
+          "headline": "5 Adult Fairy Tale Books That Are Magical From Start to Finish",
+          "shared_terms": [
+            "start"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?",
+          "url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
+          "published": "2026-10-28T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cyberpunk-edgerunners-isn-state-switch-update",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2 Right Now",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 10.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "isn edgerunners state cyberpunk update",
+      "related": [
+        {
+          "headline": "Life is Strange makers Don't Nod face layoffs and possible insolvency, French workers union STJV state",
+          "shared_terms": [
+            "state"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2 Right Now",
+          "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2-right-now",
+          "published": "2026-10-28T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "mcu-oldest-return-surprise-villain-visionquest",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "The MCU's Oldest Villain Just Made a Surprise Return in 'VisionQuest'",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 8.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "visionquest villain oldest mcu surprise",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "The MCU's Oldest Villain Just Made a Surprise Return in 'VisionQuest'",
+          "url": "https://www.polygon.com/visionquest-mcus-oldest-iron-man-villain-raza-hamidmi-al-wazar/",
+          "published": "2026-10-28T02:46:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bringing-devs-fall-former-frog-guys",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Former Fall Guys Devs Are Bringing Their Co-Op Platformer Frog Sqwad to PS5 Today",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 1.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "bringing guys frog fall platformer",
+      "related": [
+        {
+          "headline": "Former Halo boss is now in charge of Wizards of the Coast and Hasbro Digital Games",
+          "shared_terms": [
+            "former"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Former Fall Guys Devs Are Bringing Their Co-Op Platformer Frog Sqwad to PS5 Today",
+          "url": "https://www.pushsquare.com/news/2026/10/former-fall-guys-devs-are-bringing-their-co-op-platformer-frog-sqwad-to-ps5-today",
+          "published": "2026-10-28T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2000s-classic-cult-definitive-divisive-gothic",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "18 Years Later, The Definitive 2000s Gothic Cult Classic is Still a Divisive Guilty Pleasure",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 1.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "pleasure divisive gothic 2000s guilty",
+      "related": [
+        {
+          "headline": "Capcom's Classic Console Games Could Be Coming to PS5",
+          "shared_terms": [
+            "classic"
+          ]
+        },
+        {
+          "headline": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
+          "shared_terms": [
+            "later"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "18 Years Later, The Definitive 2000s Gothic Cult Classic is Still a Divisive Guilty Pleasure",
+          "url": "https://www.polygon.com/vampire-knight-gothic-romance-guilty-pleasure/",
+          "published": "2026-10-28T10:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "power-reboot-rings-season-showrunner-soft",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "The Rings of Power Season 3 Will Be a Soft Reboot, Showrunner Says",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 0.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "soft reboot showrunner power season",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "The Rings of Power Season 3 Will Be a Soft Reboot, Showrunner Says",
+          "url": "https://www.polygon.com/rings-of-power-season-3-soft-reboot-new-direction/",
+          "published": "2026-10-28T10:25:25+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "apparently-cards-cart-key-nintendo-policy",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Nintendo Apparently Has A Policy To Prevent Game-Key Cards Getting A Full-Cart Reprint",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 0.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "policy apparently reprint cards cart",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Nintendo Apparently Has A Policy To Prevent Game-Key Cards Getting A Full-Cart Reprint",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-apparently-has-a-policy-to-prevent-game-key-cards-getting-a-full-cart-reprint",
+          "published": "2026-10-28T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "console-emblem-fire-fortune-pokopia-pok-mon",
+      "score": 33.5,
+      "already_proposed": true,
+      "headline": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
+      "topics": [
+        "pokemon",
+        "nintendo"
+      ],
+      "age_hours": 4.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "fortune fire weave emblem shortlisted",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
+          "published": "2026-10-28T07:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

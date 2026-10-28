@@ -1,116 +1,94 @@
 {
-  "generated_at": "2026-10-27T10:23:26.767993+00:00",
+  "generated_at": "2026-10-28T11:14:03.894185+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "austin-bioware-bummed-canceled-cancellation-closure",
-      "score": 57.4,
+      "story_id": "battle-despite-diatriba-later-legal-legale",
+      "score": 38.6,
       "already_proposed": false,
-      "headline": "The Composer In Talks To Write Mass Effect 5’s Music Posts 22 Minutes Of Unused Songs So Good I’m Bummed Out Again",
+      "headline": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
       "topics": [
-        "easter_egg",
-        "storie",
-        "industria"
+        "pokemon",
+        "nintendo",
+        "easter_egg"
       ],
-      "age_hours": 13.6,
+      "age_hours": 0.9,
       "signals": {
-        "coverage": 0.83,
+        "coverage": 0.33,
         "velocity": 1.0,
-        "it_gap": 0.83,
-        "yt_demand": 0.06,
+        "it_gap": 0.22,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 1.0,
-        "freshness": 0.91,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Eurogamer",
         "IGN",
-        "Kotaku",
-        "PC Gamer",
-        "VGC"
+        "Polygon"
       ],
-      "coverage_it": [],
+      "coverage_it": [
+        "Multiplayer"
+      ],
       "youtube": {
-        "video_count": 3,
-        "median_views": 375,
-        "top_views": 81833,
-        "top_title": "My ideas for Mass Effect 5"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "music composer mass effect minutes",
+      "youtube_query": "nintendo switch palworld pocketpair battle",
       "related": [
         {
-          "headline": "Xbox Veteran Who Just Got Promoted Under Asha Sharma Promptly Leaves Amid Mysterious Circumstances",
+          "headline": "Pocketpair CEO on keeping the indie spirit alive after Palworld’s success",
           "shared_terms": [
-            "veteran"
+            "love"
           ]
         },
         {
-          "headline": "Fans Feel Tricked By Official Pokemon EDM Concert: ‘What Do You Mean I Spent 300 Dollars For A Pokemon Rave For A Total Of 2 Pokemon Songs’",
+          "headline": "18 Years Later, The Definitive 2000s Gothic Cult Classic is Still a Divisive Guilty Pleasure",
           "shared_terms": [
-            "songs"
-          ]
-        },
-        {
-          "headline": "Canceled Transformers Game Footage Leaks Online, Showing Never-Before-Seen Final Trailer",
-          "shared_terms": [
-            "canceled"
+            "later"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Kotaku",
-          "title": "The Composer In Talks To Write Mass Effect 5’s Music Posts 22 Minutes Of Unused Songs So Good I’m Bummed Out Again",
-          "url": "https://kotaku.com/mass-effect-5-universe-music-austin-wintory-songs-stream-2000749849",
-          "published": "2026-10-26T20:45:58+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "Veteran game composer in talks to score Mass Effect 5 shares 20 minutes of music he wrote for the project: 'To even dream in your sandbox was a privilege'",
-          "url": "https://www.pcgamer.com/games/mass-effect/veteran-game-composer-in-talks-to-score-mass-effect-5-shares-20-minutes-of-music-he-wrote-for-the-project-to-even-dream-in-your-sandbox-was-a-privilege/",
-          "published": "2026-10-26T21:19:51+00:00"
-        },
-        {
           "source": "IGN",
-          "title": "Composer Austin Wintory Shares 22 Minutes of Music Created for BioWare's Canceled Mass Effect 5",
-          "url": "https://www.ign.com/articles/composer-austin-wintory-shares-22-minutes-of-music-created-for-biowares-canceled-mass-effect-5",
-          "published": "2026-10-26T21:36:07+00:00"
+          "title": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
+          "url": "https://www.ign.com/articles/pocketpair-wants-palworld-on-nintendo-switch-2-pokemon",
+          "published": "2026-10-28T10:17:33+00:00"
         },
         {
-          "source": "VGC",
-          "title": "Grammy-winning composer uploads Mass Effect 5 music following cancellation news",
-          "url": "https://www.videogameschronicle.com/news/grammy-winning-composer-uploads-mass-effect-5-music-following-cancellation-news/",
-          "published": "2026-10-26T22:07:18+00:00"
+          "source": "Multiplayer",
+          "title": "Pocketpair vorrebbe portare Palworld su Switch 2, nonostante la diatriba legale con Nintendo",
+          "url": "https://multiplayer.it/notizie/pocketpair-vorrebbe-portare-palworld-su-switch-2-nonostante-la-diatriba-legale-con-nintendo.html",
+          "published": "2026-10-28T10:27:07+00:00"
         },
         {
-          "source": "Eurogamer",
-          "title": "Composer shares 20 minutes of  music created for Mass Effect 5 following tragic closure of BioWare",
-          "url": "https://www.eurogamer.net/mass-effect-5-pitched-music-composer",
-          "published": "2026-10-27T10:02:28+00:00"
+          "source": "Polygon",
+          "title": "25 Years Later, Nintendo’s Spookiest Game Is a Must-Play On Switch 2",
+          "url": "https://www.polygon.com/luigis-mansion-gamecube-retrospective-switch-online/",
+          "published": "2026-10-28T11:00:18+00:00"
         }
       ]
     },
     {
-      "story_id": "000-across-amid-among-apply-around",
-      "score": 53.3,
+      "story_id": "affected-breaking-company-cyberattack-data-deliverance",
+      "score": 37.5,
       "already_proposed": false,
-      "headline": "Microsoft Gives ‘Voluntary Exit Offer’ To 60,000 Employees, Roughly 25 Percent Of Its Total Workforce",
-      "topics": [
-        "xbox",
-        "industria"
-      ],
-      "age_hours": 17.8,
+      "headline": "Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'",
+      "topics": [],
+      "age_hours": 23.3,
       "signals": {
-        "coverage": 0.83,
-        "velocity": 0.2,
-        "it_gap": 0.83,
-        "yt_demand": 0.55,
+        "coverage": 1.0,
+        "velocity": 0.0,
+        "it_gap": 1.0,
+        "yt_demand": 0.12,
         "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.68,
+        "topic": 0.0,
+        "freshness": 0.37,
         "weak_format": false
       },
       "coverage_en": [
@@ -118,687 +96,493 @@
         "GamesIndustry",
         "Kotaku",
         "PC Gamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 1413,
+        "top_views": 1413,
+        "top_title": "Kingdom Come: Deliverance 2 Studio Hit by Cyberattack"
+      },
+      "youtube_query": "cyberattack warhorse kingdom hit serious",
+      "related": [
+        {
+          "headline": "Virtue and a Sledgehammer review – a haunting sci-fi drama about breaking walls, AI faces, and your heart",
+          "shared_terms": [
+            "breaking"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'",
+          "url": "https://www.pcgamer.com/gaming-industry/kingdom-come-lord-of-the-rings-studio-warhorse-hit-by-a-cyberattack/",
+          "published": "2026-10-27T11:55:58+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Lord Of The Rings RPG Game Studio Hit By ‘Serious’ Cyberattack As The Internet Continues Breaking",
+          "url": "https://kotaku.com/lord-of-the-rings-rpg-game-studio-hit-by-serious-cyberattack-as-the-internet-continues-breaking-2000750137",
+          "published": "2026-10-27T12:46:45+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Warhorse Studios hit by cyberattack, company systems and data affected",
+          "url": "https://www.gamesindustry.biz/warhorse-studios-hit-by-cyberattack-company-systems-and-data-affected",
+          "published": "2026-10-27T14:20:32+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Kingdom Come Developer Warhorse Studios Suffers Cyberattack, Full Impact Unknown",
+          "url": "https://www.pushsquare.com/news/2026/10/kingdom-come-developer-warhorse-studios-suffers-cyberattack-full-impact-unknown",
+          "published": "2026-10-27T15:00:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "\"This is a serious incident\" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack",
+          "url": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance",
+          "published": "2026-10-27T16:53:16+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "\"This is a serious incident\": Kingdom Come: Deliverance 2 devs Warhorse hit by cyberattack targeting their systems and data",
+          "url": "https://www.rockpapershotgun.com/this-is-a-serious-incident-kingdom-come-deliverance-2-devs-warhorse-hit-by-cyberattack-targeting-their-systems-and-data",
+          "published": "2026-10-27T17:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "auto-employees-grand-hold-launches-locked",
+      "score": 37.3,
+      "already_proposed": false,
+      "headline": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
+      "topics": [
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 15.7,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.67,
+        "it_gap": 0.5,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.8,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Game Developer",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 7,
+        "top_views": 491,
+        "top_title": "Rockstar paid Miami $975,000. $1 million needed a vote 🌴"
+      },
+      "youtube_query": "theft grand auto vote rockstar",
+      "related": [
+        {
+          "headline": "Nintendo’s next Indie World showcase will take place this week",
+          "shared_terms": [
+            "place"
+          ]
+        },
+        {
+          "headline": "Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6",
+          "shared_terms": [
+            "month"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Game Developer",
+          "title": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
+          "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
+          "published": "2026-10-27T19:34:13+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
+          "published": "2026-10-27T22:23:23+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
+          "url": "https://www.eurogamer.net/rockstar-union-vote-november",
+          "published": "2026-10-28T09:49:39+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "210gb-download-gta-massive-playstation",
+      "score": 35.1,
+      "already_proposed": false,
+      "headline": "GTA 6 is a massive 210GB download on PlayStation 5",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.06,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 421,
+        "top_views": 1349,
+        "top_title": "GTA 6's Download Size Is INSANE 🫢 #shorts #gta6 #gtavi"
+      },
+      "youtube_query": "210gb download massive playstation gta",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "GTA 6 is a massive 210GB download on PlayStation 5",
+          "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
+          "published": "2026-10-28T09:14:37+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "certain-december-discord-discoverable-forums-google",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Discord Messages in Discoverable Servers Will Soon Be Searchable on Google",
+      "topics": [],
+      "age_hours": 15.5,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.67,
+        "it_gap": 0.5,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.8,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 6,
+        "median_views": 110,
+        "top_views": 15490,
+        "top_title": "Discord Just Made a HUGE Mistake"
+      },
+      "youtube_query": "searchable discord messages servers discoverable",
+      "related": [
+        {
+          "headline": "Call Of Duty Lifetime Revenue Surges Past $40 Billion, Microsoft Confirms",
+          "shared_terms": [
+            "making"
+          ]
+        },
+        {
+          "headline": "Phantom Blade Zero is asking players to free up 300GB of space for pre-loading, double its actual 145GB file size",
+          "shared_terms": [
+            "question"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Discord Messages in Discoverable Servers Will Soon Be Searchable on Google",
+          "url": "https://www.ign.com/articles/discord-messages-in-discoverable-servers-will-soon-be-searchable-on-google",
+          "published": "2026-10-27T19:41:58+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Discord know they replaced forums, so they're making your messages in discoverable servers searchable, which immediately raises one question: what about AI?",
+          "url": "https://www.rockpapershotgun.com/discord-know-they-replaced-forums-so-theyre-making-your-messages-in-discoverable-servers-searchable-which-immediately-raises-one-question-what-about-ai",
+          "published": "2026-10-27T21:28:32+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Messages in certain large public Discord servers will be searchable on the web after December",
+          "url": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
+          "published": "2026-10-27T21:53:41+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "chiang-company-coo-helen-leaves-months",
+      "score": 31.7,
+      "already_proposed": false,
+      "headline": "First Xbox COO Helen Chiang leaves company after three months in the role",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 1.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 7,
+        "median_views": 33,
+        "top_views": 72749,
+        "top_title": "Xbox’s First COO Is Already Gone - Inside Games Daily"
+      },
+      "youtube_query": "leaves chiang role months helen",
+      "related": [],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "First Xbox COO Helen Chiang leaves company after three months in the role",
+          "url": "https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-after-three-months-in-the-role",
+          "published": "2026-10-28T10:15:53+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "based-devs-during-gta-historic-hold",
+      "score": 31.5,
+      "already_proposed": false,
+      "headline": "Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6",
+      "topics": [
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 17.1,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.33,
+        "it_gap": 0.5,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.71,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku",
         "Rock Paper Shotgun"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 10,
-        "median_views": 29834,
-        "top_views": 100182,
-        "top_title": "Microsoft Targets 60,000 Jobs For Termination"
+        "median_views": 6,
+        "top_views": 135,
+        "top_title": "GTA 6 Devs Will Vote on a Union During Launch Week (GTA VI)"
       },
-      "youtube_query": "voluntary microsoft offer exit 000",
+      "youtube_query": "vote union rockstar gta during",
       "related": [
         {
-          "headline": "Clean a whole planet with a toothbrush in Moon Sweepers, the PowerWash genre's latest crime against perfectionists",
+          "headline": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
           "shared_terms": [
-            "latest"
+            "month"
           ]
         },
         {
-          "headline": "I have jumped in WoW: Forever's beta 7738 times, roughly 135 jumps an hour, and if you'd like to find out if you beat me there's a stat tracker",
+          "headline": "GTA 6 Developers Are About To Do Something Historic",
           "shared_terms": [
-            "roughly"
-          ]
-        },
-        {
-          "headline": "Microsoft has offered a quarter of its entire workforce redundancy",
-          "shared_terms": [
-            "offered"
+            "historic"
           ]
         }
       ],
       "articles": [
         {
           "source": "Kotaku",
-          "title": "Microsoft Gives ‘Voluntary Exit Offer’ To 60,000 Employees, Roughly 25 Percent Of Its Total Workforce",
-          "url": "https://kotaku.com/microsoft-gives-voluntary-exit-offer-to-60000-employees-roughly-a-25-percent-of-its-total-workforce-2000749790",
-          "published": "2026-10-26T16:35:42+00:00"
+          "title": "Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6",
+          "url": "https://kotaku.com/rockstar-games-devs-in-the-uk-will-hold-a-union-vote-during-the-launch-of-gta-6-2000750216",
+          "published": "2026-10-27T18:05:51+00:00"
         },
         {
           "source": "Rock Paper Shotgun",
-          "title": "With Xbox cuts not done, Microsoft offer voluntary buyouts to around 60,000 workers across the company in latest attempt to get rid of staff",
-          "url": "https://www.rockpapershotgun.com/with-xbox-cuts-not-done-microsoft-offer-voluntary-buyouts-to-around-60000-workers-across-the-company-in-latest-attempt-to-get-rid-of-staff",
-          "published": "2026-10-26T17:40:40+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "Over 25% of Microsoft's workforce is reportedly eligible to apply for a 'voluntary exit offer'",
-          "url": "https://www.pcgamer.com/gaming-industry/microsoft-is-looking-to-cut-more-than-25-percent-of-its-workforce/",
-          "published": "2026-10-26T17:49:25+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Amid sweeping layoffs at Xbox and massive AI investments, Microsoft introduces a \"Voluntary Exit Offer\" to 60,000 workers",
-          "url": "https://www.eurogamer.net/xbox-ai-microsoft-voluntary-exit-offer-60000",
-          "published": "2026-10-26T18:44:22+00:00"
-        },
-        {
-          "source": "GamesIndustry",
-          "title": "Xbox staff among up to 60,000 Microsoft employees offered voluntary exit",
-          "url": "https://www.gamesindustry.biz/xbox-staff-among-up-to-60000-microsoft-employees-offered-voluntary-exit",
-          "published": "2026-10-26T21:34:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "adds-assassin-awaited-black-content-creed",
-      "score": 42.8,
-      "already_proposed": false,
-      "headline": "La modalità New Game Plus di Assassin's Creed: Black Flag Resynced ha una data",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 16.4,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.22,
-        "yt_demand": 0.42,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.76,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "IGN"
-      ],
-      "coverage_it": [
-        "Multiplayer"
-      ],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 17916,
-        "top_views": 371130,
-        "top_title": "Assassin's Creed Black Flag Resynced - Official Final Major Content Update"
-      },
-      "youtube_query": "flag resynced black assassin creed",
-      "related": [
-        {
-          "headline": "Epic Games Boss Tim Sweeney Doubles Down on Valve Criticism, Says Steam's AI Content Disclosure Is a 'Political Act'",
-          "shared_terms": [
-            "content"
-          ]
-        },
-        {
-          "headline": "Despite initial player concerns, Capcom feels good about Onimusha: Way of the Sword's difficulty, and says it has the data to prove it got it right",
-          "shared_terms": [
-            "difficulty"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Multiplayer",
-          "title": "La modalità New Game Plus di Assassin's Creed: Black Flag Resynced ha una data",
-          "url": "https://multiplayer.it/notizie/modalita-new-game-plus-di-assassins-creed-black-flag-resynced-ha-una-data.html",
-          "published": "2026-10-26T17:59:41+00:00"
+          "title": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month",
+          "url": "https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
+          "published": "2026-10-27T18:37:53+00:00"
         },
         {
           "source": "IGN",
-          "title": "Assassin's Creed Black Flag Resynced Final Major Content Update Coming This Week",
-          "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-final-major-content-update-coming-this-week",
-          "published": "2026-10-26T20:43:26+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Assassin's Creed Black Flag Resynced's final major update adds long-awaited New Game Plus, new Nightmare difficulty and much more",
-          "url": "https://www.eurogamer.net/assassins-creed-black-flag-resynced-new-game-plus-final-update",
-          "published": "2026-10-27T09:18:45+00:00"
+          "title": "Rockstar Games Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
+          "url": "https://www.ign.com/articles/rockstar-games-staff-set-for-historic-union-vote-at-the-same-time-gta-6-comes-out",
+          "published": "2026-10-28T10:06:45+00:00"
         }
       ]
     },
     {
-      "story_id": "2027-access-arpg-day-delayed-early",
-      "score": 39.0,
+      "story_id": "gta-guide-preload-release-start-times",
+      "score": 31.3,
       "already_proposed": false,
-      "headline": "One day before launch, ARPG Emberville gets delayed until 2027",
+      "headline": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?",
       "topics": [
-        "steam"
+        "aaa"
       ],
-      "age_hours": 12.4,
+      "age_hours": 11.2,
       "signals": {
-        "coverage": 0.33,
+        "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.11,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.98,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GameSpot",
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 2,
-        "median_views": 1218,
-        "top_views": 1218,
-        "top_title": "Stardew-like RPG Emberville Delays Launch on Short Notice"
-      },
-      "youtube_query": "day emberville delayed 2027 arpg",
-      "related": [],
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "One day before launch, ARPG Emberville gets delayed until 2027",
-          "url": "https://www.pcgamer.com/games/rpg/one-day-before-launch-arpg-emberville-gets-delayed-until-2027/",
-          "published": "2026-10-26T21:57:24+00:00"
-        },
-        {
-          "source": "GameSpot",
-          "title": "One Day Out From Early Access, Emberville Has Been Delayed To 2027",
-          "url": "https://www.gamespot.com/articles/one-day-out-from-early-access-emberville-has-been-delayed-to-2027/",
-          "published": "2026-10-27T10:05:58+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "company-confirmed-moba-pok-mon-shutting-unite",
-      "score": 38.8,
-      "already_proposed": false,
-      "headline": "Pokémon’s free-to-play MOBA Pokémon Unite is shutting down, The Pokémon Company has confirmed",
-      "topics": [
-        "pokemon",
-        "industria"
-      ],
-      "age_hours": 0.8,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
+        "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.67,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Polygon",
-        "VGC"
+        "Push Square"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 1,
-        "median_views": 1,
-        "top_views": 1,
-        "top_title": "Gaming News PH: Pokemon UNITE is shutting down + Aurora, Falcons head to M8"
+        "video_count": 2,
+        "median_views": 2,
+        "top_views": 2,
+        "top_title": "GTA 6 Preload: Digital vs Physical (Don’t Get Stuck)"
       },
-      "youtube_query": "shutting pokémon moba confirmed company",
-      "related": [],
+      "youtube_query": "preload times start guide release",
+      "related": [
+        {
+          "headline": "Guide: Every Nintendo Switch Online Game Boy (Color) Game Ranked",
+          "shared_terms": [
+            "guide"
+          ]
+        },
+        {
+          "headline": "5 Adult Fairy Tale Books That Are Magical From Start to Finish",
+          "shared_terms": [
+            "start"
+          ]
+        }
+      ],
       "articles": [
         {
-          "source": "VGC",
-          "title": "Pokémon’s free-to-play MOBA Pokémon Unite is shutting down, The Pokémon Company has confirmed",
-          "url": "https://www.videogameschronicle.com/news/pokemons-free-to-play-moba-pokemon-unite-is-shutting-down-the-pokemon-company-has-confirmed/",
-          "published": "2026-10-27T09:34:20+00:00"
-        },
+          "source": "Push Square",
+          "title": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?",
+          "url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
+          "published": "2026-10-28T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cyberpunk-edgerunners-isn-state-switch-update",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2 Right Now",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 10.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "isn edgerunners state cyberpunk update",
+      "related": [
+        {
+          "headline": "Life is Strange makers Don't Nod face layoffs and possible insolvency, French workers union STJV state",
+          "shared_terms": [
+            "state"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2 Right Now",
+          "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2-right-now",
+          "published": "2026-10-28T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "mcu-oldest-return-surprise-villain-visionquest",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "The MCU's Oldest Villain Just Made a Surprise Return in 'VisionQuest'",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 8.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "visionquest villain oldest mcu surprise",
+      "related": [],
+      "articles": [
         {
           "source": "Polygon",
-          "title": "Free-to-Play Pokémon Game Is Shutting Down After 5 Years",
-          "url": "https://www.polygon.com/pokemon-unite-end-service-announcement/",
-          "published": "2026-10-27T10:05:01+00:00"
+          "title": "The MCU's Oldest Villain Just Made a Surprise Return in 'VisionQuest'",
+          "url": "https://www.polygon.com/visionquest-mcus-oldest-iron-man-villain-raza-hamidmi-al-wazar/",
+          "published": "2026-10-28T02:46:17+00:00"
         }
       ]
     },
     {
-      "story_id": "announced-francisco-launches-midnight-nintendo-ocarina",
-      "score": 34.0,
-      "already_proposed": false,
-      "headline": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 9.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.11,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 2,
-        "median_views": 1193,
-        "top_views": 1193,
-        "top_title": "Zelda: Ocarina of Time Remake Midnight Launch Confirmed"
-      },
-      "youtube_query": "launches francisco ocarina midnight san",
-      "related": [
-        {
-          "headline": "Xbox's Newly-Announced COO Is Leaving Microsoft After 21 Years",
-          "shared_terms": [
-            "announced"
-          ]
-        },
-        {
-          "headline": "The Fans Trying To Save Mass Effect Just Paid For A Billboard In Times Square",
-          "shared_terms": [
-            "york"
-          ]
-        },
-        {
-          "headline": "Dead by Daylight Devs Explain Chucky's Exit From Stores and Says Horror Icons Removed Due to Licenses Have 'Open Invitation' to Rejoin",
-          "shared_terms": [
-            "stores"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores",
-          "url": "https://www.nintendolife.com/news/2026/10/zelda-ocarina-of-time-midnight-launches-announced-for-nintendo-new-york-and-san-francisco-stores",
-          "published": "2026-10-27T00:55:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "demos-disclosures-fest-haystack-include-incremental",
-      "score": 33.8,
-      "already_proposed": false,
-      "headline": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
-      "topics": [
-        "steam",
-        "industria"
-      ],
-      "age_hours": 10.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.01,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 12,
-        "top_views": 12,
-        "top_title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures,... #Shorts"
-      },
-      "youtube_query": "slop fest include haystack incremental",
-      "related": [
-        {
-          "headline": "Steam's AI disclosures are akin to \"forcing developers to list their voting history\", says man who must hate seeing eggs virtue signal that they're free-range",
-          "shared_terms": [
-            "disclosures"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "The 50 most-played Steam Next Fest demos include 7 incremental games, 4 AI disclosures, and only one instance of haystack slop",
-          "url": "https://www.pcgamer.com/software/platforms/the-50-most-played-steam-next-fest-demos-include-7-incremental-games-4-ai-disclosures-and-only-one-instance-of-haystack-slop/",
-          "published": "2026-10-27T00:18:15+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "activision-call-changed-duty-launch-nearly",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "Here’s How The Way Activision Talks About Call Of Duty Launch Weekend Sales Has Changed Over Nearly 20 Years",
-      "topics": [
-        "xbox",
-        "aaa"
-      ],
-      "age_hours": 11.9,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "nearly weekend activision changed talks",
-      "related": [
-        {
-          "headline": "Talking Point: Xbox Disc To Digital Has Changed How I Buy Games",
-          "shared_terms": [
-            "changed"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Kotaku",
-          "title": "Here’s How The Way Activision Talks About Call Of Duty Launch Weekend Sales Has Changed Over Nearly 20 Years",
-          "url": "https://kotaku.com/heres-how-the-way-activision-talks-about-call-of-duty-launch-weekend-sales-has-changed-over-nearly-20-years-2000749843",
-          "published": "2026-10-26T22:30:49+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "gold-gta-homebrew-pirated-ps5-reason",
-      "score": 33.1,
-      "already_proposed": false,
-      "headline": "AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release",
-      "topics": [
-        "playstation",
-        "aaa"
-      ],
-      "age_hours": 12.9,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.95,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "gold rush pirated triggered reason",
-      "related": [],
-      "articles": [
-        {
-          "source": "Kotaku",
-          "title": "AI Has Triggered A PS5 Homebrew Gold Rush, But It’s Also The Reason GTA 6 Can’t Be Pirated At Release",
-          "url": "https://kotaku.com/ai-has-triggered-a-ps5-homebrew-gold-rush-but-its-also-the-reason-gta-6-cant-be-pirated-at-release-2000749776",
-          "published": "2026-10-26T21:30:32+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "capcom-dual-man-master-mega-override",
-      "score": 31.5,
-      "already_proposed": false,
-      "headline": "Capcom Reveals Another Robot Master For Mega Man: Dual Override",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 7.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.01,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 4,
-        "median_views": 16,
-        "top_views": 39,
-        "top_title": "Who will Tag Along in Tank Man's Stage?"
-      },
-      "youtube_query": "master mega override dual reveals",
-      "related": [
-        {
-          "headline": "Rare Insight into PS5 Sales Pattern Reveals Significant Wolverine Bump",
-          "shared_terms": [
-            "reveals"
-          ]
-        },
-        {
-          "headline": "Godzilla Minus Zero Director's Upcoming Giant Robot Movie First Cast Members Revealed",
-          "shared_terms": [
-            "robot"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Capcom Reveals Another Robot Master For Mega Man: Dual Override",
-          "url": "https://www.nintendolife.com/news/2026/10/capcom-reveals-another-robot-master-for-mega-man-dual-override",
-          "published": "2026-10-27T02:55:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "avoid-company-institutes-layoffs-mandatory-merger",
+      "story_id": "bringing-devs-fall-former-frog-guys",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "Skydance Institutes Company-Wide Mandatory Return To Office So It Can Avoid Saying ‘Layoffs’ So Soon After Merger",
+      "headline": "Former Fall Guys Devs Are Bringing Their Co-Op Platformer Frog Sqwad to PS5 Today",
       "topics": [
-        "industria"
-      ],
-      "age_hours": 11.4,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "mandatory merger office institutes wide",
-      "related": [
-        {
-          "headline": "Konami deliberately kept its multiple Silent Hill games secret from each studio, to avoid ideas crossing over",
-          "shared_terms": [
-            "avoid"
-          ]
-        },
-        {
-          "headline": "Valve adds CD-ROM support to Steam Frame kernel less than ten minutes after saying it would look into it",
-          "shared_terms": [
-            "saying"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Kotaku",
-          "title": "Skydance Institutes Company-Wide Mandatory Return To Office So It Can Avoid Saying ‘Layoffs’ So Soon After Merger",
-          "url": "https://kotaku.com/skydance-institutes-company-wide-mandatory-return-to-office-so-it-can-avoid-saying-layoffs-so-soon-after-merger-2000749847",
-          "published": "2026-10-26T23:00:49+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "canceled-final-footage-leaks-online-showing",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Canceled Transformers Game Footage Leaks Online, Showing Never-Before-Seen Final Trailer",
-      "topics": [
-        "storie"
-      ],
-      "age_hours": 11.3,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "IGN"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "leaks footage transformers trailer showing",
-      "related": [
-        {
-          "headline": "32-year-old \"ellipsoid\" horror game Ecstatica gets a PC re-release today, showing us an alternative timeline in which polygonal 3D never became dominant",
-          "shared_terms": [
-            "showing"
-          ]
-        },
-        {
-          "headline": "The Composer In Talks To Write Mass Effect 5’s Music Posts 22 Minutes Of Unused Songs So Good I’m Bummed Out Again",
-          "shared_terms": [
-            "canceled"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "Canceled Transformers Game Footage Leaks Online, Showing Never-Before-Seen Final Trailer",
-          "url": "https://www.ign.com/articles/canceled-transformers-game-footage-leaks-online-showing-never-before-seen-final-trailer",
-          "published": "2026-10-26T23:04:32+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "arisen-dark-dogma-dragon-live-notes",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Dragon's Dogma 2: Dark Arisen Title Update 4.1 Now Live On Switch 2, Here Are The Full Patch Notes",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 6.9,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "dragon dogma arisen title notes",
-      "related": [],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Dragon's Dogma 2: Dark Arisen Title Update 4.1 Now Live On Switch 2, Here Are The Full Patch Notes",
-          "url": "https://www.nintendolife.com/news/2026/10/dragons-dogma-2-dark-arisen-title-update-4-1-now-live-on-switch-2-here-are-the-full-patch-notes",
-          "published": "2026-10-27T03:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "brand-hori-legend-products-switch-unveils",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Hori Unveils Brand New Legend Of Zelda Switch 2 Products",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 4.9,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "products hori unveils legend zelda",
-      "related": [
-        {
-          "headline": "Leaked video shows hundreds, possibly thousands of brand-new RTX 5090s being dismantled for AI server usage in Chinese factory",
-          "shared_terms": [
-            "brand"
-          ]
-        },
-        {
-          "headline": "Zelda: Ocarina Of Time Midnight Launches Announced For Nintendo New York And San Francisco Stores",
-          "shared_terms": [
-            "zelda"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Hori Unveils Brand New Legend Of Zelda Switch 2 Products",
-          "url": "https://www.nintendolife.com/news/2026/10/hori-unveils-brand-new-legend-of-zelda-switch-2-products",
-          "published": "2026-10-27T05:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "2027-immediately-offline-pokemon-sales-suspended",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Pokemon Unite to Be Taken Offline in 2027, In-Game Sales Suspended Immediately",
-      "topics": [
-        "pokemon"
+        "playstation"
       ],
       "age_hours": 1.2,
       "signals": {
@@ -812,7 +596,7 @@
         "weak_format": false
       },
       "coverage_en": [
-        "IGN"
+        "Push Square"
       ],
       "coverage_it": [],
       "youtube": {
@@ -821,14 +605,195 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "suspended immediately offline taken pokemon",
+      "youtube_query": "bringing guys frog fall platformer",
+      "related": [
+        {
+          "headline": "Former Halo boss is now in charge of Wizards of the Coast and Hasbro Digital Games",
+          "shared_terms": [
+            "former"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Former Fall Guys Devs Are Bringing Their Co-Op Platformer Frog Sqwad to PS5 Today",
+          "url": "https://www.pushsquare.com/news/2026/10/former-fall-guys-devs-are-bringing-their-co-op-platformer-frog-sqwad-to-ps5-today",
+          "published": "2026-10-28T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2000s-classic-cult-definitive-divisive-gothic",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "18 Years Later, The Definitive 2000s Gothic Cult Classic is Still a Divisive Guilty Pleasure",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 1.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "pleasure divisive gothic 2000s guilty",
+      "related": [
+        {
+          "headline": "Capcom's Classic Console Games Could Be Coming to PS5",
+          "shared_terms": [
+            "classic"
+          ]
+        },
+        {
+          "headline": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
+          "shared_terms": [
+            "later"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "18 Years Later, The Definitive 2000s Gothic Cult Classic is Still a Divisive Guilty Pleasure",
+          "url": "https://www.polygon.com/vampire-knight-gothic-romance-guilty-pleasure/",
+          "published": "2026-10-28T10:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "power-reboot-rings-season-showrunner-soft",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "The Rings of Power Season 3 Will Be a Soft Reboot, Showrunner Says",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 0.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "soft reboot showrunner power season",
       "related": [],
       "articles": [
         {
-          "source": "IGN",
-          "title": "Pokemon Unite to Be Taken Offline in 2027, In-Game Sales Suspended Immediately",
-          "url": "https://www.ign.com/articles/pokemon-unite-offline-2027-in-game-sales-suspended",
-          "published": "2026-10-27T09:12:38+00:00"
+          "source": "Polygon",
+          "title": "The Rings of Power Season 3 Will Be a Soft Reboot, Showrunner Says",
+          "url": "https://www.polygon.com/rings-of-power-season-3-soft-reboot-new-direction/",
+          "published": "2026-10-28T10:25:25+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "apparently-cards-cart-key-nintendo-policy",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Nintendo Apparently Has A Policy To Prevent Game-Key Cards Getting A Full-Cart Reprint",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 0.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "policy apparently reprint cards cart",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Nintendo Apparently Has A Policy To Prevent Game-Key Cards Getting A Full-Cart Reprint",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-apparently-has-a-policy-to-prevent-game-key-cards-getting-a-full-cart-reprint",
+          "published": "2026-10-28T10:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "console-emblem-fire-fortune-pokopia-pok-mon",
+      "score": 33.5,
+      "already_proposed": true,
+      "headline": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
+      "topics": [
+        "pokemon",
+        "nintendo"
+      ],
+      "age_hours": 4.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "fortune fire weave emblem shortlisted",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
+          "published": "2026-10-28T07:00:00+00:00"
         }
       ]
     }
