@@ -1,346 +1,307 @@
 {
-  "generated_at": "2026-10-28T11:14:03.894185+00:00",
+  "generated_at": "2026-10-29T11:26:24.981208+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "battle-despite-diatriba-later-legal-legale",
-      "score": 38.6,
+      "story_id": "2026-announcement-announcements-biggest-date-dates",
+      "score": 44.5,
       "already_proposed": false,
-      "headline": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
+      "headline": "Nintendo Indie World October 2026 Showcase: All The Biggest Announcements",
       "topics": [
-        "pokemon",
         "nintendo",
-        "easter_egg"
+        "xbox",
+        "indie"
       ],
-      "age_hours": 0.9,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.22,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 1.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "IGN",
-        "Polygon"
-      ],
-      "coverage_it": [
-        "Multiplayer"
-      ],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "nintendo switch palworld pocketpair battle",
-      "related": [
-        {
-          "headline": "Pocketpair CEO on keeping the indie spirit alive after Palworld’s success",
-          "shared_terms": [
-            "love"
-          ]
-        },
-        {
-          "headline": "18 Years Later, The Definitive 2000s Gothic Cult Classic is Still a Divisive Guilty Pleasure",
-          "shared_terms": [
-            "later"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
-          "url": "https://www.ign.com/articles/pocketpair-wants-palworld-on-nintendo-switch-2-pokemon",
-          "published": "2026-10-28T10:17:33+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "Pocketpair vorrebbe portare Palworld su Switch 2, nonostante la diatriba legale con Nintendo",
-          "url": "https://multiplayer.it/notizie/pocketpair-vorrebbe-portare-palworld-su-switch-2-nonostante-la-diatriba-legale-con-nintendo.html",
-          "published": "2026-10-28T10:27:07+00:00"
-        },
-        {
-          "source": "Polygon",
-          "title": "25 Years Later, Nintendo’s Spookiest Game Is a Must-Play On Switch 2",
-          "url": "https://www.polygon.com/luigis-mansion-gamecube-retrospective-switch-online/",
-          "published": "2026-10-28T11:00:18+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "affected-breaking-company-cyberattack-data-deliverance",
-      "score": 37.5,
-      "already_proposed": false,
-      "headline": "Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'",
-      "topics": [],
-      "age_hours": 23.3,
+      "age_hours": 21.7,
       "signals": {
         "coverage": 1.0,
         "velocity": 0.0,
         "it_gap": 1.0,
-        "yt_demand": 0.12,
+        "yt_demand": 0.1,
         "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 0.37,
+        "topic": 1.0,
+        "freshness": 0.46,
         "weak_format": false
       },
       "coverage_en": [
-        "Eurogamer",
-        "GamesIndustry",
+        "GameSpot",
+        "IGN",
         "Kotaku",
-        "PC Gamer",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 2,
-        "median_views": 1413,
-        "top_views": 1413,
-        "top_title": "Kingdom Come: Deliverance 2 Studio Hit by Cyberattack"
-      },
-      "youtube_query": "cyberattack warhorse kingdom hit serious",
-      "related": [
-        {
-          "headline": "Virtue and a Sledgehammer review – a haunting sci-fi drama about breaking walls, AI faces, and your heart",
-          "shared_terms": [
-            "breaking"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "Kingdom Come, Lord of the Rings studio Warhorse 'hit by a cyberattack'",
-          "url": "https://www.pcgamer.com/gaming-industry/kingdom-come-lord-of-the-rings-studio-warhorse-hit-by-a-cyberattack/",
-          "published": "2026-10-27T11:55:58+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "Lord Of The Rings RPG Game Studio Hit By ‘Serious’ Cyberattack As The Internet Continues Breaking",
-          "url": "https://kotaku.com/lord-of-the-rings-rpg-game-studio-hit-by-serious-cyberattack-as-the-internet-continues-breaking-2000750137",
-          "published": "2026-10-27T12:46:45+00:00"
-        },
-        {
-          "source": "GamesIndustry",
-          "title": "Warhorse Studios hit by cyberattack, company systems and data affected",
-          "url": "https://www.gamesindustry.biz/warhorse-studios-hit-by-cyberattack-company-systems-and-data-affected",
-          "published": "2026-10-27T14:20:32+00:00"
-        },
-        {
-          "source": "Push Square",
-          "title": "Kingdom Come Developer Warhorse Studios Suffers Cyberattack, Full Impact Unknown",
-          "url": "https://www.pushsquare.com/news/2026/10/kingdom-come-developer-warhorse-studios-suffers-cyberattack-full-impact-unknown",
-          "published": "2026-10-27T15:00:00+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "\"This is a serious incident\" - Kingdom Come: Deliverance developer Warhorse suffers cyberattack",
-          "url": "https://www.eurogamer.net/warhorse-cyberattack-kingdom-come-deliverance",
-          "published": "2026-10-27T16:53:16+00:00"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "title": "\"This is a serious incident\": Kingdom Come: Deliverance 2 devs Warhorse hit by cyberattack targeting their systems and data",
-          "url": "https://www.rockpapershotgun.com/this-is-a-serious-incident-kingdom-come-deliverance-2-devs-warhorse-hit-by-cyberattack-targeting-their-systems-and-data",
-          "published": "2026-10-27T17:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "auto-employees-grand-hold-launches-locked",
-      "score": 37.3,
-      "already_proposed": false,
-      "headline": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
-      "topics": [
-        "aaa",
-        "industria"
-      ],
-      "age_hours": 15.7,
-      "signals": {
-        "coverage": 0.5,
-        "velocity": 0.67,
-        "it_gap": 0.5,
-        "yt_demand": 0.01,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.8,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "Game Developer",
-        "PC Gamer"
+        "Nintendo Life",
+        "Pure Xbox",
+        "VGC"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 10,
-        "median_views": 7,
-        "top_views": 491,
-        "top_title": "Rockstar paid Miami $975,000. $1 million needed a vote 🌴"
+        "median_views": 953,
+        "top_views": 988713,
+        "top_title": "Indie World Showcase 10.28.2026"
       },
-      "youtube_query": "theft grand auto vote rockstar",
+      "youtube_query": "indie nintendo world october showcase",
       "related": [
         {
-          "headline": "Nintendo’s next Indie World showcase will take place this week",
+          "headline": "Nintendo’s Indie World Presentation Was Pretty Packed For A Short Show",
           "shared_terms": [
-            "place"
+            "presentation"
           ]
         },
         {
-          "headline": "Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6",
+          "headline": "12 Upcoming Xbox Titles Get New Announcements Following Latest Nintendo Event",
           "shared_terms": [
-            "month"
+            "announcements"
+          ]
+        },
+        {
+          "headline": "GTA 6, il nuovo gameplay spunta in South Park (ed è assurdo)",
+          "shared_terms": [
+            "shown"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Game Developer",
-          "title": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
-          "url": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
-          "published": "2026-10-27T19:34:13+00:00"
+          "source": "GameSpot",
+          "title": "Nintendo Indie World October 2026 Showcase: All The Biggest Announcements",
+          "url": "https://www.gamespot.com/articles/nintendo-indie-world-october-2026-showcase-all-the-biggest-announcements/",
+          "published": "2026-10-28T13:45:00+00:00"
         },
         {
-          "source": "PC Gamer",
-          "title": "Rockstar will hold union vote right on top of Grand Theft Auto 6 release",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-will-hold-union-vote-right-on-top-of-grand-theft-auto-6-release/",
-          "published": "2026-10-27T22:23:23+00:00"
+          "source": "IGN",
+          "title": "Everything We Saw at Nintendo Indie World Showcase October 2026, Including Witchbrook Release Date",
+          "url": "https://www.ign.com/articles/nintendo-indie-world-showcase-october-2026-switch-2",
+          "published": "2026-10-28T14:22:18+00:00"
         },
         {
-          "source": "Eurogamer",
-          "title": "Rockstar Games employees have locked in a union vote next month, and it'll take place over Grand Theft Auto 6's release window",
-          "url": "https://www.eurogamer.net/rockstar-union-vote-november",
-          "published": "2026-10-28T09:49:39+00:00"
+          "source": "VGC",
+          "title": "Here’s all 23 games shown during Nintendo’s latest Indie World presentation",
+          "url": "https://www.videogameschronicle.com/news/heres-all-23-games-shown-during-nintendos-latest-indie-world-presentation/",
+          "published": "2026-10-28T14:36:27+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Everything We Saw At Nintendo’s October Indie World Showcase",
+          "url": "https://kotaku.com/nintendo-indie-world-stream-switch-2-recap-release-date-2000750498",
+          "published": "2026-10-28T14:40:18+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Nintendo Indie World’s Weirdest Game Got Me To Relax",
+          "url": "https://www.gamespot.com/articles/nintendo-indie-worlds-weirdest-game-got-me-to-relax/",
+          "published": "2026-10-28T15:24:40+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Every October 2026 Nintendo Indie World Game You Can Play Right Now",
+          "url": "https://www.gamespot.com/articles/every-october-2026-nintendo-indie-world-game-you-can-play-right-now/",
+          "published": "2026-10-28T15:28:35+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Three Xbox Game Pass Release Dates Revealed At October's Nintendo Indie World Showcase",
+          "url": "https://www.purexbox.com/news/2026/10/three-xbox-game-pass-release-dates-revealed-at-octobers-nintendo-indie-world-showcase",
+          "published": "2026-10-28T15:30:00+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Guide: Nintendo Indie World Showcase October 2026: Every Announcement, Game Reveal & Trailer",
+          "url": "https://www.nintendolife.com/guides/nintendo-indie-world-showcase-october-2026-every-announcement-game-reveal-and-trailer",
+          "published": "2026-10-28T16:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "210gb-download-gta-massive-playstation",
-      "score": 35.1,
+      "story_id": "2026-announced-classics-dead-deckbuilder-essential",
+      "score": 43.2,
       "already_proposed": false,
-      "headline": "GTA 6 is a massive 210GB download on PlayStation 5",
+      "headline": "PS Plus Essential Games for November 2026 Announced",
       "topics": [
         "playstation",
         "aaa"
       ],
-      "age_hours": 2.0,
+      "age_hours": 19.9,
       "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.06,
+        "coverage": 0.83,
+        "velocity": 0.0,
+        "it_gap": 0.83,
+        "yt_demand": 0.31,
         "yt_room": 0.0,
         "topic": 0.67,
-        "freshness": 1.0,
+        "freshness": 0.56,
         "weak_format": false
       },
       "coverage_en": [
-        "Eurogamer"
+        "Eurogamer",
+        "GameSpot",
+        "Kotaku",
+        "Push Square",
+        "VGC"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 10,
-        "median_views": 421,
-        "top_views": 1349,
-        "top_title": "GTA 6's Download Size Is INSANE 🫢 #shorts #gta6 #gtavi"
+        "median_views": 9405,
+        "top_views": 52364,
+        "top_title": "PlayStation Plus Monthly Games - November 2026"
       },
-      "youtube_query": "210gb download massive playstation gta",
-      "related": [],
+      "youtube_query": "november plus 2026 essential monthly",
+      "related": [
+        {
+          "headline": "Glowing Reviews For The Wolf Among Us Remastered Prove The Game Is Still A Banger",
+          "shared_terms": [
+            "remastered"
+          ]
+        },
+        {
+          "headline": "Taito Milestones 5 Announced For Switch, Here Are The Games Included",
+          "shared_terms": [
+            "announced"
+          ]
+        }
+      ],
       "articles": [
         {
+          "source": "Push Square",
+          "title": "PS Plus Essential Games for November 2026 Announced",
+          "url": "https://www.pushsquare.com/news/2026/10/ps-plus-essential-games-for-november-2026-announced",
+          "published": "2026-10-28T15:35:00+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "PlayStation Plus Free Games For November 2026 Revealed",
+          "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-november-2026/",
+          "published": "2026-10-28T15:38:07+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "November’s three ‘free’ PS Plus Essential monthly games include Dead Island 2 and Tomb Raider 4-6 Remastered",
+          "url": "https://www.videogameschronicle.com/news/novembers-three-free-ps-plus-essential-monthly-games-include-dead-island-2-and-tomb-raider-4-6-remastered/",
+          "published": "2026-10-28T15:41:07+00:00"
+        },
+        {
           "source": "Eurogamer",
-          "title": "GTA 6 is a massive 210GB download on PlayStation 5",
-          "url": "https://www.eurogamer.net/gta-6-ps5-download-size",
-          "published": "2026-10-28T09:14:37+00:00"
+          "title": "Here are our PS Plus monthly games for November 2026",
+          "url": "https://www.eurogamer.net/playstation-plus-monthly-games-november-2026",
+          "published": "2026-10-28T16:27:41+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "PlayStation Plus Free Games For November 2026 Include Tomb Raider Classics And A Superb Deckbuilder",
+          "url": "https://kotaku.com/playstation-plus-free-games-for-november-2026-include-tomb-raider-classics-and-a-superb-deckbuilder-2000750542",
+          "published": "2026-10-28T17:10:02+00:00"
         }
       ]
     },
     {
-      "story_id": "certain-december-discord-discoverable-forums-google",
-      "score": 33.5,
+      "story_id": "anti-arma-assurdo-behaviour-cacca-cane",
+      "score": 40.4,
       "already_proposed": false,
-      "headline": "Discord Messages in Discoverable Servers Will Soon Be Searchable on Google",
-      "topics": [],
-      "age_hours": 15.5,
+      "headline": "GTA 6, il nuovo gameplay spunta in South Park (ed è assurdo)",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 3.4,
       "signals": {
-        "coverage": 0.5,
-        "velocity": 0.67,
-        "it_gap": 0.5,
-        "yt_demand": 0.03,
+        "coverage": 0.67,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.12,
         "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 0.8,
+        "topic": 0.33,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
+        "Eurogamer",
         "IGN",
-        "PC Gamer",
-        "Rock Paper Shotgun"
+        "Polygon",
+        "VGC"
       ],
-      "coverage_it": [],
+      "coverage_it": [
+        "Multiplayer",
+        "SpazioGames"
+      ],
       "youtube": {
-        "video_count": 6,
-        "median_views": 110,
-        "top_views": 15490,
-        "top_title": "Discord Just Made a HUGE Mistake"
+        "video_count": 10,
+        "median_views": 1334,
+        "top_views": 111296,
+        "top_title": "South Park Leaked New GTA 6 Gameplay"
       },
-      "youtube_query": "searchable discord messages servers discoverable",
+      "youtube_query": "park south gta gameplay dog",
       "related": [
         {
-          "headline": "Call Of Duty Lifetime Revenue Surges Past $40 Billion, Microsoft Confirms",
+          "headline": "Interior Night studio head Charu Desodt appointed chair of BAFTA Games Committee",
           "shared_terms": [
-            "making"
+            "head"
           ]
         },
         {
-          "headline": "Phantom Blade Zero is asking players to free up 300GB of space for pre-loading, double its actual 145GB file size",
+          "headline": "PS5 Exclusive Astro Bot Outfit Revealed for Rayman Remake",
           "shared_terms": [
-            "question"
+            "exclusive"
+          ]
+        },
+        {
+          "headline": "Nintendo Indie World October 2026 Showcase: All The Biggest Announcements",
+          "shared_terms": [
+            "shown"
           ]
         }
       ],
       "articles": [
         {
+          "source": "SpazioGames",
+          "title": "GTA 6, il nuovo gameplay spunta in South Park (ed è assurdo)",
+          "url": "https://www.spaziogames.it/notizie/gta-6-il-nuovo-gameplay-spunta-in-south-park-ed-e-assurdo",
+          "published": "2026-10-29T08:01:00+00:00"
+        },
+        {
           "source": "IGN",
-          "title": "Discord Messages in Discoverable Servers Will Soon Be Searchable on Google",
-          "url": "https://www.ign.com/articles/discord-messages-in-discoverable-servers-will-soon-be-searchable-on-google",
-          "published": "2026-10-27T19:41:58+00:00"
+          "title": "GTA 6 Dog Poop Gameplay Premieres in the Latest Episode of South Park",
+          "url": "https://www.ign.com/articles/gta-6-dog-poop-gameplay-premieres-in-the-latest-episode-of-south-park",
+          "published": "2026-10-29T09:40:44+00:00"
         },
         {
-          "source": "Rock Paper Shotgun",
-          "title": "Discord know they replaced forums, so they're making your messages in discoverable servers searchable, which immediately raises one question: what about AI?",
-          "url": "https://www.rockpapershotgun.com/discord-know-they-replaced-forums-so-theyre-making-your-messages-in-discoverable-servers-searchable-which-immediately-raises-one-question-what-about-ai",
-          "published": "2026-10-27T21:28:32+00:00"
+          "source": "Eurogamer",
+          "title": "Dog poo, anti-social behaviour, and Jason: Our latest look at GTA 6 gameplay comes from an episode of South Park",
+          "url": "https://www.eurogamer.net/dog-poo-anti-social-behaviour-and-jason-our-latest-look-at-gta-6-gameplay-comes-from-the-latest-episode-of-south-park",
+          "published": "2026-10-29T09:55:54+00:00"
         },
         {
-          "source": "PC Gamer",
-          "title": "Messages in certain large public Discord servers will be searchable on the web after December",
-          "url": "https://www.pcgamer.com/software/platforms/messages-in-certain-large-public-discord-servers-will-be-searchable-on-the-web-after-december/",
-          "published": "2026-10-27T21:53:41+00:00"
+          "source": "VGC",
+          "title": "The latest episode of South Park features exclusive GTA 6 footage where a man is hit in the head with dog poo",
+          "url": "https://www.videogameschronicle.com/news/the-latest-episode-of-south-park-features-exclusive-gta-6-footage-where-a-man-is-hit-in-the-head-with-dog-poo/",
+          "published": "2026-10-29T10:01:24+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "New GTA 6 Gameplay Was Shown on South Park, and It Totally Stinks",
+          "url": "https://www.polygon.com/gta-6-dog-poop-gameplay-south-park/",
+          "published": "2026-10-29T10:31:55+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "La cacca di cane può diventare un'arma in GTA 6, lo ha mostrato South Park con un video gameplay",
+          "url": "https://multiplayer.it/notizie/cacca-di-cane-puo-arma-in-gta-6-south-park-video-gameplay.html",
+          "published": "2026-10-29T11:10:58+00:00"
         }
       ]
     },
     {
-      "story_id": "chiang-company-coo-helen-leaves-months",
-      "score": 31.7,
+      "story_id": "acquisition-bioware-cancellation-closure-coffin-effect",
+      "score": 36.9,
       "already_proposed": false,
-      "headline": "First Xbox COO Helen Chiang leaves company after three months in the role",
+      "headline": "BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation",
       "topics": [
-        "xbox"
+        "industria"
       ],
-      "age_hours": 1.0,
+      "age_hours": 10.7,
       "signals": {
-        "coverage": 0.17,
+        "coverage": 0.33,
         "velocity": 1.0,
-        "it_gap": 0.17,
+        "it_gap": 0.33,
         "yt_demand": 0.02,
         "yt_room": 0.0,
         "topic": 0.33,
@@ -348,99 +309,385 @@
         "weak_format": false
       },
       "coverage_en": [
-        "GamesIndustry"
+        "IGN",
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 6,
+        "median_views": 27,
+        "top_views": 1345,
+        "top_title": "EA Just Killed the Studio Behind Mass Effect"
+      },
+      "youtube_query": "founder bioware mass effect studio",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation",
+          "url": "https://www.ign.com/articles/bioware-co-founder-speaks-out-on-studio-closure-mass-effect-cancellation",
+          "published": "2026-10-29T00:42:20+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "BioWare Co-Founder Says EA’s Private Equity Acquisition Was ‘Final Nail In The Coffin’ For The Mass Effect Studio",
+          "url": "https://kotaku.com/bioware-co-founder-says-eas-acquisition-was-final-nail-in-the-coffin-for-the-mass-effect-studio-2000750626",
+          "published": "2026-10-29T00:43:49+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2027-cozy-date-decade-delayed-delivery",
+      "score": 36.6,
+      "already_proposed": false,
+      "headline": "Wonderful Wizard RPG 'Witchbrook' Finally Has A Switch Release Date",
+      "topics": [
+        "nintendo",
+        "playstation"
+      ],
+      "age_hours": 20.9,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.0,
+        "it_gap": 0.83,
+        "yt_demand": 0.07,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.51,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "Kotaku",
+        "Nintendo Life",
+        "PC Gamer",
+        "Push Square"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 7,
-        "median_views": 33,
-        "top_views": 72749,
-        "top_title": "Xbox’s First COO Is Already Gone - Inside Games Daily"
+        "median_views": 432,
+        "top_views": 7976,
+        "top_title": "Witchbrook FINALLY Has a Release Date... But Can It Deliver?"
       },
-      "youtube_query": "leaves chiang role months helen",
-      "related": [],
+      "youtube_query": "witchbrook release finally date stardew",
+      "related": [
+        {
+          "headline": "Backrooms Director Reacts To Rumors That He’s Making A Portal Movie",
+          "shared_terms": [
+            "making"
+          ]
+        },
+        {
+          "headline": "As No Man's Sky arrives on mobile, Hello Games celebrates with a spooky update for all that includes delivery missions and \"seamless\" interstellar travel",
+          "shared_terms": [
+            "delivery"
+          ]
+        },
+        {
+          "headline": "PS5 Revives Retro Transparent Hardware with 3 New Gorgeous Accessory Colours",
+          "shared_terms": [
+            "gorgeous"
+          ]
+        }
+      ],
       "articles": [
         {
-          "source": "GamesIndustry",
-          "title": "First Xbox COO Helen Chiang leaves company after three months in the role",
-          "url": "https://www.gamesindustry.biz/first-xbox-coo-helen-chiang-leaves-company-after-three-months-in-the-role",
-          "published": "2026-10-28T10:15:53+00:00"
+          "source": "Nintendo Life",
+          "title": "Wonderful Wizard RPG 'Witchbrook' Finally Has A Switch Release Date",
+          "url": "https://www.nintendolife.com/news/2026/10/wonderful-wizard-rpg-witchbrook-finally-has-a-switch-release-date",
+          "published": "2026-10-28T14:35:00+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Witchbrook Is Stardew Valley Meets Kiki’s Delivery Service, And It Finally Has A Release Date",
+          "url": "https://www.gamespot.com/articles/witchbrook-is-stardew-valley-meets-kikis-delivery-service-and-it-finally-has-a-release-date/",
+          "published": "2026-10-28T15:17:07+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Nearly a Decade in the Making, Magical Life Sim Witchbrook Finally Has a PS5 Release Date",
+          "url": "https://www.pushsquare.com/news/2026/10/nearly-a-decade-in-the-making-magical-life-sim-witchbrook-finally-has-a-ps5-release-date",
+          "published": "2026-10-28T17:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Witchbrook is delayed again, now set for release in 2027",
+          "url": "https://www.pcgamer.com/games/rpg/witchbrook-is-delayed-again-now-set-for-release-in-2027/",
+          "published": "2026-10-28T18:28:34+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Gorgeous Stardew Valley With Magic Cozy Sim Witchbrook Finally Has A Release Date After 10 Years Of Waiting",
+          "url": "https://kotaku.com/after-10-years-of-teasing-witchbrook-finally-has-a-release-date-2000750543",
+          "published": "2026-10-28T19:00:10+00:00"
         }
       ]
     },
     {
-      "story_id": "based-devs-during-gta-historic-hold",
-      "score": 31.5,
+      "story_id": "asha-available-consoles-continue-demand-dip",
+      "score": 36.4,
       "already_proposed": false,
-      "headline": "Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6",
+      "headline": "Asha Sharma Insists There's 'More Demand Than Consoles Available' as Xbox Hardware Sales Continue to Plummet",
       "topics": [
-        "aaa",
-        "industria"
+        "xbox"
       ],
-      "age_hours": 17.1,
+      "age_hours": 0.6,
       "signals": {
-        "coverage": 0.5,
-        "velocity": 0.33,
-        "it_gap": 0.5,
-        "yt_demand": 0.01,
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.71,
+        "topic": 0.33,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "IGN",
-        "Kotaku",
-        "Rock Paper Shotgun"
+        "Eurogamer",
+        "IGN"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 10,
-        "median_views": 6,
-        "top_views": 135,
-        "top_title": "GTA 6 Devs Will Vote on a Union During Launch Week (GTA VI)"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "vote union rockstar gta during",
+      "youtube_query": "sharma consoles asha sales demand",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Asha Sharma Insists There's 'More Demand Than Consoles Available' as Xbox Hardware Sales Continue to Plummet",
+          "url": "https://www.ign.com/articles/asha-sharma-insists-theres-more-demand-than-consoles-available-as-xbox-hardware-sales-continue-to-plummet",
+          "published": "2026-10-29T10:47:42+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Xbox leader Asha Sharma says there's \"more demand than consoles available\" as Xbox hardware sales dip by 14%",
+          "url": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
+          "published": "2026-10-29T11:21:44+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "aberrant-among-analisi-answers-avuto-axes",
+      "score": 35.5,
+      "already_proposed": false,
+      "headline": "Feature: How Difficult Is Phantom Blade Zero?",
+      "topics": [
+        "playstation",
+        "pc_gaming",
+        "steam"
+      ],
+      "age_hours": 16.9,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.95,
+        "it_gap": 0.0,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.73,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN",
+        "PC Gamer",
+        "Push Square"
+      ],
+      "coverage_it": [
+        "Everyeye",
+        "Gamesurf",
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 264,
+        "top_views": 1369,
+        "top_title": "Bai Chilian Boss Fight + Cutscenes (No Commentary) | Phantom Blade Zero"
+      },
+      "youtube_query": "zero blade phantom find beat",
       "related": [
         {
-          "headline": "Rockstar Games workers to vote on unionization right as Grand Theft Auto VI launches",
+          "headline": "Minecraft Has Been Updated To Ver. 26.60 On Switch 2, Here Are The Full Patch Notes",
           "shared_terms": [
-            "month"
+            "minecraft"
           ]
         },
         {
-          "headline": "GTA 6 Developers Are About To Do Something Historic",
+          "headline": "\"We basically rewrote the entire State of Decay game\": Undead Labs spent years trying to make State of Decay 3 into a full-blown zombie apocalypse MMO",
           "shared_terms": [
-            "historic"
+            "spent"
+          ]
+        },
+        {
+          "headline": "Glowing Reviews For The Wolf Among Us Remastered Prove The Game Is Still A Banger",
+          "shared_terms": [
+            "among"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Kotaku",
-          "title": "Rockstar Games Devs In The UK Will Hold A Union Vote During The Launch Of GTA 6",
-          "url": "https://kotaku.com/rockstar-games-devs-in-the-uk-will-hold-a-union-vote-during-the-launch-of-gta-6-2000750216",
-          "published": "2026-10-27T18:05:51+00:00"
+          "source": "Push Square",
+          "title": "Feature: How Difficult Is Phantom Blade Zero?",
+          "url": "https://www.pushsquare.com/features/how-difficult-is-phantom-blade-zero",
+          "published": "2026-10-28T18:30:00+00:00"
         },
         {
-          "source": "Rock Paper Shotgun",
-          "title": "UK-based Rockstar devs will be putting their union recognition to a vote during GTA 6's launch next month",
-          "url": "https://www.rockpapershotgun.com/uk-based-rockstar-devs-will-be-putting-their-union-recognition-to-a-vote-during-gta-6s-launch-next-month",
-          "published": "2026-10-27T18:37:53+00:00"
+          "source": "Multiplayer",
+          "title": "Come gira Phantom Blade Zero su PS5 e PS5 Pro? Ecco l'analisi di Digital Foundry",
+          "url": "https://multiplayer.it/notizie/phantom-blade-zero-e-stato-analizzato-da-digital-foundry-ed-ecco-come-andata.html",
+          "published": "2026-10-28T19:22:26+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "IGN Cina contro gli sviluppatori Occidentali: hanno avuto una bella lezione da Phantom Blade Zero",
+          "url": "https://www.everyeye.it/notizie/ign-cina-sviluppatori-occidentali-bella-lezione-phantom-blade-zero-908578.html",
+          "published": "2026-10-28T22:27:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "All Quickhand's Request treasure locations in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-quickhand-request-treasure-locations-relics/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "How to complete Four Fierce Axes in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-four-fierce-axes-walkthrough/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "How to beat the Aberrant Three-Faced Puppet in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-aberrant-three-faced-puppet-triple-threat/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "All Honor Among Thieves answers in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-honor-among-thieves-answers-gentle-thief-questions/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "I've spent over 50 hours in Phantom Blade Zero—here are my top 20 tips to conquer the Wulin",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-tips/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "How to upgrade medicine in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-upgrade-medicine/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Where to find the Mandate Encampment Outer Gate Key in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-mandate-encampment-key-location/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "How to enter the Order's underground tavern in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-enter-orders-underground-tavern/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "How to fix the Illusory Pipa in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-illusory-pipa-walkthrough/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "How to enter the Crimson Manor in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-crimson-manor-enter/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Where to find the Flesh Lily in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-flesh-lily-location/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Where to find the Backstreet Courtyard Key in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-backstreet-courtyard-key-location/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Phantom Blade Zero's best weapon might just be the first one you get",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-best-weapon-jagged-steel/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "How to complete Whence the Weeping in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-whence-the-weeping-walkthrough/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Where to find The Banyan's Heart in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-banyans-heart-location/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "How to beat Hua, Deadly Betrothed in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-hua-boss-guide/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "How to beat The Gold-Masked One in Phantom Blade Zero",
+          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-gold-masked-one-boss-guide/",
+          "published": "2026-10-29T02:00:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "NVIDIA RTX Remix 1.6 porta il path tracing in Minecraft: Phantom Blade Zero debutta con DLSS 4.5",
+          "url": "https://multiplayer.it/notizie/nvidia-rtx-remix-16-porta-il-path-tracing-in-minecraft-phantom-blade-zero-debutta-con-dlss-45.html",
+          "published": "2026-10-29T08:50:39+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games",
+          "url": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
+          "published": "2026-10-29T09:26:46+00:00"
         },
         {
           "source": "IGN",
-          "title": "Rockstar Games Staff Set for 'Historic' Union Vote at the Same Time GTA 6 Comes Out",
-          "url": "https://www.ign.com/articles/rockstar-games-staff-set-for-historic-union-vote-at-the-same-time-gta-6-comes-out",
-          "published": "2026-10-28T10:06:45+00:00"
+          "title": "Phantom Blade Zero Gets Off to a Flyer on Steam, Behind Only Counter-Strike 2 as the Most-Played Game",
+          "url": "https://www.ign.com/articles/phantom-blade-zero-beats-modern-warfare-4-steam-top-selling",
+          "published": "2026-10-29T10:10:54+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Phantom Blade Zero è disponibile e sta facendo dei numeri eccellenti su Steam",
+          "url": "https://multiplayer.it/notizie/phantom-blade-zero-e-disponibile-e-sta-facendo-dei-numeri-eccellenti-su-steam.html",
+          "published": "2026-10-29T11:00:59+00:00"
+        },
+        {
+          "source": "Gamesurf",
+          "title": "Phantom Blade Zero esce oggi: il lancio del gioco kungfupunk",
+          "url": "https://www.gamesurf.it/news/phantom-blade-zero-uscita-lancio-gioco-kungfupunk-cina",
+          "published": "2026-10-29T11:22:08+00:00"
         }
       ]
     },
     {
-      "story_id": "gta-guide-preload-release-start-times",
-      "score": 31.3,
+      "story_id": "almost-combined-contains-gta-interiors-magnitude",
+      "score": 33.7,
       "already_proposed": false,
-      "headline": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?",
+      "headline": "GTA 6's map is almost as big as Rockstar's last 3 games combined, contains 'an order of magnitude more interiors'",
       "topics": [
         "aaa"
       ],
@@ -449,149 +696,103 @@
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "yt_demand": 0.1,
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Push Square"
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 981,
+        "top_views": 981,
+        "top_title": "Grand Theft Auto 6 Map Rivals Rockstar's Last 3 Games Combined"
+      },
+      "youtube_query": "magnitude interiors combined contains order",
+      "related": [
+        {
+          "headline": "\"Taking several years with several thousand people… It's almost impossible\" – PlayStation creator Ken Kutaragi on the current state of gaming",
+          "shared_terms": [
+            "almost"
+          ]
+        },
+        {
+          "headline": "Feature: How Difficult Is Phantom Blade Zero?",
+          "shared_terms": [
+            "order"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "GTA 6's map is almost as big as Rockstar's last 3 games combined, contains 'an order of magnitude more interiors'",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-map-is-almost-as-big-as-rockstars-last-3-games-combined-contains-an-order-of-magnitude-more-interiors/",
+          "published": "2026-10-29T00:17:15+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "000-600-account-animations-demographic-gta",
+      "score": 33.7,
+      "already_proposed": false,
+      "headline": "GTA 6's NPCs have about 600,000 animations, as well as personality traits that take 'demographic and professional' variables into account",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 10.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.1,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 2,
-        "median_views": 2,
-        "top_views": 2,
-        "top_title": "GTA 6 Preload: Digital vs Physical (Don’t Get Stuck)"
+        "median_views": 976,
+        "top_views": 976,
+        "top_title": "GTA 6 Gives NPCs 600,000 Animations and Dynamic Personalities"
       },
-      "youtube_query": "preload times start guide release",
-      "related": [
-        {
-          "headline": "Guide: Every Nintendo Switch Online Game Boy (Color) Game Ranked",
-          "shared_terms": [
-            "guide"
-          ]
-        },
-        {
-          "headline": "5 Adult Fairy Tale Books That Are Magical From Start to Finish",
-          "shared_terms": [
-            "start"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Push Square",
-          "title": "Guide: GTA 6 Release Times and Preload: When Can You Start Playing?",
-          "url": "https://www.pushsquare.com/guides/gta-6-release-times-and-preload-when-can-you-start-playing",
-          "published": "2026-10-28T00:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "cyberpunk-edgerunners-isn-state-switch-update",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2 Right Now",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 10.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "isn edgerunners state cyberpunk update",
-      "related": [
-        {
-          "headline": "Life is Strange makers Don't Nod face layoffs and possible insolvency, French workers union STJV state",
-          "shared_terms": [
-            "state"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Cyberpunk's Edgerunners 2 Update Isn't In The Best State On Switch 2 Right Now",
-          "url": "https://www.nintendolife.com/news/2026/10/cyberpunks-edgerunners-2-update-isnt-in-the-best-state-on-switch-2-right-now",
-          "published": "2026-10-28T01:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "mcu-oldest-return-surprise-villain-visionquest",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "The MCU's Oldest Villain Just Made a Surprise Return in 'VisionQuest'",
-      "topics": [
-        "feel_good"
-      ],
-      "age_hours": 8.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "visionquest villain oldest mcu surprise",
+      "youtube_query": "npcs demographic variables personality animations",
       "related": [],
       "articles": [
         {
-          "source": "Polygon",
-          "title": "The MCU's Oldest Villain Just Made a Surprise Return in 'VisionQuest'",
-          "url": "https://www.polygon.com/visionquest-mcus-oldest-iron-man-villain-raza-hamidmi-al-wazar/",
-          "published": "2026-10-28T02:46:17+00:00"
+          "source": "PC Gamer",
+          "title": "GTA 6's NPCs have about 600,000 animations, as well as personality traits that take 'demographic and professional' variables into account",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-npcs-have-about-600-000-animations-as-well-as-personality-traits-that-take-demographic-and-professional-variables-into-account/",
+          "published": "2026-10-29T00:52:16+00:00"
         }
       ]
     },
     {
-      "story_id": "bringing-devs-fall-former-frog-guys",
-      "score": 31.2,
+      "story_id": "details-gameplay-gta-launch-nears-ps5",
+      "score": 33.5,
       "already_proposed": false,
-      "headline": "Former Fall Guys Devs Are Bringing Their Co-Op Platformer Frog Sqwad to PS5 Today",
+      "headline": "New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears",
       "topics": [
-        "playstation"
+        "playstation",
+        "aaa"
       ],
-      "age_hours": 1.2,
+      "age_hours": 1.9,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
+        "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -605,167 +806,27 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "bringing guys frog fall platformer",
-      "related": [
-        {
-          "headline": "Former Halo boss is now in charge of Wizards of the Coast and Hasbro Digital Games",
-          "shared_terms": [
-            "former"
-          ]
-        }
-      ],
+      "youtube_query": "nears screenshots launch details revealed",
+      "related": [],
       "articles": [
         {
           "source": "Push Square",
-          "title": "Former Fall Guys Devs Are Bringing Their Co-Op Platformer Frog Sqwad to PS5 Today",
-          "url": "https://www.pushsquare.com/news/2026/10/former-fall-guys-devs-are-bringing-their-co-op-platformer-frog-sqwad-to-ps5-today",
-          "published": "2026-10-28T10:00:00+00:00"
+          "title": "New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears",
+          "url": "https://www.pushsquare.com/news/2026/10/new-gta-6-gameplay-screenshots-details-revealed-as-ps5-launch-nears",
+          "published": "2026-10-29T09:30:00+00:00"
         }
       ]
     },
     {
-      "story_id": "2000s-classic-cult-definitive-divisive-gothic",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "18 Years Later, The Definitive 2000s Gothic Cult Classic is Still a Divisive Guilty Pleasure",
-      "topics": [
-        "easter_egg"
-      ],
-      "age_hours": 1.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "pleasure divisive gothic 2000s guilty",
-      "related": [
-        {
-          "headline": "Capcom's Classic Console Games Could Be Coming to PS5",
-          "shared_terms": [
-            "classic"
-          ]
-        },
-        {
-          "headline": "Pocketpair Would Love to Release Palworld on Nintendo Switch 2, Despite Pokémon Legal Battle",
-          "shared_terms": [
-            "later"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "18 Years Later, The Definitive 2000s Gothic Cult Classic is Still a Divisive Guilty Pleasure",
-          "url": "https://www.polygon.com/vampire-knight-gothic-romance-guilty-pleasure/",
-          "published": "2026-10-28T10:00:17+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "power-reboot-rings-season-showrunner-soft",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "The Rings of Power Season 3 Will Be a Soft Reboot, Showrunner Says",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 0.8,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "soft reboot showrunner power season",
-      "related": [],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "The Rings of Power Season 3 Will Be a Soft Reboot, Showrunner Says",
-          "url": "https://www.polygon.com/rings-of-power-season-3-soft-reboot-new-direction/",
-          "published": "2026-10-28T10:25:25+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "apparently-cards-cart-key-nintendo-policy",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Nintendo Apparently Has A Policy To Prevent Game-Key Cards Getting A Full-Cart Reprint",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 0.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "policy apparently reprint cards cart",
-      "related": [],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Nintendo Apparently Has A Policy To Prevent Game-Key Cards Getting A Full-Cart Reprint",
-          "url": "https://www.nintendolife.com/news/2026/10/nintendo-apparently-has-a-policy-to-prevent-game-key-cards-getting-a-full-cart-reprint",
-          "published": "2026-10-28T10:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "console-emblem-fire-fortune-pokopia-pok-mon",
+      "story_id": "distribution-gift-latest-legends-live-mystery",
       "score": 33.5,
-      "already_proposed": true,
-      "headline": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
+      "already_proposed": false,
+      "headline": "Pokémon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live",
       "topics": [
         "pokemon",
-        "nintendo"
+        "feel_good"
       ],
-      "age_hours": 4.2,
+      "age_hours": 0.7,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -786,14 +847,250 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "fortune fire weave emblem shortlisted",
-      "related": [],
+      "youtube_query": "mystery gift distribution live legends",
+      "related": [
+        {
+          "headline": "Proton's Black Friday sale is already live: ditch Google with up to 70% off its VPN and 50% off unlimited plan",
+          "shared_terms": [
+            "live"
+          ]
+        }
+      ],
       "articles": [
         {
           "source": "Nintendo Life",
-          "title": "Pokémon Pokopia And Fire Emblem: Fortune's Weave Shortlisted For 'Console Game Of The Year'",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-pokopia-and-fire-emblem-fortunes-weave-shortlisted-for-console-game-of-the-year",
-          "published": "2026-10-28T07:00:00+00:00"
+          "title": "Pokémon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live",
+          "url": "https://www.nintendolife.com/news/2026/10/pokemon-legends-z-as-latest-mystery-gift-distribution-is-now-live",
+          "published": "2026-10-29T10:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "announced-included-milestones-switch-taito",
+      "score": 32.9,
+      "already_proposed": false,
+      "headline": "Taito Milestones 5 Announced For Switch, Here Are The Games Included",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 8.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.06,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 415,
+        "top_views": 415,
+        "top_title": "タイトーマイルストーン5発表❗️3画面版サーガイア収録❗️【Switch/レトロゲーム】"
+      },
+      "youtube_query": "taito milestones included announced switch",
+      "related": [
+        {
+          "headline": "PS Plus Essential Games for November 2026 Announced",
+          "shared_terms": [
+            "announced"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Taito Milestones 5 Announced For Switch, Here Are The Games Included",
+          "url": "https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included",
+          "published": "2026-10-29T02:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "addresses-admits-cloning-copyable-developers-don",
+      "score": 32.3,
+      "already_proposed": false,
+      "headline": "Valve Knows Steam Next Fest Has An AI Slop Problem, And It’s Looking For Solutions",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 22.9,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.0,
+        "it_gap": 0.83,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.39,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Game Developer",
+        "GameSpot",
+        "Kotaku",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 60,
+        "top_views": 60,
+        "top_title": "Steam AI Clones Threaten Indies ⚠️"
+      },
+      "youtube_query": "valve problem steam slop cloning",
+      "related": [
+        {
+          "headline": "Valve has ‘a significant number’ working on Steam’s visibility dilemma but says it won’t gatekeep games made with AI",
+          "shared_terms": [
+            "number",
+            "significant"
+          ]
+        },
+        {
+          "headline": "\"Taking several years with several thousand people… It's almost impossible\" – PlayStation creator Ken Kutaragi on the current state of gaming",
+          "shared_terms": [
+            "people"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "Valve Knows Steam Next Fest Has An AI Slop Problem, And It’s Looking For Solutions",
+          "url": "https://www.gamespot.com/articles/valve-knows-steam-next-fest-has-an-ai-slop-problem-and-its-looking-for-solutions/",
+          "published": "2026-10-28T12:30:33+00:00"
+        },
+        {
+          "source": "Game Developer",
+          "title": "Valve weighs in on Next Fest AI cloning phenomenon",
+          "url": "https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem",
+          "published": "2026-10-28T14:42:21+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Valve addresses Steam's AI game cloning problem - by suggesting developers make their games less copyable",
+          "url": "https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response",
+          "published": "2026-10-28T14:43:53+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Valve Knows Steam Has An AI Slop Problem And Has A ‘Significant Number Of People’ Working On It",
+          "url": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
+          "published": "2026-10-28T15:30:21+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Valve admits Steam has an AI slop and cloning problem, but says 'we don't want to be gatekeepers telling developers which tools they should or shouldn't use'",
+          "url": "https://www.pcgamer.com/software/ai/valve-admits-steam-has-an-ai-slop-and-cloning-problem-but-says-we-dont-want-to-be-gatekeepers-telling-developers-which-tools-they-should-or-shouldnt-use/",
+          "published": "2026-10-28T17:37:24+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "329-400-auction-breaking-donkey-kong",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Original Donkey Kong Poster That Was Nearly Thrown Away Sold at Auction for Record-Breaking $329,400",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 11.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "sold thrown 400 329 poster",
+      "related": [
+        {
+          "headline": "Blizzard Sparks World of Warcraft Fan Backlash for 'Breaking Promise' Over Housing Microtransactions",
+          "shared_terms": [
+            "breaking"
+          ]
+        },
+        {
+          "headline": "An Iconic Piece Of Gaming Artwork Just Fetched A Princely Sum At Auction",
+          "shared_terms": [
+            "auction"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Original Donkey Kong Poster That Was Nearly Thrown Away Sold at Auction for Record-Breaking $329,400",
+          "url": "https://www.ign.com/articles/original-donkey-kong-poster-that-was-nearly-thrown-away-sold-at-auction-for-record-breaking-329400",
+          "published": "2026-10-29T00:21:11+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "built-everest-expectations-feel-gta-impossible",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "'I feel like we've built a pyramid on Everest' says Rockstar of GTA 6 meeting impossible expectations",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 10.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "meeting expectations built everest pyramid",
+      "related": [
+        {
+          "headline": "7 Fire Emblem: Three Houses Replay Ideas to Make Garreg Mach Feel Brand New",
+          "shared_terms": [
+            "feel"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "'I feel like we've built a pyramid on Everest' says Rockstar of GTA 6 meeting impossible expectations",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-feel-like-weve-built-a-pyramid-on-everest-says-rockstar-of-gta-6-meeting-impossible-expectations/",
+          "published": "2026-10-29T00:35:52+00:00"
         }
       ]
     }
