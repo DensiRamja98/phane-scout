@@ -1,791 +1,271 @@
 {
-  "generated_at": "2026-10-29T11:26:24.981208+00:00",
+  "generated_at": "2026-10-30T11:18:27.141207+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "2026-announcement-announcements-biggest-date-dates",
-      "score": 44.5,
+      "story_id": "charting-crimson-desert-dlc-huge-ps5",
+      "score": 57.5,
       "already_proposed": false,
-      "headline": "Nintendo Indie World October 2026 Showcase: All The Biggest Announcements",
+      "headline": "How to start the Charting the Unknown DLC in Crimson Desert",
       "topics": [
-        "nintendo",
-        "xbox",
-        "indie"
+        "playstation"
       ],
-      "age_hours": 21.7,
+      "age_hours": 13.3,
       "signals": {
-        "coverage": 1.0,
-        "velocity": 0.0,
-        "it_gap": 1.0,
-        "yt_demand": 0.1,
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.85,
         "yt_room": 0.0,
-        "topic": 1.0,
-        "freshness": 0.46,
+        "topic": 0.33,
+        "freshness": 0.93,
         "weak_format": false
       },
       "coverage_en": [
-        "GameSpot",
-        "IGN",
-        "Kotaku",
-        "Nintendo Life",
-        "Pure Xbox",
-        "VGC"
+        "PC Gamer",
+        "Push Square"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 10,
-        "median_views": 953,
-        "top_views": 988713,
-        "top_title": "Indie World Showcase 10.28.2026"
+        "median_views": 72809,
+        "top_views": 230489,
+        "top_title": "Charting the Unknown | Crimson Desert DLC Official Launch Trailer"
       },
-      "youtube_query": "indie nintendo world october showcase",
+      "youtube_query": "desert charting unknown crimson dlc",
       "related": [
         {
-          "headline": "Nintendo’s Indie World Presentation Was Pretty Packed For A Short Show",
+          "headline": "With a cracking new tactical feature and dedicated UI \"strike team\", Football Manager 27 is a huge step back towards FM's best form",
           "shared_terms": [
-            "presentation"
+            "huge"
           ]
         },
         {
-          "headline": "12 Upcoming Xbox Titles Get New Announcements Following Latest Nintendo Event",
+          "headline": "After the rough start that was last year's entry, Football Manager 27 is looking to bring you in with a few free days of play before the game's even out",
           "shared_terms": [
-            "announcements"
-          ]
-        },
-        {
-          "headline": "GTA 6, il nuovo gameplay spunta in South Park (ed è assurdo)",
-          "shared_terms": [
-            "shown"
+            "start"
           ]
         }
       ],
       "articles": [
         {
-          "source": "GameSpot",
-          "title": "Nintendo Indie World October 2026 Showcase: All The Biggest Announcements",
-          "url": "https://www.gamespot.com/articles/nintendo-indie-world-october-2026-showcase-all-the-biggest-announcements/",
-          "published": "2026-10-28T13:45:00+00:00"
+          "source": "PC Gamer",
+          "title": "How to start the Charting the Unknown DLC in Crimson Desert",
+          "url": "https://www.pcgamer.com/games/rpg/crimson-desert-how-to-start-charting-the-unknown-dlc/",
+          "published": "2026-10-29T22:00:00+00:00"
         },
         {
-          "source": "IGN",
-          "title": "Everything We Saw at Nintendo Indie World Showcase October 2026, Including Witchbrook Release Date",
-          "url": "https://www.ign.com/articles/nintendo-indie-world-showcase-october-2026-switch-2",
-          "published": "2026-10-28T14:22:18+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "Here’s all 23 games shown during Nintendo’s latest Indie World presentation",
-          "url": "https://www.videogameschronicle.com/news/heres-all-23-games-shown-during-nintendos-latest-indie-world-presentation/",
-          "published": "2026-10-28T14:36:27+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "Everything We Saw At Nintendo’s October Indie World Showcase",
-          "url": "https://kotaku.com/nintendo-indie-world-stream-switch-2-recap-release-date-2000750498",
-          "published": "2026-10-28T14:40:18+00:00"
-        },
-        {
-          "source": "GameSpot",
-          "title": "Nintendo Indie World’s Weirdest Game Got Me To Relax",
-          "url": "https://www.gamespot.com/articles/nintendo-indie-worlds-weirdest-game-got-me-to-relax/",
-          "published": "2026-10-28T15:24:40+00:00"
-        },
-        {
-          "source": "GameSpot",
-          "title": "Every October 2026 Nintendo Indie World Game You Can Play Right Now",
-          "url": "https://www.gamespot.com/articles/every-october-2026-nintendo-indie-world-game-you-can-play-right-now/",
-          "published": "2026-10-28T15:28:35+00:00"
-        },
-        {
-          "source": "Pure Xbox",
-          "title": "Three Xbox Game Pass Release Dates Revealed At October's Nintendo Indie World Showcase",
-          "url": "https://www.purexbox.com/news/2026/10/three-xbox-game-pass-release-dates-revealed-at-octobers-nintendo-indie-world-showcase",
-          "published": "2026-10-28T15:30:00+00:00"
-        },
-        {
-          "source": "Nintendo Life",
-          "title": "Guide: Nintendo Indie World Showcase October 2026: Every Announcement, Game Reveal & Trailer",
-          "url": "https://www.nintendolife.com/guides/nintendo-indie-world-showcase-october-2026-every-announcement-game-reveal-and-trailer",
-          "published": "2026-10-28T16:00:00+00:00"
+          "source": "Push Square",
+          "title": "Crimson Desert's Huge DLC, Charting the Unknown, Out Now on PS5",
+          "url": "https://www.pushsquare.com/news/2026/10/crimson-deserts-huge-dlc-charting-the-unknown-out-now-on-ps5",
+          "published": "2026-10-29T22:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "2026-announced-classics-dead-deckbuilder-essential",
-      "score": 43.2,
+      "story_id": "ahead-announced-announcement-bethesda-details-eight",
+      "score": 45.6,
       "already_proposed": false,
-      "headline": "PS Plus Essential Games for November 2026 Announced",
+      "headline": "The Elder Scrolls 6 Title Reportedly Being Revealed Next Month, Just About Eight Years After It Was Announced",
       "topics": [
-        "playstation",
-        "aaa"
+        "xbox"
       ],
-      "age_hours": 19.9,
+      "age_hours": 19.0,
       "signals": {
-        "coverage": 0.83,
-        "velocity": 0.0,
-        "it_gap": 0.83,
-        "yt_demand": 0.31,
+        "coverage": 1.0,
+        "velocity": 0.33,
+        "it_gap": 1.0,
+        "yt_demand": 0.07,
         "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.56,
+        "topic": 0.33,
+        "freshness": 0.61,
         "weak_format": false
       },
       "coverage_en": [
         "Eurogamer",
-        "GameSpot",
+        "IGN",
         "Kotaku",
+        "Nintendo Life",
         "Push Square",
         "VGC"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 10,
-        "median_views": 9405,
-        "top_views": 52364,
-        "top_title": "PlayStation Plus Monthly Games - November 2026"
+        "video_count": 7,
+        "median_views": 456,
+        "top_views": 5797,
+        "top_title": "The Elder Scrolls VI is reportedly called Sentinel"
       },
-      "youtube_query": "november plus 2026 essential monthly",
+      "youtube_query": "elder scrolls reportedly month sentinel",
       "related": [
         {
-          "headline": "Glowing Reviews For The Wolf Among Us Remastered Prove The Game Is Still A Banger",
+          "headline": "Report: The Elder Scrolls 6 Gets Named Ahead Of Xbox Announcement, Plus Extra Details",
           "shared_terms": [
-            "remastered"
+            "name",
+            "named"
           ]
         },
         {
-          "headline": "Taito Milestones 5 Announced For Switch, Here Are The Games Included",
+          "headline": "Destiny 2 unvaulting update: It sure sounds like the original Destiny is finally coming to PC",
           "shared_terms": [
-            "announced"
+            "ready"
+          ]
+        },
+        {
+          "headline": "Capcom Isn't Scrapping Resident Evil, but Mainline Story Could Wrap Up in Next 10 Years According to Producer",
+          "shared_terms": [
+            "story"
           ]
         }
       ],
       "articles": [
+        {
+          "source": "Kotaku",
+          "title": "The Elder Scrolls 6 Title Reportedly Being Revealed Next Month, Just About Eight Years After It Was Announced",
+          "url": "https://kotaku.com/the-elder-scrolls-6-title-reportedly-being-revealed-next-month-just-about-eight-years-after-it-was-announced-2000751058",
+          "published": "2026-10-29T16:16:12+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Xbox is reportedly set to officially name The Elder Scrolls 6: Sentinel as soon as next month",
+          "url": "https://www.videogameschronicle.com/news/xbox-is-reportedly-set-to-officially-name-the-elder-scrolls-6-sentinel-as-soon-as-next-month/",
+          "published": "2026-10-29T16:32:57+00:00"
+        },
         {
           "source": "Push Square",
-          "title": "PS Plus Essential Games for November 2026 Announced",
-          "url": "https://www.pushsquare.com/news/2026/10/ps-plus-essential-games-for-november-2026-announced",
-          "published": "2026-10-28T15:35:00+00:00"
-        },
-        {
-          "source": "GameSpot",
-          "title": "PlayStation Plus Free Games For November 2026 Revealed",
-          "url": "https://www.gamespot.com/articles/playstation-plus-essential-free-games-for-november-2026/",
-          "published": "2026-10-28T15:38:07+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "November’s three ‘free’ PS Plus Essential monthly games include Dead Island 2 and Tomb Raider 4-6 Remastered",
-          "url": "https://www.videogameschronicle.com/news/novembers-three-free-ps-plus-essential-monthly-games-include-dead-island-2-and-tomb-raider-4-6-remastered/",
-          "published": "2026-10-28T15:41:07+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Here are our PS Plus monthly games for November 2026",
-          "url": "https://www.eurogamer.net/playstation-plus-monthly-games-november-2026",
-          "published": "2026-10-28T16:27:41+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "PlayStation Plus Free Games For November 2026 Include Tomb Raider Classics And A Superb Deckbuilder",
-          "url": "https://kotaku.com/playstation-plus-free-games-for-november-2026-include-tomb-raider-classics-and-a-superb-deckbuilder-2000750542",
-          "published": "2026-10-28T17:10:02+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "anti-arma-assurdo-behaviour-cacca-cane",
-      "score": 40.4,
-      "already_proposed": false,
-      "headline": "GTA 6, il nuovo gameplay spunta in South Park (ed è assurdo)",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 3.4,
-      "signals": {
-        "coverage": 0.67,
-        "velocity": 1.0,
-        "it_gap": 0.22,
-        "yt_demand": 0.12,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "IGN",
-        "Polygon",
-        "VGC"
-      ],
-      "coverage_it": [
-        "Multiplayer",
-        "SpazioGames"
-      ],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 1334,
-        "top_views": 111296,
-        "top_title": "South Park Leaked New GTA 6 Gameplay"
-      },
-      "youtube_query": "park south gta gameplay dog",
-      "related": [
-        {
-          "headline": "Interior Night studio head Charu Desodt appointed chair of BAFTA Games Committee",
-          "shared_terms": [
-            "head"
-          ]
-        },
-        {
-          "headline": "PS5 Exclusive Astro Bot Outfit Revealed for Rayman Remake",
-          "shared_terms": [
-            "exclusive"
-          ]
-        },
-        {
-          "headline": "Nintendo Indie World October 2026 Showcase: All The Biggest Announcements",
-          "shared_terms": [
-            "shown"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "SpazioGames",
-          "title": "GTA 6, il nuovo gameplay spunta in South Park (ed è assurdo)",
-          "url": "https://www.spaziogames.it/notizie/gta-6-il-nuovo-gameplay-spunta-in-south-park-ed-e-assurdo",
-          "published": "2026-10-29T08:01:00+00:00"
+          "title": "Rumour: The Elder Scrolls 6 Reveal as Soon as Next Month, Named Sentinel",
+          "url": "https://www.pushsquare.com/news/2026/10/rumour-the-elder-scrolls-6-reveal-as-soon-as-next-month-named-sentinel",
+          "published": "2026-10-29T16:45:00+00:00"
         },
         {
           "source": "IGN",
-          "title": "GTA 6 Dog Poop Gameplay Premieres in the Latest Episode of South Park",
-          "url": "https://www.ign.com/articles/gta-6-dog-poop-gameplay-premieres-in-the-latest-episode-of-south-park",
-          "published": "2026-10-29T09:40:44+00:00"
+          "title": "The Elder Scrolls 6 Is Reportedly Subtitled 'Sentinel,' New Story Details Revealed Ahead of Rumored Announcement",
+          "url": "https://www.ign.com/articles/the-elder-scrolls-6-is-reportedly-subtitled-sentinel-new-story-details-revealed-ahead-of-rumored-announcement",
+          "published": "2026-10-29T16:56:40+00:00"
         },
-        {
-          "source": "Eurogamer",
-          "title": "Dog poo, anti-social behaviour, and Jason: Our latest look at GTA 6 gameplay comes from an episode of South Park",
-          "url": "https://www.eurogamer.net/dog-poo-anti-social-behaviour-and-jason-our-latest-look-at-gta-6-gameplay-comes-from-the-latest-episode-of-south-park",
-          "published": "2026-10-29T09:55:54+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "The latest episode of South Park features exclusive GTA 6 footage where a man is hit in the head with dog poo",
-          "url": "https://www.videogameschronicle.com/news/the-latest-episode-of-south-park-features-exclusive-gta-6-footage-where-a-man-is-hit-in-the-head-with-dog-poo/",
-          "published": "2026-10-29T10:01:24+00:00"
-        },
-        {
-          "source": "Polygon",
-          "title": "New GTA 6 Gameplay Was Shown on South Park, and It Totally Stinks",
-          "url": "https://www.polygon.com/gta-6-dog-poop-gameplay-south-park/",
-          "published": "2026-10-29T10:31:55+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "La cacca di cane può diventare un'arma in GTA 6, lo ha mostrato South Park con un video gameplay",
-          "url": "https://multiplayer.it/notizie/cacca-di-cane-puo-arma-in-gta-6-south-park-video-gameplay.html",
-          "published": "2026-10-29T11:10:58+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "acquisition-bioware-cancellation-closure-coffin-effect",
-      "score": 36.9,
-      "already_proposed": false,
-      "headline": "BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation",
-      "topics": [
-        "industria"
-      ],
-      "age_hours": 10.7,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.02,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "IGN",
-        "Kotaku"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 6,
-        "median_views": 27,
-        "top_views": 1345,
-        "top_title": "EA Just Killed the Studio Behind Mass Effect"
-      },
-      "youtube_query": "founder bioware mass effect studio",
-      "related": [],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "BioWare Co-Founder Speaks Out on Studio Closure, Mass Effect Cancellation",
-          "url": "https://www.ign.com/articles/bioware-co-founder-speaks-out-on-studio-closure-mass-effect-cancellation",
-          "published": "2026-10-29T00:42:20+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "BioWare Co-Founder Says EA’s Private Equity Acquisition Was ‘Final Nail In The Coffin’ For The Mass Effect Studio",
-          "url": "https://kotaku.com/bioware-co-founder-says-eas-acquisition-was-final-nail-in-the-coffin-for-the-mass-effect-studio-2000750626",
-          "published": "2026-10-29T00:43:49+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "2027-cozy-date-decade-delayed-delivery",
-      "score": 36.6,
-      "already_proposed": false,
-      "headline": "Wonderful Wizard RPG 'Witchbrook' Finally Has A Switch Release Date",
-      "topics": [
-        "nintendo",
-        "playstation"
-      ],
-      "age_hours": 20.9,
-      "signals": {
-        "coverage": 0.83,
-        "velocity": 0.0,
-        "it_gap": 0.83,
-        "yt_demand": 0.07,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.51,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GameSpot",
-        "Kotaku",
-        "Nintendo Life",
-        "PC Gamer",
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 7,
-        "median_views": 432,
-        "top_views": 7976,
-        "top_title": "Witchbrook FINALLY Has a Release Date... But Can It Deliver?"
-      },
-      "youtube_query": "witchbrook release finally date stardew",
-      "related": [
-        {
-          "headline": "Backrooms Director Reacts To Rumors That He’s Making A Portal Movie",
-          "shared_terms": [
-            "making"
-          ]
-        },
-        {
-          "headline": "As No Man's Sky arrives on mobile, Hello Games celebrates with a spooky update for all that includes delivery missions and \"seamless\" interstellar travel",
-          "shared_terms": [
-            "delivery"
-          ]
-        },
-        {
-          "headline": "PS5 Revives Retro Transparent Hardware with 3 New Gorgeous Accessory Colours",
-          "shared_terms": [
-            "gorgeous"
-          ]
-        }
-      ],
-      "articles": [
         {
           "source": "Nintendo Life",
-          "title": "Wonderful Wizard RPG 'Witchbrook' Finally Has A Switch Release Date",
-          "url": "https://www.nintendolife.com/news/2026/10/wonderful-wizard-rpg-witchbrook-finally-has-a-switch-release-date",
-          "published": "2026-10-28T14:35:00+00:00"
+          "title": "Bethesda Is Reportedly Ready To Reveal The Official Title Of The Elder Scrolls VI",
+          "url": "https://www.nintendolife.com/news/2026/10/bethesda-is-reportedly-ready-to-reveal-the-official-title-of-the-elder-scrolls-vi",
+          "published": "2026-10-30T04:35:00+00:00"
         },
         {
-          "source": "GameSpot",
-          "title": "Witchbrook Is Stardew Valley Meets Kiki’s Delivery Service, And It Finally Has A Release Date",
-          "url": "https://www.gamespot.com/articles/witchbrook-is-stardew-valley-meets-kikis-delivery-service-and-it-finally-has-a-release-date/",
-          "published": "2026-10-28T15:17:07+00:00"
-        },
-        {
-          "source": "Push Square",
-          "title": "Nearly a Decade in the Making, Magical Life Sim Witchbrook Finally Has a PS5 Release Date",
-          "url": "https://www.pushsquare.com/news/2026/10/nearly-a-decade-in-the-making-magical-life-sim-witchbrook-finally-has-a-ps5-release-date",
-          "published": "2026-10-28T17:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "Witchbrook is delayed again, now set for release in 2027",
-          "url": "https://www.pcgamer.com/games/rpg/witchbrook-is-delayed-again-now-set-for-release-in-2027/",
-          "published": "2026-10-28T18:28:34+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "Gorgeous Stardew Valley With Magic Cozy Sim Witchbrook Finally Has A Release Date After 10 Years Of Waiting",
-          "url": "https://kotaku.com/after-10-years-of-teasing-witchbrook-finally-has-a-release-date-2000750543",
-          "published": "2026-10-28T19:00:10+00:00"
+          "source": "Eurogamer",
+          "title": "Bethesda reportedly revealing The Elder Scrolls 6 next month, and we may know what its subtitle is going to be",
+          "url": "https://www.eurogamer.net/elder-scrolls-6-reportedly-revealed-november",
+          "published": "2026-10-30T10:52:39+00:00"
         }
       ]
     },
     {
-      "story_id": "asha-available-consoles-continue-demand-dip",
-      "score": 36.4,
+      "story_id": "ace-annunciato-disponibile-enhanced-fate-gi",
+      "score": 35.6,
       "already_proposed": false,
-      "headline": "Asha Sharma Insists There's 'More Demand Than Consoles Available' as Xbox Hardware Sales Continue to Plummet",
+      "headline": "Resonance of Fate Enhanced Remaster è stato annunciato da tri-Ace ed è già disponibile",
       "topics": [
-        "xbox"
+        "playstation",
+        "aaa"
       ],
-      "age_hours": 0.6,
+      "age_hours": 3.0,
       "signals": {
-        "coverage": 0.33,
+        "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.13,
         "yt_room": 0.0,
-        "topic": 0.33,
+        "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Eurogamer",
-        "IGN"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "sharma consoles asha sales demand",
-      "related": [],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "Asha Sharma Insists There's 'More Demand Than Consoles Available' as Xbox Hardware Sales Continue to Plummet",
-          "url": "https://www.ign.com/articles/asha-sharma-insists-theres-more-demand-than-consoles-available-as-xbox-hardware-sales-continue-to-plummet",
-          "published": "2026-10-29T10:47:42+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Xbox leader Asha Sharma says there's \"more demand than consoles available\" as Xbox hardware sales dip by 14%",
-          "url": "https://www.eurogamer.net/xbox-financials-sales-asha-sharma-microsoft",
-          "published": "2026-10-29T11:21:44+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "aberrant-among-analisi-answers-avuto-axes",
-      "score": 35.5,
-      "already_proposed": false,
-      "headline": "Feature: How Difficult Is Phantom Blade Zero?",
-      "topics": [
-        "playstation",
-        "pc_gaming",
-        "steam"
-      ],
-      "age_hours": 16.9,
-      "signals": {
-        "coverage": 0.67,
-        "velocity": 0.95,
-        "it_gap": 0.0,
-        "yt_demand": 0.05,
-        "yt_room": 0.0,
-        "topic": 1.0,
-        "freshness": 0.73,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "IGN",
-        "PC Gamer",
         "Push Square"
       ],
       "coverage_it": [
-        "Everyeye",
-        "Gamesurf",
         "Multiplayer"
       ],
       "youtube": {
-        "video_count": 10,
-        "median_views": 264,
-        "top_views": 1369,
-        "top_title": "Bai Chilian Boss Fight + Cutscenes (No Commentary) | Phantom Blade Zero"
+        "video_count": 3,
+        "median_views": 1692,
+        "top_views": 1740,
+        "top_title": "RESONANCE OF FATE / END OF ETERNITY ENHANCED REMASTER — Available Now!"
       },
-      "youtube_query": "zero blade phantom find beat",
+      "youtube_query": "enhanced remaster fate resonance tri",
       "related": [
         {
-          "headline": "Minecraft Has Been Updated To Ver. 26.60 On Switch 2, Here Are The Full Patch Notes",
+          "headline": "Ubisoft Is Pumping The Brakes On Assassin’s Creed Remakes For Now",
           "shared_terms": [
-            "minecraft"
-          ]
-        },
-        {
-          "headline": "\"We basically rewrote the entire State of Decay game\": Undead Labs spent years trying to make State of Decay 3 into a full-blown zombie apocalypse MMO",
-          "shared_terms": [
-            "spent"
-          ]
-        },
-        {
-          "headline": "Glowing Reviews For The Wolf Among Us Remastered Prove The Game Is Still A Banger",
-          "shared_terms": [
-            "among"
+            "annunciato"
           ]
         }
       ],
       "articles": [
         {
+          "source": "Multiplayer",
+          "title": "Resonance of Fate Enhanced Remaster è stato annunciato da tri-Ace ed è già disponibile",
+          "url": "https://multiplayer.it/notizie/resonance-of-fate-enhanced-remaster-e-stato-annunciato-da-tri-ace-ed-e-gia-disponibile.html",
+          "published": "2026-10-30T08:20:08+00:00"
+        },
+        {
           "source": "Push Square",
-          "title": "Feature: How Difficult Is Phantom Blade Zero?",
-          "url": "https://www.pushsquare.com/features/how-difficult-is-phantom-blade-zero",
-          "published": "2026-10-28T18:30:00+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "Come gira Phantom Blade Zero su PS5 e PS5 Pro? Ecco l'analisi di Digital Foundry",
-          "url": "https://multiplayer.it/notizie/phantom-blade-zero-e-stato-analizzato-da-digital-foundry-ed-ecco-come-andata.html",
-          "published": "2026-10-28T19:22:26+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "IGN Cina contro gli sviluppatori Occidentali: hanno avuto una bella lezione da Phantom Blade Zero",
-          "url": "https://www.everyeye.it/notizie/ign-cina-sviluppatori-occidentali-bella-lezione-phantom-blade-zero-908578.html",
-          "published": "2026-10-28T22:27:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "All Quickhand's Request treasure locations in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-quickhand-request-treasure-locations-relics/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "How to complete Four Fierce Axes in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-four-fierce-axes-walkthrough/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "How to beat the Aberrant Three-Faced Puppet in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-aberrant-three-faced-puppet-triple-threat/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "All Honor Among Thieves answers in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-honor-among-thieves-answers-gentle-thief-questions/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "I've spent over 50 hours in Phantom Blade Zero—here are my top 20 tips to conquer the Wulin",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-tips/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "How to upgrade medicine in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-upgrade-medicine/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "Where to find the Mandate Encampment Outer Gate Key in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-mandate-encampment-key-location/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "How to enter the Order's underground tavern in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-enter-orders-underground-tavern/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "How to fix the Illusory Pipa in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-illusory-pipa-walkthrough/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "How to enter the Crimson Manor in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-crimson-manor-enter/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "Where to find the Flesh Lily in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-flesh-lily-location/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "Where to find the Backstreet Courtyard Key in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-backstreet-courtyard-key-location/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "Phantom Blade Zero's best weapon might just be the first one you get",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-best-weapon-jagged-steel/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "How to complete Whence the Weeping in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-whence-the-weeping-walkthrough/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "Where to find The Banyan's Heart in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-banyans-heart-location/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "How to beat Hua, Deadly Betrothed in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-hua-boss-guide/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "How to beat The Gold-Masked One in Phantom Blade Zero",
-          "url": "https://www.pcgamer.com/games/action/phantom-blade-zero-gold-masked-one-boss-guide/",
-          "published": "2026-10-29T02:00:00+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "NVIDIA RTX Remix 1.6 porta il path tracing in Minecraft: Phantom Blade Zero debutta con DLSS 4.5",
-          "url": "https://multiplayer.it/notizie/nvidia-rtx-remix-16-porta-il-path-tracing-in-minecraft-phantom-blade-zero-debutta-con-dlss-45.html",
-          "published": "2026-10-29T08:50:39+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "More Chinese success as Phantom Blade Zero enjoys a big launch and becomes one of Steam's most played games",
-          "url": "https://www.eurogamer.net/phantom-blade-zero-steam-launch-1-million-sales",
-          "published": "2026-10-29T09:26:46+00:00"
-        },
+          "title": "Quirky RPG Resonance of Fate Is Back with an 'Enhanced Remaster' for PS5",
+          "url": "https://www.pushsquare.com/news/2026/10/quirky-rpg-resonance-of-fate-is-back-with-an-enhanced-remaster-for-ps5",
+          "published": "2026-10-30T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "breath-inspiration-john-legend-microsoft-purge",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "John Romero's Next Shooter Survived the Microsoft Purge, Now He's Taking Inspiration From The Legend of Zelda: Breath of the Wild",
+      "topics": [
+        "nintendo",
+        "xbox"
+      ],
+      "age_hours": 1.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "romero wild taking purge inspiration",
+      "related": [],
+      "articles": [
         {
           "source": "IGN",
-          "title": "Phantom Blade Zero Gets Off to a Flyer on Steam, Behind Only Counter-Strike 2 as the Most-Played Game",
-          "url": "https://www.ign.com/articles/phantom-blade-zero-beats-modern-warfare-4-steam-top-selling",
-          "published": "2026-10-29T10:10:54+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "Phantom Blade Zero è disponibile e sta facendo dei numeri eccellenti su Steam",
-          "url": "https://multiplayer.it/notizie/phantom-blade-zero-e-disponibile-e-sta-facendo-dei-numeri-eccellenti-su-steam.html",
-          "published": "2026-10-29T11:00:59+00:00"
-        },
-        {
-          "source": "Gamesurf",
-          "title": "Phantom Blade Zero esce oggi: il lancio del gioco kungfupunk",
-          "url": "https://www.gamesurf.it/news/phantom-blade-zero-uscita-lancio-gioco-kungfupunk-cina",
-          "published": "2026-10-29T11:22:08+00:00"
+          "title": "John Romero's Next Shooter Survived the Microsoft Purge, Now He's Taking Inspiration From The Legend of Zelda: Breath of the Wild",
+          "url": "https://www.ign.com/articles/john-romeros-next-shooter-survived-the-microsoft-purge-now-hes-taking-inspiration-from-the-legend-of-zelda-breath-of-the-wild",
+          "published": "2026-10-30T09:48:45+00:00"
         }
       ]
     },
     {
-      "story_id": "almost-combined-contains-gta-interiors-magnitude",
-      "score": 33.7,
-      "already_proposed": false,
-      "headline": "GTA 6's map is almost as big as Rockstar's last 3 games combined, contains 'an order of magnitude more interiors'",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 11.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.1,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 981,
-        "top_views": 981,
-        "top_title": "Grand Theft Auto 6 Map Rivals Rockstar's Last 3 Games Combined"
-      },
-      "youtube_query": "magnitude interiors combined contains order",
-      "related": [
-        {
-          "headline": "\"Taking several years with several thousand people… It's almost impossible\" – PlayStation creator Ken Kutaragi on the current state of gaming",
-          "shared_terms": [
-            "almost"
-          ]
-        },
-        {
-          "headline": "Feature: How Difficult Is Phantom Blade Zero?",
-          "shared_terms": [
-            "order"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "GTA 6's map is almost as big as Rockstar's last 3 games combined, contains 'an order of magnitude more interiors'",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-map-is-almost-as-big-as-rockstars-last-3-games-combined-contains-an-order-of-magnitude-more-interiors/",
-          "published": "2026-10-29T00:17:15+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "000-600-account-animations-demographic-gta",
-      "score": 33.7,
-      "already_proposed": false,
-      "headline": "GTA 6's NPCs have about 600,000 animations, as well as personality traits that take 'demographic and professional' variables into account",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 10.6,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.1,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 2,
-        "median_views": 976,
-        "top_views": 976,
-        "top_title": "GTA 6 Gives NPCs 600,000 Animations and Dynamic Personalities"
-      },
-      "youtube_query": "npcs demographic variables personality animations",
-      "related": [],
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "GTA 6's NPCs have about 600,000 animations, as well as personality traits that take 'demographic and professional' variables into account",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6s-npcs-have-about-600-000-animations-as-well-as-personality-traits-that-take-demographic-and-professional-variables-into-account/",
-          "published": "2026-10-29T00:52:16+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "details-gameplay-gta-launch-nears-ps5",
+      "story_id": "aonuma-chief-eiji-members-ocarina-original",
       "score": 33.5,
       "already_proposed": false,
-      "headline": "New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears",
+      "headline": "Zelda Chief Eiji Aonuma Says Some of the Younger Members of the Ocarina of Time Remake Team Had Never Played the Original Game — and That's a Good Thing",
       "topics": [
-        "playstation",
+        "nintendo",
         "aaa"
       ],
-      "age_hours": 1.9,
+      "age_hours": 1.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -797,7 +277,7 @@
         "weak_format": false
       },
       "coverage_en": [
-        "Push Square"
+        "IGN"
       ],
       "coverage_it": [],
       "youtube": {
@@ -806,27 +286,27 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "nears screenshots launch details revealed",
+      "youtube_query": "eiji younger aonuma members chief",
       "related": [],
       "articles": [
         {
-          "source": "Push Square",
-          "title": "New GTA 6 Gameplay, Screenshots, Details Revealed as PS5 Launch Nears",
-          "url": "https://www.pushsquare.com/news/2026/10/new-gta-6-gameplay-screenshots-details-revealed-as-ps5-launch-nears",
-          "published": "2026-10-29T09:30:00+00:00"
+          "source": "IGN",
+          "title": "Zelda Chief Eiji Aonuma Says Some of the Younger Members of the Ocarina of Time Remake Team Had Never Played the Original Game — and That's a Good Thing",
+          "url": "https://www.ign.com/articles/zelda-chief-eiji-aonuma-says-some-of-the-younger-members-of-the-ocarina-of-time-remake-team-had-never-played-the-original-game-and-thats-a-good-thing",
+          "published": "2026-10-30T10:14:57+00:00"
         }
       ]
     },
     {
-      "story_id": "distribution-gift-latest-legends-live-mystery",
-      "score": 33.5,
+      "story_id": "bethesda-castlevania-fans-oblivion-patrick-pays",
+      "score": 32.8,
       "already_proposed": false,
-      "headline": "Pokémon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live",
+      "headline": "Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games Like Castlevania",
       "topics": [
-        "pokemon",
+        "xbox",
         "feel_good"
       ],
-      "age_hours": 0.7,
+      "age_hours": 13.4,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -834,11 +314,11 @@
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
-        "freshness": 1.0,
+        "freshness": 0.92,
         "weak_format": false
       },
       "coverage_en": [
-        "Nintendo Life"
+        "IGN"
       ],
       "coverage_it": [],
       "youtube": {
@@ -847,162 +327,201 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "mystery gift distribution live legends",
+      "youtube_query": "role pays castlevania oblivion tribute",
       "related": [
         {
-          "headline": "Proton's Black Friday sale is already live: ditch Google with up to 70% off its VPN and 50% off unlimited plan",
+          "headline": "Mouthwashing is finally on consoles and Xbox Game Pass, and it's a Halloween must for horror fans",
           "shared_terms": [
-            "live"
+            "fans"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Nintendo Life",
-          "title": "Pokémon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live",
-          "url": "https://www.nintendolife.com/news/2026/10/pokemon-legends-z-as-latest-mystery-gift-distribution-is-now-live",
-          "published": "2026-10-29T10:45:00+00:00"
+          "source": "IGN",
+          "title": "Bethesda Pays Tribute to Patrick Stewart for His Role in Oblivion, Fans Remember His Role in Games Like Castlevania",
+          "url": "https://www.ign.com/articles/bethesda-pays-tribute-to-patrick-stewart-for-his-role-in-oblivion-fans-remember-his-role-in-games-like-castlevania",
+          "published": "2026-10-29T21:57:00+00:00"
         }
       ]
     },
     {
-      "story_id": "announced-included-milestones-switch-taito",
-      "score": 32.9,
+      "story_id": "400k-across-console-copies-day-gears",
+      "score": 32.7,
       "already_proposed": false,
-      "headline": "Taito Milestones 5 Announced For Switch, Here Are The Games Included",
+      "headline": "Gears of War: E-Day Reportedly Sold Over 400K Copies Across Console and PC a Month After Day-One Game Pass Launch",
       "topics": [
-        "nintendo"
+        "xbox"
       ],
-      "age_hours": 8.9,
+      "age_hours": 12.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.06,
+        "it_gap": 0.11,
+        "yt_demand": 0.11,
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Nintendo Life"
+        "IGN"
+      ],
+      "coverage_it": [
+        "SpazioGames"
+      ],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 1149,
+        "top_views": 1177,
+        "top_title": "Gears of War E-Day Sells Only 400K Copies?! | Gaming News #gaming #news #xbox #gearsofwar"
+      },
+      "youtube_query": "gears war day across copies",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Gears of War: E-Day Reportedly Sold Over 400K Copies Across Console and PC a Month After Day-One Game Pass Launch",
+          "url": "https://www.ign.com/articles/gears-of-war-e-day-reportedly-sold-over-400k-copies-across-console-and-pc-a-month-after-day-one-game-pass-launch",
+          "published": "2026-10-29T23:13:44+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "Gears of War: E-Day non è stata la \"scossa\" per XBOX",
+          "url": "https://www.spaziogames.it/notizie/gears-of-war-e-day-lesclusiva-xbox-non-da-la-scossa",
+          "published": "2026-10-30T09:32:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "adaptation-feature-film-mouthwashing-normal-sony",
+      "score": 31.3,
+      "already_proposed": false,
+      "headline": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 12.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.98,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Rock Paper Shotgun"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 1,
-        "median_views": 415,
-        "top_views": 415,
-        "top_title": "タイトーマイルストーン5発表❗️3画面版サーガイア収録❗️【Switch/レトロゲーム】"
+        "median_views": 9,
+        "top_views": 9,
+        "top_title": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be... #Shorts"
       },
-      "youtube_query": "taito milestones included announced switch",
-      "related": [
-        {
-          "headline": "PS Plus Essential Games for November 2026 Announced",
-          "shared_terms": [
-            "announced"
-          ]
-        }
-      ],
+      "youtube_query": "whenever normal adaptation sony film",
+      "related": [],
       "articles": [
         {
-          "source": "Nintendo Life",
-          "title": "Taito Milestones 5 Announced For Switch, Here Are The Games Included",
-          "url": "https://www.nintendolife.com/news/2026/10/taito-milestones-5-announced-for-switch-here-are-the-games-included",
-          "published": "2026-10-29T02:30:00+00:00"
+          "source": "Rock Paper Shotgun",
+          "title": "Mouthwashing is getting a feature film adaptation from Sony and I need all of you to be normal about it whenever it comes out",
+          "url": "https://www.rockpapershotgun.com/mouthwashing-is-getting-a-feature-film-adaptation-from-sony-and-i-need-all-of-you-to-be-normal-about-it-whenever-it-comes-out",
+          "published": "2026-10-29T22:53:00+00:00"
         }
       ]
     },
     {
-      "story_id": "addresses-admits-cloning-copyable-developers-don",
-      "score": 32.3,
+      "story_id": "experience-logged-reddit-switch",
+      "score": 31.2,
       "already_proposed": false,
-      "headline": "Valve Knows Steam Next Fest Has An AI Slop Problem, And It’s Looking For Solutions",
+      "headline": "Reddit will switch to a 'logged-in only experience'",
       "topics": [
-        "steam"
+        "nintendo"
       ],
-      "age_hours": 22.9,
+      "age_hours": 11.3,
       "signals": {
-        "coverage": 0.83,
-        "velocity": 0.0,
-        "it_gap": 0.83,
-        "yt_demand": 0.02,
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.33,
-        "freshness": 0.39,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Eurogamer",
-        "Game Developer",
-        "GameSpot",
-        "Kotaku",
         "PC Gamer"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 2,
-        "median_views": 60,
-        "top_views": 60,
-        "top_title": "Steam AI Clones Threaten Indies ⚠️"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "valve problem steam slop cloning",
-      "related": [
-        {
-          "headline": "Valve has ‘a significant number’ working on Steam’s visibility dilemma but says it won’t gatekeep games made with AI",
-          "shared_terms": [
-            "number",
-            "significant"
-          ]
-        },
-        {
-          "headline": "\"Taking several years with several thousand people… It's almost impossible\" – PlayStation creator Ken Kutaragi on the current state of gaming",
-          "shared_terms": [
-            "people"
-          ]
-        }
-      ],
+      "youtube_query": "logged reddit experience switch",
+      "related": [],
       "articles": [
         {
-          "source": "GameSpot",
-          "title": "Valve Knows Steam Next Fest Has An AI Slop Problem, And It’s Looking For Solutions",
-          "url": "https://www.gamespot.com/articles/valve-knows-steam-next-fest-has-an-ai-slop-problem-and-its-looking-for-solutions/",
-          "published": "2026-10-28T12:30:33+00:00"
-        },
-        {
-          "source": "Game Developer",
-          "title": "Valve weighs in on Next Fest AI cloning phenomenon",
-          "url": "https://www.gamedeveloper.com/pc/valve-addresses-steam-ai-cloning-problem",
-          "published": "2026-10-28T14:42:21+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Valve addresses Steam's AI game cloning problem - by suggesting developers make their games less copyable",
-          "url": "https://www.eurogamer.net/steam-ai-clone-game-problem-valve-response",
-          "published": "2026-10-28T14:43:53+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "Valve Knows Steam Has An AI Slop Problem And Has A ‘Significant Number Of People’ Working On It",
-          "url": "https://kotaku.com/valve-steam-ai-clone-rip-offs-next-fest-slop-developers-demos-2000750496",
-          "published": "2026-10-28T15:30:21+00:00"
-        },
-        {
           "source": "PC Gamer",
-          "title": "Valve admits Steam has an AI slop and cloning problem, but says 'we don't want to be gatekeepers telling developers which tools they should or shouldn't use'",
-          "url": "https://www.pcgamer.com/software/ai/valve-admits-steam-has-an-ai-slop-and-cloning-problem-but-says-we-dont-want-to-be-gatekeepers-telling-developers-which-tools-they-should-or-shouldnt-use/",
-          "published": "2026-10-28T17:37:24+00:00"
+          "title": "Reddit will switch to a 'logged-in only experience'",
+          "url": "https://www.pcgamer.com/software/ai/reddit-will-switch-to-a-logged-in-only-experience/",
+          "published": "2026-10-29T23:58:10+00:00"
         }
       ]
     },
     {
-      "story_id": "329-400-auction-breaking-donkey-kong",
+      "story_id": "books-essential-fantasy-life-once-read",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "Original Donkey Kong Poster That Was Nearly Thrown Away Sold at Auction for Record-Breaking $329,400",
+      "headline": "10 Essential Fantasy Books You Need to Read at Least Once in Your Life",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 7.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "books once essential read life",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "10 Essential Fantasy Books You Need to Read at Least Once in Your Life",
+          "url": "https://www.polygon.com/fantasy-books-you-need-to-read-at-least-once-in-your-life/",
+          "published": "2026-10-30T04:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "ahead-black-controller-drops-edition-friday",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "The Legend of Zelda Edition Nintendo Switch Pro Controller Drops to $55.99 Ahead of Black Friday",
       "topics": [
         "nintendo"
       ],
-      "age_hours": 11.1,
+      "age_hours": 4.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -1023,39 +542,120 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "sold thrown 400 329 poster",
+      "youtube_query": "drops pro friday edition ahead",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "The Legend of Zelda Edition Nintendo Switch Pro Controller Drops to $55.99 Ahead of Black Friday",
+          "url": "https://www.ign.com/articles/legend-of-zelda-edition-nintendo-switch-pro-controller-deal-october-2026-updated",
+          "published": "2026-10-30T07:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "calvin-comic-hobbes-later-line-perfect",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "34 Years Later, Hobbes' Wisest 'Calvin and Hobbes' Line Is Still a Perfect Comic Strip Quote",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 3.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "comic strip wisest line hobbes",
       "related": [
         {
-          "headline": "Blizzard Sparks World of Warcraft Fan Backlash for 'Breaking Promise' Over Housing Microtransactions",
+          "headline": "5 Classic JRPGs with Virtually Perfect Battle Systems",
           "shared_terms": [
-            "breaking"
+            "perfect"
           ]
-        },
+        }
+      ],
+      "articles": [
         {
-          "headline": "An Iconic Piece Of Gaming Artwork Just Fetched A Princely Sum At Auction",
+          "source": "Polygon",
+          "title": "34 Years Later, Hobbes' Wisest 'Calvin and Hobbes' Line Is Still a Perfect Comic Strip Quote",
+          "url": "https://www.polygon.com/wisdom-hobbes-watterson/",
+          "published": "2026-10-30T08:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "according-capcom-evil-isn-mainline-producer",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Capcom Isn't Scrapping Resident Evil, but Mainline Story Could Wrap Up in Next 10 Years According to Producer",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 2.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "isn mainline according producer scrapping",
+      "related": [
+        {
+          "headline": "The Elder Scrolls 6 Title Reportedly Being Revealed Next Month, Just About Eight Years After It Was Announced",
           "shared_terms": [
-            "auction"
+            "story"
           ]
         }
       ],
       "articles": [
         {
           "source": "IGN",
-          "title": "Original Donkey Kong Poster That Was Nearly Thrown Away Sold at Auction for Record-Breaking $329,400",
-          "url": "https://www.ign.com/articles/original-donkey-kong-poster-that-was-nearly-thrown-away-sold-at-auction-for-record-breaking-329400",
-          "published": "2026-10-29T00:21:11+00:00"
+          "title": "Capcom Isn't Scrapping Resident Evil, but Mainline Story Could Wrap Up in Next 10 Years According to Producer",
+          "url": "https://www.ign.com/articles/capcom-isnt-scrapping-resident-evil-but-mainline-story-could-wrap-up-in-next-10-years-according-to-producer",
+          "published": "2026-10-30T09:13:32+00:00"
         }
       ]
     },
     {
-      "story_id": "built-everest-expectations-feel-gta-impossible",
+      "story_id": "along-beach-couple-four-gta-gym",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "'I feel like we've built a pyramid on Everest' says Rockstar of GTA 6 meeting impossible expectations",
+      "headline": "You can relationship-max in GTA 6 as walking along the beach or working out at the gym together increases your couple rating on a four point scale",
       "topics": [
         "aaa"
       ],
-      "age_hours": 10.8,
+      "age_hours": 0.8,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -1076,21 +676,73 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "meeting expectations built everest pyramid",
+      "youtube_query": "scale gym walking beach max",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "You can relationship-max in GTA 6 as walking along the beach or working out at the gym together increases your couple rating on a four point scale",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/you-can-relationship-max-in-gta-6-as-walking-along-the-beach-or-working-out-at-the-gym-together-increases-your-couple-rating-on-a-four-point-scale/",
+          "published": "2026-10-30T10:31:07+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "action-body-director-hit-horror-indie",
+      "score": 30.3,
+      "already_proposed": false,
+      "headline": "Hit Indie Horror Game Mouthwashing Is Getting a Live-Action Movie From the Director of Jennifer's Body",
+      "topics": [
+        "indie"
+      ],
+      "age_hours": 14.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.89,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "jennifer body movie director action",
       "related": [
         {
-          "headline": "7 Fire Emblem: Three Houses Replay Ideas to Make Garreg Mach Feel Brand New",
+          "headline": "Pokémon Legends: Z-A's Latest Mystery Gift Distribution Is Now Live",
           "shared_terms": [
-            "feel"
+            "live"
+          ]
+        },
+        {
+          "headline": "Dan Greenawalt lascia Turn 10 dopo quasi 27 anni, lo studio di Forza Motorsport cambia nome",
+          "shared_terms": [
+            "director"
+          ]
+        },
+        {
+          "headline": "\"We didn't want the brooding hero out for revenge\": How quiet lulls and a bird-sketching lead make Control Resonant a more introspective kind of action game",
+          "shared_terms": [
+            "action"
           ]
         }
       ],
       "articles": [
         {
-          "source": "PC Gamer",
-          "title": "'I feel like we've built a pyramid on Everest' says Rockstar of GTA 6 meeting impossible expectations",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/i-feel-like-weve-built-a-pyramid-on-everest-says-rockstar-of-gta-6-meeting-impossible-expectations/",
-          "published": "2026-10-29T00:35:52+00:00"
+          "source": "IGN",
+          "title": "Hit Indie Horror Game Mouthwashing Is Getting a Live-Action Movie From the Director of Jennifer's Body",
+          "url": "https://www.ign.com/articles/hit-indie-horror-game-mouthwashing-is-getting-a-live-action-movie-from-the-director-of-jennifers-body",
+          "published": "2026-10-29T21:18:43+00:00"
         }
       ]
     }
