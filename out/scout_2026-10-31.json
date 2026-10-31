@@ -1,0 +1,789 @@
+{
+  "generated_at": "2026-10-31T10:50:53.247460+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "activision-apologizes-appalling-backlash-call-cod",
+      "score": 61.4,
+      "already_proposed": false,
+      "headline": "Call Of Duty: Modern Warfare 4 Promises To Remove Offensive Footage Of Korean Tragedy After Backlash",
+      "topics": [
+        "nintendo",
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 19.3,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.0,
+        "it_gap": 0.83,
+        "yt_demand": 0.42,
+        "yt_room": 1.0,
+        "topic": 1.0,
+        "freshness": 0.59,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "Kotaku",
+        "Nintendo Life",
+        "Push Square",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 17945,
+        "top_views": 17945,
+        "top_title": "Call of Duty Korea Backlash Explained"
+      },
+      "youtube_query": "warfare modern remove tragedy korean",
+      "related": [
+        {
+          "headline": "Kane Parsons believes his interpretation of the backrooms is 'minor cultural shorthand' for the abstract space—just look at South Park's recent episode",
+          "shared_terms": [
+            "south"
+          ]
+        },
+        {
+          "headline": "Real-world disaster footage in Modern Warfare 4 opening cinematic will be removed following complaints from victims' families",
+          "shared_terms": [
+            "families",
+            "victims"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Call Of Duty: Modern Warfare 4 Promises To Remove Offensive Footage Of Korean Tragedy After Backlash",
+          "url": "https://kotaku.com/call-of-duty-modern-warfare-4-itaewon-2022-intro-patch-2000751584",
+          "published": "2026-10-30T15:30:19+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "New Call of Duty to Remove 'Appalling' Footage of Real-Life Tragedy",
+          "url": "https://www.pushsquare.com/news/2026/10/new-call-of-duty-to-remove-appalling-footage-of-real-life-tragedy",
+          "published": "2026-10-30T16:00:00+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Activision apologizes and says it will remove South Korean crush footage from Modern Warfare 4 after victims’ families speak out",
+          "url": "https://www.videogameschronicle.com/news/activision-apologizes-and-says-it-will-remove-south-korean-crush-footage-from-modern-warfare-4-after-victims-families-speak-out/",
+          "published": "2026-10-30T16:18:03+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "CoD: Modern Warfare To Cut Real-Life Korean Tragedy Segment After Backlash",
+          "url": "https://www.gamespot.com/articles/cod-modern-warfare-to-cut-real-life-korean-tragedy-segment-after-backlash/",
+          "published": "2026-10-30T16:42:23+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Digital Foundry Delivers Its Tech Verdict On Call Of Duty: Modern Warfare 4 On Switch 2",
+          "url": "https://www.nintendolife.com/news/2026/10/digital-foundry-delivers-its-tech-verdict-on-call-of-duty-modern-warfare-4-on-switch-2",
+          "published": "2026-10-30T18:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "eight-highlights-illustra-legend-nintendo-novit",
+      "score": 54.5,
+      "already_proposed": false,
+      "headline": "Un trailer di The Legend of Zelda: Ocarina of Time presenta le novità del remake per Nintendo Switch 2",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 16.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.06,
+        "yt_demand": 1.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.75,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [
+        "Everyeye",
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 110835,
+        "top_views": 365037,
+        "top_title": "What's new in The Legend of Zelda: Ocarina of Time? (Nintendo Switch 2)"
+      },
+      "youtube_query": "ocarina zelda nintendo switch remake",
+      "related": [],
+      "articles": [
+        {
+          "source": "Multiplayer",
+          "title": "Un trailer di The Legend of Zelda: Ocarina of Time presenta le novità del remake per Nintendo Switch 2",
+          "url": "https://multiplayer.it/notizie/trailer-the-legend-of-zelda-ocarina-of-time-presenta-novita-remake-nintendo-switch-2.html",
+          "published": "2026-10-30T18:25:46+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "Zelda Ocarina of Time su Switch 2: Nintendo illustra le novità del Remake",
+          "url": "https://www.everyeye.it/notizie/zelda-ocarina-of-time-switch-2-nintendo-illustra-novita-remake-908961.html",
+          "published": "2026-10-30T19:11:00+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Video: Nintendo Highlights Eight New Things In Zelda: Ocarina Of Time (Switch 2)",
+          "url": "https://www.nintendolife.com/news/2026/10/video-nintendo-highlights-eight-new-things-in-zelda-ocarina-of-time-switch-2",
+          "published": "2026-10-31T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "canceled-giving-hours-order-pre-store",
+      "score": 38.3,
+      "already_proposed": false,
+      "headline": "If Walmart Canceled Your Zelda Switch 2 Pre-Order, The Store’s Giving You 48 Hours To Get A New One",
+      "topics": [
+        "nintendo",
+        "storie"
+      ],
+      "age_hours": 8.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.19,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 3669,
+        "top_views": 3669,
+        "top_title": "Walmart Giving Free Gift Cards For Canceled Zelda Switch 2 Pre-Orders!"
+      },
+      "youtube_query": "pre order walmart hours giving",
+      "related": [
+        {
+          "headline": "Crimson Desert Enhanced Adds Surprise Free Trial For All Xbox Series X|S Owners",
+          "shared_terms": [
+            "hours"
+          ]
+        },
+        {
+          "headline": "Intel giving us a reason to be excited for Nova Lake: 'We've had a bit of a hole in our portfolio for high-end desktop, Nova Lake filled in that gap'",
+          "shared_terms": [
+            "giving"
+          ]
+        },
+        {
+          "headline": "John Romero's canceled game finds a new publisher amidst an overall scope change",
+          "shared_terms": [
+            "canceled"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "If Walmart Canceled Your Zelda Switch 2 Pre-Order, The Store’s Giving You 48 Hours To Get A New One",
+          "url": "https://kotaku.com/if-walmart-canceled-your-zelda-switch-2-pre-order-the-stores-giving-you-48-hours-to-get-a-new-one-2000751739",
+          "published": "2026-10-31T01:54:53+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "announced-date-delayed-evercold-fan-fantasy",
+      "score": 34.3,
+      "already_proposed": false,
+      "headline": "Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 8.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 111,
+        "top_views": 114,
+        "top_title": "Final Fantasy 14 Evercold Slips Four Weeks to February 23"
+      },
+      "youtube_query": "date ffxiv delayed announced fest",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Final Fantasy XIV Evercold Delayed, New Release Date Announced at FFXIV Fan Fest",
+          "url": "https://www.ign.com/articles/final-fantasy-xiv-evercold-delayed-new-release-date-announced-at-ffxiv-fan-fest",
+          "published": "2026-10-31T02:13:24+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "closely-developers-doom-ever-following-layoffs",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
+      "topics": [
+        "xbox",
+        "industria"
+      ],
+      "age_hours": 10.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "layoffs wolfenstein developers closely working",
+      "related": [
+        {
+          "headline": "You can relationship-max in GTA 6 as walking along the beach or working out at the gym together increases your couple rating on a four point scale",
+          "shared_terms": [
+            "working"
+          ]
+        },
+        {
+          "headline": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month",
+          "shared_terms": [
+            "ever"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Xbox's Doom, Wolfenstein Developers Working 'More Closely Than Ever' Following Xbox 'Reset' Layoffs",
+          "url": "https://www.ign.com/articles/xboxs-doom-wolfenstein-developers-working-more-closely-than-ever-following-xbox-reset-layoffs",
+          "published": "2026-10-31T00:01:34+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cheats-combat-easier-features-heaven-optional",
+      "score": 31.7,
+      "already_proposed": false,
+      "headline": "Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier",
+      "topics": [
+        "industria"
+      ],
+      "age_hours": 9.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 38,
+        "top_views": 38,
+        "top_title": "Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier #Shorts"
+      },
+      "youtube_query": "combat optional cheats easier features",
+      "related": [
+        {
+          "headline": "By Skipping Last-Gen Systems, Stranger Than Heaven is Allowing RGG Studio to Fully Leverage the Power of Current-Gen Consoles at Long Last",
+          "shared_terms": [
+            "heaven",
+            "stranger"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Stranger Than Heaven Features Optional “Cheats” to Make its Combat Easier",
+          "url": "https://www.ign.com/articles/stranger-than-heaven-features-optional-cheats-to-make-its-combat-easier",
+          "published": "2026-10-31T01:06:04+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "biggest-isn-nintendo-year",
+      "score": 31.5,
+      "already_proposed": false,
+      "headline": "Nintendo’s Biggest Game of the Year Isn't What You Think It Is",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 2.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 5,
+        "median_views": 12,
+        "top_views": 15087,
+        "top_title": "Nintendo's Most Over-Engineered Sequel"
+      },
+      "youtube_query": "isn year biggest nintendo",
+      "related": [
+        {
+          "headline": "Overwatch’s First Year-Long Story Reached Its Climax As Fans Ask What Was Even The Point",
+          "shared_terms": [
+            "year"
+          ]
+        },
+        {
+          "headline": "Soulframe opens up for everyone next week as the Warframe devs prepare the fantasy action RPG for one of its 'biggest, most violent' updates ever next month",
+          "shared_terms": [
+            "biggest"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Nintendo’s Biggest Game of the Year Isn't What You Think It Is",
+          "url": "https://www.polygon.com/switchboard-tomodachi-life-huge/",
+          "published": "2026-10-31T08:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "concerns-dynamic-job-listing-pricing-ps5",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 9.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "concerns job listing dynamic revived",
+      "related": [
+        {
+          "headline": "The Wolf Among Us Remastered Hit with PS5 Upgrade Pricing Issues",
+          "shared_terms": [
+            "pricing"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "PS5 Dynamic Pricing Concerns Revived by New Sony Job Listing",
+          "url": "https://www.pushsquare.com/news/2026/10/ps5-dynamic-pricing-concerns-revived-by-new-sony-job-listing",
+          "published": "2026-10-31T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "billion-bringing-footage-hit-man-sony",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Sony's Bringing Back Spider-Man $2.5 Billion Hit With New Footage",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 7.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "bringing spider man hit billion",
+      "related": [
+        {
+          "headline": "Compromised laptop could be to blame for record $6.3 billion cryptocurrency heist: Binance rushes to freeze stolen assets as experts blame North Korean group",
+          "shared_terms": [
+            "billion"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Sony's Bringing Back Spider-Man $2.5 Billion Hit With New Footage",
+          "url": "https://www.polygon.com/spider-man-brand-new-day-rerelease-extended-new-footage-cameos/",
+          "published": "2026-10-31T03:09:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "genre-glad-great-horror-metroidvania-moved",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Silver Pines is a great survival horror throwback with an unexpected Metroidvania twist, but it makes me glad the genre's moved on",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 0.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "great genre throwback pines metroidvania",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Silver Pines is a great survival horror throwback with an unexpected Metroidvania twist, but it makes me glad the genre's moved on",
+          "url": "https://www.eurogamer.net/silver-pines-now-playing",
+          "published": "2026-10-31T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "animated-cameo-chemical-hideo-kojima-romance",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Hideo Kojima Makes Surprise Cameo in New My Chemical Romance Animated Short",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 12.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "cameo short chemical hideo romance",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Hideo Kojima Makes Surprise Cameo in New My Chemical Romance Animated Short",
+          "url": "https://www.ign.com/articles/hideo-kojima-makes-surprise-cameo-in-new-my-chemical-romance-animated-short",
+          "published": "2026-10-30T22:49:01+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "completed-delightful-final-hidden-puzzle-reward",
+      "score": 30.6,
+      "already_proposed": false,
+      "headline": "I Completed Big Walk’s Final, Best-Hidden Secret Puzzle, And The Reward Was Delightful",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 13.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.93,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "walk puzzle completed hidden reward",
+      "related": [
+        {
+          "headline": "Star Wars' Secret Writers Quietly Made the Strangest, Scariest Zombie Movies of All Time",
+          "shared_terms": [
+            "secret"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "I Completed Big Walk’s Final, Best-Hidden Secret Puzzle, And The Reward Was Delightful",
+          "url": "https://kotaku.com/i-completed-big-walks-final-best-hidden-secret-puzzle-and-the-reward-was-delightful-2000751661",
+          "published": "2026-10-30T21:30:38+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2026-classifica-cover-exciting-grip-migliori",
+      "score": 30.0,
+      "already_proposed": false,
+      "headline": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 10.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [
+        "SpazioGames"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "switch 2026 exciting cover grip",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Video: 11 Exciting New Games Coming To Switch 1 & 2 In November 2026",
+          "url": "https://www.nintendolife.com/news/2026/10/video-11-exciting-new-games-coming-to-switch-1-and-2-in-november-2026",
+          "published": "2026-10-31T00:00:00+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "Migliori cover e grip per Nintendo Switch 2: classifica 2026",
+          "url": "https://www.spaziogames.it/articoli/migliori-cover-e-grip-per-nintendo-switch-2",
+          "published": "2026-10-31T06:55:49+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2027-evercold-expansion-fable-fantasy-february",
+      "score": 29.9,
+      "already_proposed": false,
+      "headline": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 15.7,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 0.5,
+        "it_gap": 0.33,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.8,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 47,
+        "top_views": 47,
+        "top_title": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC"
+      },
+      "youtube_query": "2027 final fantasy maybe fable",
+      "related": [
+        {
+          "headline": "Studio Atelico launches Atelico AI Engine into Early Access",
+          "shared_terms": [
+            "launches"
+          ]
+        },
+        {
+          "headline": "FromSoftware sospende i server di Dark Souls 2 e 3, nessuna data per il ripristino",
+          "shared_terms": [
+            "online"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "New games in 2027: Fable, Final Fantasy 7, and (maybe) GTA 6 on PC",
+          "url": "https://www.pcgamer.com/games/new-pc-games-2027/",
+          "published": "2026-10-30T19:11:36+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Final Fantasy XIV Online's Sixth Expansion 'Evercold' Launches February 2027",
+          "url": "https://www.nintendolife.com/news/2026/10/final-fantasy-xiv-onlines-sixth-expansion-evercold-launches-february-2027",
+          "published": "2026-10-31T03:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "beloved-blizzard-console-fans-forever-hints",
+      "score": 29.5,
+      "already_proposed": false,
+      "headline": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\"",
+      "topics": [
+        "xbox",
+        "feel_good"
+      ],
+      "age_hours": 15.7,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 0.5,
+        "it_gap": 0.33,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.79,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 4,
+        "top_views": 4,
+        "top_title": "World of Warcraft: Forever Console Port Teased by Blizzard"
+      },
+      "youtube_query": "blizzard warcraft forever world ports",
+      "related": [
+        {
+          "headline": "AAA publishers ‘abusing’ Early Access are setting unrealistic expectations, say Deadhaus Sonata leads",
+          "shared_terms": [
+            "setting"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Blizzard hints at console ports for World of Warcraft: Forever - \"Play it wherever you want and, at some point, on whatever you want\"",
+          "url": "https://www.eurogamer.net/blizzard-console-port-hints-world-of-warcraft-forever",
+          "published": "2026-10-30T19:06:18+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Fans Think Blizzard Is Teasing A Return To Its Most Beloved Setting In World Of Warcraft: Forever",
+          "url": "https://kotaku.com/fans-think-blizzard-is-teasing-a-return-to-its-most-beloved-setting-in-world-of-warcraft-forever-2000751630",
+          "published": "2026-10-30T21:00:04+00:00"
+        }
+      ]
+    }
+  ]
+}
