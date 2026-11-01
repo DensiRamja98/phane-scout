@@ -1,0 +1,772 @@
+{
+  "generated_at": "2026-11-01T11:46:34.047550+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [
+    {
+      "source": "Polygon",
+      "error": "Remote end closed connection without response"
+    }
+  ],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "12th-academy-dandori-demo-edition-launches",
+      "score": 39.0,
+      "already_proposed": false,
+      "headline": "Watch: Nintendo Treehouse Play Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 5.0,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.1,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 1016,
+        "top_views": 53254,
+        "top_title": "11 Exciting New Games Coming to Nintendo Switch 1 & 2 - November 2026"
+      },
+      "youtube_query": "edition switch pikmin nintendo academy",
+      "related": [
+        {
+          "headline": "The Best Deals Today: Apple Watch Ultra 4, Ocarina of Time Remake, Pikmin 4, and More",
+          "shared_terms": [
+            "watch"
+          ]
+        },
+        {
+          "headline": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
+          "shared_terms": [
+            "demo"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Watch: Nintendo Treehouse Play Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
+          "url": "https://www.nintendolife.com/news/2026/11/watch-nintendo-treehouse-play-pikmin-4-nintendo-switch-2-edition-plus-dandori-academy",
+          "published": "2026-11-01T06:45:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
+          "url": "https://www.eurogamer.net/pikmin-4-switch-2-edition-release-date-demo",
+          "published": "2026-11-01T10:04:13+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "action-against-don-elder-faces-fan",
+      "score": 37.1,
+      "already_proposed": false,
+      "headline": "A former volunteer is threatening legal action against fan-made game project Skyblivion",
+      "topics": [
+        "feel_good",
+        "industria"
+      ],
+      "age_hours": 22.4,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 0.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.23,
+        "yt_room": 1.0,
+        "topic": 0.67,
+        "freshness": 0.42,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 5312,
+        "top_views": 215106,
+        "top_title": "A former volunteer is attempting to sue Skyblivion and we need your help"
+      },
+      "youtube_query": "project former volunteer skyblivion threatening",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "A former volunteer is threatening legal action against fan-made game project Skyblivion",
+          "url": "https://www.eurogamer.net/skyblivion-former-volunteer-legal-threats",
+          "published": "2026-10-31T13:21:03+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Elder Scrolls Skyblivion mod faces lawsuit from former volunteer, project lead urges 'Please don't turn this into any kind of witch hunt'",
+          "url": "https://www.pcgamer.com/games/the-elder-scrolls/elder-scrolls-skyblivion-mod-faces-lawsuit-from-former-volunteer-project-lead-urges-please-dont-turn-this-into-any-kind-of-witch-hunt/",
+          "published": "2026-10-31T20:29:22+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "creator-dan-forza-greenawalt-leaving-microsoft",
+      "score": 31.3,
+      "already_proposed": false,
+      "headline": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 7.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 0,
+        "top_views": 32,
+        "top_title": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft #Shorts"
+      },
+      "youtube_query": "leaving forza dan greenawalt creator",
+      "related": [
+        {
+          "headline": "EA Offices Tagged With ‘Save Mass Effect’ Graffiti",
+          "shared_terms": [
+            "reportedly"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
+          "url": "https://www.pcgamer.com/games/racing/forza-co-creator-dan-greenawalt-is-reportedly-leaving-microsoft/",
+          "published": "2026-11-01T04:05:48+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2027-announce-days-dev-gone-launch",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 11.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "launch days gone announce rumour",
+      "related": [
+        {
+          "headline": "Persona 1 Remake Footage Seemingly Leaks Online",
+          "shared_terms": [
+            "rumour"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027",
+          "url": "https://www.pushsquare.com/news/2026/11/rumour-days-gone-dev-to-announce-and-launch-new-ps5-game-in-2027",
+          "published": "2026-11-01T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "capcom-dual-fourth-man-master-mega",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 3.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "override fourth officially dual robot",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Capcom Officially Reveals Fourth Mega Man: Dual Override Robot Master",
+          "url": "https://www.nintendolife.com/news/2026/11/capcom-officially-reveals-fourth-mega-man-dual-override-robot-master",
+          "published": "2026-11-01T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "alleged-footage-gameplay-leaks-online-persona",
+      "score": 30.7,
+      "already_proposed": false,
+      "headline": "Persona 1 Remake Footage Seemingly Leaks Online",
+      "topics": [
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 15.4,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 0.5,
+        "it_gap": 0.33,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.81,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 246,
+        "top_views": 246,
+        "top_title": "Persona 1 Remake May Have Just Leaked"
+      },
+      "youtube_query": "leaks online persona remake seemingly",
+      "related": [
+        {
+          "headline": "Activision toglierà i filmati della tragedia di Itaewon da Modern Warfare 4 dopo le proteste dei familiari delle vittime",
+          "shared_terms": [
+            "footage"
+          ]
+        },
+        {
+          "headline": "Rumour: Days Gone Dev to Announce and Launch New PS5 Game in 2027",
+          "shared_terms": [
+            "rumour"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Persona 1 Remake Footage Seemingly Leaks Online",
+          "url": "https://www.ign.com/articles/persona-1-remake-footage-seemingly-leaks-online",
+          "published": "2026-10-31T20:21:10+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Rumour: Alleged Persona 1 Remake Gameplay Leaks Online",
+          "url": "https://www.pushsquare.com/news/2026/11/rumour-alleged-persona-1-remake-gameplay-leaks-online",
+          "published": "2026-11-01T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "alien-almost-animations-characters-custom-decade",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
+      "topics": [],
+      "age_hours": 10.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "models sounds modes textures alien",
+      "related": [
+        {
+          "headline": "Horror-steeped card game Forbidden Solitaire shows how a strong theme can elevate even decade-old mechanics",
+          "shared_terms": [
+            "decade"
+          ]
+        },
+        {
+          "headline": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott",
+          "shared_terms": [
+            "support"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "After almost a decade of work, Alien: Isolation mod tools hit 1.0 with support for 'full custom maps, missions, modes, characters, weapons, animations, sounds, models, textures, and more'",
+          "url": "https://www.pcgamer.com/games/horror/after-almost-a-decade-of-work-alien-isolation-mod-tools-hit-1-0-with-support-for-full-custom-maps-missions-modes-characters-weapons-animations-sounds-models-textures-and-more/",
+          "published": "2026-11-01T01:30:27+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2026-animated-day-demo-pikmin-round",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
+      "topics": [],
+      "age_hours": 6.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "shorts round updates animated demo",
+      "related": [
+        {
+          "headline": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
+          "shared_terms": [
+            "updates"
+          ]
+        },
+        {
+          "headline": "Cult PC-98 Zombie Gore Fest Re-Animated On Steam With First Official English Port",
+          "shared_terms": [
+            "animated"
+          ]
+        },
+        {
+          "headline": "Watch: Nintendo Treehouse Play Pikmin 4 - Nintendo Switch 2 Edition + Dandori Academy",
+          "shared_terms": [
+            "demo"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Round Up: Pikmin Day 2026 - Updates, Demo And New Animated Shorts",
+          "url": "https://www.nintendolife.com/news/2026/11/round-up-pikmin-day-2026-updates-demo-and-new-animated-shorts",
+          "published": "2026-11-01T05:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "art-box-brawl-duel-feature-gator",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "Feature: Box Art Brawl - Duel: Revenge Of The 'Gator",
+      "topics": [],
+      "age_hours": 1.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "art revenge feature brawl gator",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Feature: Box Art Brawl - Duel: Revenge Of The 'Gator",
+          "url": "https://www.nintendolife.com/features/box-art-brawl-duel-revenge-of-the-gator",
+          "published": "2026-11-01T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "anthropic-blocks-claude-clones-opus-update",
+      "score": 28.1,
+      "already_proposed": false,
+      "headline": "Anthropic Blocks AI Game Clones in Claude Opus Update",
+      "topics": [],
+      "age_hours": 14.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.89,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 2,
+        "top_views": 2,
+        "top_title": "Anthropic Blocks AI Game Clones in Claude Opus Update"
+      },
+      "youtube_query": "opus clones blocks anthropic claude",
+      "related": [
+        {
+          "headline": "Anthropic updates Claude to 'steer it away' from letting users clone games following weeks of Steam being inundated with AI slop",
+          "shared_terms": [
+            "anthropic",
+            "claude"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Anthropic Blocks AI Game Clones in Claude Opus Update",
+          "url": "https://www.ign.com/articles/anthropic-blocks-ai-game-clones-in-claude-opus-update",
+          "published": "2026-10-31T21:46:36+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "building-effect-graffiti-mass-offices-outside",
+      "score": 27.5,
+      "already_proposed": false,
+      "headline": "EA Offices Tagged With ‘Save Mass Effect’ Graffiti",
+      "topics": [],
+      "age_hours": 16.0,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 0.5,
+        "it_gap": 0.33,
+        "yt_demand": 0.11,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.78,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 1270,
+        "top_views": 1270,
+        "top_title": "SAVE MASS EFFECT GRAFFITI SPOTTED IN FRONT OF EA MADRID, NytStone"
+      },
+      "youtube_query": "save graffiti mass effect offices",
+      "related": [
+        {
+          "headline": "Forza co-creator Dan Greenawalt is reportedly leaving Microsoft",
+          "shared_terms": [
+            "reportedly"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "EA Offices Tagged With ‘Save Mass Effect’ Graffiti",
+          "url": "https://kotaku.com/ea-offices-tagged-with-save-mass-effect-graffiti-2000751962",
+          "published": "2026-10-31T19:48:02+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Save Mass Effect Graffiti Reportedly Spray-Painted Outside EA Building",
+          "url": "https://www.ign.com/articles/save-mass-effect-graffiti-reportedly-spray-painted-outside-ea-building",
+          "published": "2026-10-31T23:08:02+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "call-competitive-convince-digital-disadvantage-duty",
+      "score": 26.3,
+      "already_proposed": false,
+      "headline": "Call of Duty: Modern Warfare 4 su Switch 2 convince Digital Foundry, al netto di problemi di input lag",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 27.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.15,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 219,
+        "top_views": 200645,
+        "top_title": "Call of Duty: Modern Warfare 4 - Switch 2 Tech Review - Input Latency, Frame-Rates + Visuals Tested"
+      },
+      "youtube_query": "input lag call duty modern",
+      "related": [
+        {
+          "headline": "Celeste and TowerFall have delisted from Xbox's digital storefronts to support BDS boycott",
+          "shared_terms": [
+            "digital"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Multiplayer",
+          "title": "Call of Duty: Modern Warfare 4 su Switch 2 convince Digital Foundry, al netto di problemi di input lag",
+          "url": "https://multiplayer.it/notizie/call-of-duty-modern-warfare-4-su-switch-2-convince-digital-foundry-al-netto-di-problemi-di-input-lag.html",
+          "published": "2026-10-31T08:31:12+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Input Lag Is So Bad in Call of Duty: Modern Warfare 4 on Nintendo Switch 2 That Players Suffer From a 'Competitive Disadvantage'",
+          "url": "https://www.ign.com/articles/input-lag-is-so-bad-in-call-of-duty-modern-warfare-4-on-nintendo-switch-2-that-players-suffer-from-a-competitive-disadvantage",
+          "published": "2026-10-31T23:32:09+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "1st-dal-day-declares-direct-drops",
+      "score": 25.6,
+      "already_proposed": false,
+      "headline": "Nintendo Drops Surprise 'Pikmin Day' Direct",
+      "topics": [
+        "nintendo",
+        "feel_good"
+      ],
+      "age_hours": 21.5,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.19,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.47,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku",
+        "Nintendo Life"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 3749,
+        "top_views": 34265,
+        "top_title": "The Strangest Pikmin Announcement of All Time"
+      },
+      "youtube_query": "direct day pikmin surprise nintendo",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Nintendo Drops Surprise 'Pikmin Day' Direct",
+          "url": "https://www.nintendolife.com/news/2026/10/nintendo-drops-surprise-pikmin-day-direct",
+          "published": "2026-10-31T14:15:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Nintendo Reveals Surprise Pikmin Day Direct",
+          "url": "https://www.ign.com/articles/nintendo-reveals-surprise-pikmin-day-direct",
+          "published": "2026-10-31T14:26:26+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Shigeru Miyamoto Declares November 1st Pikmin Day In Surprise Nintendo Direct",
+          "url": "https://kotaku.com/shigeru-miyamoto-declares-november-1st-pikmin-day-in-surprise-nintendo-direct-2000751948",
+          "published": "2026-10-31T15:21:38+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Non solo Ognissanti, il primo novembre è ora il Pikmin Day: ecco le novità dal Direct",
+          "url": "https://multiplayer.it/notizie/non-solo-ognissanti-il-primo-novembre-e-ora-il-pikmin-day-ecco-le-novita-dal-direct.html",
+          "published": "2026-11-01T10:14:32+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "date-delayed-evercold-fantasy-february-final",
+      "score": 22.6,
+      "already_proposed": false,
+      "headline": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 21.1,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 0.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.13,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.49,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 1793,
+        "top_views": 499646,
+        "top_title": "FINAL FANTASY XIV: Evercold | Full Trailer | Launches February 23, 2027"
+      },
+      "youtube_query": "february fantasy evercold final job",
+      "related": [
+        {
+          "headline": "Silver Palace, il nuovo action RPG open world tra misteri e indagini, ha una data di uscita",
+          "shared_terms": [
+            "date"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Final Fantasy 14 reveals Evercold’s second new job and February release date, with pre-orders opening next week",
+          "url": "https://www.eurogamer.net/final-fantasy-14-evercold-zephyr-job-release-date",
+          "published": "2026-10-31T14:39:25+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Final Fantasy 14: Evercold delayed to February, preorders start next week",
+          "url": "https://www.pcgamer.com/games/final-fantasy/final-fantasy-14-evercold-delayed-to-february-preorders-start-next-week/",
+          "published": "2026-10-31T18:57:19+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "papers-sunday",
+      "score": 29.3,
+      "already_proposed": true,
+      "headline": "The Sunday Papers",
+      "topics": [],
+      "age_hours": 1.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 7,
+        "median_views": 18,
+        "top_views": 857,
+        "top_title": "Sunday walay din bbi papers 😭 #minivlog #foryou #shorts"
+      },
+      "youtube_query": "papers sunday",
+      "related": [],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "The Sunday Papers",
+          "url": "https://www.rockpapershotgun.com/the-sunday-papers-834",
+          "published": "2026-11-01T10:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}
