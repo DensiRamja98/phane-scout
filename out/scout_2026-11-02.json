@@ -1,0 +1,825 @@
+{
+  "generated_at": "2026-11-02T13:21:55.261833+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "2026-became-biggest-blade-copies-days",
+      "score": 50.2,
+      "already_proposed": false,
+      "headline": "Phantom Blade Zero is Steam's biggest launch of the year so far, selling over 4 million copies in three days",
+      "topics": [
+        "playstation",
+        "steam"
+      ],
+      "age_hours": 4.0,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 1.0,
+        "it_gap": 0.67,
+        "yt_demand": 0.04,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN",
+        "Polygon",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 163,
+        "top_views": 1060,
+        "top_title": "Phantom Blade Zero Sells 4 Million Copies in 72 Hours"
+      },
+      "youtube_query": "phantom blade zero million selling",
+      "related": [
+        {
+          "headline": "Three Xbox Games Are Shutting Down Their Servers In November & December 2026",
+          "shared_terms": [
+            "three"
+          ]
+        },
+        {
+          "headline": "It's not just Steam: New game pages created per day on Itch.io have doubled in the last two months, with AI slop the likely culprit",
+          "shared_terms": [
+            "steam"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Phantom Blade Zero is Steam's biggest launch of the year so far, selling over 4 million copies in three days",
+          "url": "https://www.eurogamer.net/phantom-blade-zero-4-million-copies-steam-biggest-launch",
+          "published": "2026-11-02T09:24:45+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Phantom Blade Zero Sells 4 Million Copies in 72 Hours",
+          "url": "https://www.ign.com/articles/phantom-blade-zero-sells-4-million-copies-in-72-hours",
+          "published": "2026-11-02T09:39:58+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Phantom Blade Zero Is an Instant Hit with 4 Million Sales on PS5, PC",
+          "url": "https://www.pushsquare.com/news/2026/11/phantom-blade-zero-is-an-instant-hit-with-4-million-sales-on-ps5-pc",
+          "published": "2026-11-02T10:30:00+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Phantom Blade Zero Became One of 2026's Best-Selling Games in Just 72 Hours",
+          "url": "https://www.polygon.com/phantom-blade-zero-4-million-copies-opening-weekend/",
+          "published": "2026-11-02T11:11:02+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "1998-cool-easter-egg-era-google",
+      "score": 43.9,
+      "already_proposed": false,
+      "headline": "Google’s Zelda Ocarina of Time easter egg transports users back to 1998",
+      "topics": [
+        "nintendo",
+        "easter_egg"
+      ],
+      "age_hours": 2.7,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.5,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Nintendo Life",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "easter egg google ocarina transports",
+      "related": [],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Google’s Zelda Ocarina of Time easter egg transports users back to 1998",
+          "url": "https://www.videogameschronicle.com/news/googles-zelda-ocarina-of-time-easter-egg-transports-users-back-to-1998/",
+          "published": "2026-11-02T10:37:12+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Google's Ocarina Of Time Easter Egg Will Transport You Back To The Internet Of Old",
+          "url": "https://www.nintendolife.com/news/2026/11/googles-ocarina-of-time-easter-egg-will-transport-you-back-to-the-internet-of-old",
+          "published": "2026-11-02T12:30:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Google Has a Cool The Legend of Zelda: Ocarina of Time Easter Egg That Transports Us Back to the 1998 Era of Search Results",
+          "url": "https://www.ign.com/articles/zelda-ocarina-of-time-google-easter-egg",
+          "published": "2026-11-02T12:35:13+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "closes-creator-cut-cuts-developer-dragon",
+      "score": 41.9,
+      "already_proposed": false,
+      "headline": "Nagoshi Studio officially closes after NetEase cuts funding",
+      "topics": [
+        "industria"
+      ],
+      "age_hours": 5.3,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.5,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry",
+        "IGN",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 4,
+        "median_views": 8,
+        "top_views": 13,
+        "top_title": "Yakuza Creator's Studio Shuts Down #Shorts"
+      },
+      "youtube_query": "nagoshi studio netease funding officially",
+      "related": [
+        {
+          "headline": "Xbox Suddenly Has Two Vice City Games Releasing In Mid-November",
+          "shared_terms": [
+            "releasing"
+          ]
+        },
+        {
+          "headline": "It's not just Steam: New game pages created per day on Itch.io have doubled in the last two months, with AI slop the likely culprit",
+          "shared_terms": [
+            "months"
+          ]
+        },
+        {
+          "headline": "\"We're doing great,\" says id Software boss, despite losing \"about half of our studio\" amid devastating Xbox cuts",
+          "shared_terms": [
+            "cuts"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Nagoshi Studio officially closes after NetEase cuts funding",
+          "url": "https://www.videogameschronicle.com/news/nagoshi-studio-officially-closes-after-netease-cuts-funding/",
+          "published": "2026-11-02T08:01:35+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Yakuza Series Creator Toshiro Nagoshi's Studio Has Officially Shut Down Before Releasing a Game",
+          "url": "https://www.ign.com/articles/yakuza-series-creator-toshiro-nagoshis-studio-has-officially-shut-down-before-releasing-a-game",
+          "published": "2026-11-02T09:07:10+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Gang of Dragon developer Nagoshi Studio shutters months after NetEase cut funding",
+          "url": "https://www.gamesindustry.biz/gang-of-dragon-developer-nagoshi-studio-shutters-months-after-netease-cut-funding",
+          "published": "2026-11-02T10:00:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "appears-colour-don-footage-hate-hope",
+      "score": 39.2,
+      "already_proposed": false,
+      "headline": "Footage of a Persona 1 remake has seemingly leaked online",
+      "topics": [
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 20.8,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.5,
+        "it_gap": 0.67,
+        "yt_demand": 0.07,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.51,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "PC Gamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 8,
+        "median_views": 517,
+        "top_views": 1359,
+        "top_title": "Persona 1 Remake May Have Just Leaked"
+      },
+      "youtube_query": "persona leaked remake footage seemingly",
+      "related": [
+        {
+          "headline": "Valve’s Cancelled Portal Prequel F-Stop Has Leaked",
+          "shared_terms": [
+            "appears"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Footage of a Persona 1 remake has seemingly leaked online",
+          "url": "https://www.eurogamer.net/persona-1-remake-be-your-true-mind-leak",
+          "published": "2026-11-01T16:35:17+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "It looks like footage of a Persona 1 remake has leaked, and if it's legit I really hope you don't hate the colour purple",
+          "url": "https://www.rockpapershotgun.com/it-looks-like-footage-of-a-persona-1-remake-has-leaked-and-if-its-legit-i-really-hope-you-dont-hate-the-colour-purple",
+          "published": "2026-11-01T17:17:15+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Footage of what sure looks like a Persona 1 remake has leaked",
+          "url": "https://www.pcgamer.com/games/rpg/footage-of-what-sure-looks-like-a-persona-1-remake-has-leaked/",
+          "published": "2026-11-02T02:06:50+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "A trailer for a remake of the original Persona appears to have leaked",
+          "url": "https://www.videogameschronicle.com/news/a-trailer-for-a-remake-of-the-original-persona-appears-to-have-leaked/",
+          "published": "2026-11-02T11:57:11+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "dawntrail-evercold-fantasy-faster-final-not",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Final Fantasy 14: Evercold's story will have a faster tempo, with worldbuilding in side quests, says Yoshi-P—but I'm not sure that was the problem with Dawntrail",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 1.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "side faster yoshi dawntrail worldbuilding",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Final Fantasy 14: Evercold's story will have a faster tempo, with worldbuilding in side quests, says Yoshi-P—but I'm not sure that was the problem with Dawntrail",
+          "url": "https://www.pcgamer.com/games/mmo/final-fantasy-14-evercolds-story-will-have-a-faster-tempo-with-worldbuilding-in-side-quests-says-yoshi-p-but-im-not-sure-that-was-the-problem-with-dawntrail/",
+          "published": "2026-11-02T11:53:51+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2026-black-early-friday-included-leaks",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Xbox Black Friday Sale 2026 Leaks Early, Thousands Of Games Set To Be Included",
+      "topics": [
+        "xbox",
+        "storie"
+      ],
+      "age_hours": 1.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "included thousands set leaks sale",
+      "related": [
+        {
+          "headline": "Valve’s Cancelled Portal Prequel F-Stop Has Leaked",
+          "shared_terms": [
+            "leaks"
+          ]
+        },
+        {
+          "headline": "Feature: Last Chance to Buy These 50+ PS5, PS4 Games in PS Store's Planet of the Deals Sale",
+          "shared_terms": [
+            "sale"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Xbox Black Friday Sale 2026 Leaks Early, Thousands Of Games Set To Be Included",
+          "url": "https://www.purexbox.com/news/2026/11/xbox-black-friday-sale-2026-leaks-early-thousands-of-games-set-to-be-included",
+          "published": "2026-11-02T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "fantasy-gandalf-greatest-history-later-line",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "23 Years Later, Gandalf’s Greatest Lord of the Rings Line Is Still the Wisest Quote in Fantasy History",
+      "topics": [
+        "easter_egg",
+        "feel_good"
+      ],
+      "age_hours": 1.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "gandalf wisest rings later lord",
+      "related": [
+        {
+          "headline": "Luke Skywalker's Single Greatest Star Wars Line Hits Harder Than Any Sci-Fi Quote Since",
+          "shared_terms": [
+            "greatest",
+            "line"
+          ]
+        },
+        {
+          "headline": "'Calvin and Hobbes' Best Babysitter Quote Is Still Among the Funniest in Comic Strip History",
+          "shared_terms": [
+            "history"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "23 Years Later, Gandalf’s Greatest Lord of the Rings Line Is Still the Wisest Quote in Fantasy History",
+          "url": "https://www.polygon.com/lord-of-the-ring-gandalf-greatest-quote/",
+          "published": "2026-11-02T12:00:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "countdown-mysterious-nintendo-pok-mon-reveal-toward",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Nintendo’s Mysterious Countdown Could Point Toward A Pokémon Wind And Waves Reveal",
+      "topics": [
+        "pokemon",
+        "nintendo"
+      ],
+      "age_hours": 0.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "countdown waves toward wind mysterious",
+      "related": [
+        {
+          "headline": "The Pokémon Company Is Counting Down To A Mysterious Date On Social Media",
+          "shared_terms": [
+            "mysterious"
+          ]
+        },
+        {
+          "headline": "Skyblivion modders reveal a former volunteer is \"threatening to sue for damages upwards of €30,000\" over work on the unofficial Oblivion remake project",
+          "shared_terms": [
+            "reveal"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Nintendo’s Mysterious Countdown Could Point Toward A Pokémon Wind And Waves Reveal",
+          "url": "https://kotaku.com/pokemon-wind-and-waves-nintendo-gamefreak-release-date-countdown-2000752328",
+          "published": "2026-11-02T13:03:59+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cities-compared-dungeon-expense-foot-generally",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Obsidian's Josh Sawyer on RPG cities: 'Compared to a dungeon, generally speaking, a town is 4x the expense per square foot'",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 11.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "josh generally sawyer expense foot",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Obsidian's Josh Sawyer on RPG cities: 'Compared to a dungeon, generally speaking, a town is 4x the expense per square foot'",
+          "url": "https://www.pcgamer.com/games/rpg/obsidians-josh-sawyer-on-rpg-cities-compared-to-a-dungeon-generally-speaking-a-town-is-4x-the-expense-per-square-foot/",
+          "published": "2026-11-02T01:39:58+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "announces-boxes-grabs-launch-midnight-n64",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Nintendo announces Zelda: Ocarina of Time UK midnight launch, with free N64 boxes up for grabs",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 2.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "midnight n64 boxes grabs announces",
+      "related": [],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Nintendo announces Zelda: Ocarina of Time UK midnight launch, with free N64 boxes up for grabs",
+          "url": "https://www.videogameschronicle.com/news/nintendo-announces-zelda-ocarina-of-time-uk-midnight-launch-with-free-n64-boxes-up-for-grabs/",
+          "published": "2026-11-02T10:50:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "academy-blooms-dandori-demo-pikmin-psa",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "PSA: 'Pikmin 4 + Dandori Academy' Demo Blooms On Switch 2 Today",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 2.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "blooms psa academy dandori demo",
+      "related": [
+        {
+          "headline": "Pikmin 4 Nintendo Switch 2 Edition launches 12th November and a demo is out tomorrow",
+          "shared_terms": [
+            "academy",
+            "dandori",
+            "demo"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "PSA: 'Pikmin 4 + Dandori Academy' Demo Blooms On Switch 2 Today",
+          "url": "https://www.nintendolife.com/news/2026/11/psa-pikmin-4-plus-dandori-academy-demo-blooms-on-switch-2-today",
+          "published": "2026-11-02T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "buy-chance-deals-feature-planet-ps4",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Feature: Last Chance to Buy These 50+ PS5, PS4 Games in PS Store's Planet of the Deals Sale",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 1.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "chance buy deals ps4 sale",
+      "related": [
+        {
+          "headline": "The Best Deals Today: Gears of War: E-Day, Apple Watch Ultra 4, Star Wars Zero Company, and More",
+          "shared_terms": [
+            "deals"
+          ]
+        },
+        {
+          "headline": "Xbox Black Friday Sale 2026 Leaks Early, Thousands Of Games Set To Be Included",
+          "shared_terms": [
+            "sale"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Feature: Last Chance to Buy These 50+ PS5, PS4 Games in PS Store's Planet of the Deals Sale",
+          "url": "https://www.pushsquare.com/features/last-chance-to-buy-these-50plus-ps5-ps4-games-in-ps-stores-planet-of-the-deals-sale",
+          "published": "2026-11-02T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "company-counting-date-media-mysterious-pok-mon",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "The Pokémon Company Is Counting Down To A Mysterious Date On Social Media",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 1.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "social media counting mysterious company",
+      "related": [
+        {
+          "headline": "The Best Deals Today: Gears of War: E-Day, Apple Watch Ultra 4, Star Wars Zero Company, and More",
+          "shared_terms": [
+            "company"
+          ]
+        },
+        {
+          "headline": "Nintendo’s Mysterious Countdown Could Point Toward A Pokémon Wind And Waves Reveal",
+          "shared_terms": [
+            "mysterious"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "The Pokémon Company Is Counting Down To A Mysterious Date On Social Media",
+          "url": "https://www.nintendolife.com/news/2026/11/the-pokemon-company-is-counting-down-to-a-mysterious-date-on-social-media",
+          "published": "2026-11-02T11:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "among-announces-developer-layoffs-round-schell",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Among Us VR co-developer Schell Games announces second round of layoffs this year",
+      "topics": [
+        "industria"
+      ],
+      "age_hours": 1.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "schell round layoffs among announces",
+      "related": [
+        {
+          "headline": "'Calvin and Hobbes' Best Babysitter Quote Is Still Among the Funniest in Comic Strip History",
+          "shared_terms": [
+            "among"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Among Us VR co-developer Schell Games announces second round of layoffs this year",
+          "url": "https://www.gamesindustry.biz/among-us-vr-co-developer-schell-games-announces-second-round-of-layoffs-this-year",
+          "published": "2026-11-02T11:51:05+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "000-damages-former-modders-oblivion-project",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Skyblivion modders reveal a former volunteer is \"threatening to sue for damages upwards of €30,000\" over work on the unofficial Oblivion remake project",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 1.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "threatening skyblivion sue damages volunteer",
+      "related": [
+        {
+          "headline": "Team Behind Fan-Made Oblivion Remake Face Lawsuit From Former Contributor",
+          "shared_terms": [
+            "oblivion"
+          ]
+        },
+        {
+          "headline": "Delve into \"a deep underground facility full of secrets and horrors\" in the latest Fallout 4 quest mod from the Commonwealth Story Expansion Project",
+          "shared_terms": [
+            "project"
+          ]
+        },
+        {
+          "headline": "Nintendo’s Mysterious Countdown Could Point Toward A Pokémon Wind And Waves Reveal",
+          "shared_terms": [
+            "reveal"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Skyblivion modders reveal a former volunteer is \"threatening to sue for damages upwards of €30,000\" over work on the unofficial Oblivion remake project",
+          "url": "https://www.rockpapershotgun.com/skyblivion-modders-reveal-a-former-volunteer-is-threatening-to-sue-for-damages-upwards-of-30000-over-work-on-the-unofficial-oblivion-remake-project",
+          "published": "2026-11-02T11:51:26+00:00"
+        }
+      ]
+    }
+  ]
+}
