@@ -1,0 +1,790 @@
+{
+  "generated_at": "2026-11-03T12:42:56.766292+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "currently-discounts-drops-enix-eshop-fantasy",
+      "score": 41.0,
+      "already_proposed": false,
+      "headline": "Square Enix's 'Harvest Sale' Includes Huge Discounts On Final Fantasy VII Remake Intergrade And Rebirth",
+      "topics": [
+        "nintendo",
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 11.0,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "huge rebirth fantasy final remake",
+      "related": [
+        {
+          "headline": "Final Fantasy Resonance Producer Had to Fight Square Enix Execs Who Wanted Cheap Port of Dead Mobile Game",
+          "shared_terms": [
+            "enix"
+          ]
+        },
+        {
+          "headline": "The Legend of Zelda Edition Nintendo Switch Pro Controller Drops to $46.60 Ahead of Black Friday",
+          "shared_terms": [
+            "drops"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Square Enix's 'Harvest Sale' Includes Huge Discounts On Final Fantasy VII Remake Intergrade And Rebirth",
+          "url": "https://www.nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-huge-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth",
+          "published": "2026-11-03T01:45:00+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Final Fantasy 7 Remake and Rebirth currently have huge price drops on the Switch 2 eShop",
+          "url": "https://www.videogameschronicle.com/news/final-fantasy-7-remake-and-rebirth-currently-have-huge-price-drops-on-the-switch-2-eshop/",
+          "published": "2026-11-03T09:35:53+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "ammette-ammissione-avrebbe-avrei-burn-burns",
+      "score": 35.9,
+      "already_proposed": false,
+      "headline": "South Of Midnight Director Says He Doesn’t Think Xbox Should Have Funded It",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 15.7,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.8,
+        "it_gap": 0.28,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.79,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku",
+        "Pure Xbox",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Everyeye",
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 4,
+        "median_views": 16,
+        "top_views": 3620,
+        "top_title": "WBG XBOX Podcast EP 348: Gears E-Day $500 Million Budget DEBUNKED | Jason Schreier Backtracks Report"
+      },
+      "youtube_query": "south midnight director xbox funding",
+      "related": [
+        {
+          "headline": "Former Xbox Manager Explains Why $500M Cost For Gears: E-Day Doesn't Tell The Whole Story",
+          "shared_terms": [
+            "doesn"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "South Of Midnight Director Says He Doesn’t Think Xbox Should Have Funded It",
+          "url": "https://kotaku.com/creative-director-says-he-wanted-to-make-south-of-midnight-but-doesnt-think-xbox-should-have-funded-it-2000752408",
+          "published": "2026-11-02T21:00:18+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "South of Midnight: Microsoft non avrebbe dovuto finanziarlo, ammette il director del gioco",
+          "url": "https://www.everyeye.it/notizie/south-of-midnight-microsoft-non-dovuto-finanziarlo-ammette-director-gioco-909401.html",
+          "published": "2026-11-02T21:37:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "\"Al posto di Xbox non avrei finanziato South of Midnight\": la sincera ammissione del creative director",
+          "url": "https://multiplayer.it/notizie/al-posto-di-xbox-non-avrei-finanziato-south-of-midnight-la-sincera-ammissione-del-creative-director.html",
+          "published": "2026-11-03T07:38:09+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "South of Midnight director says he wouldn’t have funded it if he was Xbox, and he knew ‘Rome would burn’ eventually",
+          "url": "https://www.videogameschronicle.com/news/south-of-midnight-director-says-he-wouldnt-have-funded-it-if-he-was-xbox-and-a-bad-outcome-was-inevitable/",
+          "published": "2026-11-03T10:57:21+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "South of Midnight Creative Director Would Have Turned Off Xbox 'Money Tap' Earlier, Says Funding Was 'Unsustainable'",
+          "url": "https://www.ign.com/articles/south-of-midnight-creative-director-wouldnt-have-funded-the-game",
+          "published": "2026-11-03T11:36:08+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "\"There’s always a night when Rome burns\": South Of Midnight director says that Xbox funding it was \"unsustainable\", at least in hindsight",
+          "url": "https://www.rockpapershotgun.com/theres-always-a-night-when-rome-burns-south-of-midnight-director-says-that-xbox-funding-it-was-unsustainable-at-least-in-hindsight",
+          "published": "2026-11-03T11:49:29+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "South Of Midnight Director Reflects On Why He Was 'Always Worried' About Funding At Xbox",
+          "url": "https://www.purexbox.com/news/2026/11/south-of-midnight-director-reflects-on-why-he-was-always-worried-about-funding-at-xbox",
+          "published": "2026-11-03T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "additions-begins-changes-crossworlds-dlc-godzilla",
+      "score": 35.8,
+      "already_proposed": false,
+      "headline": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Notes Preview - New Additions, Changes & Improvements",
+      "topics": [],
+      "age_hours": 12.0,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.06,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 4,
+        "median_views": 405,
+        "top_views": 145862,
+        "top_title": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Notes Preview"
+      },
+      "youtube_query": "crossworlds sonic racing year additions",
+      "related": [
+        {
+          "headline": "Feature: Last Chance to Buy These 50+ PS5, PS4 Games in PS Store's Planet of the Deals Sale",
+          "shared_terms": [
+            "begins"
+          ]
+        },
+        {
+          "headline": "Phantom Blade Zero parte a razzo: 4 milioni di copie vendute",
+          "shared_terms": [
+            "massive"
+          ]
+        },
+        {
+          "headline": "Housemarque Issues Saros PS5 Patch for Bug Fixes, Update Out Now",
+          "shared_terms": [
+            "patch"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Notes Preview - New Additions, Changes & Improvements",
+          "url": "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-year-two-2-0-0-patch-notes-preview-new-additions-changes-and-improvements",
+          "published": "2026-11-03T00:45:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Sonic Racing: CrossWorlds Gets Massive Update, Godzilla DLC Today as Year Two Begins",
+          "url": "https://www.pushsquare.com/news/2026/11/sonic-racing-crossworlds-gets-massive-update-godzilla-dlc-today-as-year-two-begins",
+          "published": "2026-11-03T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "disclosure-expands-filter-indie-itch-overwhelm",
+      "score": 35.7,
+      "already_proposed": false,
+      "headline": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
+      "topics": [
+        "steam",
+        "indie",
+        "industria"
+      ],
+      "age_hours": 0.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "storefronts expands disclosure overwhelm slop",
+      "related": [
+        {
+          "headline": "A Scam Website Is Trying To Cash In On AO3 Outage By ‘Selling’ Audiobooks Of Fanfics",
+          "shared_terms": [
+            "website"
+          ]
+        },
+        {
+          "headline": "itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously \"critically lacking\"",
+          "shared_terms": [
+            "filter"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
+          "url": "https://www.eurogamer.net/itchio-generative-ai-filters-slop",
+          "published": "2026-11-03T12:03:56+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "amount-concerning-early-fans-gta-pets",
+      "score": 33.8,
+      "already_proposed": false,
+      "headline": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 12.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 20,
+        "top_views": 20,
+        "top_title": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early #Shorts"
+      },
+      "youtube_query": "amount pets concerning early fans",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
+          "url": "https://www.ign.com/articles/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to-play-gta-6-early",
+          "published": "2026-11-03T00:44:36+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cut-dungeon-fantasy-final-massively-queue",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Upcoming Final Fantasy 14 update should massively cut down on dungeon queue times",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 0.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "massively dungeon queue upcoming cut",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Upcoming Final Fantasy 14 update should massively cut down on dungeon queue times",
+          "url": "https://www.pcgamer.com/games/mmo/upcoming-final-fantasy-14-update-should-massively-cut-down-on-dungeon-queue-times/",
+          "published": "2026-11-03T11:47:55+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "dies-fan-fans-gta-ill-launch",
+      "score": 32.8,
+      "already_proposed": false,
+      "headline": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 13.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.92,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "dies weeks pay terminally respects",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
+          "url": "https://www.ign.com/articles/terminally-ill-gta-6-fan-dies-three-weeks-before-games-launch-fans-pay-their-respects",
+          "published": "2026-11-02T23:12:25+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "airbender-avatar-iroh-later-quote-uncle",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "20 Years Later, Uncle Iroh's Wisest 'Avatar: The Last Airbender Quote' Is Still Undefeated",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 7.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "iroh undefeated quote wisest uncle",
+      "related": [
+        {
+          "headline": "'Avatar: Seven Havens' Season 2 Could Return to 'The Last Airbender’s Most Iconic Location",
+          "shared_terms": [
+            "airbender",
+            "avatar"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "20 Years Later, Uncle Iroh's Wisest 'Avatar: The Last Airbender Quote' Is Still Undefeated",
+          "url": "https://www.polygon.com/avatar-the-last-airbenders-best-quote/",
+          "published": "2026-11-03T05:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2027-according-days-exclusive-gone-playstation",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 3.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "released according exclusive gone days",
+      "related": [
+        {
+          "headline": "Phantom Blade Zero is Steam's biggest launch of the year so far, selling over 4 million copies in three days",
+          "shared_terms": [
+            "days"
+          ]
+        },
+        {
+          "headline": "Yakuza Creator's Gang of Dragon PS5 Game and New Studio Officially Dead",
+          "shared_terms": [
+            "gone"
+          ]
+        },
+        {
+          "headline": "Zelda producer Aonuma wanted to remake Ocarina of Time to ‘trigger new insights’ in the team’s younger developers",
+          "shared_terms": [
+            "revealed"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report",
+          "url": "https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027",
+          "published": "2026-11-03T09:18:39+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "admitting-critically-disclosures-filter-genai-itch",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously \"critically lacking\"",
+      "topics": [
+        "industria"
+      ],
+      "age_hours": 2.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "site critically previously results lacking",
+      "related": [
+        {
+          "headline": "Google's Ocarina Of Time Easter Egg Will Transport You Back To The Internet Of Old",
+          "shared_terms": [
+            "search"
+          ]
+        },
+        {
+          "headline": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
+          "shared_terms": [
+            "filter"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously \"critically lacking\"",
+          "url": "https://www.rockpapershotgun.com/itchio-will-soon-let-you-filter-games-with-genai-disclosures-out-of-your-search-results-on-the-site-after-admitting-it-was-previously-critically-lacking",
+          "published": "2026-11-03T10:12:22+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "eight-espionage-great-including-november-rpg",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Eight Xbox Games Are Out Today, Including The Next Great Espionage RPG (November 3)",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 1.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "eight espionage including rpg great",
+      "related": [],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Eight Xbox Games Are Out Today, Including The Next Great Espionage RPG (November 3)",
+          "url": "https://www.purexbox.com/news/2026/11/eight-xbox-games-are-out-today-including-the-next-great-espionage-rpg-november-3",
+          "published": "2026-11-03T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "active-black-call-compared-duty-fewer",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 1.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "ops active compared fewer warfare",
+      "related": [
+        {
+          "headline": "Claude Code Just Got A New Rule: Stop Copying Other People’s Games",
+          "shared_terms": [
+            "fewer"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7",
+          "published": "2026-11-03T11:22:41+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "alternative-blue-fox-skies-star-switch",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Review: Wild Blue Skies (Switch) - An Unoriginal Alternative To Star Fox 64",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 1.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "unoriginal fox skies alternative blue",
+      "related": [
+        {
+          "headline": "New Port Of NFS Underground 2 Turns The Beloved PS2 Racer Into A Wild MMO",
+          "shared_terms": [
+            "wild"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Review: Wild Blue Skies (Switch) - An Unoriginal Alternative To Star Fox 64",
+          "url": "https://www.nintendolife.com/reviews/switch-eshop/wild-blue-skies",
+          "published": "2026-11-03T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "apologises-daylight-dead-dlc-gifting-heat",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Dead by Daylight studio apologises for gifting offensive streamer DLC and telling them ‘we can take the heat’",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 0.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "streamer heat offensive apologises telling",
+      "related": [
+        {
+          "headline": "Dead By Daylight Faces Backlash On All Sides After Apologizing For Gifting TheBurntPeanut All Content",
+          "shared_terms": [
+            "gifting"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Dead by Daylight studio apologises for gifting offensive streamer DLC and telling them ‘we can take the heat’",
+          "url": "https://www.videogameschronicle.com/news/dead-by-daylight-studio-apologises-for-gifting-offensive-streamer-dlc-and-telling-them-we-can-take-the-heat/",
+          "published": "2026-11-03T12:10:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "between-cosy-crossplay-launch-rpg-support",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Cosy Witch RPG 'Witchbrook' Will Support Crossplay Between Switch 1 & 2 At Launch",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 0.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "witchbrook between witch cosy crossplay",
+      "related": [
+        {
+          "headline": "Expanding Horizons: How Wuthering Waves Won Over a Global Audience Through Sustained Live Support",
+          "shared_terms": [
+            "support"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Cosy Witch RPG 'Witchbrook' Will Support Crossplay Between Switch 1 & 2 At Launch",
+          "url": "https://www.nintendolife.com/news/2026/11/cosy-witch-rpg-witchbrook-will-support-crossplay-between-switch-1-and-2-at-launch",
+          "published": "2026-11-03T12:15:00+00:00"
+        }
+      ]
+    }
+  ]
+}
