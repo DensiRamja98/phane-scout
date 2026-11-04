@@ -1,32 +1,249 @@
 {
-  "generated_at": "2026-11-03T12:42:56.766292+00:00",
+  "generated_at": "2026-11-04T12:54:31.252850+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "currently-discounts-drops-enix-eshop-fantasy",
-      "score": 41.0,
+      "story_id": "backlash-ban-barring-community-creations-despite",
+      "score": 42.7,
       "already_proposed": false,
-      "headline": "Square Enix's 'Harvest Sale' Includes Huge Discounts On Final Fantasy VII Remake Intergrade And Rebirth",
+      "headline": "Nexus Mods rules out full AI ban despite community backlash",
       "topics": [
-        "nintendo",
-        "aaa",
-        "feel_good"
+        "industria"
       ],
-      "age_hours": 11.0,
+      "age_hours": 14.7,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.75,
+        "it_gap": 0.67,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.85,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 116,
+        "top_views": 116,
+        "top_title": "Nexus Mods won't ban AI-made mods despite community backlash #gaming"
+      },
+      "youtube_query": "ban nexus mods rules outright",
+      "related": [
+        {
+          "headline": "itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously \"critically lacking\"",
+          "shared_terms": [
+            "disclosures",
+            "site"
+          ]
+        },
+        {
+          "headline": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
+          "shared_terms": [
+            "disclosure"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Nexus Mods rules out full AI ban despite community backlash",
+          "url": "https://www.videogameschronicle.com/news/nexus-mods-rules-out-full-ai-ban-despite-community-backlash/",
+          "published": "2026-11-03T22:12:59+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "\"An outright ban will not eliminate AI from the modding process,\" Nexus Mods say as they rule out barring generated creations from their site",
+          "url": "https://www.rockpapershotgun.com/nexus-mods-rule-out-barring-ai-generated-creations-from-their-site",
+          "published": "2026-11-04T10:34:07+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Nexus Mods Forces Mandatory AI Disclosures and Filters, Explains Why It Won't Ban AI Mods",
+          "url": "https://www.ign.com/articles/nexus-mods-forces-mandatory-generative-ai-disclosures-and-filters",
+          "published": "2026-11-04T10:50:53+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Nexus Mods introduces new AI disclosure rules, but won't ban AI mods outright",
+          "url": "https://www.eurogamer.net/nexus-mods-gen-ai-disclosure-rules",
+          "published": "2026-11-04T12:18:44+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "according-arkane-bid-buying-companies-dev",
+      "score": 38.8,
+      "already_proposed": false,
+      "headline": "Ubisoft One of Multiple Companies to Bid for Dishonored Dev Arkane",
+      "topics": [
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 12.7,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.96,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 24,
+        "top_views": 24,
+        "top_title": "Multiple Bidders Have Offered To Buy Arkane Lyon From Xbox"
+      },
+      "youtube_query": "companies arkane ubisoft bid dev",
+      "related": [
+        {
+          "headline": "Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report",
+          "shared_terms": [
+            "according",
+            "report"
+          ]
+        },
+        {
+          "headline": "Buying GTA 6 Could Save You $5,000, Or At Least This Guy Thinks So",
+          "shared_terms": [
+            "buying"
+          ]
+        },
+        {
+          "headline": "Ubisoft has reportedly offered to buy Arkane Lyon from Xbox",
+          "shared_terms": [
+            "dishonored"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Ubisoft One of Multiple Companies to Bid for Dishonored Dev Arkane",
+          "url": "https://www.pushsquare.com/news/2026/11/ubisoft-one-of-multiple-companies-to-bid-for-dishonored-dev-arkane",
+          "published": "2026-11-04T00:15:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Ubisoft and at least two other companies are interested in buying Arkane, according to new report",
+          "url": "https://www.eurogamer.net/arkane-studios-ubisoft-interested-buyers",
+          "published": "2026-11-04T09:17:51+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "acquire-arkane-buy-company-dishonored-lyon",
+      "score": 36.3,
+      "already_proposed": false,
+      "headline": "Ubisoft has reportedly offered to buy Arkane Lyon from Xbox",
+      "topics": [
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 15.7,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.25,
+        "it_gap": 0.67,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.8,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry",
+        "PC Gamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 4,
+        "median_views": 13,
+        "top_views": 37,
+        "top_title": "Ubisoft Reportedly Wants to Buy the Studio Behind Blade"
+      },
+      "youtube_query": "reportedly arkane ubisoft xbox lyon",
+      "related": [
+        {
+          "headline": "Ubisoft One of Multiple Companies to Bid for Dishonored Dev Arkane",
+          "shared_terms": [
+            "dishonored"
+          ]
+        },
+        {
+          "headline": "Dodgy download and spoofed job ad led to $6.3 billion Binance hack: attacker offered fake software and fake job to infiltrate company wallets and steal billions",
+          "shared_terms": [
+            "company",
+            "offered"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Ubisoft has reportedly offered to buy Arkane Lyon from Xbox",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-has-reportedly-offered-to-buy-arkane-lyon-from-xbox/",
+          "published": "2026-11-03T21:15:26+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Ubisoft reportedly wants to buy Arkane from Xbox",
+          "url": "https://www.pcgamer.com/gaming-industry/ubisoft-reportedly-wants-to-buy-arkane-from-xbox/",
+          "published": "2026-11-03T22:12:35+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Ubisoft are reportedly tapped as one potential company that could acquire Arkane, though the Dishonored studio's own management may be in the running too",
+          "url": "https://www.rockpapershotgun.com/ubisoft-are-reportedly-tapped-as-one-potential-company-that-could-acquire-arkane-though-the-dishonored-studios-own-management-may-be-in-the-running-too",
+          "published": "2026-11-03T22:51:31+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Ubisoft reportedly seeking to acquire Arkane Lyon from Xbox",
+          "url": "https://www.gamesindustry.biz/ubisoft-reportedly-seeking-to-acquire-arkane-lyon-from-xbox",
+          "published": "2026-11-04T08:35:49+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "admits-approving-because-behind-nothing-pre",
+      "score": 35.9,
+      "already_proposed": false,
+      "headline": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 13.1,
       "signals": {
         "coverage": 0.33,
         "velocity": 1.0,
         "it_gap": 0.33,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 1.0,
-        "freshness": 1.0,
+        "topic": 0.33,
+        "freshness": 0.94,
         "weak_format": false
       },
       "coverage_en": [
-        "Nintendo Life",
+        "PC Gamer",
         "VGC"
       ],
       "coverage_it": [],
@@ -36,213 +253,112 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "huge rebirth fantasy final remake",
+      "youtube_query": "behind reviewing running because steam",
       "related": [
         {
-          "headline": "Final Fantasy Resonance Producer Had to Fight Square Enix Execs Who Wanted Cheap Port of Dead Mobile Game",
+          "headline": "\"Steam's review queue is clogged up by AI slop\": Salacious Fire Emblem-ish Food Devils gets a delay because its devs think Valve is inundated with genAI games",
           "shared_terms": [
-            "enix"
-          ]
-        },
-        {
-          "headline": "The Legend of Zelda Edition Nintendo Switch Pro Controller Drops to $46.60 Ahead of Black Friday",
-          "shared_terms": [
-            "drops"
+            "valve"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Nintendo Life",
-          "title": "Square Enix's 'Harvest Sale' Includes Huge Discounts On Final Fantasy VII Remake Intergrade And Rebirth",
-          "url": "https://www.nintendolife.com/news/2026/11/square-enixs-harvest-sale-includes-huge-discounts-on-final-fantasy-vii-remake-intergrade-and-rebirth",
-          "published": "2026-11-03T01:45:00+00:00"
+          "source": "PC Gamer",
+          "title": "Valve admits it's 'running behind' on approving Steam games because it has to keep re-reviewing them, which surely has nothing to do with AI",
+          "url": "https://www.pcgamer.com/gaming-industry/valve-admits-its-running-behind-on-approving-steam-games-because-it-has-to-keep-re-reviewing-them-which-surely-has-nothing-to-do-with-ai/",
+          "published": "2026-11-03T23:51:13+00:00"
         },
         {
           "source": "VGC",
-          "title": "Final Fantasy 7 Remake and Rebirth currently have huge price drops on the Switch 2 eShop",
-          "url": "https://www.videogameschronicle.com/news/final-fantasy-7-remake-and-rebirth-currently-have-huge-price-drops-on-the-switch-2-eshop/",
-          "published": "2026-11-03T09:35:53+00:00"
+          "title": "Steam says it’s ‘running behind’ when reviewing pre-release games because of how many re-reviews it has to do",
+          "url": "https://www.videogameschronicle.com/news/steam-says-its-running-behind-when-reviewing-pre-release-games-because-of-how-many-re-reviews-it-has-to-do/",
+          "published": "2026-11-04T10:50:08+00:00"
         }
       ]
     },
     {
-      "story_id": "ammette-ammissione-avrebbe-avrei-burn-burns",
-      "score": 35.9,
+      "story_id": "actors-legend-masterpiece-nintendo-ocarina-original",
+      "score": 35.8,
       "already_proposed": false,
-      "headline": "South Of Midnight Director Says He Doesn’t Think Xbox Should Have Funded It",
+      "headline": "Nintendo Rehired One Of The Original Voice Actors For The Ocarina Of Time Remake Without Even Realizing It",
       "topics": [
-        "xbox"
+        "nintendo",
+        "aaa"
       ],
-      "age_hours": 15.7,
+      "age_hours": 18.4,
       "signals": {
-        "coverage": 0.83,
-        "velocity": 0.8,
-        "it_gap": 0.28,
-        "yt_demand": 0.01,
+        "coverage": 0.5,
+        "velocity": 0.67,
+        "it_gap": 0.5,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.79,
+        "topic": 0.67,
+        "freshness": 0.64,
         "weak_format": false
       },
       "coverage_en": [
         "IGN",
         "Kotaku",
-        "Pure Xbox",
-        "Rock Paper Shotgun",
         "VGC"
       ],
-      "coverage_it": [
-        "Everyeye",
-        "Multiplayer"
-      ],
+      "coverage_it": [],
       "youtube": {
-        "video_count": 4,
-        "median_views": 16,
-        "top_views": 3620,
-        "top_title": "WBG XBOX Podcast EP 348: Gears E-Day $500 Million Budget DEBUNKED | Jason Schreier Backtracks Report"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "south midnight director xbox funding",
+      "youtube_query": "remake ocarina nintendo zelda realizing",
       "related": [
         {
-          "headline": "Former Xbox Manager Explains Why $500M Cost For Gears: E-Day Doesn't Tell The Whole Story",
+          "headline": "Smash hit cyberpunk storekeeper Probably Stolen was originally a different, non-cyberpunk game that seemed destined to sink without trace",
           "shared_terms": [
-            "doesn"
+            "without"
           ]
         }
       ],
       "articles": [
         {
           "source": "Kotaku",
-          "title": "South Of Midnight Director Says He Doesn’t Think Xbox Should Have Funded It",
-          "url": "https://kotaku.com/creative-director-says-he-wanted-to-make-south-of-midnight-but-doesnt-think-xbox-should-have-funded-it-2000752408",
-          "published": "2026-11-02T21:00:18+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "South of Midnight: Microsoft non avrebbe dovuto finanziarlo, ammette il director del gioco",
-          "url": "https://www.everyeye.it/notizie/south-of-midnight-microsoft-non-dovuto-finanziarlo-ammette-director-gioco-909401.html",
-          "published": "2026-11-02T21:37:00+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "\"Al posto di Xbox non avrei finanziato South of Midnight\": la sincera ammissione del creative director",
-          "url": "https://multiplayer.it/notizie/al-posto-di-xbox-non-avrei-finanziato-south-of-midnight-la-sincera-ammissione-del-creative-director.html",
-          "published": "2026-11-03T07:38:09+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "South of Midnight director says he wouldn’t have funded it if he was Xbox, and he knew ‘Rome would burn’ eventually",
-          "url": "https://www.videogameschronicle.com/news/south-of-midnight-director-says-he-wouldnt-have-funded-it-if-he-was-xbox-and-a-bad-outcome-was-inevitable/",
-          "published": "2026-11-03T10:57:21+00:00"
+          "title": "Nintendo Rehired One Of The Original Voice Actors For The Ocarina Of Time Remake Without Even Realizing It",
+          "url": "https://kotaku.com/nintendo-rehired-one-of-the-original-voice-actors-for-the-ocarina-of-time-remake-without-even-realizing-it-2000752765",
+          "published": "2026-11-03T18:30:36+00:00"
         },
         {
           "source": "IGN",
-          "title": "South of Midnight Creative Director Would Have Turned Off Xbox 'Money Tap' Earlier, Says Funding Was 'Unsustainable'",
-          "url": "https://www.ign.com/articles/south-of-midnight-creative-director-wouldnt-have-funded-the-game",
-          "published": "2026-11-03T11:36:08+00:00"
+          "title": "How Long Is The Legend of Zelda: Ocarina of Time Remake?",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-how-long-to-beat",
+          "published": "2026-11-04T11:00:00+00:00"
         },
         {
-          "source": "Rock Paper Shotgun",
-          "title": "\"There’s always a night when Rome burns\": South Of Midnight director says that Xbox funding it was \"unsustainable\", at least in hindsight",
-          "url": "https://www.rockpapershotgun.com/theres-always-a-night-when-rome-burns-south-of-midnight-director-says-that-xbox-funding-it-was-unsustainable-at-least-in-hindsight",
-          "published": "2026-11-03T11:49:29+00:00"
-        },
-        {
-          "source": "Pure Xbox",
-          "title": "South Of Midnight Director Reflects On Why He Was 'Always Worried' About Funding At Xbox",
-          "url": "https://www.purexbox.com/news/2026/11/south-of-midnight-director-reflects-on-why-he-was-always-worried-about-funding-at-xbox",
-          "published": "2026-11-03T12:00:00+00:00"
+          "source": "VGC",
+          "title": "Zelda: Ocarina of Time Remake Review: Nintendo’s timeless masterpiece",
+          "url": "https://www.videogameschronicle.com/review/zelda-ocarina-of-time-remake-review/",
+          "published": "2026-11-04T11:00:49+00:00"
         }
       ]
     },
     {
-      "story_id": "additions-begins-changes-crossworlds-dlc-godzilla",
-      "score": 35.8,
+      "story_id": "almost-expansion-gameplay-guild-major-update",
+      "score": 34.2,
       "already_proposed": false,
-      "headline": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Notes Preview - New Additions, Changes & Improvements",
+      "headline": "Guild Wars gets its first major gameplay update in almost 20 years",
       "topics": [],
-      "age_hours": 12.0,
+      "age_hours": 2.9,
       "signals": {
         "coverage": 0.33,
         "velocity": 1.0,
         "it_gap": 0.33,
-        "yt_demand": 0.06,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.0,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Nintendo Life",
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 4,
-        "median_views": 405,
-        "top_views": 145862,
-        "top_title": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Notes Preview"
-      },
-      "youtube_query": "crossworlds sonic racing year additions",
-      "related": [
-        {
-          "headline": "Feature: Last Chance to Buy These 50+ PS5, PS4 Games in PS Store's Planet of the Deals Sale",
-          "shared_terms": [
-            "begins"
-          ]
-        },
-        {
-          "headline": "Phantom Blade Zero parte a razzo: 4 milioni di copie vendute",
-          "shared_terms": [
-            "massive"
-          ]
-        },
-        {
-          "headline": "Housemarque Issues Saros PS5 Patch for Bug Fixes, Update Out Now",
-          "shared_terms": [
-            "patch"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Sonic Racing: CrossWorlds - Year Two 2.0.0 Patch Notes Preview - New Additions, Changes & Improvements",
-          "url": "https://www.nintendolife.com/news/2026/11/sonic-racing-crossworlds-year-two-2-0-0-patch-notes-preview-new-additions-changes-and-improvements",
-          "published": "2026-11-03T00:45:00+00:00"
-        },
-        {
-          "source": "Push Square",
-          "title": "Sonic Racing: CrossWorlds Gets Massive Update, Godzilla DLC Today as Year Two Begins",
-          "url": "https://www.pushsquare.com/news/2026/11/sonic-racing-crossworlds-gets-massive-update-godzilla-dlc-today-as-year-two-begins",
-          "published": "2026-11-03T12:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "disclosure-expands-filter-indie-itch-overwhelm",
-      "score": 35.7,
-      "already_proposed": false,
-      "headline": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
-      "topics": [
-        "steam",
-        "indie",
-        "industria"
-      ],
-      "age_hours": 0.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 1.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer"
+        "Eurogamer",
+        "GameSpot"
       ],
       "coverage_it": [],
       "youtube": {
@@ -251,79 +367,79 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "storefronts expands disclosure overwhelm slop",
+      "youtube_query": "almost guild wars years major",
       "related": [
         {
-          "headline": "A Scam Website Is Trying To Cash In On AO3 Outage By ‘Selling’ Audiobooks Of Fanfics",
+          "headline": "Advertising Standards Authority bans mobile ads from King, Scopely, and others for misrepresenting gameplay",
           "shared_terms": [
-            "website"
-          ]
-        },
-        {
-          "headline": "itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously \"critically lacking\"",
-          "shared_terms": [
-            "filter"
+            "gameplay"
           ]
         }
       ],
       "articles": [
         {
           "source": "Eurogamer",
-          "title": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
-          "url": "https://www.eurogamer.net/itchio-generative-ai-filters-slop",
-          "published": "2026-11-03T12:03:56+00:00"
+          "title": "Guild Wars gets its first major gameplay update in almost 20 years",
+          "url": "https://www.eurogamer.net/guild-wars-1-afterlife-announced-20-years",
+          "published": "2026-11-04T09:59:17+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Guild Wars Is Getting Its First New Expansion In Almost 20 Years",
+          "url": "https://www.gamespot.com/articles/guild-wars-is-getting-its-first-new-expansion-in-almost-20-years/",
+          "published": "2026-11-04T10:39:48+00:00"
         }
       ]
     },
     {
-      "story_id": "amount-concerning-early-fans-gta-pets",
-      "score": 33.8,
+      "story_id": "broke-decade-fans-gta-mystery-unsolvable",
+      "score": 33.5,
       "already_proposed": false,
-      "headline": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
+      "headline": "GTA 5’s Unsolvable Mystery Broke Fans for Over a Decade, and GTA 6 Should Do It Again",
       "topics": [
         "aaa",
         "feel_good"
       ],
-      "age_hours": 12.0,
+      "age_hours": 8.9,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.01,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "IGN"
+        "Polygon"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 2,
-        "median_views": 20,
-        "top_views": 20,
-        "top_title": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early #Shorts"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "amount pets concerning early fans",
+      "youtube_query": "fans unsolvable broke decade mystery",
       "related": [],
       "articles": [
         {
-          "source": "IGN",
-          "title": "A Concerning Amount of GTA Fans Would Give Up Their Pets to Play GTA 6 Early",
-          "url": "https://www.ign.com/articles/a-concerning-amount-of-gta-fans-would-give-up-their-pets-to-play-gta-6-early",
-          "published": "2026-11-03T00:44:36+00:00"
+          "source": "Polygon",
+          "title": "GTA 5’s Unsolvable Mystery Broke Fans for Over a Decade, and GTA 6 Should Do It Again",
+          "url": "https://www.polygon.com/gta-5-mount-chiliad-mystery-unsolvable-broke-fans/",
+          "published": "2026-11-04T04:00:17+00:00"
         }
       ]
     },
     {
-      "story_id": "cut-dungeon-fantasy-final-massively-queue",
+      "story_id": "controller-feature-hidden-nano-revealed-reviews",
       "score": 33.5,
       "already_proposed": false,
-      "headline": "Upcoming Final Fantasy 14 update should massively cut down on dungeon queue times",
+      "headline": "Xbox Nano Controller Gets Its First Reviews, And A Secret Hidden Feature Is Revealed",
       "topics": [
-        "aaa",
-        "feel_good"
+        "xbox",
+        "easter_egg"
       ],
       "age_hours": 0.9,
       "signals": {
@@ -337,7 +453,7 @@
         "weak_format": false
       },
       "coverage_en": [
-        "PC Gamer"
+        "Pure Xbox"
       ],
       "coverage_it": [],
       "youtube": {
@@ -346,67 +462,125 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "massively dungeon queue upcoming cut",
-      "related": [],
+      "youtube_query": "feature hidden secret nano reviews",
+      "related": [
+        {
+          "headline": "Secret PS4 Firmware Update 14.02 to Fight New Wave of Piracy, Hacking",
+          "shared_terms": [
+            "secret"
+          ]
+        }
+      ],
       "articles": [
         {
-          "source": "PC Gamer",
-          "title": "Upcoming Final Fantasy 14 update should massively cut down on dungeon queue times",
-          "url": "https://www.pcgamer.com/games/mmo/upcoming-final-fantasy-14-update-should-massively-cut-down-on-dungeon-queue-times/",
-          "published": "2026-11-03T11:47:55+00:00"
+          "source": "Pure Xbox",
+          "title": "Xbox Nano Controller Gets Its First Reviews, And A Secret Hidden Feature Is Revealed",
+          "url": "https://www.purexbox.com/news/2026/11/xbox-nano-controller-gets-its-first-reviews-and-a-secret-hidden-feature-is-revealed",
+          "published": "2026-11-04T12:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "dies-fan-fans-gta-ill-launch",
-      "score": 32.8,
+      "story_id": "226-appears-bet-boost-control-date",
+      "score": 32.6,
       "already_proposed": false,
-      "headline": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
-      "topics": [
-        "aaa",
-        "feel_good"
-      ],
-      "age_hours": 13.5,
+      "headline": "Remedy Q3 revenue triples to €39.6m following launch of Control Resonant",
+      "topics": [],
+      "age_hours": 28.3,
       "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "coverage": 1.0,
+        "velocity": 0.0,
+        "it_gap": 1.0,
+        "yt_demand": 0.02,
         "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.92,
+        "topic": 0.0,
+        "freshness": 0.1,
         "weak_format": false
       },
       "coverage_en": [
-        "IGN"
+        "Eurogamer",
+        "Game Developer",
+        "GameSpot",
+        "GamesIndustry",
+        "PC Gamer",
+        "Push Square"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 5,
+        "median_views": 25,
+        "top_views": 61,
+        "top_title": "Control Resonant Tripled Remedy's Revenue"
       },
-      "youtube_query": "dies weeks pay terminally respects",
-      "related": [],
+      "youtube_query": "resonant control remedy revenue fastest",
+      "related": [
+        {
+          "headline": "Borderlands Franchise Hits 100 Million Sales As Gearbox Hints At What’s Next",
+          "shared_terms": [
+            "franchise"
+          ]
+        },
+        {
+          "headline": "Here's the WoW: Forever release time for your region",
+          "shared_terms": [
+            "boost"
+          ]
+        },
+        {
+          "headline": "Dead by Daylight Developer Apologizes Again, Removes Free Items From TheBurntPeanut's Account",
+          "shared_terms": [
+            "developer"
+          ]
+        }
+      ],
       "articles": [
         {
-          "source": "IGN",
-          "title": "Terminally Ill GTA 6 Fan Dies 3 Weeks Before Game's Launch, Fans Pay Their Respects",
-          "url": "https://www.ign.com/articles/terminally-ill-gta-6-fan-dies-three-weeks-before-games-launch-fans-pay-their-respects",
-          "published": "2026-11-02T23:12:25+00:00"
+          "source": "GamesIndustry",
+          "title": "Remedy Q3 revenue triples to €39.6m following launch of Control Resonant",
+          "url": "https://www.gamesindustry.biz/remedy-q3-revenue-triples-to-396m-following-launch-of-control-resonant",
+          "published": "2026-11-03T08:39:15+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Remedy revenue soars by 226% following release of Control Resonant, the developer's fastest-selling game ever",
+          "url": "https://www.eurogamer.net/control-resonant-remedy-revenue-leaps",
+          "published": "2026-11-03T09:56:48+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Remedy’s Big Bet On Control Resonant Appears To Be Paying Off",
+          "url": "https://www.gamespot.com/articles/remedys-big-bet-on-control-resonant-appears-to-be-paying-off/",
+          "published": "2026-11-03T13:51:01+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Control Resonant Is Remedy's Fastest Selling Game Ever, Led to a Massive Boost in Revenue",
+          "url": "https://www.pushsquare.com/news/2026/11/control-resonant-is-remedys-fastest-selling-game-ever-led-to-a-massive-boost-in-revenue",
+          "published": "2026-11-03T18:00:00+00:00"
+        },
+        {
+          "source": "Game Developer",
+          "title": "Half of Control Resonant's players were 'new' to the franchise",
+          "url": "https://www.gamedeveloper.com/business/half-of-control-resonant-s-players-were-new-to-the-franchise",
+          "published": "2026-11-03T19:56:03+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Control Resonant is Remedy's fastest-selling game to date, tripling the studio's quarterly revenue",
+          "url": "https://www.pcgamer.com/games/action/control-resonant-is-remedys-fastest-selling-game-to-date-tripling-the-studios-quarterly-revenue/",
+          "published": "2026-11-03T21:54:41+00:00"
         }
       ]
     },
     {
-      "story_id": "airbender-avatar-iroh-later-quote-uncle",
+      "story_id": "aragorn-defines-entire-later-lord-quote",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "20 Years Later, Uncle Iroh's Wisest 'Avatar: The Last Airbender Quote' Is Still Undefeated",
+      "headline": "25 Years Later, Aragorn's Best Lord of the Rings Quote Still Defines the Entire Trilogy",
       "topics": [
         "easter_egg"
       ],
-      "age_hours": 7.7,
+      "age_hours": 3.9,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -427,34 +601,33 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "iroh undefeated quote wisest uncle",
+      "youtube_query": "defines trilogy later aragorn lord",
       "related": [
         {
-          "headline": "'Avatar: Seven Havens' Season 2 Could Return to 'The Last Airbender’s Most Iconic Location",
+          "headline": "The Elder Scrolls 6 Is Officially Titled Sentinel",
           "shared_terms": [
-            "airbender",
-            "avatar"
+            "quote"
           ]
         }
       ],
       "articles": [
         {
           "source": "Polygon",
-          "title": "20 Years Later, Uncle Iroh's Wisest 'Avatar: The Last Airbender Quote' Is Still Undefeated",
-          "url": "https://www.polygon.com/avatar-the-last-airbenders-best-quote/",
-          "published": "2026-11-03T05:00:17+00:00"
+          "title": "25 Years Later, Aragorn's Best Lord of the Rings Quote Still Defines the Entire Trilogy",
+          "url": "https://www.polygon.com/aragorn-lord-of-the-rings-best-quote/",
+          "published": "2026-11-04T09:00:17+00:00"
         }
       ]
     },
     {
-      "story_id": "2027-according-days-exclusive-gone-playstation",
+      "story_id": "fight-firmware-hacking-piracy-ps4-secret",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report",
+      "headline": "Secret PS4 Firmware Update 14.02 to Fight New Wave of Piracy, Hacking",
       "topics": [
-        "playstation"
+        "easter_egg"
       ],
-      "age_hours": 3.4,
+      "age_hours": 2.7,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -466,7 +639,7 @@
         "weak_format": false
       },
       "coverage_en": [
-        "Eurogamer"
+        "Push Square"
       ],
       "coverage_it": [],
       "youtube": {
@@ -475,181 +648,41 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "released according exclusive gone days",
+      "youtube_query": "piracy fight hacking secret wave",
       "related": [
         {
-          "headline": "Phantom Blade Zero is Steam's biggest launch of the year so far, selling over 4 million copies in three days",
+          "headline": "Users pull $3.6 bn from Binance as it reopens following $6.3 billion mega-hack - FBI says North Korean hacking group 'TraderTraitor' to blame, North Korea says nuh-uh",
           "shared_terms": [
-            "days"
+            "hacking"
           ]
         },
         {
-          "headline": "Yakuza Creator's Gang of Dragon PS5 Game and New Studio Officially Dead",
+          "headline": "Xbox’s first wave of November Game Pass releases includes Vampire Crawlers",
           "shared_terms": [
-            "gone"
+            "wave"
           ]
         },
         {
-          "headline": "Zelda producer Aonuma wanted to remake Ocarina of Time to ‘trigger new insights’ in the team’s younger developers",
+          "headline": "Xbox Nano Controller Gets Its First Reviews, And A Secret Hidden Feature Is Revealed",
           "shared_terms": [
-            "revealed"
+            "secret"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Eurogamer",
-          "title": "Days Gone studio's next PlayStation exclusive to be revealed and released in 2027, according to new report",
-          "url": "https://www.eurogamer.net/sony-bend-studio-next-playstation-game-2027",
-          "published": "2026-11-03T09:18:39+00:00"
+          "source": "Push Square",
+          "title": "Secret PS4 Firmware Update 14.02 to Fight New Wave of Piracy, Hacking",
+          "url": "https://www.pushsquare.com/news/2026/11/secret-ps4-firmware-update-14-02-to-fight-new-wave-of-piracy-hacking",
+          "published": "2026-11-04T10:15:00+00:00"
         }
       ]
     },
     {
-      "story_id": "admitting-critically-disclosures-filter-genai-itch",
+      "story_id": "accessible-adopting-bunch-eshop-initiative-joins",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously \"critically lacking\"",
-      "topics": [
-        "industria"
-      ],
-      "age_hours": 2.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Rock Paper Shotgun"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "site critically previously results lacking",
-      "related": [
-        {
-          "headline": "Google's Ocarina Of Time Easter Egg Will Transport You Back To The Internet Of Old",
-          "shared_terms": [
-            "search"
-          ]
-        },
-        {
-          "headline": "Indie game website itch.io expands its AI disclosure filter as 'AI slop' continues to overwhelm Steam and other storefronts",
-          "shared_terms": [
-            "filter"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Rock Paper Shotgun",
-          "title": "itch.io will soon let you filter games with genAI disclosures out of your search results on the site, after admitting it was previously \"critically lacking\"",
-          "url": "https://www.rockpapershotgun.com/itchio-will-soon-let-you-filter-games-with-genai-disclosures-out-of-your-search-results-on-the-site-after-admitting-it-was-previously-critically-lacking",
-          "published": "2026-11-03T10:12:22+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "eight-espionage-great-including-november-rpg",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Eight Xbox Games Are Out Today, Including The Next Great Espionage RPG (November 3)",
-      "topics": [
-        "xbox"
-      ],
-      "age_hours": 1.7,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Pure Xbox"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "eight espionage including rpg great",
-      "related": [],
-      "articles": [
-        {
-          "source": "Pure Xbox",
-          "title": "Eight Xbox Games Are Out Today, Including The Next Great Espionage RPG (November 3)",
-          "url": "https://www.purexbox.com/news/2026/11/eight-xbox-games-are-out-today-including-the-next-great-espionage-rpg-november-3",
-          "published": "2026-11-03T11:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "active-black-call-compared-duty-fewer",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 1.3,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "ops active compared fewer warfare",
-      "related": [
-        {
-          "headline": "Claude Code Just Got A New Rule: Stop Copying Other People’s Games",
-          "shared_terms": [
-            "fewer"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-player-engagement-black-ops-7",
-          "published": "2026-11-03T11:22:41+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "alternative-blue-fox-skies-star-switch",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Review: Wild Blue Skies (Switch) - An Unoriginal Alternative To Star Fox 64",
+      "headline": "Nintendo Joins The Accessible Games Initiative, Adopting A Bunch Of New eShop Game Tags",
       "topics": [
         "nintendo"
       ],
@@ -674,80 +707,26 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "unoriginal fox skies alternative blue",
-      "related": [
-        {
-          "headline": "New Port Of NFS Underground 2 Turns The Beloved PS2 Racer Into A Wild MMO",
-          "shared_terms": [
-            "wild"
-          ]
-        }
-      ],
+      "youtube_query": "bunch accessible eshop joins tags",
+      "related": [],
       "articles": [
         {
           "source": "Nintendo Life",
-          "title": "Review: Wild Blue Skies (Switch) - An Unoriginal Alternative To Star Fox 64",
-          "url": "https://www.nintendolife.com/reviews/switch-eshop/wild-blue-skies",
-          "published": "2026-11-03T11:30:00+00:00"
+          "title": "Nintendo Joins The Accessible Games Initiative, Adopting A Bunch Of New eShop Game Tags",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-joins-the-accessible-games-initiative-adopting-a-bunch-of-new-eshop-game-tags",
+          "published": "2026-11-04T11:45:00+00:00"
         }
       ]
     },
     {
-      "story_id": "apologises-daylight-dead-dlc-gifting-heat",
+      "story_id": "business-cartridges-exits-key-manufacturer-rom",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "Dead by Daylight studio apologises for gifting offensive streamer DLC and telling them ‘we can take the heat’",
-      "topics": [
-        "feel_good"
-      ],
-      "age_hours": 0.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "streamer heat offensive apologises telling",
-      "related": [
-        {
-          "headline": "Dead By Daylight Faces Backlash On All Sides After Apologizing For Gifting TheBurntPeanut All Content",
-          "shared_terms": [
-            "gifting"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "VGC",
-          "title": "Dead by Daylight studio apologises for gifting offensive streamer DLC and telling them ‘we can take the heat’",
-          "url": "https://www.videogameschronicle.com/news/dead-by-daylight-studio-apologises-for-gifting-offensive-streamer-dlc-and-telling-them-we-can-take-the-heat/",
-          "published": "2026-11-03T12:10:50+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "between-cosy-crossplay-launch-rpg-support",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Cosy Witch RPG 'Witchbrook' Will Support Crossplay Between Switch 1 & 2 At Launch",
+      "headline": "Switch 1 & 2 Cartridges Under Threat As Key ROM Manufacturer Exits Business",
       "topics": [
         "nintendo"
       ],
-      "age_hours": 0.5,
+      "age_hours": 0.7,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -768,21 +747,120 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "witchbrook between witch cosy crossplay",
+      "youtube_query": "exits rom manufacturer threat cartridges",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Switch 1 & 2 Cartridges Under Threat As Key ROM Manufacturer Exits Business",
+          "url": "https://www.nintendolife.com/news/2026/11/switch-1-and-2-cartridges-under-threat-as-key-rom-manufacturer-exits-business",
+          "published": "2026-11-04T12:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2026-amd-beat-end-intel-revenue",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "AMD says it's going to beat Intel in total revenue for the very first time by the end of 2026",
+      "topics": [
+        "pc_gaming"
+      ],
+      "age_hours": 0.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "total end beat intel amd",
       "related": [
         {
-          "headline": "Expanding Horizons: How Wuthering Waves Won Over a Global Audience Through Sustained Live Support",
+          "headline": "Bride Goes Viral After Challenging Groom to Beat Her at Valorant Before Marrying Her",
           "shared_terms": [
-            "support"
+            "beat"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Nintendo Life",
-          "title": "Cosy Witch RPG 'Witchbrook' Will Support Crossplay Between Switch 1 & 2 At Launch",
-          "url": "https://www.nintendolife.com/news/2026/11/cosy-witch-rpg-witchbrook-will-support-crossplay-between-switch-1-and-2-at-launch",
-          "published": "2026-11-03T12:15:00+00:00"
+          "source": "PC Gamer",
+          "title": "AMD says it's going to beat Intel in total revenue for the very first time by the end of 2026",
+          "url": "https://www.pcgamer.com/hardware/processors/amd-says-its-going-to-beat-intel-in-total-revenue-for-the-very-first-time-by-the-end-of-2026/",
+          "published": "2026-11-04T12:40:51+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "aid-call-chronicles-funding-historical-lose",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "\"Keep talking about it\": Raw Power Games call for Wishlist aid as they, and their historical strategy sandbox Chronicles: Medieval, lose funding",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 0.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "talking lose chronicles wishlist historical",
+      "related": [
+        {
+          "headline": "It looks like Call of Duty: Modern Warfare 4 had fewer active players at launch in the US compared to last year's Black Ops 7",
+          "shared_terms": [
+            "call"
+          ]
+        },
+        {
+          "headline": "Thief: The Dark Project Remastered ha una data di uscita",
+          "shared_terms": [
+            "medieval"
+          ]
+        },
+        {
+          "headline": "Game Pass Is About To Get One Of My Favorite Minimalist Strategy Games",
+          "shared_terms": [
+            "strategy"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "\"Keep talking about it\": Raw Power Games call for Wishlist aid as they, and their historical strategy sandbox Chronicles: Medieval, lose funding",
+          "url": "https://www.rockpapershotgun.com/keep-talking-about-it-raw-power-games-call-for-wishlist-aid-as-they-and-their-historical-strategy-sandbox-chronicles-medieval-lose-funding",
+          "published": "2026-11-04T12:43:24+00:00"
         }
       ]
     }
