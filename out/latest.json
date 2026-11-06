@@ -1,412 +1,453 @@
 {
-  "generated_at": "2026-11-05T13:03:33.451349+00:00",
+  "generated_at": "2026-11-06T12:51:21.788705+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "2011-alternative-because-bethesda-books-bridged",
-      "score": 46.1,
+      "story_id": "55bn-acquisition-arabia-billion-buy-buyout",
+      "score": 41.7,
       "already_proposed": false,
-      "headline": "The Elder Scrolls 6: Sentinel Is Reportedly Still \"More Than Two Years Away\"",
+      "headline": "Unity reportedly in acquisition talks with Silver Lake and Public Investment Fund, two firms involved in EA's $55bn buyout",
       "topics": [
-        "playstation",
-        "xbox",
-        "feel_good"
-      ],
-      "age_hours": 26.8,
-      "signals": {
-        "coverage": 1.0,
-        "velocity": 0.2,
-        "it_gap": 0.67,
-        "yt_demand": 0.41,
-        "yt_room": 0.0,
-        "topic": 1.0,
-        "freshness": 0.18,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "GameSpot",
-        "IGN",
-        "Kotaku",
-        "Nintendo Life",
-        "PC Gamer",
-        "Pure Xbox",
-        "Push Square",
-        "Rock Paper Shotgun"
-      ],
-      "coverage_it": [
-        "Everyeye"
-      ],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 16864,
-        "top_views": 63410,
-        "top_title": "ELDER SCROLLS 6 SENTINEL officialisé après 8 ans 🤯 NOUVELLE VIDÉO + INFOS"
-      },
-      "youtube_query": "elder scrolls sentinel fans years",
-      "related": [
-        {
-          "headline": "Ubisoft and at least two other companies are interested in buying Arkane, according to new report",
-          "shared_terms": [
-            "report"
-          ]
-        },
-        {
-          "headline": "Lara Croft's PS1 to PS5 Glow-Up to Be Revealed in Tomb Raider Cover Story",
-          "shared_terms": [
-            "story"
-          ]
-        },
-        {
-          "headline": "Fate of the Galaxy is a huge, fully-featured Star Wars space combat sim that, thanks to being a total conversion mod for Freespace Open, even runs on my rubbish laptop",
-          "shared_terms": [
-            "runs"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "The Elder Scrolls 6: Sentinel Is Reportedly Still \"More Than Two Years Away\"",
-          "url": "https://www.nintendolife.com/news/2026/11/the-elder-scrolls-6-sentinel-is-reportedly-still-more-than-two-years-away",
-          "published": "2026-11-04T10:15:00+00:00"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "title": "The Elder Scrolls 6: Sentinel already has a Nexus Mods page, so now all we have to do is wait",
-          "url": "https://www.rockpapershotgun.com/the-elder-scrolls-6-sentinel-already-has-a-nexus-mods-page-so-now-all-we-have-to-do-is-wait",
-          "published": "2026-11-04T12:08:24+00:00"
-        },
-        {
-          "source": "IGN",
-          "title": "The Elder Scrolls 6: Sentinel Will Show Us Just How Serious Xbox Is About Exclusivity",
-          "url": "https://www.ign.com/articles/the-elder-scrolls-6-sentinel-will-show-us-just-how-serious-xbox-is-about-exclusivity",
-          "published": "2026-11-04T14:30:00+00:00"
-        },
-        {
-          "source": "Pure Xbox",
-          "title": "'I'm Telling You This Because It's True' - Reporter On Xbox's Release Window For The Elder Scrolls 6",
-          "url": "https://www.purexbox.com/news/2026/11/im-telling-you-this-because-its-true-reporter-on-xboxs-release-window-for-the-elder-scrolls-6",
-          "published": "2026-11-04T15:30:00+00:00"
-        },
-        {
-          "source": "GameSpot",
-          "title": "The Elder Scrolls 6: Sentinel Is Still 2+ Years Away From Release – Report",
-          "url": "https://www.gamespot.com/articles/the-elder-scrolls-6-sentinel-is-still-2-years-away-from-release-report/",
-          "published": "2026-11-04T15:36:05+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "The Elder Scrolls 6: Sentinel fans ponder split timelines, alternative histories, and more as story speculation runs wild following latest teaser",
-          "url": "https://www.eurogamer.net/the-elder-scrolls-6-sentinel-story-speculation",
-          "published": "2026-11-04T16:00:00+00:00"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "title": "Oblivion and Skyrim’s gap was bridged by forward-looking books about a murderous floating island, so why is The Elder Scrolls 6 stuck reanimating a world that’s stood still since 2011",
-          "url": "https://www.rockpapershotgun.com/oblivion-and-skyrims-gap-was-bridged-by-forward-looking-books-about-a-murderous-floating-island-so-why-is-the-elder-scrolls-6-stuck-reanimating-a-world-thats-stood-still-since-2011",
-          "published": "2026-11-04T17:30:00+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "Lore-Obsessed Fans Think The Elder Scrolls 6: Sentinel Is Connected To Skyrim",
-          "url": "https://kotaku.com/lore-obssessed-fans-think-the-elder-scrolls-6-sentinel-is-connected-to-skyrim-2000753341",
-          "published": "2026-11-04T19:00:22+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "In The Elder Scrolls 6 Sentinel ci saranno viaggi nel tempo? Le teorie dei fan dopo il teaser trailer",
-          "url": "https://www.everyeye.it/notizie/the-elder-scrolls-6-sentinel-viaggi-tempo-teorie-fan-teaser-trailer-909847.html",
-          "published": "2026-11-04T20:48:00+00:00"
-        },
-        {
-          "source": "Push Square",
-          "title": "Bethesda Will Sell You Elder Scrolls 6: Sentinel T-Shirts and Hoodies, Even Though It Hasn't Shown the Game",
-          "url": "https://www.pushsquare.com/news/2026/11/bethesda-will-sell-you-elder-scrolls-6-sentinel-t-shirts-and-hoodies-even-though-it-hasnt-shown-the-game",
-          "published": "2026-11-05T00:00:00+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "The Elder Scrolls 6 is reportedly more than two years away, and some fans are not coping well",
-          "url": "https://www.pcgamer.com/games/the-elder-scrolls/the-elder-scrolls-6-is-reportedly-more-than-two-years-away-and-some-fans-are-not-coping-well/",
-          "published": "2026-11-05T00:18:02+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "The Elder Scrolls 6 Sentinel uscirà anche su PS5 e PS6 o sarà esclusiva Xbox/PC?",
-          "url": "https://www.everyeye.it/notizie/the-elder-scrolls-6-sentinel-uscir-ps5-ps6-sar-esclusiva-xbox-pc-909916.html",
-          "published": "2026-11-05T11:14:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "beating-comfortably-console-dropped-expects-fall",
-      "score": 44.3,
-      "already_proposed": false,
-      "headline": "Nintendo Switch 2 sales have dropped 37%, but it’s still comfortably beating the original console",
-      "topics": [
-        "nintendo",
         "industria"
       ],
-      "age_hours": 3.3,
+      "age_hours": 3.9,
       "signals": {
         "coverage": 0.5,
         "velocity": 1.0,
         "it_gap": 0.5,
-        "yt_demand": 0.01,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry",
+        "Kotaku",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "talks unity buyout pif reportedly",
+      "related": [
+        {
+          "headline": "Investment firm Denmu closes oversubscribed debut fund, surpassing $50 million target",
+          "shared_terms": [
+            "fund"
+          ]
+        },
+        {
+          "headline": "The Secret Service Got Involved Taking Down Another Roblox Child Predator",
+          "shared_terms": [
+            "involved"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Unity reportedly in acquisition talks with Silver Lake and Public Investment Fund, two firms involved in EA's $55bn buyout",
+          "url": "https://www.gamesindustry.biz/unity-reportedly-in-acquisition-talks-with-silver-lake-and-public-investment-fund-two-firms-involved-in-eas-55bn-buyout",
+          "published": "2026-11-06T08:59:40+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Saudi Arabia’s PIF and investment firm Silver Lake have reportedly been in talks to buy Unity",
+          "url": "https://www.videogameschronicle.com/news/saudi-arabias-pif-and-investment-firm-silver-lake-have-reportedly-been-in-talks-to-buy-unity/",
+          "published": "2026-11-06T09:40:34+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Unity Is In $21.5 Billion Buyout Talks With Saudi Arabia’s PIF",
+          "url": "https://kotaku.com/unity-buyout-saudi-arabia-pif-ea-silver-lake-engine-controversy-2000754368",
+          "published": "2026-11-06T10:05:54+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "according-arabia-buy-buying-cronies-equity",
+      "score": 39.5,
+      "already_proposed": false,
+      "headline": "Saudi Arabia owns EA, and according to a Reuters report, Unity is next",
+      "topics": [],
+      "age_hours": 7.4,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.5,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 2,
+        "top_views": 39,
+        "top_title": "Why MBS Invested $2 Billion in Trump's Son-in-Law"
+      },
+      "youtube_query": "arabia saudi unity equity private",
+      "related": [
+        {
+          "headline": "The Secret Service Got Involved Taking Down Another Roblox Child Predator",
+          "shared_terms": [
+            "taking"
+          ]
+        },
+        {
+          "headline": "Nintendo confident in memory supply in new financial report",
+          "shared_terms": [
+            "report"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Saudi Arabia owns EA, and according to a Reuters report, Unity is next",
+          "url": "https://www.pcgamer.com/gaming-industry/saudi-arabia-owns-ea-and-according-to-a-reuters-report-unity-is-next/",
+          "published": "2026-11-06T05:27:40+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "After gobbling up EA, Saudi Arabia and private equity firm Silver Lake reportedly looking to buy Unity",
+          "url": "https://www.eurogamer.net/unity-game-engine-saudi-arabia-silver-lake",
+          "published": "2026-11-06T10:00:50+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "After taking over EA, Saudi Arabia and their private equity cronies have reportedly held talks about buying Unity",
+          "url": "https://www.rockpapershotgun.com/after-taking-over-ea-saudi-arabia-and-their-private-equity-cronies-have-reportedly-held-talks-about-buying-unity",
+          "published": "2026-11-06T10:25:10+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "altri-bill-boss-buoyed-carte-eshop",
+      "score": 39.1,
+      "already_proposed": false,
+      "headline": "Dopo Zelda: Ocarina of Time e Star Fox, Nintendo ha in programma altri remake",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 5.4,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.09,
         "yt_room": 0.0,
         "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
+        "Eurogamer",
         "IGN",
-        "PC Gamer",
-        "VGC"
+        "PC Gamer"
       ],
-      "coverage_it": [],
+      "coverage_it": [
+        "Everyeye",
+        "Multiplayer"
+      ],
       "youtube": {
-        "video_count": 6,
-        "median_views": 17,
-        "top_views": 54,
-        "top_title": "Switch 2 Sales Drop 37% (Still Beating Launch Pace)"
+        "video_count": 10,
+        "median_views": 753,
+        "top_views": 146580,
+        "top_title": "LE RETOUR DU PLUS GRAND JEU DE TOUS LES TEMPS ! | Zelda Ocarina of Time Remake #01"
       },
-      "youtube_query": "console sales nintendo switch dropped",
+      "youtube_query": "nintendo remake ocarina zelda programma",
       "related": [
         {
-          "headline": "Nintendo H1 operating profit rises 49.1% supported by new titles including Splatoon Raiders",
+          "headline": "Bethesda Is Already Selling The Elder Scrolls 6: Sentinel Merch",
           "shared_terms": [
-            "profit",
-            "rises"
+            "quasi"
+          ]
+        },
+        {
+          "headline": "Bill Skarsgård Explains Why Starring in Hideo Kojima’s Physint Is a ‘Big Deal’ for Him",
+          "shared_terms": [
+            "bill"
+          ]
+        },
+        {
+          "headline": "Nintendo's Classic Remakes For Switch 2 Are Seemingly Just Getting Started",
+          "shared_terms": [
+            "remakes"
           ]
         }
       ],
       "articles": [
         {
-          "source": "VGC",
-          "title": "Nintendo Switch 2 sales have dropped 37%, but it’s still comfortably beating the original console",
-          "url": "https://www.videogameschronicle.com/news/nintendo-switch-2-sales-have-dropped-37-but-its-still-comfortably-beating-the-original-console/",
-          "published": "2026-11-05T09:43:55+00:00"
+          "source": "Multiplayer",
+          "title": "Dopo Zelda: Ocarina of Time e Star Fox, Nintendo ha in programma altri remake",
+          "url": "https://multiplayer.it/notizie/dopo-zelda-ocarina-of-time-e-star-fox-nintendo-ha-un-programma-altri-remake.html",
+          "published": "2026-11-06T07:30:00+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "Non solo Zelda, Nintendo ha in programma anche altri remake per il futuro",
+          "url": "https://www.everyeye.it/notizie/non-zelda-nintendo-programma-remake-futuro-910098.html",
+          "published": "2026-11-06T09:16:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Risparmia quasi 15 euro sul remake di Zelda: Ocarina of Time con le carte Nintendo eShop su Instant Gaming",
+          "url": "https://multiplayer.it/notizie/risparmia-15-euro-remake-ocarina-of-time-carte-nintendo-eshop-instant-gaming.html",
+          "published": "2026-11-06T09:20:34+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Remakes and new games \"both have a place in the stable\" says Nintendo boss, buoyed by the success of Star Fox and Ocarina of Time",
+          "url": "https://www.eurogamer.net/remakes-and-new-games-both-have-a-place-in-the-stable-says-nintendo-boss-buoyed-by-the-success-of-star-fox-and-ocarina-of-time",
+          "published": "2026-11-06T09:40:50+00:00"
         },
         {
           "source": "IGN",
-          "title": "Nintendo Rules Out Further Switch 2 Price Rises as Console Sales and Profit Fall",
-          "url": "https://www.ign.com/articles/nintendo-rules-out-further-switch-2-price-rises-as-console-sales-and-profit-fall",
-          "published": "2026-11-05T10:21:34+00:00"
+          "title": "Nintendo Exec Bill Trinen Explains Why the Ocarina of Time Remake Is the Perfect First The Legend of Zelda Game",
+          "url": "https://www.ign.com/articles/nintendo-exec-bill-trinen-explains-why-the-ocarina-of-time-remake-is-the-perfect-first-the-legend-of-zelda-game",
+          "published": "2026-11-06T11:14:23+00:00"
         },
         {
           "source": "PC Gamer",
-          "title": "Switch 2 sales dropped 37% this summer, mostly before the price hike hit; Nintendo now expects sales to slump 16.9% in console's second year",
-          "url": "https://www.pcgamer.com/hardware/handheld-gaming-pcs/switch-2-sales-dropped-37-percent-this-summer-mostly-before-the-price-hike-hit-nintendo-now-expects-sales-to-slump-16-9-percent-in-consoles-second-year/",
-          "published": "2026-11-05T11:53:38+00:00"
+          "title": "Zelda: Ocarina of Time remake reportedly running at 60 fps on PC just hours after game's official Nintendo Switch 2 release",
+          "url": "https://www.pcgamer.com/software/zelda-ocarina-of-time-remake-reportedly-running-at-60-fps-on-pc-just-hours-after-games-official-nintendo-switch-2-release/",
+          "published": "2026-11-06T11:43:06+00:00"
         }
       ]
     },
     {
-      "story_id": "argues-attack-bioware-calling-canada-canadian",
-      "score": 40.0,
+      "story_id": "avoid-brave-clones-curb-director-expect",
+      "score": 38.7,
       "already_proposed": false,
-      "headline": "Canadian BioWare fans are calling on the government to fund the studio",
+      "headline": "\"It's a brave new world\": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director",
       "topics": [
-        "feel_good",
+        "pc_gaming",
+        "aaa"
+      ],
+      "age_hours": 1.7,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "former sooner director tech rockstar",
+      "related": [
+        {
+          "headline": "This Handheld Gaming Hub Has A Lot More Going On Than You’d Expect",
+          "shared_terms": [
+            "expect"
+          ]
+        },
+        {
+          "headline": "Un documentario racconterà gli ultimi anni di BioWare e la cancellazione di Mass Effect",
+          "shared_terms": [
+            "money"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "\"It's a brave new world\": GTA 6's PC port will release sooner than you think to avoid losing money to AI rip-offs, says former Rockstar tech director",
+          "url": "https://www.rockpapershotgun.com/its-a-brave-new-world-gta-6s-pc-port-will-release-sooner-than-you-think-to-avoid-losing-money-to-ai-rip-offs-says-former-rockstar-tech-director",
+          "published": "2026-11-06T11:09:10+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Former Rockstar Games tech director thinks GTA 6 could be coming to PC sooner than you'd expect to curb AI clones",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-pc-sooner-than-you-expect-curb-ai-clone",
+          "published": "2026-11-06T12:02:40+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "366gb-50gb-accidentally-automata-balloons-bloated",
+      "score": 36.4,
+      "already_proposed": false,
+      "headline": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 1.7,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "366gb size accidentally nier automata",
+      "related": [
+        {
+          "headline": "Assassin's Creed Valhalla New Game+ Patch Is Way Bigger Than Anticipated, Adds PS5 Pro Support",
+          "shared_terms": [
+            "patch"
+          ]
+        },
+        {
+          "headline": "WoW: Forever is working on its server tech to make cities less empty, say devs",
+          "shared_terms": [
+            "working"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Nier: Automata Dev Working on Fix for Patch That Accidentally Bloated the Game Size to 366GB on PC",
+          "url": "https://www.ign.com/articles/nier-automata-dev-working-on-fix-patch-that-bloated-game-size-366gb",
+          "published": "2026-11-06T11:07:49+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC",
+          "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
+          "published": "2026-11-06T12:28:10+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2027-able-bioware-capturing-closure-days",
+      "score": 34.8,
+      "already_proposed": false,
+      "headline": "A BioWare Documentary Showing The Studio’s Final Years Is Coming In 2027",
+      "topics": [
+        "storie",
         "industria"
       ],
-      "age_hours": 15.3,
+      "age_hours": 18.3,
       "signals": {
         "coverage": 0.67,
-        "velocity": 0.5,
+        "velocity": 0.25,
         "it_gap": 0.67,
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
-        "freshness": 0.82,
+        "freshness": 0.65,
         "weak_format": false
       },
       "coverage_en": [
         "Eurogamer",
+        "IGN",
         "Kotaku",
-        "Rock Paper Shotgun",
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "government canadian bioware calling signatures",
-      "related": [
-        {
-          "headline": "Valve warns of slower Steam approvals, possibly due to AI game surge",
-          "shared_terms": [
-            "possibly"
-          ]
-        },
-        {
-          "headline": "Switch 2 Surpasses 26 Million Units Sold, Hardware Sales Down By 37.4%",
-          "shared_terms": [
-            "life"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "VGC",
-          "title": "Canadian BioWare fans are calling on the government to fund the studio",
-          "url": "https://www.videogameschronicle.com/news/canadian-bioware-fans-are-calling-on-the-government-to-fund-the-studio/",
-          "published": "2026-11-04T21:47:40+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "Mass Effect Fans Get Enough Signatures To Plead To The Canadian Government For BioWare’s Life",
-          "url": "https://kotaku.com/mass-effect-petitions-bioware-canadian-government-house-of-commons-2000753458",
-          "published": "2026-11-04T22:40:33+00:00"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "title": "\"BioWare's closure represents an immense loss to and possibly a targeted attack on Canada's cultural legacy\" argues petition calling on Canadian government to step in",
-          "url": "https://www.rockpapershotgun.com/biowares-closure-represents-an-immense-loss-to-and-possibly-a-targeted-attack-on-canadas-cultural-legacy-argues-petition-calling-on-canadian-government-to-step-in",
-          "published": "2026-11-05T10:51:50+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Mass Effect petition has enough signatures for the Canadian Government to potentially save BioWare",
-          "url": "https://www.eurogamer.net/bioware-canada-house-of-commons-petition-save-mass-effect",
-          "published": "2026-11-05T12:48:40+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "costs-despite-development-hardware-hit-playstation",
-      "score": 36.5,
-      "already_proposed": false,
-      "headline": "Sony says PlayStation 6 development is ‘progressing as scheduled’, as PS5 sales hit 97.9m",
-      "topics": [
-        "playstation"
-      ],
-      "age_hours": 4.7,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "VGC"
+        "Rock Paper Shotgun"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 1,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "median_views": 1,
+        "top_views": 1,
+        "top_title": "BioWare are gone, but at least you'll be able to watch their final days in a documentar... #Shorts"
       },
-      "youtube_query": "scheduled progressing development sony playstation",
+      "youtube_query": "documentary final bioware years year",
       "related": [
         {
-          "headline": "PS6 Development on Track, Sony Making 'Solid Progress' Towards Next-Gen",
+          "headline": "Rockstar shares 38 new screenshots of Grand Theft Auto 6, showing off Vice City, Jason and Lucia, and much more",
           "shared_terms": [
-            "track"
+            "showing"
+          ]
+        },
+        {
+          "headline": "New PS Plus Perks Revealed, Includes Discounts and Free Trials",
+          "shared_terms": [
+            "revealed"
           ]
         }
       ],
       "articles": [
         {
-          "source": "VGC",
-          "title": "Sony says PlayStation 6 development is ‘progressing as scheduled’, as PS5 sales hit 97.9m",
-          "url": "https://www.videogameschronicle.com/news/sony-says-playstation-6-development-is-progressing-as-scheduled-as-ps5-sales-hit-97-9m/",
-          "published": "2026-11-05T08:19:53+00:00"
+          "source": "Kotaku",
+          "title": "A BioWare Documentary Showing The Studio’s Final Years Is Coming In 2027",
+          "url": "https://kotaku.com/massive-effect-bioware-story-documentary-canada-ea-2000754242",
+          "published": "2026-11-05T18:30:48+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "BioWare's Final Years Were Filmed and Will Be Revealed in a New Documentary",
+          "url": "https://www.ign.com/articles/biowares-final-years-were-filmed-and-will-be-revealed-in-a-new-documentary",
+          "published": "2026-11-05T19:48:39+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "BioWare are gone, but at least you'll be able to watch their final days in a documentary next year and oh wait that's really sad actually",
+          "url": "https://www.rockpapershotgun.com/bioware-are-gone-but-at-least-youll-be-able-to-watch-their-final-days-in-a-documentary-next-year-and-oh-wait-thats-really-sad-actually",
+          "published": "2026-11-05T21:32:00+00:00"
         },
         {
           "source": "Eurogamer",
-          "title": "Despite hardware worries and rising costs, Sony says PlayStation 6 development is on track and \"progressing as scheduled\"",
-          "url": "https://www.eurogamer.net/playstation-6-sony-financials-2026-hardware",
-          "published": "2026-11-05T09:42:30+00:00"
+          "title": "Following BioWare's shock closure, a new documentary capturing its final moments is coming next year",
+          "url": "https://www.eurogamer.net/bioware-closure-documentary-release",
+          "published": "2026-11-06T12:24:20+00:00"
         }
       ]
     },
     {
-      "story_id": "bottle-empty-fairy-fountain-great-locations",
-      "score": 36.4,
+      "story_id": "cut-don-experience-interrupt-mario-player",
+      "score": 33.5,
       "already_proposed": false,
-      "headline": "All bottle locations in Ocarina of Time",
+      "headline": "\"You Don't Want To Interrupt The Player's Experience\" - Here's Why Zelda's Switch 2 Remake Cut Some Mario References",
       "topics": [
-        "nintendo"
+        "nintendo",
+        "aaa"
       ],
-      "age_hours": 8.0,
+      "age_hours": 11.4,
       "signals": {
-        "coverage": 0.33,
+        "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.33,
+        "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
+        "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Polygon",
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "locations ocarina bottle zelda fairy",
-      "related": [],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "All bottle locations in Ocarina of Time",
-          "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-oot-bottle-locations/",
-          "published": "2026-11-05T05:01:18+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "Zelda Ocarina of Time: All Great Fairy Fountain locations",
-          "url": "https://www.videogameschronicle.com/guide/zelda-ocarina-of-time-great-fairy-fountain-locations/",
-          "published": "2026-11-05T10:40:41+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "Zelda Ocarina of Time: All Empty Bottle locations",
-          "url": "https://www.videogameschronicle.com/guide/zelda-ocarina-of-time-empty-bottle-locations/",
-          "published": "2026-11-05T10:45:42+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "decline-dream-hardware-life-living-million",
-      "score": 36.4,
-      "already_proposed": false,
-      "headline": "Switch 2 Surpasses 26 Million Units Sold, Hardware Sales Down By 37.4%",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 4.3,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
         "Nintendo Life"
       ],
       "coverage_it": [],
@@ -416,60 +457,95 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "hardware sales switch surpasses units",
+      "youtube_query": "don references player interrupt experience",
       "related": [
         {
-          "headline": "I'm watching YouTube videos in glorious stereoscopic 3D on my Steam Frame with just a free plugin and a long-forgotten dream of a new Nintendo 3DS",
+          "headline": "My New Favorite Horror Game Turns Reconnecting With Your Ex Into A Harrowing Experience",
           "shared_terms": [
-            "dream"
-          ]
-        },
-        {
-          "headline": "Valve warns of slower Steam approvals, possibly due to AI game surge",
-          "shared_terms": [
-            "surge"
-          ]
-        },
-        {
-          "headline": "Canadian BioWare fans are calling on the government to fund the studio",
-          "shared_terms": [
-            "life"
+            "experience"
           ]
         }
       ],
       "articles": [
         {
           "source": "Nintendo Life",
-          "title": "Switch 2 Surpasses 26 Million Units Sold, Hardware Sales Down By 37.4%",
-          "url": "https://www.nintendolife.com/news/2026/11/switch-2-surpasses-26-million-units-sold-hardware-sales-down-by-37-4percent",
-          "published": "2026-11-05T08:45:00+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Nintendo game sales surge thanks to Tomodachi Life: Living the Dream, but Switch 2 hardware suffers big decline",
-          "url": "https://www.eurogamer.net/nintendo-switch-2-hardware-decline-software-boom",
-          "published": "2026-11-05T11:56:40+00:00"
+          "title": "\"You Don't Want To Interrupt The Player's Experience\" - Here's Why Zelda's Switch 2 Remake Cut Some Mario References",
+          "url": "https://www.nintendolife.com/news/2026/11/you-dont-want-to-interrupt-the-players-experience-heres-why-zeldas-switch-2-remake-cut-some-mario-references",
+          "published": "2026-11-06T01:25:00+00:00"
         }
       ]
     },
     {
-      "story_id": "certain-fsr-gta-handhelds-shaped-xbox",
-      "score": 35.7,
+      "story_id": "classic-nintendo-remakes-seemingly-started-switch",
+      "score": 33.5,
       "already_proposed": false,
-      "headline": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
+      "headline": "Nintendo's Classic Remakes For Switch 2 Are Seemingly Just Getting Started",
       "topics": [
-        "xbox",
-        "pc_gaming",
+        "nintendo",
         "aaa"
       ],
-      "age_hours": 0.8,
+      "age_hours": 9.9,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 1.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "started remakes seemingly classic switch",
+      "related": [
+        {
+          "headline": "World of Warcraft: Forever is off to a great start with Blizzard's smoothest launch in memory",
+          "shared_terms": [
+            "seemingly"
+          ]
+        },
+        {
+          "headline": "Dopo Zelda: Ocarina of Time e Star Fox, Nintendo ha in programma altri remake",
+          "shared_terms": [
+            "remakes"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Nintendo's Classic Remakes For Switch 2 Are Seemingly Just Getting Started",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendos-classic-remakes-for-switch-2-are-seemingly-just-getting-started",
+          "published": "2026-11-06T02:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "boot-cutting-discord-epic-joins-memory",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Discord is cutting memory usage and speeding up boot times - joins Xbox, Epic, Steam, and more for similar upgrades just this year",
+      "topics": [
+        "xbox",
+        "steam"
+      ],
+      "age_hours": 0.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -483,394 +559,154 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "shaped handhelds certain fsr gta",
-      "related": [],
+      "youtube_query": "similar cutting usage discord boot",
+      "related": [
+        {
+          "headline": "Nvidia ensure unboxing a ludicrously expensive new graphics card isn't limited to real life in these RAM crisis times by releasing a GeForce 8800 GTX unpacking sim",
+          "shared_terms": [
+            "times"
+          ]
+        },
+        {
+          "headline": "Spectrum Is Offering Free Internet Upgrades So People Can Download GTA 6 Faster",
+          "shared_terms": [
+            "upgrades"
+          ]
+        }
+      ],
       "articles": [
         {
           "source": "PC Gamer",
-          "title": "FSR 4.1.2 now on Xbox and Xbox handhelds, just in time for a certain big GTA 6-shaped game",
-          "url": "https://www.pcgamer.com/hardware/fsr-4-1-2-now-on-xbox-and-xbox-handhelds-just-in-time-for-a-certain-big-gta-6-shaped-game/",
-          "published": "2026-11-05T12:12:38+00:00"
+          "title": "Discord is cutting memory usage and speeding up boot times - joins Xbox, Epic, Steam, and more for similar upgrades just this year",
+          "url": "https://www.pcgamer.com/hardware/discord-is-cutting-memory-usage-and-speeding-up-boot-times-joins-xbox-epic-steam-and-more-for-similar-upgrades-just-this-year/",
+          "published": "2026-11-06T12:06:34+00:00"
         }
       ]
     },
     {
-      "story_id": "2026-amd-arrived-fsr-grafica-migliori",
-      "score": 35.1,
+      "story_id": "across-boatload-commanders-cupboard-ports-producer",
+      "score": 33.5,
       "already_proposed": false,
-      "headline": "AMD rivoluziona Xbox Series X e S: grafica più nitida",
+      "headline": "Steam gets a boatload of restored Wing Commanders and Ultima ports after EA producer stumbles across cupboard of old tapes",
       "topics": [
-        "xbox",
-        "pc_gaming"
+        "steam",
+        "feel_good"
       ],
-      "age_hours": 3.2,
+      "age_hours": 0.2,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.11,
-        "yt_demand": 0.11,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Pure Xbox"
+        "Rock Paper Shotgun"
       ],
-      "coverage_it": [
-        "SpazioGames"
-      ],
+      "coverage_it": [],
       "youtube": {
-        "video_count": 1,
-        "median_views": 1193,
-        "top_views": 1193,
-        "top_title": "Xbox Series S First Look Is Getting FSR 4.1… But There’s a BIG Catch Win WOW !!"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "series xbox amd nitida upscaling",
-      "related": [],
+      "youtube_query": "stumbles cupboard tapes restored boatload",
+      "related": [
+        {
+          "headline": "IGN Entertainment promotes Alex Simmons to lead editorial across its portfolio, with Wesley Yin-Poole overseeing IGN",
+          "shared_terms": [
+            "across"
+          ]
+        }
+      ],
       "articles": [
         {
-          "source": "SpazioGames",
-          "title": "AMD rivoluziona Xbox Series X e S: grafica più nitida",
-          "url": "https://www.spaziogames.it/notizie/xbox-series-x-e-s-amd-punta-a-una-grafica-piu-pulita",
-          "published": "2026-11-05T09:52:00+00:00"
-        },
-        {
-          "source": "SpazioGames",
-          "title": "Migliori giochi Xbox Series X e Series S del 2026",
-          "url": "https://www.spaziogames.it/articoli/migliori-giochi-xbox-series-x",
-          "published": "2026-11-05T10:40:12+00:00"
-        },
-        {
-          "source": "Pure Xbox",
-          "title": "AMD FSR Upscaling 4.1 Has Officially Arrived For Xbox Series X|S",
-          "url": "https://www.purexbox.com/news/2026/11/amd-fsr-upscaling-4-1-has-officially-arrived-for-xbox-series-xs",
-          "published": "2026-11-05T12:00:00+00:00"
+          "source": "Rock Paper Shotgun",
+          "title": "Steam gets a boatload of restored Wing Commanders and Ultima ports after EA producer stumbles across cupboard of old tapes",
+          "url": "https://www.rockpapershotgun.com/steam-gets-a-boatload-of-restored-wing-commanders-and-ultima-ports-after-ea-producer-stumbles-across-cupboard-of-old-tapes",
+          "published": "2026-11-06T12:38:00+00:00"
         }
       ]
     },
     {
-      "story_id": "different-feel-nintendo-not-ocarina-remake",
-      "score": 33.5,
+      "story_id": "2027-confermate-highlights-major-metroid-multiple",
+      "score": 32.3,
       "already_proposed": false,
-      "headline": "Nintendo Wanted Ocarina Of Time To Feel Better In The Remake, Not Just Different",
+      "headline": "Nintendo Highlights Multiple Major Third-Party Releases On The Way To Switch 2 In 2027",
       "topics": [
-        "nintendo",
-        "aaa"
+        "pokemon",
+        "nintendo"
       ],
       "age_hours": 8.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.17,
+        "it_gap": 0.11,
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GameSpot"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "feel wanted different not remake",
-      "related": [
-        {
-          "headline": "Smash hit cyberpunk storekeeper Probably Stolen was originally a different, non-cyberpunk game that seemed destined to sink without trace",
-          "shared_terms": [
-            "different"
-          ]
-        },
-        {
-          "headline": "\"I realised I might only have time to make one more game, so I wanted to try something new\" – Tekken director Katsuhiro Harada on starting VS Studio",
-          "shared_terms": [
-            "wanted"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "GameSpot",
-          "title": "Nintendo Wanted Ocarina Of Time To Feel Better In The Remake, Not Just Different",
-          "url": "https://www.gamespot.com/articles/nintendo-wanted-ocarina-of-time-to-feel-better-in-the-remake-not-just-different/",
-          "published": "2026-11-05T05:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "aonuma-eiji-fujibayashi-hidemaro-interview-ocarina",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "Our Big Interview With Ocarina of Time Producers Eiji Aonuma and Hidemaro Fujibayashi",
-      "topics": [
-        "nintendo",
-        "storie"
-      ],
-      "age_hours": 5.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "IGN"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "fujibayashi hidemaro interview producers eiji",
-      "related": [
-        {
-          "headline": "Ocarina remake’s new art style was needed because something ‘expected’ would have had less impact, Aonuma says",
-          "shared_terms": [
-            "aonuma"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "Our Big Interview With Ocarina of Time Producers Eiji Aonuma and Hidemaro Fujibayashi",
-          "url": "https://www.ign.com/articles/our-big-interview-with-ocarina-of-time-producers-eiji-aonuma-and-hidemaro-fujibayashi",
-          "published": "2026-11-05T08:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "aonuma-art-because-expected-impact-needed",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "Ocarina remake’s new art style was needed because something ‘expected’ would have had less impact, Aonuma says",
-      "topics": [
-        "nintendo",
-        "aaa"
-      ],
-      "age_hours": 2.6,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "expected art needed aonuma style",
-      "related": [
-        {
-          "headline": "The Elder Scrolls 6: Sentinel Is Reportedly Still \"More Than Two Years Away\"",
-          "shared_terms": [
-            "because"
-          ]
-        },
-        {
-          "headline": "The Dark Souls Devs Are Masters At Looney Tunes–Style Physical Comedy",
-          "shared_terms": [
-            "style"
-          ]
-        },
-        {
-          "headline": "Our Big Interview With Ocarina of Time Producers Eiji Aonuma and Hidemaro Fujibayashi",
-          "shared_terms": [
-            "aonuma"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "VGC",
-          "title": "Ocarina remake’s new art style was needed because something ‘expected’ would have had less impact, Aonuma says",
-          "url": "https://www.videogameschronicle.com/news/ocarina-remakes-new-art-style-was-needed-because-something-expected-would-have-had-less-impact-aonuma-says/",
-          "published": "2026-11-05T10:26:03+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "40th-anniversary-celebrates-exclusive-nintendo-pin",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Nintendo Celebrates Zelda's 40th Anniversary With An Exclusive Pin Set (US)",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 11.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
         "Nintendo Life"
       ],
-      "coverage_it": [],
+      "coverage_it": [
+        "Multiplayer"
+      ],
       "youtube": {
         "video_count": 0,
         "median_views": 0,
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "pin 40th exclusive anniversary celebrates",
+      "youtube_query": "third party switch nintendo major",
       "related": [
         {
-          "headline": "God Of War Laufey Delayed",
+          "headline": "Rockstar Reveals Even More GTA 6 Screenshots as PS5 Release Draws Closer",
           "shared_terms": [
-            "exclusive"
+            "releases"
           ]
         },
         {
-          "headline": "Pokémon Pokopia Celebrates Fall with Apple-Themed Event",
+          "headline": "Xbox Series X-BITE Alligator Console Returns With A New Video And Multiple New Images",
           "shared_terms": [
-            "celebrates"
-          ]
-        },
-        {
-          "headline": "Everything Is Dissapointing After Pokémon's Spectacular 30th Anniversary TCG Set",
-          "shared_terms": [
-            "anniversary"
+            "multiple"
           ]
         }
       ],
       "articles": [
         {
           "source": "Nintendo Life",
-          "title": "Nintendo Celebrates Zelda's 40th Anniversary With An Exclusive Pin Set (US)",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-celebrates-zeldas-40th-anniversary-with-an-exclusive-pin-set-us",
-          "published": "2026-11-05T02:00:00+00:00"
+          "title": "Nintendo Highlights Multiple Major Third-Party Releases On The Way To Switch 2 In 2027",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-highlights-multiple-major-third-party-releases-on-the-way-to-switch-2-in-2027",
+          "published": "2026-11-06T04:45:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Le prossime uscite su Nintendo Switch 2 confermate tra Xenoblade, Pokémon, Metroid e tanti third party",
+          "url": "https://multiplayer.it/notizie/le-prossime-uscite-su-nintendo-switch-2-confermate-tra-xenoblade-pokemon-metroid-e-tanti-third-party.html",
+          "published": "2026-11-06T07:58:14+00:00"
         }
       ]
     },
     {
-      "story_id": "nintendo-reconfirms-release-switch-upcoming-windows",
-      "score": 31.2,
+      "story_id": "burton-fantasy-forgotten-masterpiece-officially-streaming",
+      "score": 31.4,
       "already_proposed": false,
-      "headline": "Nintendo Reconfirms Release Windows For Upcoming Switch 2 Games",
+      "headline": "Tim Burton's Forgotten 10/10 Fantasy Masterpiece is Officially Still Free on Streaming",
       "topics": [
-        "nintendo"
+        "feel_good"
       ],
-      "age_hours": 4.1,
+      "age_hours": 3.8,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "reconfirms windows upcoming release nintendo",
-      "related": [
-        {
-          "headline": "Critical Role's upcoming series with Hololive gave Matt Mercer 'a deeper understanding and appreciation' for vtubers",
-          "shared_terms": [
-            "upcoming"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Nintendo Reconfirms Release Windows For Upcoming Switch 2 Games",
-          "url": "https://www.nintendolife.com/news/2026/11/nintendo-reconfirms-release-windows-for-upcoming-switch-2-games",
-          "published": "2026-11-05T09:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "blackout-buy-disc-fail-impact-playstation",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "No Disc, No Buy and PS5 Blackout Protests Fail to Impact PlayStation",
-      "topics": [
-        "playstation"
-      ],
-      "age_hours": 4.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "fail blackout disc protests buy",
-      "related": [],
-      "articles": [
-        {
-          "source": "Push Square",
-          "title": "No Disc, No Buy and PS5 Blackout Protests Fail to Impact PlayStation",
-          "url": "https://www.pushsquare.com/news/2026/11/no-disc-no-buy-and-ps5-blackout-protests-fail-to-impact-playstation",
-          "published": "2026-11-05T09:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "calvin-classic-grief-heartbreaking-hobbes-later",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "39 Years Later, Calvin And Hobbes' Best Quote On Grief Is Still a Heartbreaking Classic",
-      "topics": [
-        "easter_egg"
-      ],
-      "age_hours": 4.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "yt_demand": 0.01,
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
@@ -881,19 +717,152 @@
       ],
       "coverage_it": [],
       "youtube": {
+        "video_count": 1,
+        "median_views": 3,
+        "top_views": 3,
+        "top_title": "The Forgotten Tim Burton Masterpiece You Can Watch For Free Right Now"
+      },
+      "youtube_query": "streaming tim forgotten burton masterpiece",
+      "related": [
+        {
+          "headline": "AMD FSR Upscaling 4.1 Has Officially Arrived For Xbox Series X|S",
+          "shared_terms": [
+            "officially"
+          ]
+        },
+        {
+          "headline": "25 Years Later, Buffy's Riskiest Episode Is Still a Brilliant Masterpiece That Changed the Show Forever",
+          "shared_terms": [
+            "masterpiece"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Tim Burton's Forgotten 10/10 Fantasy Masterpiece is Officially Still Free on Streaming",
+          "url": "https://www.polygon.com/tim-burton-big-fish-free-streaming-november-2026-tubi-youtube/",
+          "published": "2026-11-06T09:04:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "40th-anniversary-nintendo-plans-reiterates-zelda",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Nintendo Reiterates Plans For Zelda's 40th Anniversary",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 9.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
         "video_count": 0,
         "median_views": 0,
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "grief later hobbes heartbreaking quote",
+      "youtube_query": "reiterates plans 40th anniversary nintendo",
       "related": [],
       "articles": [
         {
-          "source": "Polygon",
-          "title": "39 Years Later, Calvin And Hobbes' Best Quote On Grief Is Still a Heartbreaking Classic",
-          "url": "https://www.polygon.com/calvin-hobbes-grief-quote/",
-          "published": "2026-11-05T09:01:19+00:00"
+          "source": "Nintendo Life",
+          "title": "Nintendo Reiterates Plans For Zelda's 40th Anniversary",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-reiterates-plans-for-zeldas-40th-anniversary",
+          "published": "2026-11-06T03:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "action-beyond-continue-delivering-live-movies",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Nintendo To Continue Delivering Movies Beyond Live-Action Zelda, Unsurprisingly",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 6.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "live unsurprisingly movies continue delivering",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Nintendo To Continue Delivering Movies Beyond Live-Action Zelda, Unsurprisingly",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-to-continue-delivering-movies-beyond-live-action-zelda-unsurprisingly",
+          "published": "2026-11-06T05:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bits-exclusive-insane-ocarina-remake-scalpers",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Scalpers Already Want Insane Sums For The Ocarina Remake With Exclusive Bits",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 2.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "scalpers bits insane sums exclusive",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Scalpers Already Want Insane Sums For The Ocarina Remake With Exclusive Bits",
+          "url": "https://www.nintendolife.com/news/2026/11/scalpers-already-want-insane-sums-for-the-ocarina-remake-with-exclusive-bits",
+          "published": "2026-11-06T10:05:00+00:00"
         }
       ]
     }
