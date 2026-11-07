@@ -1,0 +1,723 @@
+{
+  "generated_at": "2026-11-07T11:38:52.505696+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "weekend",
+      "score": 46.8,
+      "already_proposed": false,
+      "headline": "What are we all playing this weekend?",
+      "topics": [],
+      "age_hours": 3.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "skipped": "query troppo generica per misurare la storia"
+      },
+      "youtube_query": "weekend",
+      "related": [],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "What are we all playing this weekend?",
+          "url": "https://www.rockpapershotgun.com/what-are-we-all-playing-this-weekend-407",
+          "published": "2026-11-07T08:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "366gb-50gb-accidentally-automata-balloons-bizarre",
+      "score": 33.1,
+      "already_proposed": false,
+      "headline": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 23.2,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.25,
+        "it_gap": 0.67,
+        "yt_demand": 0.11,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.38,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot",
+        "Kotaku",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 1320,
+        "top_views": 6724,
+        "top_title": "Unity Exploring a Sale for $25 Billion? | Game Mess Mornings 11/06/26"
+      },
+      "youtube_query": "nier automata file size 366gb",
+      "related": [
+        {
+          "headline": "A Truck Demanding EA ‘Save Mass Effect’ Is Currently Driving Around The Company’s Headquarters",
+          "shared_terms": [
+            "currently"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Square Enix accidentally botches a Nier: Automata update, balloons required file size from 50GB to 366GB on PC",
+          "url": "https://www.eurogamer.net/square-enix-nier-automata-update-required-file-size-366gb",
+          "published": "2026-11-06T12:28:10+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Mandatory Nier: Automata Update Accidentally Requires 366GB: ‘I Just Need To Delete 90 Percent Of My Computer To Install This’",
+          "url": "https://kotaku.com/mandatory-nier-automata-update-accidentally-requires-366gb-i-just-need-to-delete-90-percent-of-my-computer-to-install-this-2000754623",
+          "published": "2026-11-06T13:30:25+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Nier Automata’s File Size Now Reflects How Good It Is",
+          "url": "https://www.gamespot.com/articles/nier-automatas-file-size-now-reflects-how-good-it-is/",
+          "published": "2026-11-06T14:42:57+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Nier: Automata developer is 'currently investigating' a bizarre update bug that drastically inflated the game's file size from 50GB to 366GB",
+          "url": "https://www.pcgamer.com/games/rpg/nier-automata-developer-is-currently-investigating-a-bizarre-update-bug-that-drastically-inflated-the-games-file-size-from-50gb-to-366gb/",
+          "published": "2026-11-07T11:15:54+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cards-delta-expansion-pok-mon-reign-tcg",
+      "score": 31.4,
+      "already_proposed": false,
+      "headline": "Pokémon TCG: 10 Most Valuable Delta Reign Cards From New Expansion",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 13.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.92,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 6,
+        "median_views": 120,
+        "top_views": 3740,
+        "top_title": "REGNE DELTA : Sortie Pokémon chez La Carte Rare !"
+      },
+      "youtube_query": "reign expansion valuable tcg delta",
+      "related": [
+        {
+          "headline": "Dad Has 6-Year-Old Daughter Save His Spot In Line At Target For Pokémon Cards And Then Leaves",
+          "shared_terms": [
+            "cards"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Pokémon TCG: 10 Most Valuable Delta Reign Cards From New Expansion",
+          "url": "https://www.ign.com/articles/pokemon-tcg-most-valuable-delta-reign-cards",
+          "published": "2026-11-06T22:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "auto-grand-gta-having-isn-ours",
+      "score": 31.3,
+      "already_proposed": false,
+      "headline": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 12.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.97,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 16,
+        "top_views": 16,
+        "top_title": "Rockstar's having sale on old GTA games on the only platform Grand Theft Auto 6 isn't c... #Shorts"
+      },
+      "youtube_query": "grand auto ours platform sale",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Rockstar's having a sale on old GTA games on the only platform Grand Theft Auto 6 isn't coming to (ours)",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstars-having-sale-on-old-gta-games-on-the-only-platform-grand-theft-auto-6-isnt-coming-to-ours/",
+          "published": "2026-11-06T23:11:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "aonuma-benefits-eiji-nintendo-producer-staff",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Zelda Producer Eiji Aonuma Talks About The Benefits Of \"Long-Term-Tenured Staff\" At Nintendo",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 11.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "staff eiji term benefits aonuma",
+      "related": [
+        {
+          "headline": "Steam gets a boatload of restored Wing Commanders and Ultima ports after EA producer stumbles across cupboard of old tapes",
+          "shared_terms": [
+            "producer"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Zelda Producer Eiji Aonuma Talks About The Benefits Of \"Long-Term-Tenured Staff\" At Nintendo",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-producer-eiji-aonuma-talks-about-the-benefits-of-long-term-tenured-staff-at-nintendo",
+          "published": "2026-11-07T00:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "flintstones-gosling-officially-project-reviving-ryan",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Ryan Gosling is Officially Reviving The Flintstones for New Project",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 10.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "gosling ryan project flintstones reviving",
+      "related": [
+        {
+          "headline": "GTA 6's Biggest Competition Officially Arrives on PC in 2027",
+          "shared_terms": [
+            "officially"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Ryan Gosling is Officially Reviving The Flintstones for New Project",
+          "url": "https://www.polygon.com/ryan-gosling-flintstones-bamm-bamm-movie/",
+          "published": "2026-11-07T01:30:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2027-arrives-biggest-competition-gta-officially",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "GTA 6's Biggest Competition Officially Arrives on PC in 2027",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 8.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "competition arrives officially biggest 2027",
+      "related": [
+        {
+          "headline": "Ryan Gosling is Officially Reviving The Flintstones for New Project",
+          "shared_terms": [
+            "officially"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "GTA 6's Biggest Competition Officially Arrives on PC in 2027",
+          "url": "https://www.polygon.com/ananta-anime-gta-pc-ps5-release-date-2027-netease-games/",
+          "published": "2026-11-07T02:43:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "biggest-bill-calvin-cancellations-character-devastating",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "10 Devastating Game Cancellations That Are Still Disappointing Years Later",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 8.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "later years devastating disappointing cancellations",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "10 Devastating Game Cancellations That Are Still Disappointing Years Later",
+          "url": "https://www.polygon.com/game-cancellations/",
+          "published": "2026-11-07T03:03:27+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "38 Years Later, Calvin and Hobbes' Lost Character Remains Bill Watterson's Biggest Failure",
+          "url": "https://www.polygon.com/uncle-max-calvin-hobbes/",
+          "published": "2026-11-07T09:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "disappointingly-essential-gba-missing-nintendo-online",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "10 Essential GBA Games Still Disappointingly Missing From Nintendo Switch Online",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 8.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "missing disappointingly online essential gba",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "10 Essential GBA Games Still Disappointingly Missing From Nintendo Switch Online",
+          "url": "https://www.polygon.com/game-boy-advance-games-missing-nintendo-switch-online/",
+          "published": "2026-11-07T03:29:33+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "addio-arena-cancelled-clank-dell-ever",
+      "score": 30.8,
+      "already_proposed": false,
+      "headline": "Sony's Killing This Ratchet & Clank Game Before It Even Comes Out",
+      "topics": [
+        "playstation",
+        "storie",
+        "industria"
+      ],
+      "age_hours": 22.6,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.0,
+        "it_gap": 0.56,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.41,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "IGN",
+        "Kotaku",
+        "Push Square",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Everyeye"
+      ],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 13,
+        "top_views": 13,
+        "top_title": "Sony Just Killed a Ratchet & Clank Game"
+      },
+      "youtube_query": "ratchet clank sony killing shooter",
+      "related": [
+        {
+          "headline": "WoW: Forever is working on its server tech to make cities less empty, say devs",
+          "shared_terms": [
+            "server"
+          ]
+        },
+        {
+          "headline": "ENDIX, the Fully Free, Digital Gaming Expo, Is Now Live With More Than 50 Games, World Premieres, Exclusive Trailers, and More",
+          "shared_terms": [
+            "fully"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Sony's Killing This Ratchet & Clank Game Before It Even Comes Out",
+          "url": "https://www.pushsquare.com/news/2026/11/sonys-killing-this-ratchet-and-clank-game-before-it-even-comes-out",
+          "published": "2026-11-06T13:00:00+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Sony’s free-to-play mobile Ratchet & Clank multiplayer shooter has been cancelled",
+          "url": "https://www.videogameschronicle.com/news/sonys-free-to-play-mobile-ratchet-clank-multiplayer-shooter-has-been-cancelled/",
+          "published": "2026-11-06T14:44:21+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Ratchet & Clank Game Shutting Down Before Ever Fully Launching",
+          "url": "https://www.gamespot.com/articles/ratchet-clank-game-shutting-down-before-ever-fully-launching/",
+          "published": "2026-11-06T16:09:00+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "Addio a Ratchet & Clank Ranger Rumble: Sony spegne i server dell'arena shooter gratuito",
+          "url": "https://www.everyeye.it/notizie/addio-ratchet-clank-ranger-rumble-sony-spegne-server-arena-shooter-gratuito-910209.html",
+          "published": "2026-11-06T16:39:00+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "PlayStation Is Already Killing Off Ratchet & Clank Mobile Game Just 12 Months After It Was Revealed",
+          "url": "https://kotaku.com/playstation-mobile-game-shuts-down-just-12-months-after-it-was-revealed-2000754657",
+          "published": "2026-11-06T17:00:11+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Ratchet & Clank: Ranger Rumble Shutting Down Less Than a Year After Launch",
+          "url": "https://www.ign.com/articles/ratchet-clank-ranger-rumble-shutting-down",
+          "published": "2026-11-06T17:02:15+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "details-favorite-kept-ocarina-remake-stupid",
+      "score": 30.7,
+      "already_proposed": false,
+      "headline": "This Is One Of My Favorite Stupid Details They Kept In The Ocarina Of Time Remake",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 13.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.94,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "stupid kept favorite details remake",
+      "related": [
+        {
+          "headline": "GTA 6 Is Going All Out On Details You Might Never Even Notice",
+          "shared_terms": [
+            "details"
+          ]
+        },
+        {
+          "headline": "Underkeep is my favorite old-school dungeon crawler since Legend of Grimrock, and yes that includes Queen's Domain",
+          "shared_terms": [
+            "favorite"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "This Is One Of My Favorite Stupid Details They Kept In The Ocarina Of Time Remake",
+          "url": "https://kotaku.com/legend-zelda-ocarina-of-time-remake-iron-boots-cutscenes-2000754765",
+          "published": "2026-11-06T22:30:52+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2026-arrive-battlefield-feature-requested-revealed",
+      "score": 30.4,
+      "already_proposed": false,
+      "headline": "A Much-Requested Battlefield 6 Feature Revealed Last Spring Won’t Arrive In 2026 After All",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 13.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.9,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "requested arrive won spring battlefield",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "A Much-Requested Battlefield 6 Feature Revealed Last Spring Won’t Arrive In 2026 After All",
+          "url": "https://kotaku.com/a-much-requested-battlefield-6-feature-revealed-last-spring-wont-arrive-in-2026-after-all-2000754757",
+          "published": "2026-11-06T21:55:03+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cap-character-days-forever-hits-launch",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+      "topics": [],
+      "age_hours": 8.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "hits days level cap launch",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "World of Warcraft Forever World First Level 60 Character Hits Cap Three Days After Launch",
+          "url": "https://www.ign.com/articles/world-of-warcraft-forever-world-first-level-60-character-hits-cap-three-days-after-launch",
+          "published": "2026-11-07T03:12:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "island-prawn-sniffing-warehouses",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "What we've been playing - \"Sniffing out the warehouses on Prawn Island\"",
+      "topics": [],
+      "age_hours": 3.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "prawn sniffing island warehouses",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "What we've been playing - \"Sniffing out the warehouses on Prawn Island\"",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-vice-city-zelda-world-of-warcraft-forever",
+          "published": "2026-11-07T08:02:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "hbo-lanterns-love-sci-series-watch",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "5 Sci-Fi Series To Watch If You Love HBO's 'Lanterns'",
+      "topics": [],
+      "age_hours": 2.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "lanterns watch hbo love sci",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "5 Sci-Fi Series To Watch If You Love HBO's 'Lanterns'",
+          "url": "https://www.polygon.com/best-sci-fi-tv-shows-to-watch-if-you-love-hbos-lanterns/",
+          "published": "2026-11-07T09:04:17+00:00"
+        }
+      ]
+    }
+  ]
+}
