@@ -1,0 +1,684 @@
+{
+  "generated_at": "2026-11-08T11:51:12.441070+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "blade-convince-delivers-digital-foundry-frame",
+      "score": 68.2,
+      "already_proposed": false,
+      "headline": "Digital Foundry Delivers Its Tech Verdict On Stellar Blade's Switch 2 Port",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 3.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 1.0,
+        "yt_room": 1.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 129430,
+        "top_views": 129430,
+        "top_title": "Stellar Blade - Switch 2 DF Review vs PS5 + Frame Generation Breakdown"
+      },
+      "youtube_query": "digital foundry stellar blade switch",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Digital Foundry Delivers Its Tech Verdict On Stellar Blade's Switch 2 Port",
+          "url": "https://www.nintendolife.com/news/2026/11/digital-foundry-delivers-its-tech-verdict-on-stellar-blades-switch-2-port",
+          "published": "2026-11-08T08:00:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Stellar Blade su Nintendo Switch 2 promosso da Digital Foundry: la frame generation convince più del previsto",
+          "url": "https://multiplayer.it/notizie/stellar-blade-su-nintendo-switch-2-promosso-da-digital-foundry-la-frame-generation-convince-piu-del-previsto.html",
+          "published": "2026-11-08T09:29:10+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "drop-epic-fans-following-fortnite-pirate",
+      "score": 33.8,
+      "already_proposed": false,
+      "headline": "Epic Reveals Drop Rate for Fortnite's Pirate Token Following Pressure From Fans",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 5.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.1,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 5,
+        "median_views": 1058,
+        "top_views": 24870,
+        "top_title": "🪙Epic just posted the real Pirate Token odds"
+      },
+      "youtube_query": "drop fortnite rate token following",
+      "related": [
+        {
+          "headline": "Paramount’s 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History",
+          "shared_terms": [
+            "epic"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Epic Reveals Drop Rate for Fortnite's Pirate Token Following Pressure From Fans",
+          "url": "https://www.ign.com/articles/epic-reveals-drop-rate-for-fortnites-pirate-token-following-pressure-from-fans",
+          "published": "2026-11-08T06:37:04+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "announced-bioware-closure-documentary-film-profound",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'",
+      "topics": [
+        "storie",
+        "industria"
+      ],
+      "age_hours": 10.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "documentary shutdown profound works film",
+      "related": [
+        {
+          "headline": "\"I feel that sense of responsibility more acutely\": After BioWare's closure, the makers of a new Mass Effect 3 co-op remaster mod look to carry their legacy",
+          "shared_terms": [
+            "closure"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "A BioWare documentary was already in the works when the shutdown was announced: 'With the studio's recent closure, the film is now a profound valediction'",
+          "url": "https://www.pcgamer.com/gaming-industry/a-bioware-documentary-was-already-in-the-works-when-the-shutdown-was-announced-with-the-studios-recent-closure-the-film-is-now-a-profound-valediction/",
+          "published": "2026-11-08T01:31:13+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cards-designed-fantasy-final-magic-notes",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "10 Perfectly Designed Final Fantasy Magic Cards That Are 10/10, No Notes",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 6.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "designed perfectly cards magic notes",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "10 Perfectly Designed Final Fantasy Magic Cards That Are 10/10, No Notes",
+          "url": "https://www.polygon.com/best-final-fantasy-magic-the-gathering-card-designs/",
+          "published": "2026-11-08T05:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "age-dragon-fans-fantasy-near-perfect",
+      "score": 31.4,
+      "already_proposed": false,
+      "headline": "9 Near-Perfect Dragon Age Replacements For Fans of Fantasy RPGs",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 8.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 3,
+        "top_views": 3,
+        "top_title": "Top Dragon Age Replacements: Ultimate Fantasy RPGs to Play Today #Shorts"
+      },
+      "youtube_query": "replacements rpgs age dragon near",
+      "related": [
+        {
+          "headline": "8 Near-Perfect BioWare Games That Aged Like Fine Wine",
+          "shared_terms": [
+            "near"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "9 Near-Perfect Dragon Age Replacements For Fans of Fantasy RPGs",
+          "url": "https://www.polygon.com/best-dragon-age-replacements/",
+          "published": "2026-11-08T03:40:49+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "action-epic-fantasy-history-paramount-part",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Paramount’s 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 7.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "paramount seasons history action part",
+      "related": [
+        {
+          "headline": "Epic Reveals Drop Rate for Fortnite's Pirate Token Following Pressure From Fans",
+          "shared_terms": [
+            "epic"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Paramount’s 4-Part Action Fantasy Epic Has One of the Best Seasons in TV History",
+          "url": "https://www.polygon.com/the-legend-of-korra-season-3-best-season/",
+          "published": "2026-11-08T04:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "3ds-comparison-graphics-n64-ocarina-side",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Video: Zelda: Ocarina Of Time Side-By-Side Graphics Comparison (Switch 2, 3DS, N64)",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 5.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "n64 side comparison 3ds graphics",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Video: Zelda: Ocarina Of Time Side-By-Side Graphics Comparison (Switch 2, 3DS, N64)",
+          "url": "https://www.nintendolife.com/news/2026/11/video-zelda-ocarina-of-time-side-by-side-graphics-comparison-switch-2-3ds-n64",
+          "published": "2026-11-08T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bill-entry-explains-nintendo-ocarina-perfect",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Entry Point Into The Zelda Universe",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 2.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "explains trinen entry universe bill",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Nintendo's Bill Trinen Explains Why Ocarina Of Time Is The Perfect Entry Point Into The Zelda Universe",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendos-bill-trinen-explains-why-ocarina-of-time-is-the-perfect-entry-point-into-the-zelda-universe",
+          "published": "2026-11-08T09:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "art-box-brawl-feature-legend-ocarina",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Feature: Box Art Brawl: The Legend Of Zelda: Ocarina Of Time Ultimate Showdown",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 1.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "showdown brawl ultimate box art",
+      "related": [
+        {
+          "headline": "Feature: Going Platinum: For About Two Months, I Was a Devout Member of the Cult of the Lamb",
+          "shared_terms": [
+            "feature"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Feature: Box Art Brawl: The Legend Of Zelda: Ocarina Of Time Ultimate Showdown",
+          "url": "https://www.nintendolife.com/features/box-art-brawl-the-legend-of-zelda-ocarina-of-time-ultimate-showdown",
+          "published": "2026-11-08T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "becomes-bethesda-ignore-reviled-story",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Bethesda's Most Reviled Game Becomes a 10/10 If You Ignore the Story",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 1.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "becomes ignore story bethesda reviled",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Bethesda's Most Reviled Game Becomes a 10/10 If You Ignore the Story",
+          "url": "https://www.polygon.com/starfield-retrospective-bethesda-story/",
+          "published": "2026-11-08T10:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "catch-character-debut-finally-later-making",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "68 Years Later, Peanuts’ Most Mysterious Character Is Finally Making Her Official Debut — But There's a Catch",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 1.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "official making mysterious catch finally",
+      "related": [
+        {
+          "headline": "BioWare May Be Dead, But a Modder Has Rebuilt Mass Effect 3's Multiplayer Into the Legendary Edition",
+          "shared_terms": [
+            "years"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "68 Years Later, Peanuts’ Most Mysterious Character Is Finally Making Her Official Debut — But There's a Catch",
+          "url": "https://www.polygon.com/charlie-brown-pencil-pal-history-peanuts/",
+          "published": "2026-11-08T10:30:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "boars-dishonored-dream-dystopian-echoes-edge",
+      "score": 30.8,
+      "already_proposed": false,
+      "headline": "Echoes of Mirror's Edge, Dishonored and a dream set in Italy I once had can be found in Boars in Rome, an expressive parkour platformer set in dystopian Rome",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 13.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.95,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "dystopian expressive dishonored mirror edge",
+      "related": [
+        {
+          "headline": "Rumour: Data Found In Zelda: Ocarina Of Time May Hint At Master Quest DLC",
+          "shared_terms": [
+            "found"
+          ]
+        },
+        {
+          "headline": "Assassin's Creed is reportedly going to ancient Rome, while a mobile spin-off heads to Jerusalem",
+          "shared_terms": [
+            "rome"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Echoes of Mirror's Edge, Dishonored and a dream set in Italy I once had can be found in Boars in Rome, an expressive parkour platformer set in dystopian Rome",
+          "url": "https://www.rockpapershotgun.com/echoes-of-mirrors-edge-dishonored-and-a-dream-set-in-italy-i-once-had-can-be-found-in-boars-in-rome-an-expressive-parkour-platformer-set-in-dystopian-rome",
+          "published": "2026-11-07T22:52:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2026-definitiva-dove-giocare-gta-guida",
+      "score": 30.0,
+      "already_proposed": false,
+      "headline": "How to Play Every GTA Game in 2026",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 8.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [
+        "Everyeye"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "2026 gta definitiva guida dove",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "How to Play Every GTA Game in 2026",
+          "url": "https://www.polygon.com/gta-games-all-2026-where-to-play/",
+          "published": "2026-11-08T02:54:13+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "Come e dove giocare a tutti i GTA nel 2026: la guida definitiva",
+          "url": "https://www.everyeye.it/notizie/come-giocare-gta-2026-guida-definitiva-910384.html",
+          "published": "2026-11-08T10:39:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "advance-boy-chess-fun-grade-immediately",
+      "score": 29.3,
+      "already_proposed": false,
+      "headline": "Chess is immediately more fun if you jettison most of the rules and replace them with weapons-grade Game Boy Advance",
+      "topics": [],
+      "age_hours": 11.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 21,
+        "top_views": 21,
+        "top_title": "Chess is immediately more fun if you jettison most of the rules and replace them with w... #Shorts"
+      },
+      "youtube_query": "advance jettison fun immediately grade",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Chess is immediately more fun if you jettison most of the rules and replace them with weapons-grade Game Boy Advance",
+          "url": "https://www.pcgamer.com/games/puzzle/chess-is-immediately-more-fun-if-you-jettison-most-of-the-rules-and-replace-them-with-weapons-grade-game-boy-advance/",
+          "published": "2026-11-08T00:40:53+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "aged-bioware-fine-near-perfect-wine",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "8 Near-Perfect BioWare Games That Aged Like Fine Wine",
+      "topics": [],
+      "age_hours": 9.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "fine wine aged near perfect",
+      "related": [
+        {
+          "headline": "9 Near-Perfect Dragon Age Replacements For Fans of Fantasy RPGs",
+          "shared_terms": [
+            "near"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "8 Near-Perfect BioWare Games That Aged Like Fine Wine",
+          "url": "https://www.polygon.com/top-bioware-games/",
+          "published": "2026-11-08T02:43:33+00:00"
+        }
+      ]
+    }
+  ]
+}
