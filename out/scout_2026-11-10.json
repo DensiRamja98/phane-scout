@@ -1,0 +1,826 @@
+{
+  "generated_at": "2026-11-10T13:23:52.039280+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "2k27-6bn-above-because-below-bookings",
+      "score": 40.4,
+      "already_proposed": false,
+      "headline": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 16.0,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.33,
+        "it_gap": 0.83,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.78,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry",
+        "Kotaku",
+        "Polygon",
+        "Push Square",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 21,
+        "top_views": 5703,
+        "top_title": "《GTA 6》預購超乎預期！《GTA 7》不用再等13年？-電玩宅速配20261110"
+      },
+      "youtube_query": "gta expectations orders pre far",
+      "related": [
+        {
+          "headline": "Cheaper OLEDs may be here even quicker than we thought as TCL CSOT says its new inkjet printing facility could be up and running as soon as this time next year",
+          "shared_terms": [
+            "running"
+          ]
+        },
+        {
+          "headline": "Take-Two Boss Strauss Zelnick on GTA 6 Expectations, GTA Online, and the Decade to Come",
+          "shared_terms": [
+            "above",
+            "tracking"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Take-Two Q2 net bookings fall 18% to $1.6bn as NBA 2K27 misses forecast but GTA 6 pre-orders are \"tracking far in excess\" of expectations",
+          "url": "https://www.gamesindustry.biz/take-two-q2-net-bookings-fall-18-to-16bn-as-nba-2k27-misses-forecast-but-gta-6-pre-orders-are-tracking-far-in-excess-of-expectations",
+          "published": "2026-11-09T21:22:20+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "GTA 6 Pre-Orders Are Coming In ‘Far In Excess’ Of What Take-Two Expected, Says CEO",
+          "url": "https://kotaku.com/gta-6-pre-orders-are-coming-in-far-in-excess-of-what-take-two-expected-says-ceo-2000755171",
+          "published": "2026-11-09T21:49:41+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "NBA 2K27 Sold Less Than Expected Because Of…GTA 6",
+          "url": "https://kotaku.com/nba-2k27-sold-less-than-expected-because-of-gta-6-2000755174",
+          "published": "2026-11-09T22:17:50+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "GTA 6 Pre-Orders Outperform Even Take-Two's Expectations, GTA 5 Just Keeps on Selling",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-pre-orders-outperform-even-take-twos-expectations-gta-5-just-keeps-on-selling",
+          "published": "2026-11-09T22:30:00+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "GTA 6 pre-orders are ‘far above initial expectations’ but NBA 2K27 was ‘below our forecast’, Take-Two says",
+          "url": "https://www.videogameschronicle.com/news/gta-6-pre-orders-are-far-above-initial-expectations-but-nba-2k27-was-below-our-forecast-take-two-says/",
+          "published": "2026-11-10T10:01:55+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "GTA 6 Presales Are 'Running Far in Excess of Our Expectations,' Take-Two Interactive CEO Says",
+          "url": "https://www.polygon.com/gta-6-grand-theft-auto-preorders-nba-2k27/",
+          "published": "2026-11-10T12:24:51+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "consoles-eshop-gifting-introduces-jamboree-mario",
+      "score": 38.7,
+      "already_proposed": false,
+      "headline": "Super Mario Party Jamboree Updated For Switch 2 And Switch (Version 2.4.0)",
+      "topics": [
+        "nintendo",
+        "feel_good"
+      ],
+      "age_hours": 11.3,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "updated version switch jamboree introduces",
+      "related": [
+        {
+          "headline": "Nintendo Adds eShop Gifting to Switch Consoles",
+          "shared_terms": [
+            "consoles",
+            "eshop"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Super Mario Party Jamboree Updated For Switch 2 And Switch (Version 2.4.0)",
+          "url": "https://www.nintendolife.com/news/2026/11/super-mario-party-jamboree-updated-for-switch-2-and-switch-version-2-4-0",
+          "published": "2026-11-10T02:05:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Switch 2 and Switch consoles updated to version 23.5.0 as Nintendo quietly re-introduces eShop gifting",
+          "url": "https://www.eurogamer.net/switch-2-and-switch-consoles-updated-to-version-2350-as-nintendo-quietly-re-introduces-eshop-gifting",
+          "published": "2026-11-10T09:22:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "auto-great-jump-legend-link-nintendo",
+      "score": 38.6,
+      "already_proposed": false,
+      "headline": "The Legend of Zelda: Ocarina of Time Took Away Auto Jump, and Poor Link Is Paying the Price",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 13.6,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.12,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.91,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1325,
+        "top_views": 1325,
+        "top_title": "Zelda: Ocarina of Time Remake Replaces Auto-Jump With a Button"
+      },
+      "youtube_query": "ocarina zelda took jump poor",
+      "related": [
+        {
+          "headline": "Great news! Nier: Automata's install size is no longer 7x bigger than it should be (it was 366 GB)",
+          "shared_terms": [
+            "great"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "The Legend of Zelda: Ocarina of Time Took Away Auto Jump, and Poor Link Is Paying the Price",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-took-away-auto-jump-and-poor-link-is-paying-the-price",
+          "published": "2026-11-09T23:46:42+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Zelda: Ocarina Of Time \"Off To A Great Start\", Says Nintendo",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-off-to-a-great-start-says-nintendo",
+          "published": "2026-11-10T10:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2026-against-award-generative-hit-indie",
+      "score": 36.4,
+      "already_proposed": false,
+      "headline": "Under pressure, Big Walk studio reveals it used generative AI \"sparingly\" while making its hit 2026 game",
+      "topics": [
+        "indie"
+      ],
+      "age_hours": 2.5,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "used sparingly studio walk generative",
+      "related": [
+        {
+          "headline": "Delightful Tidying Up Indie Gets A Surprise Switch 2 Edition Today, Complete With 120fps",
+          "shared_terms": [
+            "indie"
+          ]
+        },
+        {
+          "headline": "'The experiences on console and PC tend to be roughly the same,' says Take-Two CEO in response to question about GTA roleplaying",
+          "shared_terms": [
+            "response"
+          ]
+        },
+        {
+          "headline": "Big Walk Devs Issue Statement Over AI Usage",
+          "shared_terms": [
+            "statement"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Under pressure, Big Walk studio reveals it used generative AI \"sparingly\" while making its hit 2026 game",
+          "url": "https://www.eurogamer.net/house-house-big-walk-generative-ai-development",
+          "published": "2026-11-10T10:51:40+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Big Walk studio says it used AI ‘sparingly’ in response to indie award jury statement against its use",
+          "url": "https://www.videogameschronicle.com/news/big-walk-studio-says-it-used-ai-sparingly-in-response-to-indie-award-jury-statement-against-its-use/",
+          "published": "2026-11-10T11:46:56+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "easy-editions-fantasy-final-rebirth-remake",
+      "score": 35.2,
+      "already_proposed": false,
+      "headline": "Get Final Fantasy VII Remake and Rebirth Switch 2 Editions for Less Than $7 Each With This One Easy Step",
+      "topics": [
+        "nintendo",
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 13.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.94,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "vii rebirth fantasy editions step",
+      "related": [
+        {
+          "headline": "James Gunn And Peter Safran Step Down As DC Studios Co-Presidents Two Years Into The DC Universe",
+          "shared_terms": [
+            "step"
+          ]
+        },
+        {
+          "headline": "Hollow Knight Silksong physical editions mention multiple \"free content packs\" incoming, and call Sea of Sorrow a \"giant expansion\"",
+          "shared_terms": [
+            "editions"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Get Final Fantasy VII Remake and Rebirth Switch 2 Editions for Less Than $7 Each With This One Easy Step",
+          "url": "https://www.ign.com/articles/final-fantasy-switch-2-video-game-deals-november-2026",
+          "published": "2026-11-10T00:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cardi-celebrate-event-featuring-festival-gta",
+      "score": 35.1,
+      "already_proposed": false,
+      "headline": "GTA 6: The Festival Is a One-Off Live Music Event, Partly Presented by PlayStation",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 22.9,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.67,
+        "it_gap": 0.5,
+        "yt_demand": 0.06,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.39,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku",
+        "PC Gamer",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 308,
+        "top_views": 1248,
+        "top_title": "GTA 6’s Miami Festival Lands November 21"
+      },
+      "youtube_query": "live gta event music festival",
+      "related": [
+        {
+          "headline": "Dungeons in World of Warcraft: Forever get a huge XP buff, but power-levellers shouldn't celebrate just yet",
+          "shared_terms": [
+            "celebrate"
+          ]
+        },
+        {
+          "headline": "GTA 6 Won't Have Any Last Minute Delays, as It's Officially Gone Gold",
+          "shared_terms": [
+            "minute"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "GTA 6: The Festival Is a One-Off Live Music Event, Partly Presented by PlayStation",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-the-festival-is-a-one-off-live-music-event-partly-presented-by-playstation",
+          "published": "2026-11-09T14:30:00+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "There’s An IRL GTA 6 Live Event And You’ll Need To Win A Lottery To Get In",
+          "url": "https://kotaku.com/theres-an-irl-gta-6-live-event-and-youll-need-to-win-a-lottery-to-get-in-2000755131",
+          "published": "2026-11-10T00:00:42+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Rockstar is putting on a last-minute live music festival featuring Travis Scott and Cardi B to celebrate GTA 6's launch",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/rockstar-is-putting-on-a-last-minute-live-music-festival-featuring-travis-scott-and-cardi-b-to-celebrate-gta-6s-launch/",
+          "published": "2026-11-10T12:14:01+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "become-clarifies-developer-development-final-genai",
+      "score": 34.2,
+      "already_proposed": false,
+      "headline": "House House clarifies use of AI tools in Big Walk's \"final stage of development\"",
+      "topics": [],
+      "age_hours": 4.3,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "development use final house walk",
+      "related": [
+        {
+          "headline": "Mortal Kombat 2 Is Winning The Race To Become Mortal Kombat 2",
+          "shared_terms": [
+            "become"
+          ]
+        },
+        {
+          "headline": "Stellar Blade studio Shift Up says it won’t be revealing Project Spirits until next year",
+          "shared_terms": [
+            "revealing"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "House House clarifies use of AI tools in Big Walk's \"final stage of development\"",
+          "url": "https://www.gamesindustry.biz/house-house-clarifies-use-of-ai-tools-in-big-walks-final-stage-of-development",
+          "published": "2026-11-10T09:07:50+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Big Walk developer House House reveal genAI use in final stretch of development, only revealing it now as \"it has become a matter of public interest\"",
+          "url": "https://www.rockpapershotgun.com/big-walk-developer-house-house-reveal-genai-use-in-final-stretch-of-development-only-revealing-it-now-as-it-has-become-a-matter-of-public-interest",
+          "published": "2026-11-10T10:19:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "console-digital-gifting-option-ps5-without",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "PS5 Now the Only Console without a Digital Game Gifting Option",
+      "topics": [
+        "playstation",
+        "feel_good"
+      ],
+      "age_hours": 4.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "without option digital gifting console",
+      "related": [
+        {
+          "headline": "Poll: Which Zelda: Ocarina Of Time HUD Option Is Your Favourite?",
+          "shared_terms": [
+            "option"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "PS5 Now the Only Console without a Digital Game Gifting Option",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-now-the-only-console-without-a-digital-game-gifting-option",
+          "published": "2026-11-10T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "adds-consoles-eshop-gifting-nintendo-switch",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Nintendo Adds eShop Gifting to Switch Consoles",
+      "topics": [
+        "nintendo",
+        "feel_good"
+      ],
+      "age_hours": 3.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "adds eshop consoles gifting nintendo",
+      "related": [
+        {
+          "headline": "One of PS5's Most Promising RPGs Adds to the Chaos of January 2027",
+          "shared_terms": [
+            "adds"
+          ]
+        },
+        {
+          "headline": "Super Mario Party Jamboree Updated For Switch 2 And Switch (Version 2.4.0)",
+          "shared_terms": [
+            "consoles",
+            "eshop"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Nintendo Adds eShop Gifting to Switch Consoles",
+          "url": "https://www.polygon.com/nintendo-switch-2-digital-games-eshop-gifts/",
+          "published": "2026-11-10T09:52:40+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "able-digital-gift-kinda-nintendo-players",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Nintendo Switch Players Will Soon Be Able To Gift Digital Games, Kinda",
+      "topics": [
+        "nintendo",
+        "feel_good"
+      ],
+      "age_hours": 1.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "kinda able gift digital players",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Nintendo Switch Players Will Soon Be Able To Gift Digital Games, Kinda",
+          "url": "https://kotaku.com/nintendo-switch-2-gift-digital-games-family-group-mario-kart-donkey-2000755212",
+          "published": "2026-11-10T11:30:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "data-deck-improving-run-steam-valve",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Valve Is Improving The Data About How Well A Game Will Run On Your Steam Deck",
+      "topics": [
+        "pc_gaming",
+        "steam"
+      ],
+      "age_hours": 1.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "improving valve data run well",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Valve Is Improving The Data About How Well A Game Will Run On Your Steam Deck",
+          "url": "https://kotaku.com/valve-steam-deck-average-framerate-data-pc-final-fantasy-hades-2000755229",
+          "published": "2026-11-10T12:00:51+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "deck-framerate-fully-graphs-handheld-news",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet",
+      "topics": [
+        "pc_gaming",
+        "steam"
+      ],
+      "age_hours": 1.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "fully wouldn graphs numbers though",
+      "related": [
+        {
+          "headline": "Nintendo's legendary Kirby designer Masahiro Sakurai weighs in on gen-AI, saying \"it has yet to gain my trust\" but not to reject it completely",
+          "shared_terms": [
+            "trust"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Steam's new Steam Deck framerate graphs are good news for handheld players, though I wouldn't fully trust the numbers yet",
+          "url": "https://www.rockpapershotgun.com/steams-new-steam-deck-framerate-graphs-are-good-news-for-handheld-players-though-i-wouldnt-fully-trust-the-numbers-yet",
+          "published": "2026-11-10T12:26:20+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "live-nintendo-notes-patch-switch-system",
+      "score": 32.1,
+      "already_proposed": false,
+      "headline": "Nintendo Switch 2 System Update 23.5.0 Is Now Live, Here Are The Full Patch Notes",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 11.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 110,
+        "top_views": 110,
+        "top_title": "Nintendo Switch 2 System Update 23.5.0 Is Now Live, Here Are The Full Patch Notes - Nintend #Shorts"
+      },
+      "youtube_query": "notes system update patch live",
+      "related": [
+        {
+          "headline": "Guide: These 13+ PS5 Games Are Coming Out This Week (9th-15th November)",
+          "shared_terms": [
+            "update"
+          ]
+        },
+        {
+          "headline": "Dedicated PS5, PS5 Pro Patch Aims to Fix Silent Hill 2 Graphics Issues",
+          "shared_terms": [
+            "patch"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Nintendo Switch 2 System Update 23.5.0 Is Now Live, Here Are The Full Patch Notes",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-switch-2-system-update-23-5-0-is-now-live-here-are-the-full-patch-notes",
+          "published": "2026-11-10T01:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "exploit-jailbroken-software-supposedly-switch-via",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 11.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "jailbroken exploit supposedly software via",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Switch 2 Supposedly Jailbroken Via Software-Only Exploit",
+          "url": "https://www.nintendolife.com/news/2026/11/switch-2-supposedly-jailbroken-via-software-only-exploit",
+          "published": "2026-11-10T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "controls-finally-joy-mouse-releasing-switch",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Mouse Work, The Switch 2 Game Using Joy-Con Mouse Controls, Is Finally Releasing",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 10.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "joy mouse controls work releasing",
+      "related": [
+        {
+          "headline": "10 Xbox Games Are Releasing Today, Including A Nostalgic Return To A Kingdom Far Far Away (November 10)",
+          "shared_terms": [
+            "releasing"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Mouse Work, The Switch 2 Game Using Joy-Con Mouse Controls, Is Finally Releasing",
+          "url": "https://www.nintendolife.com/news/2026/11/mouse-work-the-switch-2-game-using-joy-con-mouse-controls-is-finally-releasing",
+          "published": "2026-11-10T03:05:00+00:00"
+        }
+      ]
+    }
+  ]
+}
