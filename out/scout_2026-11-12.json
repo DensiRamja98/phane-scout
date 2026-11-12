@@ -1,0 +1,873 @@
+{
+  "generated_at": "2026-11-12T13:40:06.928838+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "affair-allegation-alleged-allegedly-amid-billions",
+      "score": 71.9,
+      "already_proposed": false,
+      "headline": "A Second Jensen Huang Affair Has Hit Nvidia As The Company Prepares To Throw Him Overboard",
+      "topics": [
+        "pc_gaming"
+      ],
+      "age_hours": 14.8,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.71,
+        "it_gap": 0.83,
+        "yt_demand": 1.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.85,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot",
+        "Kotaku",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 490479,
+        "top_views": 3512801,
+        "top_title": "Jensen Huang To Quit As Nvidia CEO? | Cost Of Sleeping With A Chinese Spy - A Security Nightmare!!"
+      },
+      "youtube_query": "affair nvidia jensen huang board",
+      "related": [
+        {
+          "headline": "Bethesda Sets Expectations as Fans Hope for The Elder Scrolls VI: Sentinel News Today",
+          "shared_terms": [
+            "news"
+          ]
+        },
+        {
+          "headline": "Former id Software developers form their own employee-owned shooter studio in the wake of Microsoft's mass layoffs",
+          "shared_terms": [
+            "wake"
+          ]
+        },
+        {
+          "headline": "'This would be an Apple firing Steve Jobs level of idiocy' says Tim Sweeney at the idea of ousting Jensen Huang - while Elon Musk says 'it would be an honor' to hire the Nvidia chief",
+          "shared_terms": [
+            "ousting"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "A Second Jensen Huang Affair Has Hit Nvidia As The Company Prepares To Throw Him Overboard",
+          "url": "https://kotaku.com/a-second-jensen-huang-affair-has-hit-nvidia-as-company-considers-throwing-him-overboard-2000756033",
+          "published": "2026-11-11T22:54:48+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Nvidia CEO Jensen Huang allegedly had a second affair with another Nvidia exec",
+          "url": "https://www.pcgamer.com/software/ai/nvidia-ceo-jensen-huang-allegedly-had-a-second-affair-with-another-nvidia-exec/",
+          "published": "2026-11-11T23:25:39+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Nvidia’s Board Is Weighing Jensen Huang’s Future After Second Affair Revelation",
+          "url": "https://www.gamespot.com/articles/nvidias-board-is-weighing-jensen-huangs-future-after-second-affair-revelation/",
+          "published": "2026-11-12T10:43:30+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Nvidia board considering ousting CEO Jensen Huang, report claims, as news of a second affair comes to light",
+          "url": "https://www.eurogamer.net/nvidia-ceo-jensen-huang-affair-share-price",
+          "published": "2026-11-12T11:37:30+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Nvidia stock price plunges amid second Jensen Huang affair allegation — the AI company could be set to lose hundreds of billions in value",
+          "url": "https://www.pcgamer.com/hardware/nvidia-stock-price-plunges-amid-second-jensen-huang-affair-allegation-the-ai-company-could-be-set-to-lose-hundreds-of-billions-in-value/",
+          "published": "2026-11-12T11:46:58+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "If Jensen Huang goes, who could replace him? Here’s who the board might pick if the Nvidia CEO is ousted in the wake of affair scandals",
+          "url": "https://www.pcgamer.com/hardware/if-jensen-huang-goes-who-could-replace-him-heres-who-the-board-might-pick-if-the-nvidia-ceo-is-ousted-in-the-wake-of-affair-scandals/",
+          "published": "2026-11-12T12:18:35+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Nvidia board reportedly prepare to give CEO Jensen Huang the boot, as second alleged affair thrusts him closer to seriously lusty Crusader Kings playthrough territory",
+          "url": "https://www.rockpapershotgun.com/nvidia-board-reportedly-prepare-to-give-ceo-jensen-huang-the-boot-as-second-alleged-affair-thrusts-him-closer-to-seriously-lusty-crusader-kings-playthrough-territory",
+          "published": "2026-11-12T12:38:40+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "black-bought-buys-came-company-decade",
+      "score": 40.4,
+      "already_proposed": false,
+      "headline": "\"Some of the best games of the last decade came from teams of fifty\": Destroy All Humans! remake devs Black Forest Games split from THQ Nordic to launch new indie studio group",
+      "topics": [
+        "aaa",
+        "indie"
+      ],
+      "age_hours": 22.3,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.4,
+        "it_gap": 0.83,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.43,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GamesIndustry",
+        "PC Gamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 1,
+        "top_views": 1,
+        "top_title": "Black Forest Games agora é independente"
+      },
+      "youtube_query": "forest nordic thq group black",
+      "related": [
+        {
+          "headline": "Guide: PlayStation Studios: All Sony First-Party Developers and What They're Working On",
+          "shared_terms": [
+            "studios"
+          ]
+        },
+        {
+          "headline": "A group of developers laid off from id Software have formed new studio Hidden Horses",
+          "shared_terms": [
+            "formed"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "\"Some of the best games of the last decade came from teams of fifty\": Destroy All Humans! remake devs Black Forest Games split from THQ Nordic to launch new indie studio group",
+          "url": "https://www.rockpapershotgun.com/some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-destroy-all-humans-remake-devs-black-forest-games-split-from-thq-nordic-to-launch-new-indie-studio-group",
+          "published": "2026-11-11T15:19:30+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Destroy All Humans remake developer goes independent, splits from THQ Nordic and parent company Embracer Group",
+          "url": "https://www.eurogamer.net/destroy-all-humans-independent-thq-embracer",
+          "published": "2026-11-11T20:37:20+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Giana Sisters developer Black Forest Games buys itself out of Embracer: 'Some of the best games of the last decade came from teams of fifty, not five hundred'",
+          "url": "https://www.pcgamer.com/gaming-industry/giana-sisters-developer-black-forest-games-buys-itself-out-of-embracer-some-of-the-best-games-of-the-last-decade-came-from-teams-of-fifty-not-five-hundred/",
+          "published": "2026-11-11T22:57:44+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Destroy All Humans Remake dev Black Forest has bought itself out from THQ Nordic and formed a new group of indie studios",
+          "url": "https://www.videogameschronicle.com/news/destroy-all-humans-remake-dev-black-forest-has-bought-itself-out-from-thq-nordic-and-formed-a-new-group-of-indie-studios/",
+          "published": "2026-11-12T10:11:45+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Black Forest Games spins out from THQ Nordic, co-founds indie studio group Third Signal",
+          "url": "https://www.gamesindustry.biz/black-forest-games-spins-out-from-thq-nordic-co-founds-indie-studio-group-third-signal",
+          "published": "2026-11-12T11:53:40+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "actor-alter-bring-case-changed-dlc",
+      "score": 40.4,
+      "already_proposed": false,
+      "headline": "CD Projekt Red Used AI to Alter Geralt's Voice Due to Polish Actor's Health Issues",
+      "topics": [],
+      "age_hours": 15.8,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.75,
+        "it_gap": 0.67,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.79,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "PC Gamer",
+        "Polygon",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 272,
+        "top_views": 1577,
+        "top_title": "CDPR using AI for voice acting"
+      },
+      "youtube_query": "voice geralt projekt actor polish",
+      "related": [
+        {
+          "headline": "Lego Digital Play acquires ForthStar Games \"to bring Lego to the prominence it truly deserves on mobile\"",
+          "shared_terms": [
+            "bring"
+          ]
+        },
+        {
+          "headline": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month",
+          "shared_terms": [
+            "original"
+          ]
+        },
+        {
+          "headline": "The Witcher 3 expansion uses AI to adjust Geralt’s Polish voiceover because the actor suffered a stroke",
+          "shared_terms": [
+            "case",
+            "special"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "CD Projekt Red Used AI to Alter Geralt's Voice Due to Polish Actor's Health Issues",
+          "url": "https://www.ign.com/articles/cd-projekt-red-used-ai-to-alter-geralts-voice-due-to-polish-actors-health-issues",
+          "published": "2026-11-11T21:52:56+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "CD Projekt used AI to modify the voice of Geralt's Polish actor after a stroke left it significantly changed: 'This was a special case'",
+          "url": "https://www.pcgamer.com/games/the-witcher/cd-projekt-used-ai-to-modify-the-voice-of-geralts-polish-actor-after-a-stroke-left-it-significantly-changed-this-was-a-special-case/",
+          "published": "2026-11-12T00:02:47+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "CD Projekt Red Will Use AI to Bring Back Geralt’s Original Voice",
+          "url": "https://www.polygon.com/the-witcher-3-cd-projekt-red-jacek-rozenek-ai-bring-back-geralt-voice/",
+          "published": "2026-11-12T11:38:14+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "New Witcher 3 DLC Uses AI to Touch Up Geralt's Polish Voice Due to Actor's Health Issues",
+          "url": "https://www.pushsquare.com/news/2026/11/new-witcher-3-dlc-uses-ai-to-touch-up-geralts-polish-voice-due-to-actors-health-issues",
+          "published": "2026-11-12T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "believe-clip-everyone-fan-fans-footage",
+      "score": 35.3,
+      "already_proposed": false,
+      "headline": "This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 14.2,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.67,
+        "it_gap": 0.33,
+        "yt_demand": 0.04,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.88,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku",
+        "Pure Xbox",
+        "Push Square"
+      ],
+      "coverage_it": [
+        "Everyeye"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 157,
+        "top_views": 1536,
+        "top_title": "GTA 6 looks BETTER than real life 🤯🔥 #gta6 #games"
+      },
+      "youtube_query": "gta gameplay clip miami believe",
+      "related": [
+        {
+          "headline": "No more need to slap 'reddit' on the end of your Google searches as Reddit Reviews is here to amalgamate everyone's thoughts",
+          "shared_terms": [
+            "everyone"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "This Isn’t A Video From Miami, It’s A GTA 6 Gameplay Clip",
+          "url": "https://kotaku.com/this-isnt-a-video-from-miami-its-a-gta-6-gameplay-clip-2000756038",
+          "published": "2026-11-11T23:30:19+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "Non è un video di Miami, è gameplay di GTA 6! Rockstar sorprende i fan",
+          "url": "https://www.everyeye.it/notizie/non-video-miami-gameplay-gta-6-rockstar-sorprende-fan-911125.html",
+          "published": "2026-11-12T07:58:00+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "GTA 6 Gets 20 Seconds Of New Gameplay, And Everyone Can't Believe How Real It Looks",
+          "url": "https://www.purexbox.com/news/2026/11/gta-6-gets-20-seconds-of-new-gameplay-and-everyone-cant-believe-how-real-it-looks",
+          "published": "2026-11-12T12:00:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "This GTA 6 Clip Looks So Real, Fans Can't Believe It's In-Game Footage",
+          "url": "https://www.pushsquare.com/news/2026/11/this-gta-6-clip-looks-so-real-fans-cant-believe-its-in-game-footage",
+          "published": "2026-11-12T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "calls-daxter-druckmann-fully-heretic-intergalactic",
+      "score": 34.5,
+      "already_proposed": false,
+      "headline": "Neil Druckmann Says Intergalactic: The Heretic Prophet Is Fully Playable, Already In Polish",
+      "topics": [],
+      "age_hours": 2.2,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 4,
+        "median_views": 12,
+        "top_views": 127,
+        "top_title": "Naughty Dog's Next PS5 Exclusive is Now Fully Playable"
+      },
+      "youtube_query": "neil druckmann prophet heretic intergalactic",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Neil Druckmann Says Intergalactic: The Heretic Prophet Is Fully Playable, Already In Polish",
+          "url": "https://kotaku.com/neil-druckman-intergalactic-the-heretic-prophet-2027-playable-polish-2000756229",
+          "published": "2026-11-12T11:30:18+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Intergalactic: The Heretic Prophet in 'Last Stages of Production,' Neil Druckmann calls it a Mash-up of Jak and Daxter, Uncharted and The Last of Us",
+          "url": "https://www.ign.com/articles/intergalactic-the-heretic-prophet-in-last-stages-of-production-neil-druckmann-calls-it-a-mash-up-of-jak-and-daxter-uncharted-and-the-last-of-us",
+          "published": "2026-11-12T12:47:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "developers-formed-group-hidden-horses-laid",
+      "score": 33.6,
+      "already_proposed": false,
+      "headline": "A group of developers laid off from id Software have formed new studio Hidden Horses",
+      "topics": [
+        "xbox",
+        "easter_egg"
+      ],
+      "age_hours": 2.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 4,
+        "top_views": 4,
+        "top_title": "Doom Devs Say Layoffs Felt Like An Attack #Doom #idSoftware #Shorts"
+      },
+      "youtube_query": "horses formed hidden software laid",
+      "related": [
+        {
+          "headline": "\"Some of the best games of the last decade came from teams of fifty\": Destroy All Humans! remake devs Black Forest Games split from THQ Nordic to launch new indie studio group",
+          "shared_terms": [
+            "formed"
+          ]
+        },
+        {
+          "headline": "Former id Software developers form their own employee-owned shooter studio in the wake of Microsoft's mass layoffs",
+          "shared_terms": [
+            "horses"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "A group of developers laid off from id Software have formed new studio Hidden Horses",
+          "url": "https://www.videogameschronicle.com/news/a-group-of-developers-laid-off-from-id-software-have-formed-new-studio-hidden-horses/",
+          "published": "2026-11-12T11:20:28+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "clint-discovered-eastwood-legendary-sequel-streaming",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Clint Eastwood's Legendary Western Sequel Is Waiting to Be Discovered on Streaming",
+      "topics": [
+        "aaa",
+        "easter_egg"
+      ],
+      "age_hours": 6.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "legendary western eastwood waiting streaming",
+      "related": [
+        {
+          "headline": "WoW: Forever to add extra gold to high-level quests, since it turns out you don't get extra cash at 60",
+          "shared_terms": [
+            "discovered"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Clint Eastwood's Legendary Western Sequel Is Waiting to Be Discovered on Streaming",
+          "url": "https://www.polygon.com/for-a-few-dollars-more-clint-eastwood-streaming-november-2026/",
+          "published": "2026-11-12T06:53:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "clampdowns-coded-developer-fan-infringement-month",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Vibe-Coded Pokémon Fan Project Developer Is Outraged At AI Clampdowns On IP Infringement After Spending Thousands Per Month",
+      "topics": [
+        "pokemon",
+        "feel_good"
+      ],
+      "age_hours": 2.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "outraged thousands infringement spending coded",
+      "related": [
+        {
+          "headline": "Hell Let Loose's original developers' Napoleonic-era extraction game, Hunger, gets December early access release, and an open beta this month",
+          "shared_terms": [
+            "month"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Vibe-Coded Pokémon Fan Project Developer Is Outraged At AI Clampdowns On IP Infringement After Spending Thousands Per Month",
+          "url": "https://kotaku.com/pokemon-arena-2d-fan-project-vibe-coded-claude-ai-big-kid-nation-2000756082",
+          "published": "2026-11-12T11:00:24+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "account-agli-authentication-bundle-cambia-cosa",
+      "score": 31.8,
+      "already_proposed": false,
+      "headline": "Humble Bundle Undergoes A Vibecoded-Looking Redesign, Forgets To Implement Full Account Security",
+      "topics": [],
+      "age_hours": 4.7,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku",
+        "PC Gamer"
+      ],
+      "coverage_it": [
+        "SpazioGames"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "account humble bundle security redesign",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Humble Bundle Undergoes A Vibecoded-Looking Redesign, Forgets To Implement Full Account Security",
+          "url": "https://kotaku.com/humble-bundle-vibe-coded-ai-redesign-account-security-password-email-2000756085",
+          "published": "2026-11-12T09:00:39+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "Humble Bundle cambia tutto: cosa succede agli account",
+          "url": "https://www.spaziogames.it/notizie/humble-bundle-cambia-volto-ma-gli-account-preoccupano",
+          "published": "2026-11-12T12:19:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Humble Bundle's new redesign inexplicably removes 2-factor authentication, dramatically weakening account security",
+          "url": "https://www.pcgamer.com/software/platforms/humble-bundles-new-redesign-inexplicably-removes-2-factor-authentication-dramatically-weakening-account-security/",
+          "published": "2026-11-12T12:29:45+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "adventure-celebrates-eshop-sale-skyrim-switch",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Skyrim Celebrates 15 Years Of Adventure With Switch eShop Sale, Get 60% Off",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 9.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "sale eshop adventure celebrates years",
+      "related": [
+        {
+          "headline": "Skyrim Celebrates 15th Anniversary with Creation Club DLC Bundle, Big Sales, and More",
+          "shared_terms": [
+            "celebrates"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Skyrim Celebrates 15 Years Of Adventure With Switch eShop Sale, Get 60% Off",
+          "url": "https://www.nintendolife.com/news/2026/11/skyrim-celebrates-15-years-of-adventure-with-switch-eshop-sale-get-60percent-off",
+          "published": "2026-11-12T03:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "link-ocarina-quicker-random-remake-rolls",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Random: Yes, Young Link Is Still Quicker When He Rolls About In Ocarina's Remake",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 7.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "random quicker yes young rolls",
+      "related": [
+        {
+          "headline": "'We're kind of friendslop': CEO of Jackbox Games sees the link between party games and this new trend but doesn't think it's necessarily 'a negative moniker'",
+          "shared_terms": [
+            "link"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Random: Yes, Young Link Is Still Quicker When He Rolls About In Ocarina's Remake",
+          "url": "https://www.nintendolife.com/news/2026/11/random-yes-young-link-is-still-quicker-when-he-rolls-about-in-ocarinas-remake",
+          "published": "2026-11-12T05:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "air-amiibo-available-final-kirby-reminder",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Reminder: The Final Kirby Air Riders amiibo Are Now Available",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 6.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "reminder amiibo riders kirby air",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Reminder: The Final Kirby Air Riders amiibo Are Now Available",
+          "url": "https://www.nintendolife.com/news/2026/11/reminder-the-final-kirby-air-riders-amiibo-are-now-available",
+          "published": "2026-11-12T06:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "developers-guide-party-playstation-sony-studios",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Guide: PlayStation Studios: All Sony First-Party Developers and What They're Working On",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 4.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "working guide studios party developers",
+      "related": [
+        {
+          "headline": "Square Enix's Big Reset Is Working As It Increases Its Full-Year Forecast",
+          "shared_terms": [
+            "working"
+          ]
+        },
+        {
+          "headline": "\"Some of the best games of the last decade came from teams of fifty\": Destroy All Humans! remake devs Black Forest Games split from THQ Nordic to launch new indie studio group",
+          "shared_terms": [
+            "studios"
+          ]
+        },
+        {
+          "headline": "Guide: GTA 6 Release Times: When Can You Start Playing?",
+          "shared_terms": [
+            "guide"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Guide: PlayStation Studios: All Sony First-Party Developers and What They're Working On",
+          "url": "https://www.pushsquare.com/guides/playstation-studios-all-sony-first-party-developers-and-what-theyre-working-on",
+          "published": "2026-11-12T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "available-champions-distribution-limited-pok-mon",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "New Limited-Time Pokémon Champions Distribution Is Now Available",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 3.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "champions distribution limited available pokémon",
+      "related": [
+        {
+          "headline": "Xbox Brings Halo's Iconic Pelican To Microsoft Flight Sim 2024 As Limited-Time Freebie",
+          "shared_terms": [
+            "limited"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "New Limited-Time Pokémon Champions Distribution Is Now Available",
+          "url": "https://www.nintendolife.com/news/2026/11/new-limited-time-pokemon-champions-distribution-is-now-available",
+          "published": "2026-11-12T10:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "gameplay-intergalactic-production-ps5-stage-year",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Intergalactic PS5 in the 'Last Stage of Production', Gameplay Coming Next Year",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 3.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "stage production intergalactic year gameplay",
+      "related": [
+        {
+          "headline": "Intergalactic: The Heretic Prophet è nelle fasi finali dello sviluppo, nel 2027 arriveranno nuove informazioni",
+          "shared_terms": [
+            "stage"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Intergalactic PS5 in the 'Last Stage of Production', Gameplay Coming Next Year",
+          "url": "https://www.pushsquare.com/news/2026/11/intergalactic-ps5-in-the-last-stage-of-production-gameplay-coming-next-year",
+          "published": "2026-11-12T10:30:00+00:00"
+        }
+      ]
+    }
+  ]
+}
