@@ -1,0 +1,853 @@
+{
+  "generated_at": "2026-11-13T12:58:50.021826+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "announces-bloodbath-boss-capabilities-capitolo-confirmed",
+      "score": 50.3,
+      "already_proposed": false,
+      "headline": "Wolfenstein 3 Confirmed to Be in Development at MachineGames",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 13.0,
+      "signals": {
+        "coverage": 1.0,
+        "velocity": 1.0,
+        "it_gap": 0.67,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.95,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot",
+        "IGN",
+        "Nintendo Life",
+        "PC Gamer",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 6,
+        "median_views": 28,
+        "top_views": 362,
+        "top_title": "Wolfenstein 3 is Officially Confirmed"
+      },
+      "youtube_query": "wolfenstein machinegames confirmed development officially",
+      "related": [
+        {
+          "headline": "Pokémon Fan Who Spent Thousands of Dollars on AI Tools Upset as Anthropic Finally Begins Crackdown",
+          "shared_terms": [
+            "finally"
+          ]
+        },
+        {
+          "headline": "Xbox CEO looks to the future as Microsoft's console turns 25: 'A single person will soon be able to wield capabilities that once required entire nations'",
+          "shared_terms": [
+            "capabilities",
+            "entire",
+            "nations"
+          ]
+        },
+        {
+          "headline": "Xbox CEO Announces Major New Bethesda Games In The Works, Including Wolfenstein 3",
+          "shared_terms": [
+            "announces"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Wolfenstein 3 Confirmed to Be in Development at MachineGames",
+          "url": "https://www.ign.com/articles/wolfenstein-3-confirmed-to-be-in-development-at-machinegames",
+          "published": "2026-11-13T00:01:13+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Wolfenstein 3 Is Now \"Officially In Production\" At MachineGames",
+          "url": "https://www.nintendolife.com/news/2026/11/wolfenstein-3-is-now-officially-in-production-at-machinegames",
+          "published": "2026-11-13T00:55:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Wolfenstein 3 is in production at MachineGames",
+          "url": "https://www.pcgamer.com/games/fps/wolfenstein-3-is-in-production-at-machinegames/",
+          "published": "2026-11-13T01:35:32+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Wolfenstein 3 è ufficiale: MachineGames lavora al nuovo capitolo della serie",
+          "url": "https://multiplayer.it/notizie/wolfenstein-3-e-ufficiale-machinegames-ha-avviato-lo-sviluppo-del-nuovo-capitolo.html",
+          "published": "2026-11-13T07:03:33+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "MachineGames has finally officially confirmed that Wolfenstein 3 is in development",
+          "url": "https://www.videogameschronicle.com/news/machinegames-has-finally-officially-confirmed-that-wolfenstein-3-is-in-development/",
+          "published": "2026-11-13T09:47:59+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Wolfenstein 3 Is Officially In Production At MachineGames",
+          "url": "https://www.gamespot.com/articles/wolfenstein-3-is-officially-in-production-at-machinegames/",
+          "published": "2026-11-13T09:50:39+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Wolfenstein 3 and new id Software game confirmed, as Xbox boss somehow unrelatedly shouts about one person soon wielding \"capabilities that once required entire nations\"",
+          "url": "https://www.rockpapershotgun.com/wolfenstein-3-and-new-id-software-game-confirmed-as-xbox-boss-somehow-unrelatedly-shouts-about-one-person-soon-wieldling-capabilities-that-once-required-entire-nations",
+          "published": "2026-11-13T10:34:40+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\"",
+          "url": "https://www.eurogamer.net/wolfenstein-3-new-id-software-game-announced-xbox",
+          "published": "2026-11-13T12:19:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "confirms-developer-directed-doom-hugo-layoffs",
+      "score": 42.8,
+      "already_proposed": false,
+      "headline": "Doom Developer id Software Confirms Work on New Game, Will Be Directed by Hugo Martin",
+      "topics": [
+        "xbox",
+        "industria"
+      ],
+      "age_hours": 17.0,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.2,
+        "it_gap": 0.83,
+        "yt_demand": 0.12,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.72,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku",
+        "Nintendo Life",
+        "PC Gamer",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 1343,
+        "top_views": 1343,
+        "top_title": "New Doom Game? id Software Confirms Its Next Game Is in Development #shorts"
+      },
+      "youtube_query": "software confirms working doom directed",
+      "related": [
+        {
+          "headline": "GDC State of the Game Industry report: 40% of developers are using generative AI for work",
+          "shared_terms": [
+            "work"
+          ]
+        },
+        {
+          "headline": "Layoffs, AI, and next-gen: what 2,600+ game professionals told GDC this year",
+          "shared_terms": [
+            "layoffs"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Doom Developer id Software Confirms Work on New Game, Will Be Directed by Hugo Martin",
+          "url": "https://www.ign.com/articles/doom-developer-id-software-confirms-work-on-new-game-will-be-directed-by-hugo-martin",
+          "published": "2026-11-12T20:00:25+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Doom studio id Software confirms it's working on a new game",
+          "url": "https://www.pcgamer.com/games/fps/doom-studio-id-software-confirms-its-working-on-a-new-game/",
+          "published": "2026-11-12T21:10:04+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Id Software Says It’s Working On Its Next Game, Directed By Doom’s Hugo Martin",
+          "url": "https://kotaku.com/id-software-says-its-working-on-its-next-game-directed-by-dooms-hugo-martin-2000756358",
+          "published": "2026-11-12T21:33:06+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Id Software confirms it’s working on a new game after layoffs",
+          "url": "https://www.videogameschronicle.com/news/id-software-confirms-its-working-on-a-new-game-after-layoffs/",
+          "published": "2026-11-12T21:38:33+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "DOOM Developer id Software Confirms It's Working On A New Game",
+          "url": "https://www.nintendolife.com/news/2026/11/doom-developer-id-software-confirms-its-working-on-a-new-game",
+          "published": "2026-11-13T01:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "announced-announces-bethesda-ceo-including-machinegames",
+      "score": 38.9,
+      "already_proposed": false,
+      "headline": "Xbox CEO Announces Major New Bethesda Games In The Works, Including Wolfenstein 3",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 12.6,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.11,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.96,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1176,
+        "top_views": 1176,
+        "top_title": "Wolfenstein 3 Is Officially In Production"
+      },
+      "youtube_query": "works wolfenstein bethesda announces major",
+      "related": [
+        {
+          "headline": "Wolfenstein 3 Confirmed to Be in Development at MachineGames",
+          "shared_terms": [
+            "announces"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Xbox CEO Announces Major New Bethesda Games In The Works, Including Wolfenstein 3",
+          "url": "https://www.purexbox.com/news/2026/11/xbox-ceo-announces-major-new-bethesda-games-in-the-works-including-wolfenstein-3",
+          "published": "2026-11-13T00:20:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Wolfenstein 3 Announced, Now in the Works at MachineGames",
+          "url": "https://www.pushsquare.com/news/2026/11/wolfenstein-3-announced-now-in-the-works-at-machinegames",
+          "published": "2026-11-13T00:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "designs-editions-eshop-nintendo-november-ranked",
+      "score": 36.4,
+      "already_proposed": false,
+      "headline": "6 Nintendo Switch Special Editions With the Best Designs, Ranked",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 3.0,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life",
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "switch nintendo editions designs eshop",
+      "related": [
+        {
+          "headline": "Zelda: Ocarina Of Time Remake Replicates Notorious Glitch For Infinite Gold Skulltulas",
+          "shared_terms": [
+            "ranked"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "6 Nintendo Switch Special Editions With the Best Designs, Ranked",
+          "url": "https://www.polygon.com/best-nintendo-switch-special-edition-designs/",
+          "published": "2026-11-13T10:00:17+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "These 30+ Games Are Coming To Nintendo Switch eShop This Week (November 12)",
+          "url": "https://www.nintendolife.com/news/2026/11/these-30plus-games-are-coming-to-nintendo-switch-eshop-this-week-november-12",
+          "published": "2026-11-13T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "collectables-guide-main-ocarina-quest-quests",
+      "score": 33.9,
+      "already_proposed": false,
+      "headline": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 8.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 33,
+        "top_views": 108,
+        "top_title": "Horizon Zero Dawn Remastered | Episode 1 | Aloy's Origins & The Point of the Spear"
+      },
+      "youtube_query": "collectables quests main side walkthrough",
+      "related": [
+        {
+          "headline": "New 4-minute Fable gameplay trailer shows a game that doesn't look much like Fable",
+          "shared_terms": [
+            "quest"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Guide: Zelda: Ocarina Of Time Walkthrough (Switch 2 Remake): Guide To The Main Quest, Side Quests & Collectables",
+          "url": "https://www.nintendolife.com/guides/zelda-ocarina-of-time-walkthrough-switch-2-remake",
+          "published": "2026-11-13T05:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "metaphor-port-refantazio-reviews-round-switch",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Round Up: The Reviews Are In For Metaphor: ReFantazio's Switch 2 Port",
+      "topics": [
+        "nintendo",
+        "feel_good"
+      ],
+      "age_hours": 10.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "metaphor refantazio reviews port round",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Round Up: The Reviews Are In For Metaphor: ReFantazio's Switch 2 Port",
+          "url": "https://www.nintendolife.com/news/2026/11/round-up-the-reviews-are-in-for-metaphor-refantazios-switch-2-port",
+          "published": "2026-11-13T02:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "decided-dial-nintendo-ocarina-redead-remake",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\"",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 8.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "redead dial decided scary remake",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Zelda Ocarina's ReDead Were Set To Be \"Very, Very Scary\" In The Remake, But Nintendo Decided To \"Dial It Back\"",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarinas-redead-were-set-to-be-very-very-scary-in-the-remake-but-nintendo-decided-to-dial-it-back",
+          "published": "2026-11-13T04:55:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "approval-backlog-delay-devs-forcing-indie",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Steam's submission and approval backlog is forcing indie devs to delay game launches",
+      "topics": [
+        "steam",
+        "indie"
+      ],
+      "age_hours": 1.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "submission delay forcing launches approval",
+      "related": [
+        {
+          "headline": "Laid-off Id Software devs form employee-owned studio Hidden Horses",
+          "shared_terms": [
+            "devs"
+          ]
+        },
+        {
+          "headline": "Black Forest Games spins out from THQ Nordic, co-founds indie studio group Third Signal",
+          "shared_terms": [
+            "indie"
+          ]
+        },
+        {
+          "headline": "Palworld Developer Pocketpair Gives Employees 5 Days Off to Play GTA 6",
+          "shared_terms": [
+            "launches"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Steam's submission and approval backlog is forcing indie devs to delay game launches",
+          "url": "https://www.gamesindustry.biz/steams-submission-and-approval-backlog-is-forcing-indie-devs-to-delay-game-launches",
+          "published": "2026-11-13T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "divides-fable-fanbase-shares-trailer-xbox",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Xbox Shares New Fable Trailer that Divides the Fanbase",
+      "topics": [
+        "xbox",
+        "feel_good"
+      ],
+      "age_hours": 0.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "shares fanbase divides trailer fable",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Xbox Shares New Fable Trailer that Divides the Fanbase",
+          "url": "https://www.polygon.com/fable-new-gameplay-trailer-xbox/",
+          "published": "2026-11-13T12:45:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "amazing-basato-cards-carte-dune-lair",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Leaked Dune Magic Secret Lair Has Amazing Value Reprints and 9 New Cards",
+      "topics": [
+        "easter_egg",
+        "storie"
+      ],
+      "age_hours": 2.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 223,
+        "top_views": 372,
+        "top_title": "dune Pause  #edh #mtg #mtgcommander #dune #mtgmemes"
+      },
+      "youtube_query": "secret dune lair magic leaked",
+      "related": [
+        {
+          "headline": "Nvidia CEO Jensen Huang Resigns, Effective Immediately",
+          "shared_terms": [
+            "value"
+          ]
+        },
+        {
+          "headline": "AMD has patched its SSD-eating GPU driver bug with an optional Adrenalin update for RX 7000-series graphics cards and above",
+          "shared_terms": [
+            "cards"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Leaked Dune Magic Secret Lair Has Amazing Value Reprints and 9 New Cards",
+          "url": "https://www.polygon.com/mtg-dune-magic-secret-lair-drop-leaks/",
+          "published": "2026-11-13T10:30:47+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Il nuovo Secret Lair di Magic è basato su Dune: trapelano le prime carte",
+          "url": "https://multiplayer.it/notizie/il-nuovo-secret-lair-di-magic-e-basato-su-dune-trapelano-le-prime-carte.html",
+          "published": "2026-11-13T11:49:11+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "charles-classic-comic-comics-final-food",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "5 Funniest 'Peanuts' Comics About Food Only Charles Schulz Could Come Up With",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 8.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "charles schulz peanuts comics funniest",
+      "related": [
+        {
+          "headline": "Cosy Train Sim 'Station To Station' Arrives On Switch 2 Later This Month",
+          "shared_terms": [
+            "later"
+          ]
+        },
+        {
+          "headline": "WoW: Forever's new Riverglades zone feels more like The Burning Crusade+ than Classic+, and you know what, I'm absolutely okay with that",
+          "shared_terms": [
+            "classic"
+          ]
+        },
+        {
+          "headline": "Valheim Is Getting a Comic Book Series, and It Looks Badass",
+          "shared_terms": [
+            "comic"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "5 Funniest 'Peanuts' Comics About Food Only Charles Schulz Could Come Up With",
+          "url": "https://www.polygon.com/peanuts-best-comics-food/",
+          "published": "2026-11-13T05:00:17+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "26 Years Later, Charles Schulz' Final Comic Strip Is Still an All-Time Peanuts Classic",
+          "url": "https://www.polygon.com/peanuts-final-comic-strip-charlie-brown/",
+          "published": "2026-11-13T07:23:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "burton-dark-fantasy-forgotten-magnum-officially",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Tim Burton's Forgotten Dark Fantasy Magnum Opus Is Officially Free on Youtube",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 4.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "opus forgotten burton magnum youtube",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Tim Burton's Forgotten Dark Fantasy Magnum Opus Is Officially Free on Youtube",
+          "url": "https://www.polygon.com/corpse-bride-streaming-free-youtube-november-2026/",
+          "published": "2026-11-13T08:15:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "braces-break-broadband-gta-impact-internet",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Will GTA 6 break the internet? UK broadband operator braces for impact, saying \"GTA 6 has been on our radar for a long time\"",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 3.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "saying break impact radar operator",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Will GTA 6 break the internet? UK broadband operator braces for impact, saying \"GTA 6 has been on our radar for a long time\"",
+          "url": "https://www.eurogamer.net/gta-6-internet-uk-broadband-ofcom-openreach",
+          "published": "2026-11-13T09:42:40+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "activity-affecting-around-cause-evidence-global",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Microsoft says there is 'no evidence of malicious activity' being the cause of the global service outage affecting governments and organisations around the world",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 2.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "around evidence global activity affecting",
+      "related": [
+        {
+          "headline": "German Games Industry Association warns Digital Fairness Act could cause \"double regulation and legal uncertainty\"",
+          "shared_terms": [
+            "cause"
+          ]
+        },
+        {
+          "headline": "Microsoft struggles to restore online services after major outage",
+          "shared_terms": [
+            "outage"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Microsoft says there is 'no evidence of malicious activity' being the cause of the global service outage affecting governments and organisations around the world",
+          "url": "https://www.pcgamer.com/software/security/microsoft-says-there-is-no-evidence-of-malicious-activity-being-the-cause-of-the-global-service-outage-affecting-governments-and-organisations-around-the-world/",
+          "published": "2026-11-13T10:33:22+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bleak-developers-finds-job-lost-report",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Over A Third Of Game Developers Have Lost A Job In The Last Two Years, Bleak Report Finds",
+      "topics": [
+        "storie"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "bleak finds lost job third",
+      "related": [
+        {
+          "headline": "Black Forest Games spins out from THQ Nordic, co-founds indie studio group Third Signal",
+          "shared_terms": [
+            "third"
+          ]
+        },
+        {
+          "headline": "Long-Lost Sonic Stage Play Shows Dr. Robotnik Try To Hook Up With Princess Sally",
+          "shared_terms": [
+            "lost"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Over A Third Of Game Developers Have Lost A Job In The Last Two Years, Bleak Report Finds",
+          "url": "https://kotaku.com/gdc-state-of-industry-job-losses-layoffs-ai-report-2000756433",
+          "published": "2026-11-13T11:00:12+00:00"
+        }
+      ]
+    }
+  ]
+}
