@@ -1,0 +1,671 @@
+{
+  "generated_at": "2026-11-14T12:03:14.801314+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "mighty-pok-mon",
+      "score": 44.2,
+      "already_proposed": false,
+      "headline": "How to get mighty Pokémon in Pokémon Go",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 6.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.51,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 26189,
+        "top_views": 39844,
+        "top_title": "THIS WEEKEND COULD CHANGE YOUR ACCOUNT FOREVER! Pokémon GO"
+      },
+      "youtube_query": "mighty pokémon",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "How to get mighty Pokémon in Pokémon Go",
+          "url": "https://www.polygon.com/pokemon-go-guide/483905/mighty-pokemon-list-schedule-moves/",
+          "published": "2026-11-14T05:15:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "balls-pok-mon-safari",
+      "score": 41.4,
+      "already_proposed": false,
+      "headline": "How to get Go Safari Balls in Pokémon Go",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 6.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.4,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 16010,
+        "top_views": 38172,
+        "top_title": "【今すぐに確認⚠️】緊急！このあとサプライズ発生！？ラスト15分と明日終了後にやってくるか！？【ポケモンGO・ワイルドエリアグローバル・レックウザ・ムゲンダイナ・pokemon GO・サファリボール】"
+      },
+      "youtube_query": "balls safari pokémon",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "How to get Go Safari Balls in Pokémon Go",
+          "url": "https://www.polygon.com/pokemon-go-guide/483165/go-safari-balls-how-to-get/",
+          "published": "2026-11-14T05:15:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "colour-glitch-metaphor-patch-refantazio-resolve",
+      "score": 35.1,
+      "already_proposed": false,
+      "headline": "Metaphor: ReFantazio Switch 2 Patch To Resolve Colour Glitch",
+      "topics": [
+        "nintendo",
+        "feel_good"
+      ],
+      "age_hours": 12.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.07,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 440,
+        "top_views": 440,
+        "top_title": "Metaphor: ReFantazio Switch 2 Colour Glitch Patch Confirmed"
+      },
+      "youtube_query": "glitch refantazio metaphor colour resolve",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Metaphor: ReFantazio Switch 2 Patch To Resolve Colour Glitch",
+          "url": "https://www.nintendolife.com/news/2026/11/metaphor-refantazio-switch-2-patch-to-resolve-colour-glitch",
+          "published": "2026-11-14T00:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "fans-loved-ocarina-zelda",
+      "score": 34.4,
+      "already_proposed": false,
+      "headline": "Zelda Fans Who Loved Ocarina of Time Need to Play This Game Next",
+      "topics": [
+        "nintendo",
+        "feel_good"
+      ],
+      "age_hours": 3.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.04,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 4,
+        "median_views": 132,
+        "top_views": 1465,
+        "top_title": "🪽 FALLEN ANGEL – John Michael Howell | The Legend of Zelda: Ocarina of Time ✨ #Zelda# #FanEdit #JMH"
+      },
+      "youtube_query": "loved fans ocarina zelda",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Zelda Fans Who Loved Ocarina of Time Need to Play This Game Next",
+          "url": "https://www.polygon.com/zelda-link-past-retrospective-35-years/",
+          "published": "2026-11-14T09:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "fantasy-frodo-hero-later-lord-proves",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "25 Years Later, Frodo’s Best Lord of the Ring Quote Proves He's the Ultimate Fantasy Hero",
+      "topics": [
+        "easter_egg",
+        "feel_good"
+      ],
+      "age_hours": 7.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "quote fantasy frodo ring later",
+      "related": [
+        {
+          "headline": "8BitDo Ultimate 3E wireless controller review",
+          "shared_terms": [
+            "ultimate"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "25 Years Later, Frodo’s Best Lord of the Ring Quote Proves He's the Ultimate Fantasy Hero",
+          "url": "https://www.polygon.com/frodo-best-quote-lord-of-the-rings/",
+          "published": "2026-11-14T05:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2028-abyss-ain-care-crimson-desert",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Crimson Desert studio is implementing AI \"throughout our entire development pipeline,\" and expects DokeV to launch in 2028",
+      "topics": [],
+      "age_hours": 17.6,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.67,
+        "it_gap": 0.5,
+        "yt_demand": 0.07,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 0.69,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "PC Gamer",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 514,
+        "top_views": 514,
+        "top_title": "Crimson Desert Studio Pearl Abyss Expands AI Pipeline"
+      },
+      "youtube_query": "throughout studio dokev pipeline entire",
+      "related": [
+        {
+          "headline": "Some of These GTA 6 Clips Look So Good That I Don't Care if It's Running at 30fps",
+          "shared_terms": [
+            "care"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Crimson Desert studio is implementing AI \"throughout our entire development pipeline,\" and expects DokeV to launch in 2028",
+          "url": "https://www.eurogamer.net/crimson-desert-ai-pipeline-dokev-2028",
+          "published": "2026-11-13T18:29:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Don't like AI in games? Crimson Desert studio Pearl Abyss ain't care: it's expanding AI use 'throughout our entire development pipeline'",
+          "url": "https://www.pcgamer.com/software/ai/dont-like-ai-in-games-crimson-desert-studio-pearl-abyss-aint-care-its-expanding-ai-use-throughout-our-entire-development-pipeline/",
+          "published": "2026-11-13T22:17:06+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "DokeV Set for 2028 Launch, But You'll See It Again This Year",
+          "url": "https://www.pushsquare.com/news/2026/11/dokev-set-for-2028-launch-but-youll-see-it-again-this-year",
+          "published": "2026-11-14T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "brave-during-gta-launching-steam-yes",
+      "score": 32.7,
+      "already_proposed": false,
+      "headline": "Yes, some brave games are still launching on Steam during GTA 6 week",
+      "topics": [
+        "steam",
+        "aaa"
+      ],
+      "age_hours": 13.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.91,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "launching brave during yes steam",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Yes, some brave games are still launching on Steam during GTA 6 week",
+          "url": "https://www.pcgamer.com/games/yes-some-brave-games-are-still-launching-on-steam-during-gta-6-launch-week/",
+          "published": "2026-11-13T22:28:10+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "added-included-mobile-music-nintendo-pikmin",
+      "score": 31.5,
+      "already_proposed": false,
+      "headline": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 6.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 17,
+        "top_views": 17,
+        "top_title": "Nintendo Life Reports Nintendo Just Added The Full Pikmin Bloom Soundtrack To Nintendo Music"
+      },
+      "youtube_query": "mobile included pikmin soundtrack music",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Pikmin's Mobile Soundtrack Has Been Added To Nintendo Music, Here's Every Song Included",
+          "url": "https://www.nintendolife.com/news/2026/11/pikmins-mobile-soundtrack-has-been-added-to-nintendo-music-heres-every-song-included",
+          "published": "2026-11-14T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "day-everything-gta-ready-release",
+      "score": 31.5,
+      "already_proposed": false,
+      "headline": "GTA 6 Release Day: Everything To Know To Be Ready On Day One",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 0.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 7,
+        "median_views": 16,
+        "top_views": 39148,
+        "top_title": "Don’t Start GTA 6 Until You’ve Done This (Pre-Launch Checklist)"
+      },
+      "youtube_query": "ready everything release day gta",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "GTA 6 Release Day: Everything To Know To Be Ready On Day One",
+          "url": "https://www.polygon.com/gta-6-when-does-it-come-out-ps5-pro-crossplay-countdown-preorder-preload/",
+          "published": "2026-11-14T11:30:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "announces-definitive-edition-icymi-limited-raider",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 8.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "tomb definitive run icymi raider",
+      "related": [
+        {
+          "headline": "Xbox boss announces Wolfenstein 3 and confirms new game in development at idSoftware despite reported job cut \"bloodbath\"",
+          "shared_terms": [
+            "announces"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "ICYMI: Limited Run Games Announces Restock Of Tomb Raider: Definitive Edition For Switch 2",
+          "url": "https://www.nintendolife.com/news/2026/11/icymi-limited-run-games-announces-restock-of-tomb-raider-definitive-edition-for-switch-2",
+          "published": "2026-11-14T03:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2026-area-bonuses-event-habitat-pok-mon",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Pokémon Go Wild Area 2026 event schedule, habitat spawns, and bonuses",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 6.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "spawns area bonuses habitat event",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Pokémon Go Wild Area 2026 event schedule, habitat spawns, and bonuses",
+          "url": "https://www.polygon.com/pokemon-go-wild-area-2026-global-habitats-schedule-bonuses/",
+          "published": "2026-11-14T05:15:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "city-established-ever-formula-gta-killer",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 2.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "established rockstar killer vice formula",
+      "related": [
+        {
+          "headline": "Worst Class Ever takes asymmetrical multiplayer back to school, with a teacher player trying to spot the naughty children among the NPCs",
+          "shared_terms": [
+            "ever"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Vice City was the GTA that established Rockstar's killer formula - and 24 years on, it's still one of the best games ever made",
+          "url": "https://www.eurogamer.net/gta-vice-city-retrospective",
+          "published": "2026-11-14T10:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "animations-arrive-classic-set-startup-three",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Three Classic Startup Animations Are Set To Arrive On Xbox Very Soon",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 1.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "animations arrive startup classic set",
+      "related": [],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Three Classic Startup Animations Are Set To Arrive On Xbox Very Soon",
+          "url": "https://www.purexbox.com/news/2026/11/three-classic-startup-animations-are-set-to-arrive-on-xbox-very-soon",
+          "published": "2026-11-14T11:02:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "call-day-duty-endowment-marks-pack",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 0.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "call push marks remembrance endowment",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Call of Duty Endowment marks Remembrance Day with veterans' Valor Pack push",
+          "url": "https://www.eurogamer.net/call-of-duty-endowment-valor-pack-remembrance-day-veterans",
+          "published": "2026-11-14T11:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "afraid-auto-because-circle-grand-great",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 0.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "indiana circle guns jones wanted",
+      "related": [
+        {
+          "headline": "Microsoft says there is 'no evidence of malicious activity' being the cause of the global service outage affecting governments and organisations around the world",
+          "shared_terms": [
+            "system"
+          ]
+        },
+        {
+          "headline": "It Looks Like Wolfenstein 3 Is Putting Nazis Where They Belong: Jail",
+          "shared_terms": [
+            "nazis"
+          ]
+        },
+        {
+          "headline": "Base PS5's QSSR Enhancer Coming to 6 More Games, in Spider-Man 2 Now",
+          "shared_terms": [
+            "great"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Indiana Jones and the Great Circle once had a Grand Theft Auto inspired wanted system, because MachineGames was 'afraid' players would kill all the Nazis 'with just guns'",
+          "url": "https://www.pcgamer.com/games/action/indiana-jones-and-the-great-circle-once-had-a-grand-theft-auto-inspired-wanted-system-because-machinegames-was-afraid-players-would-kill-all-the-nazis-with-just-guns/",
+          "published": "2026-11-14T11:26:04+00:00"
+        }
+      ]
+    }
+  ]
+}
