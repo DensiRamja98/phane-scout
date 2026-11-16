@@ -1,105 +1,210 @@
 {
-  "generated_at": "2026-11-15T12:38:39.830196+00:00",
+  "generated_at": "2026-11-16T13:31:15.570967+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "gta-question",
-      "score": 36.0,
+      "story_id": "100-accessories-black-buy-drops-feature",
+      "score": 45.6,
       "already_proposed": false,
-      "headline": "The Big Question: What's the best GTA?",
+      "headline": "Feature: 80+ PS5, PS4 Games to Buy in PS Store's Updated Black Friday Sale",
       "topics": [
-        "aaa"
+        "playstation"
       ],
-      "age_hours": 2.6,
+      "age_hours": 3.5,
       "signals": {
-        "coverage": 0.17,
+        "coverage": 0.33,
         "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.19,
+        "it_gap": 0.33,
+        "yt_demand": 0.36,
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Eurogamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 3592,
-        "top_views": 286470,
-        "top_title": "GTA 6 Is 30fps, but We Still Have Questions - Next-Gen Console Watch"
-      },
-      "youtube_query": "question gta",
-      "related": [],
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "The Big Question: What's the best GTA?",
-          "url": "https://www.eurogamer.net/the-big-question-whats-the-best-gta",
-          "published": "2026-11-15T10:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "212gb-beg-delete-file-gta-madden",
-      "score": 35.8,
-      "already_proposed": false,
-      "headline": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It",
-      "topics": [
-        "playstation",
-        "aaa"
-      ],
-      "age_hours": 12.6,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.1,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.96,
-        "weak_format": false
-      },
-      "coverage_en": [
+        "IGN",
         "Push Square"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 2,
-        "median_views": 1039,
-        "top_views": 1039,
-        "top_title": "GTA 6 Is 212GB on PS5 — And Madden 27 Is Begging You Not to Delete It"
+        "video_count": 10,
+        "median_views": 12865,
+        "top_views": 28130,
+        "top_title": "HUGE PlayStation BLACK FRIDAY DEALS and SALES REVEALED - PS PLUS, PSN DEALS, BIG Game DEALS + MORE!"
       },
-      "youtube_query": "delete madden prompts 212gb nfl",
-      "related": [],
+      "youtube_query": "sale friday black playstation ps5",
+      "related": [
+        {
+          "headline": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
+          "shared_terms": [
+            "updated"
+          ]
+        },
+        {
+          "headline": "GTA 6 gratis su Twitch, codici in regalo fino al 30 novembre",
+          "shared_terms": [
+            "drops"
+          ]
+        },
+        {
+          "headline": "New Asus beta BIOS patches now include a fresh AMD feature to stop you thinking your PC's b0rked",
+          "shared_terms": [
+            "feature"
+          ]
+        }
+      ],
       "articles": [
         {
           "source": "Push Square",
-          "title": "GTA 6's 212GB PS5 File Size Prompts Madden NFL 27 to Beg You Not to Delete It",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-212gb-ps5-file-size-prompts-madden-nfl-27-to-beg-you-not-to-delete-it",
-          "published": "2026-11-15T00:00:00+00:00"
+          "title": "Feature: 80+ PS5, PS4 Games to Buy in PS Store's Updated Black Friday Sale",
+          "url": "https://www.pushsquare.com/features/80plus-ps5-ps4-games-to-buy-in-ps-stores-updated-black-friday-sale",
+          "published": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Ghost of Yotei Drops to £28 in PlayStation’s UK Black Friday Sale",
+          "url": "https://www.ign.com/articles/ghost-of-yotei-playstation-black-friday-sale-uk",
+          "published": "2026-11-16T11:30:11+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2",
+          "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2",
+          "published": "2026-11-16T13:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "accurate-carti-confirmed-gta-keith-lana",
-      "score": 34.2,
+      "story_id": "clarifies-computational-console-explains-finally-focus",
+      "score": 36.4,
       "already_proposed": false,
-      "headline": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
+      "headline": "The next Xbox, Project Helix, is a console and \"not a PC\" says Microsoft, as it clarifies that computational power isn't sole focus this time",
       "topics": [
-        "aaa",
-        "storie"
+        "xbox"
       ],
-      "age_hours": 7.8,
+      "age_hours": 1.4,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "not project helix xbox clarifies",
+      "related": [
+        {
+          "headline": "Wrestler Austin Creed Unleashes The Nintendo Power Glove During AEW Full Gear",
+          "shared_terms": [
+            "power"
+          ]
+        },
+        {
+          "headline": "\"We've finally reached this milestone\": Cyberpunk 2077 multiplayer mod CyberMP kicks off open beta after around six years preparing for cybermayhem",
+          "shared_terms": [
+            "finally"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "The next Xbox, Project Helix, is a console and \"not a PC\" says Microsoft, as it clarifies that computational power isn't sole focus this time",
+          "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+          "published": "2026-11-16T12:08:40+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Xbox Head of Next Gen Finally Explains What Project Helix Is: ‘It Is Not a PC’",
+          "url": "https://www.polygon.com/xbox-project-helix-play-pc-games-library/",
+          "published": "2026-11-16T12:26:06+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "details-gta-guide-key-players-release",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Guide: GTA 6 Release Times: All The Key Details Xbox Players Need To Know",
+      "topics": [
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 2.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.03,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "times key details release players",
+      "related": [
+        {
+          "headline": "EA Adds 'Don't Delete' Message to Madden NFL 27 in Bid to Keep Players From Making Room Ahead of GTA 6",
+          "shared_terms": [
+            "players"
+          ]
+        },
+        {
+          "headline": "Umamusume: Pretty Derby parent company plans to release seven new games by 2030 as it boasts an \"88 percent hit rate\" on its mobile titles",
+          "shared_terms": [
+            "release"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Guide: GTA 6 Release Times: All The Key Details Xbox Players Need To Know",
+          "url": "https://www.purexbox.com/guides/gta-6-release-times-all-the-key-details-xbox-players-need-to-know",
+          "published": "2026-11-16T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "improves-latest-nvidia-painful-pcs-powered",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "The latest SteamOS update improves support on Nvidia-powered PCs: makes swapping your rig to the OS less painful",
+      "topics": [
+        "pc_gaming",
+        "steam"
+      ],
+      "age_hours": 1.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
         "freshness": 1.0,
@@ -110,53 +215,53 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 6,
-        "median_views": 86,
-        "top_views": 174,
-        "top_title": "GTA 6 Soundtrack: Lana Del Rey, Keith Richards & More #Shorts"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "soundtrack keith songs carti richards",
+      "youtube_query": "steamos powered improves rig painful",
       "related": [
         {
-          "headline": "Five Games Are Confirmed For Xbox Game Pass In December 2026 So Far",
+          "headline": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more",
           "shared_terms": [
-            "confirmed"
+            "latest"
           ]
         },
         {
-          "headline": "GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
+          "headline": "Unity's new fellowship program offers cash and dedicated support for indie devs",
           "shared_terms": [
-            "leak"
+            "support"
           ]
         }
       ],
       "articles": [
         {
           "source": "PC Gamer",
-          "title": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-soundtrack-leak-confirmed-accurate-with-new-songs-from-lana-del-rey-playboi-carti-and-keith-richards/",
-          "published": "2026-11-15T04:52:26+00:00"
+          "title": "The latest SteamOS update improves support on Nvidia-powered PCs: makes swapping your rig to the OS less painful",
+          "url": "https://www.pcgamer.com/hardware/steam-machines/the-latest-steamos-update-improves-support-on-nvidia-powered-pcs-makes-swapping-your-rig-to-the-os-less-painful/",
+          "published": "2026-11-16T11:47:03+00:00"
         }
       ]
     },
     {
-      "story_id": "album-days-gta-launch-leak-list",
-      "score": 33.6,
+      "story_id": "1gb-bigger-day-gta-patch-xbox",
+      "score": 33.5,
       "already_proposed": false,
-      "headline": "GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
+      "headline": "GTA 6 Gets Another Day One Patch, and It's 1GB Bigger on Xbox",
       "topics": [
-        "aaa",
-        "storie"
+        "xbox",
+        "aaa"
       ],
-      "age_hours": 13.6,
+      "age_hours": 1.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.04,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
-        "freshness": 0.91,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
@@ -164,85 +269,93 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 5,
-        "median_views": 128,
-        "top_views": 1261,
-        "top_title": "GTA 6'S ENTIRE SOUNDTRACK ALBUM JUST LEAKED 💀"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "track launch days list album",
-      "related": [
-        {
-          "headline": "GTA 6 soundtrack leak confirmed accurate with new songs from Lana Del Rey, Playboi Carti, and Keith Richards",
-          "shared_terms": [
-            "leak"
-          ]
-        },
-        {
-          "headline": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake",
-          "shared_terms": [
-            "reveals"
-          ]
-        }
-      ],
+      "youtube_query": "1gb bigger patch day xbox",
+      "related": [],
       "articles": [
         {
           "source": "IGN",
-          "title": "GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
-          "url": "https://www.ign.com/articles/gta-6-leak-seemingly-reveals-full-track-list-days-before-launch",
-          "published": "2026-11-14T23:00:09+00:00"
+          "title": "GTA 6 Gets Another Day One Patch, and It's 1GB Bigger on Xbox",
+          "url": "https://www.ign.com/articles/gta-6-gets-another-day-one-patch-bigger-on-xbox",
+          "published": "2026-11-16T12:26:44+00:00"
         }
       ]
     },
     {
-      "story_id": "box-code-copies-disc-download-fall",
-      "score": 33.6,
+      "story_id": "bay-briefly-butcher-cancelled-chronicles-developer",
+      "score": 33.5,
       "already_proposed": false,
-      "headline": "Some GTA 6 Box Copies Reported To Have Download Code Issues With No Disc To Fall Back On",
+      "headline": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer",
       "topics": [
-        "aaa"
+        "xbox",
+        "storie"
       ],
-      "age_hours": 13.2,
+      "age_hours": 1.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.12,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.93,
+        "topic": 0.67,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Kotaku"
+        "VGC"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 2,
-        "median_views": 1323,
-        "top_views": 1323,
-        "top_title": "Which Store Will Actually Refund Physical GTA 6 Pre-Orders?"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "issues reported fall copies code",
-      "related": [],
+      "youtube_query": "told cancelled bay butcher gem",
+      "related": [
+        {
+          "headline": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain",
+          "shared_terms": [
+            "chronicles",
+            "developer"
+          ]
+        },
+        {
+          "headline": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile",
+          "shared_terms": [
+            "nobody"
+          ]
+        },
+        {
+          "headline": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend",
+          "shared_terms": [
+            "briefly"
+          ]
+        }
+      ],
       "articles": [
         {
-          "source": "Kotaku",
-          "title": "Some GTA 6 Box Copies Reported To Have Download Code Issues With No Disc To Fall Back On",
-          "url": "https://kotaku.com/some-gta-6-box-copies-reported-to-have-download-code-issues-2000756883",
-          "published": "2026-11-14T23:24:45+00:00"
+          "source": "VGC",
+          "title": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer",
+          "url": "https://www.videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer/",
+          "published": "2026-11-16T12:31:08+00:00"
         }
       ]
     },
     {
-      "story_id": "changes-dividing-fans-gameplay-raider-remake",
+      "story_id": "confirms-director-doesn-fans-fantasy-final",
       "score": 33.5,
       "already_proposed": false,
-      "headline": "Tomb Raider Remake Gameplay Changes Are Dividing Fans",
+      "headline": "Final Fantasy 7 Remake Director Confirms He Doesn’t Let Fans’ Reactions Shape His Games",
       "topics": [
         "aaa",
         "feel_good"
       ],
-      "age_hours": 9.4,
+      "age_hours": 0.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -263,41 +376,167 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "raider gameplay changes dividing tomb",
-      "related": [
-        {
-          "headline": "Dishonored 2 director Harvey Smith wants to honour sacred imsim texts while finding news ways to surprise fans: 'That's the two wolves inside me'",
-          "shared_terms": [
-            "fans"
-          ]
-        }
-      ],
+      "youtube_query": "reactions confirms doesn shape director",
+      "related": [],
       "articles": [
         {
           "source": "Polygon",
-          "title": "Tomb Raider Remake Gameplay Changes Are Dividing Fans",
-          "url": "https://www.polygon.com/tomb-raider-remake-changes-legacy-of-atlantis/",
-          "published": "2026-11-15T03:14:17+00:00"
+          "title": "Final Fantasy 7 Remake Director Confirms He Doesn’t Let Fans’ Reactions Shape His Games",
+          "url": "https://www.polygon.com/final-fantasy-7-director-naoki-hamaguchi/",
+          "published": "2026-11-16T13:24:55+00:00"
         }
       ]
     },
     {
-      "story_id": "causes-data-global-notes-ocarina-remake",
-      "score": 33.5,
+      "story_id": "auto-frontline-gangland-grand-life-research",
+      "score": 31.3,
       "already_proposed": false,
-      "headline": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake",
+      "headline": "Gangland Tales From the Frontline of Rockstar's Real-Life Grand Theft Auto Research",
       "topics": [
-        "nintendo",
         "aaa"
       ],
-      "age_hours": 5.1,
+      "age_hours": 3.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.67,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "research tales grand gangland frontline",
+      "related": [
+        {
+          "headline": "This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer",
+          "shared_terms": [
+            "life"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Gangland Tales From the Frontline of Rockstar's Real-Life Grand Theft Auto Research",
+          "url": "https://www.ign.com/articles/rockstars-real-life-grand-theft-auto-research",
+          "published": "2026-11-16T10:00:49+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "16th-22nd-guide-november-plus-ps5",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out This Week (16th-22nd November)",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 4.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "22nd 16th plus guide november",
+      "related": [],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out This Week (16th-22nd November)",
+          "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-this-week-16th-22nd-november",
+          "published": "2026-11-16T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bandai-engine-essential-fighting-house-namco",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Bandai Namco Says Its New In-House Game Engine Has Optimizations ‘Essential For Fighting Games’",
+      "topics": [
+        "pc_gaming"
+      ],
+      "age_hours": 2.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "optimizations engine house fighting essential",
+      "related": [
+        {
+          "headline": "Eight Classic Games Are Available Today With Xbox Game Pass Essential (November 15)",
+          "shared_terms": [
+            "essential"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Bandai Namco Says Its New In-House Game Engine Has Optimizations ‘Essential For Fighting Games’",
+          "url": "https://kotaku.com/bandai-namco-game-engine-sol-aves-tekken-fighting-games-2000757390",
+          "published": "2026-11-16T11:00:48+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "336-art-book-page-raiders-splatoon",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Splatoon Raiders Is Getting Its Very Own 336-Page Art Book Next Year",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -311,32 +550,131 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "causes notes global reveals top",
+      "youtube_query": "splatoon 336 page book raiders",
       "related": [
         {
-          "headline": "GTA 6 Leak Seemingly Reveals Official Album's Full Track List Days Before Launch",
+          "headline": "Halifax Parents Hoping To Reverse Nine-Year-Old’s $20,000 Roblox Bill",
           "shared_terms": [
-            "reveals"
+            "year"
           ]
         }
       ],
       "articles": [
         {
           "source": "Nintendo Life",
-          "title": "Zelda Notes Reveals Top 'Game Over Causes' And More Global Play Data In Ocarina Of Time Remake",
-          "url": "https://www.nintendolife.com/news/2026/11/zelda-notes-reveals-top-game-over-causes-and-more-global-play-data-in-ocarina-of-time-remake",
-          "published": "2026-11-15T07:30:00+00:00"
+          "title": "Splatoon Raiders Is Getting Its Very Own 336-Page Art Book Next Year",
+          "url": "https://www.nintendolife.com/news/2026/11/splatoon-raiders-is-getting-its-very-own-336-page-art-book-next-year",
+          "published": "2026-11-16T11:30:00+00:00"
         }
       ]
     },
     {
-      "story_id": "fantasy-hit-jamie-lannister-later-quote",
-      "score": 33.5,
+      "story_id": "beloved-characters-controversy-creator-human-ignites",
+      "score": 31.2,
       "already_proposed": false,
-      "headline": "15 Years Later, Jamie Lannister’s Best Game of Thrones Quote Is an All-Time Fantasy Hit",
+      "headline": "Creator Of One Of Pokémon’s Most Beloved Human Characters Ignites Social Media Controversy",
       "topics": [
-        "easter_egg",
-        "feel_good"
+        "pokemon"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "characters beloved controversy media ignites",
+      "related": [
+        {
+          "headline": "Universal Paperclips Creator Blends Scrabble And Strategy In Towers Of Babble",
+          "shared_terms": [
+            "creator"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Creator Of One Of Pokémon’s Most Beloved Human Characters Ignites Social Media Controversy",
+          "url": "https://kotaku.com/pokemon-sword-and-shield-anniversary-marnie-character-design-2000757395",
+          "published": "2026-11-16T11:30:07+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "admits-blizzard-briefly-continued-dungeons-forever",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 1.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "wrestle mark admits continued wow",
+      "related": [
+        {
+          "headline": "Minecraft Dungeons II First DLC 'The Humblers Awaken' Arrives Next Month",
+          "shared_terms": [
+            "dungeons"
+          ]
+        },
+        {
+          "headline": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer",
+          "shared_terms": [
+            "briefly"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-continued-to-wrestle-with-dungeons-as-blizzard-admits-it-briefly-missed-the-mark-on-hotfixes-over-the-weekend/",
+          "published": "2026-11-16T11:51:12+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "apples-applin-event-guide-kitchen-pokopia",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Guide: Pokémon Pokopia Apples to Applin Event Guide, From Syrupy Apples To A Kitchen Table",
+      "topics": [
+        "pokemon"
       ],
       "age_hours": 1.6,
       "signals": {
@@ -345,46 +683,6 @@
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "lannister jamie quote thrones fantasy",
-      "related": [],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "15 Years Later, Jamie Lannister’s Best Game of Thrones Quote Is an All-Time Fantasy Hit",
-          "url": "https://www.polygon.com/jamie-lannisters-best-game-of-thrones-quote-is-an-all-time-fantasy-hit/",
-          "published": "2026-11-15T11:00:17+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "controlli-controls-future-joy-minecraft-mouse",
-      "score": 31.6,
-      "already_proposed": false,
-      "headline": "Minecraft Is Getting Joy-Con Mouse Controls On Switch 2 In A Future Update",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 6.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.11,
-        "yt_demand": 0.06,
-        "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
@@ -392,88 +690,33 @@
       "coverage_en": [
         "Nintendo Life"
       ],
-      "coverage_it": [
-        "Multiplayer"
-      ],
+      "coverage_it": [],
       "youtube": {
-        "video_count": 4,
-        "median_views": 388,
-        "top_views": 4651,
-        "top_title": "Testing The NEW MOUSE CONTROLS for Minecraft Closed Beta for Switch 2 | Gameplay"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "minecraft joy mouse switch controls",
+      "youtube_query": "table event syrupy apples kitchen",
       "related": [],
       "articles": [
         {
           "source": "Nintendo Life",
-          "title": "Minecraft Is Getting Joy-Con Mouse Controls On Switch 2 In A Future Update",
-          "url": "https://www.nintendolife.com/news/2026/11/minecraft-is-getting-joy-con-mouse-controls-on-switch-2-in-a-future-update",
-          "published": "2026-11-15T06:30:00+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "Minecraft per Nintendo Switch 2 presto supporterà i controlli in stile mouse dei Joy-Con 2",
-          "url": "https://multiplayer.it/notizie/minecraft-per-nintendo-switch-2-presto-supportera-i-controlli-in-stile-mouse-dei-joy-con-2.html",
-          "published": "2026-11-15T09:44:10+00:00"
+          "title": "Guide: Pokémon Pokopia Apples to Applin Event Guide, From Syrupy Apples To A Kitchen Table",
+          "url": "https://www.nintendolife.com/guides/pokemon-pokopia-apples-to-applin-event-guide",
+          "published": "2026-11-16T11:56:00+00:00"
         }
       ]
     },
     {
-      "story_id": "cultural-effects-gta-massive-moment-olympics",
-      "score": 31.3,
-      "already_proposed": false,
-      "headline": "GTA 6 Is Like The Olympics – “A Rare Cultural Moment” With Massive Ripple Effects",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 9.6,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GameSpot"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "ripple massive cultural olympics effects",
-      "related": [
-        {
-          "headline": "Opinion: Nintendo Made Ocarina Of Time's Best Moment Even Better",
-          "shared_terms": [
-            "moment"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "GameSpot",
-          "title": "GTA 6 Is Like The Olympics – “A Rare Cultural Moment” With Massive Ripple Effects",
-          "url": "https://www.gamespot.com/articles/gta-6-is-like-the-olympics-a-rare-cultural-moment-with-massive-ripple-effects/",
-          "published": "2026-11-15T03:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "boss-due-finally-forget-ganon-ocarina",
+      "story_id": "abuse-call-canceled-child-controversial-conviction",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "Forget Ganon, Zelda: Ocarina of Time’s Most Overlooked Boss Finally Gets Its Due",
+      "headline": "Controversial Call of Cthulhu Game Canceled After Designer's Child Abuse Conviction",
       "topics": [
-        "nintendo"
+        "storie"
       ],
-      "age_hours": 9.6,
+      "age_hours": 1.2,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -494,177 +737,14 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "boss ganon finally forget overlooked",
+      "youtube_query": "controversial canceled cthulhu designer abuse",
       "related": [],
       "articles": [
         {
           "source": "Polygon",
-          "title": "Forget Ganon, Zelda: Ocarina of Time’s Most Overlooked Boss Finally Gets Its Due",
-          "url": "https://www.polygon.com/zelda-ocarina-of-time-remake-twinrova/",
-          "published": "2026-11-15T03:00:27+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "gta-ignore-main-story-wait",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "I Can't Wait to Ignore the Main Story of GTA 6",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 4.6,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "main wait story ignore gta",
-      "related": [],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "I Can't Wait to Ignore the Main Story of GTA 6",
-          "url": "https://www.polygon.com/gta-6-main-story-side-activities/",
-          "published": "2026-11-15T08:00:17+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "catch-plus-sale-subscriptions-tomorrow",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "PS Plus Subscriptions on Sale from Tomorrow, But There's a Big Catch",
-      "topics": [
-        "industria"
-      ],
-      "age_hours": 0.4,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "subscriptions catch tomorrow sale plus",
-      "related": [
-        {
-          "headline": "James Gunn Speaks Out About Rumors Of Skydance Being Unhappy With Man of Tomorrow, Says They Haven’t Even Seen The Movie Yet",
-          "shared_terms": [
-            "tomorrow"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Push Square",
-          "title": "PS Plus Subscriptions on Sale from Tomorrow, But There's a Big Catch",
-          "url": "https://www.pushsquare.com/news/2026/11/ps-plus-subscriptions-on-sale-from-tomorrow-but-theres-a-big-catch",
-          "published": "2026-11-15T12:15:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "annoying-questgivers",
-      "score": 29.2,
-      "already_proposed": false,
-      "headline": "The most annoying questgivers in PC games",
-      "topics": [],
-      "age_hours": 5.3,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.01,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "PC Gamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 8,
-        "top_views": 8,
-        "top_title": "The most annoying questgivers in PC games #Shorts"
-      },
-      "youtube_query": "annoying questgivers",
-      "related": [],
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "The most annoying questgivers in PC games",
-          "url": "https://www.pcgamer.com/games/the-most-annoying-questgivers-in-pc-games/",
-          "published": "2026-11-15T07:21:40+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "episode-hook-miniseries-near-perfect-sci",
-      "score": 29.0,
-      "already_proposed": false,
-      "headline": "8 Near-Perfect Sci-Fi Miniseries that Hook You in the First Episode",
-      "topics": [],
-      "age_hours": 7.6,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.0,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "near perfect hook miniseries episode",
-      "related": [],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "8 Near-Perfect Sci-Fi Miniseries that Hook You in the First Episode",
-          "url": "https://www.polygon.com/sci-fi-miniseries-perfect-hook-first-episode/",
-          "published": "2026-11-15T05:00:18+00:00"
+          "title": "Controversial Call of Cthulhu Game Canceled After Designer's Child Abuse Conviction",
+          "url": "https://www.polygon.com/call-of-cthulhu-old-one-origins-canceled-designer-conviction/",
+          "published": "2026-11-16T12:16:50+00:00"
         }
       ]
     }

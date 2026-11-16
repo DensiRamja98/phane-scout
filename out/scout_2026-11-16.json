@@ -1,0 +1,752 @@
+{
+  "generated_at": "2026-11-16T13:31:15.570967+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "100-accessories-black-buy-drops-feature",
+      "score": 45.6,
+      "already_proposed": false,
+      "headline": "Feature: 80+ PS5, PS4 Games to Buy in PS Store's Updated Black Friday Sale",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 3.5,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.36,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 12865,
+        "top_views": 28130,
+        "top_title": "HUGE PlayStation BLACK FRIDAY DEALS and SALES REVEALED - PS PLUS, PSN DEALS, BIG Game DEALS + MORE!"
+      },
+      "youtube_query": "sale friday black playstation ps5",
+      "related": [
+        {
+          "headline": "League of Legends will get an overhaul called New Dawn with new visuals, build options, and an updated client",
+          "shared_terms": [
+            "updated"
+          ]
+        },
+        {
+          "headline": "GTA 6 gratis su Twitch, codici in regalo fino al 30 novembre",
+          "shared_terms": [
+            "drops"
+          ]
+        },
+        {
+          "headline": "New Asus beta BIOS patches now include a fresh AMD feature to stop you thinking your PC's b0rked",
+          "shared_terms": [
+            "feature"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Feature: 80+ PS5, PS4 Games to Buy in PS Store's Updated Black Friday Sale",
+          "url": "https://www.pushsquare.com/features/80plus-ps5-ps4-games-to-buy-in-ps-stores-updated-black-friday-sale",
+          "published": "2026-11-16T10:00:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Ghost of Yotei Drops to £28 in PlayStation’s UK Black Friday Sale",
+          "url": "https://www.ign.com/articles/ghost-of-yotei-playstation-black-friday-sale-uk",
+          "published": "2026-11-16T11:30:11+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "PlayStation Black Friday Sale Is Live Now, Up to $100 Off PS5 Accessories, PSVR2",
+          "url": "https://www.pushsquare.com/news/2026/11/playstation-black-friday-sale-is-live-now-up-to-usd100-off-ps5-accessories-psvr2",
+          "published": "2026-11-16T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "clarifies-computational-console-explains-finally-focus",
+      "score": 36.4,
+      "already_proposed": false,
+      "headline": "The next Xbox, Project Helix, is a console and \"not a PC\" says Microsoft, as it clarifies that computational power isn't sole focus this time",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 1.4,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "not project helix xbox clarifies",
+      "related": [
+        {
+          "headline": "Wrestler Austin Creed Unleashes The Nintendo Power Glove During AEW Full Gear",
+          "shared_terms": [
+            "power"
+          ]
+        },
+        {
+          "headline": "\"We've finally reached this milestone\": Cyberpunk 2077 multiplayer mod CyberMP kicks off open beta after around six years preparing for cybermayhem",
+          "shared_terms": [
+            "finally"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "The next Xbox, Project Helix, is a console and \"not a PC\" says Microsoft, as it clarifies that computational power isn't sole focus this time",
+          "url": "https://www.eurogamer.net/microsoft-project-helix-interview-details",
+          "published": "2026-11-16T12:08:40+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Xbox Head of Next Gen Finally Explains What Project Helix Is: ‘It Is Not a PC’",
+          "url": "https://www.polygon.com/xbox-project-helix-play-pc-games-library/",
+          "published": "2026-11-16T12:26:06+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "details-gta-guide-key-players-release",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Guide: GTA 6 Release Times: All The Key Details Xbox Players Need To Know",
+      "topics": [
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 2.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "times key details release players",
+      "related": [
+        {
+          "headline": "EA Adds 'Don't Delete' Message to Madden NFL 27 in Bid to Keep Players From Making Room Ahead of GTA 6",
+          "shared_terms": [
+            "players"
+          ]
+        },
+        {
+          "headline": "Umamusume: Pretty Derby parent company plans to release seven new games by 2030 as it boasts an \"88 percent hit rate\" on its mobile titles",
+          "shared_terms": [
+            "release"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Guide: GTA 6 Release Times: All The Key Details Xbox Players Need To Know",
+          "url": "https://www.purexbox.com/guides/gta-6-release-times-all-the-key-details-xbox-players-need-to-know",
+          "published": "2026-11-16T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "improves-latest-nvidia-painful-pcs-powered",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "The latest SteamOS update improves support on Nvidia-powered PCs: makes swapping your rig to the OS less painful",
+      "topics": [
+        "pc_gaming",
+        "steam"
+      ],
+      "age_hours": 1.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "steamos powered improves rig painful",
+      "related": [
+        {
+          "headline": "The latest GTA 6 leak comes in the form of a 34-song tracklist for GTA 6: The Album, featuring Dua Lipa, Lana Del Rey, Rina Sawayama, and more",
+          "shared_terms": [
+            "latest"
+          ]
+        },
+        {
+          "headline": "Unity's new fellowship program offers cash and dedicated support for indie devs",
+          "shared_terms": [
+            "support"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "The latest SteamOS update improves support on Nvidia-powered PCs: makes swapping your rig to the OS less painful",
+          "url": "https://www.pcgamer.com/hardware/steam-machines/the-latest-steamos-update-improves-support-on-nvidia-powered-pcs-makes-swapping-your-rig-to-the-os-less-painful/",
+          "published": "2026-11-16T11:47:03+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "1gb-bigger-day-gta-patch-xbox",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "GTA 6 Gets Another Day One Patch, and It's 1GB Bigger on Xbox",
+      "topics": [
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 1.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "1gb bigger patch day xbox",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "GTA 6 Gets Another Day One Patch, and It's 1GB Bigger on Xbox",
+          "url": "https://www.ign.com/articles/gta-6-gets-another-day-one-patch-bigger-on-xbox",
+          "published": "2026-11-16T12:26:44+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bay-briefly-butcher-cancelled-chronicles-developer",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer",
+      "topics": [
+        "xbox",
+        "storie"
+      ],
+      "age_hours": 1.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "told cancelled bay butcher gem",
+      "related": [
+        {
+          "headline": "Chronicles: Medieval developer declared bankruptcy on the day it announced it was in trouble, but development will continue after a $5 million reprieve from Coffee Stain",
+          "shared_terms": [
+            "chronicles",
+            "developer"
+          ]
+        },
+        {
+          "headline": "Police arrest suspect after drive-by shooting at office campus housing Xbox studio inXile",
+          "shared_terms": [
+            "nobody"
+          ]
+        },
+        {
+          "headline": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend",
+          "shared_terms": [
+            "briefly"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer",
+          "url": "https://www.videogameschronicle.com/news/xbox-gem-the-chronicles-of-riddick-escape-from-butcher-bay-was-briefly-cancelled-but-nobody-told-its-developer/",
+          "published": "2026-11-16T12:31:08+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "confirms-director-doesn-fans-fantasy-final",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Final Fantasy 7 Remake Director Confirms He Doesn’t Let Fans’ Reactions Shape His Games",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 0.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "reactions confirms doesn shape director",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Final Fantasy 7 Remake Director Confirms He Doesn’t Let Fans’ Reactions Shape His Games",
+          "url": "https://www.polygon.com/final-fantasy-7-director-naoki-hamaguchi/",
+          "published": "2026-11-16T13:24:55+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "auto-frontline-gangland-grand-life-research",
+      "score": 31.3,
+      "already_proposed": false,
+      "headline": "Gangland Tales From the Frontline of Rockstar's Real-Life Grand Theft Auto Research",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 3.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "research tales grand gangland frontline",
+      "related": [
+        {
+          "headline": "This week in PC games: start a new life in Vice City, escape a dying universe before the last black hole evaporates, and avenge your pigeon with a sledgehammer",
+          "shared_terms": [
+            "life"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Gangland Tales From the Frontline of Rockstar's Real-Life Grand Theft Auto Research",
+          "url": "https://www.ign.com/articles/rockstars-real-life-grand-theft-auto-research",
+          "published": "2026-11-16T10:00:49+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "16th-22nd-guide-november-plus-ps5",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out This Week (16th-22nd November)",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 4.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "22nd 16th plus guide november",
+      "related": [],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Guide: These 13+ PS5 and PS Plus Games Are Coming Out This Week (16th-22nd November)",
+          "url": "https://www.pushsquare.com/guides/these-13plus-ps5-and-ps-plus-games-are-coming-out-this-week-16th-22nd-november",
+          "published": "2026-11-16T09:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bandai-engine-essential-fighting-house-namco",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Bandai Namco Says Its New In-House Game Engine Has Optimizations ‘Essential For Fighting Games’",
+      "topics": [
+        "pc_gaming"
+      ],
+      "age_hours": 2.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "optimizations engine house fighting essential",
+      "related": [
+        {
+          "headline": "Eight Classic Games Are Available Today With Xbox Game Pass Essential (November 15)",
+          "shared_terms": [
+            "essential"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Bandai Namco Says Its New In-House Game Engine Has Optimizations ‘Essential For Fighting Games’",
+          "url": "https://kotaku.com/bandai-namco-game-engine-sol-aves-tekken-fighting-games-2000757390",
+          "published": "2026-11-16T11:00:48+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "336-art-book-page-raiders-splatoon",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Splatoon Raiders Is Getting Its Very Own 336-Page Art Book Next Year",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "splatoon 336 page book raiders",
+      "related": [
+        {
+          "headline": "Halifax Parents Hoping To Reverse Nine-Year-Old’s $20,000 Roblox Bill",
+          "shared_terms": [
+            "year"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Splatoon Raiders Is Getting Its Very Own 336-Page Art Book Next Year",
+          "url": "https://www.nintendolife.com/news/2026/11/splatoon-raiders-is-getting-its-very-own-336-page-art-book-next-year",
+          "published": "2026-11-16T11:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "beloved-characters-controversy-creator-human-ignites",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Creator Of One Of Pokémon’s Most Beloved Human Characters Ignites Social Media Controversy",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "characters beloved controversy media ignites",
+      "related": [
+        {
+          "headline": "Universal Paperclips Creator Blends Scrabble And Strategy In Towers Of Babble",
+          "shared_terms": [
+            "creator"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Creator Of One Of Pokémon’s Most Beloved Human Characters Ignites Social Media Controversy",
+          "url": "https://kotaku.com/pokemon-sword-and-shield-anniversary-marnie-character-design-2000757395",
+          "published": "2026-11-16T11:30:07+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "admits-blizzard-briefly-continued-dungeons-forever",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 1.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "wrestle mark admits continued wow",
+      "related": [
+        {
+          "headline": "Minecraft Dungeons II First DLC 'The Humblers Awaken' Arrives Next Month",
+          "shared_terms": [
+            "dungeons"
+          ]
+        },
+        {
+          "headline": "Xbox gem The Chronicles of Riddick: Escape from Butcher Bay was briefly cancelled, but nobody told its developer",
+          "shared_terms": [
+            "briefly"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "WoW: Forever's continued to wrestle with dungeons, as Blizzard admits it briefly 'missed the mark' on hotfixes over the weekend",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forevers-continued-to-wrestle-with-dungeons-as-blizzard-admits-it-briefly-missed-the-mark-on-hotfixes-over-the-weekend/",
+          "published": "2026-11-16T11:51:12+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "apples-applin-event-guide-kitchen-pokopia",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Guide: Pokémon Pokopia Apples to Applin Event Guide, From Syrupy Apples To A Kitchen Table",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 1.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "table event syrupy apples kitchen",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Guide: Pokémon Pokopia Apples to Applin Event Guide, From Syrupy Apples To A Kitchen Table",
+          "url": "https://www.nintendolife.com/guides/pokemon-pokopia-apples-to-applin-event-guide",
+          "published": "2026-11-16T11:56:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "abuse-call-canceled-child-controversial-conviction",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Controversial Call of Cthulhu Game Canceled After Designer's Child Abuse Conviction",
+      "topics": [
+        "storie"
+      ],
+      "age_hours": 1.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "controversial canceled cthulhu designer abuse",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Controversial Call of Cthulhu Game Canceled After Designer's Child Abuse Conviction",
+          "url": "https://www.polygon.com/call-of-cthulhu-old-one-origins-canceled-designer-conviction/",
+          "published": "2026-11-16T12:16:50+00:00"
+        }
+      ]
+    }
+  ]
+}
