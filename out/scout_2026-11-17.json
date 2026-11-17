@@ -1,0 +1,913 @@
+{
+  "generated_at": "2026-11-17T14:15:42.143925+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "2022-auto-breach-charges-claim-company",
+      "score": 49.1,
+      "already_proposed": false,
+      "headline": "GTA 6 hacker pleads guilty to 2022 Rockstar Games breach which the company claim cost them $5 million",
+      "topics": [
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 22.7,
+      "signals": {
+        "coverage": 1.0,
+        "velocity": 0.0,
+        "it_gap": 1.0,
+        "yt_demand": 0.39,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.41,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot",
+        "IGN",
+        "Kotaku",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 14872,
+        "top_views": 149603,
+        "top_title": "El hacker del GTA 6 es declarado culpable por filtrar el juego en 2022 🤡🤔 #Shorts"
+      },
+      "youtube_query": "pleads guilty gta rockstar hacker",
+      "related": [
+        {
+          "headline": "GTA 6 Gets New Screenshots Highlighting Leonida's Dynamic Weather",
+          "shared_terms": [
+            "revealed"
+          ]
+        },
+        {
+          "headline": "Yet Another PS5 Firmware Update Is Ready to Download Now as GTA 6 Approaches",
+          "shared_terms": [
+            "claim"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "GTA 6 hacker pleads guilty to 2022 Rockstar Games breach which the company claim cost them $5 million",
+          "url": "https://www.rockpapershotgun.com/gta-6-hacker-pleads-guilty-to-2022-rockstar-games-breach-which-the-company-claim-cost-them-5-million",
+          "published": "2026-11-16T15:36:40+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Rockstar Could Have Released GTA 6 Sooner As GTA 5.5, But “You Have To Take Big Swings”",
+          "url": "https://www.gamespot.com/articles/rockstar-could-have-released-gta-6-sooner-as-gta-5-5-but-you-have-to-take-big-swings/",
+          "published": "2026-11-16T16:29:14+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "The GTA Leaker Who Revealed Lucia — After Hacking Rockstar Through His Hotel TV — Pleads Guilty",
+          "url": "https://www.ign.com/articles/the-gta-leaker-who-revealed-lucia-after-hacking-rockstar-through-his-hotel-tv-pleads-guilty",
+          "published": "2026-11-16T16:49:00+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "GTA 6 Hacker Pleads Guilty To Cybercrimes After Infamous 2022 Leak",
+          "url": "https://kotaku.com/grand-theft-auto-6-leak-gta6-hacker-pleads-guilty-2000757500",
+          "published": "2026-11-16T18:30:14+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Original GTA 6 leaker pleads guilty to hacking Rockstar Games, years after first revealing Lucia",
+          "url": "https://www.eurogamer.net/gta-6-leaker-pleads-guilty",
+          "published": "2026-11-16T18:51:40+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Grand Theft Auto 6 hacker pleads guilty to all charges",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-hacker-pleads-guilty-to-all-charges/",
+          "published": "2026-11-16T19:40:15+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "ahead-amid-approaches-claim-date-download",
+      "score": 43.9,
+      "already_proposed": false,
+      "headline": "Yet Another PS5 Firmware Update Is Ready to Download Now as GTA 6 Approaches",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 4.5,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.5,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "firmware update gta squeezes sony",
+      "related": [
+        {
+          "headline": "New Asus beta BIOS patches now include a fresh AMD feature to stop you thinking your PC's b0rked",
+          "shared_terms": [
+            "fresh"
+          ]
+        },
+        {
+          "headline": "GTA 6 hacker pleads guilty to 2022 Rockstar Games breach which the company claim cost them $5 million",
+          "shared_terms": [
+            "claim"
+          ]
+        },
+        {
+          "headline": "UK’s National Health Service Is Urging Gamers to Protect Their Hands Ahead of GTA 6 Launch",
+          "shared_terms": [
+            "ahead"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Yet Another PS5 Firmware Update Is Ready to Download Now as GTA 6 Approaches",
+          "url": "https://www.pushsquare.com/news/2026/11/yet-another-ps5-firmware-update-is-ready-to-download-now-as-gta-6-approaches",
+          "published": "2026-11-17T09:45:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Sony Squeezes in Last-Minute PS5 Firmware Security Update Ahead of GTA 6 Release Date, Amid Fresh Hacker Claim",
+          "url": "https://www.ign.com/articles/sony-squeezes-in-last-minute-ps5-firmware-security-update-ahead-of-gta-6-release-date-amid-fresh-hacker-claim",
+          "published": "2026-11-17T10:26:26+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Sony squeezes out a PlayStation 5 firmware update before the release of GTA 6",
+          "url": "https://www.eurogamer.net/ps5-firmware-update-gta-6",
+          "published": "2026-11-17T10:51:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "archetypal-asterisk-console-grow-gta-important",
+      "score": 38.9,
+      "already_proposed": false,
+      "headline": "Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will \"grow the market rather than simply redistribute it\"",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 7.3,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry",
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 4,
+        "top_views": 4,
+        "top_title": "GTA 6 pre-orders are mostly guys who love consoles!"
+      },
+      "youtube_query": "orders pre gta rather overwhelmingly",
+      "related": [],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will \"grow the market rather than simply redistribute it\"",
+          "url": "https://www.gamesindustry.biz/newzoo-gta-6-pre-orders-are-archetypal-console-players-but-overwhelmingly-male-game-will-grow-the-market-rather-than-simply-redistribute-it",
+          "published": "2026-11-17T07:00:00+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "'GTA 6' Pre-orders Come With An Important Asterisk",
+          "url": "https://www.polygon.com/gta-6-preorder-bonuses-plus-release-perks-digital-ultimate-edition/",
+          "published": "2026-11-17T13:25:35+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "absences-cards-day-early-encouragement-gift",
+      "score": 38.7,
+      "already_proposed": false,
+      "headline": "Warnings, Encouragement, and Gift Cards: How Schools Are Preparing for Mass Absences on GTA 6 Launch Day",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 0.7,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "day gta cards encouragement gift",
+      "related": [
+        {
+          "headline": "\"We've finally reached this milestone\": Cyberpunk 2077 multiplayer mod CyberMP kicks off open beta after around six years preparing for cybermayhem",
+          "shared_terms": [
+            "preparing"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Warnings, Encouragement, and Gift Cards: How Schools Are Preparing for Mass Absences on GTA 6 Launch Day",
+          "url": "https://www.ign.com/articles/warnings-encouragement-and-gift-cards-how-schools-are-preparing-for-mass-absences-on-gta-6-launch-day",
+          "published": "2026-11-17T13:32:25+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "How To Play GTA 6 A Day Early",
+          "url": "https://kotaku.com/how-to-play-gta-6-a-day-early-2000757655",
+          "published": "2026-11-17T14:00:05+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "channel-dynamic-gta-highlighting-leonida-microclimate",
+      "score": 38.5,
+      "already_proposed": false,
+      "headline": "GTA 6 Gets New Screenshots Highlighting Leonida's Dynamic Weather",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 15.8,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.33,
+        "it_gap": 0.5,
+        "yt_demand": 0.26,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.79,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "IGN",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 6654,
+        "top_views": 179128,
+        "top_title": "Rockstar Just Released NEW GTA 6 Screenshots & Exclusive Gameplay Details On Leonida's Weather!"
+      },
+      "youtube_query": "weather gta screenshots dynamic channel",
+      "related": [
+        {
+          "headline": "GTA 6 hacker pleads guilty to 2022 Rockstar Games breach which the company claim cost them $5 million",
+          "shared_terms": [
+            "revealed"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "GTA 6 Gets New Screenshots Highlighting Leonida's Dynamic Weather",
+          "url": "https://www.ign.com/articles/gta-6-gets-new-screenshots-highlighting-leonidas-dynamic-weather",
+          "published": "2026-11-16T22:26:10+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6s-unpredictable-microclimate-revealed-by-the-weather-channel-with-new-ps5-screenshots",
+          "published": "2026-11-17T00:00:00+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "GTA 6 Has Teamed Up With The Weather Channel To Show How Dynamic Leonida Can Be",
+          "url": "https://www.gamespot.com/articles/gta-6-has-teamed-up-with-the-weather-channel-to-show-how-dynamic-leonida-can-be/",
+          "published": "2026-11-17T10:15:33+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "4bn-benefits-edition-exceed-gta-order",
+      "score": 37.9,
+      "already_proposed": false,
+      "headline": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 13.3,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.08,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.93,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 668,
+        "top_views": 1217,
+        "top_title": "Why everyone is buying the $100 GTA 6 edition #gta6 #shorts #gaming"
+      },
+      "youtube_query": "ultimate pre edition gta tower",
+      "related": [],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
+          "url": "https://www.gamesindustry.biz/sensor-tower-gta-6-pre-orders-exceed-14bn-with-87-for-the-ultimate-edition",
+          "published": "2026-11-17T01:00:00+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "GTA 6 Ultimate Edition vs Standard Edition: All Ultimate Edition & pre-order benefits",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-ultimate-edition-vs-standard-edition-all-ultimate-edition-pre-order-benefits/",
+          "published": "2026-11-17T11:49:56+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2026-admit-anything-copies-crowned-far",
+      "score": 37.8,
+      "already_proposed": false,
+      "headline": "There’s One Thing I’ll Admit The Ocarina Of Time Remake Made Worse",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 21.3,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.8,
+        "it_gap": 0.44,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.49,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku",
+        "Nintendo Life",
+        "VGC"
+      ],
+      "coverage_it": [
+        "SpazioGames"
+      ],
+      "youtube": {
+        "video_count": 9,
+        "median_views": 96,
+        "top_views": 1283,
+        "top_title": "Ocarina of Time Remake Sold 5.2 MILLION in 4 Days 🤯 #shorts"
+      },
+      "youtube_query": "remake ocarina zelda physical selling",
+      "related": [
+        {
+          "headline": "‘Actively Makes The Game Worse’: Fans Are Furious With Pikmin 4′s Paid Nintendo Switch 2 ‘Upgrade’",
+          "shared_terms": [
+            "worse"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "There’s One Thing I’ll Admit The Ocarina Of Time Remake Made Worse",
+          "url": "https://kotaku.com/legend-zelda-ocarina-time-spirit-temple-remake-song-music-2000757482",
+          "published": "2026-11-16T17:00:20+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Zelda: Ocarina Of Time Remake Crowned 2026's \"Best-Selling Physical Video Game In The US\"",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-ocarina-of-time-remake-crowned-2026s-best-selling-physical-video-game-in-the-us",
+          "published": "2026-11-17T00:55:00+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Zelda Ocarina of Time remake is the best-selling physical game in the US in 2026 so far, passing 1 million in its first week",
+          "url": "https://www.videogameschronicle.com/news/zelda-ocarina-of-time-remake-is-the-best-selling-physical-game-in-the-us-in-2026-so-far-passing-1-million-in-its-first-week/",
+          "published": "2026-11-17T09:24:28+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "The Legend of Zelda: Ocarina of Time Remake Is Already Running Rampant on PC — but Can Nintendo Do Anything About It?",
+          "url": "https://www.ign.com/articles/the-legend-of-zelda-ocarina-of-time-remake-is-already-running-rampant-on-pc-but-can-nintendo-do-anything-about-it",
+          "published": "2026-11-17T11:23:51+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Zelda: Ocarina Of Time Remake Sold 1 Million Physical Copies In Its First Week, The Most Since Tears Of The Kingdom",
+          "url": "https://kotaku.com/zelda-ocarina-of-time-remake-sold-1-million-physical-copies-in-its-first-week-the-most-since-tears-of-the-kingdom-2000757645",
+          "published": "2026-11-17T11:30:43+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "Zelda: Ocarina of Time Remake vola in versione fisica",
+          "url": "https://www.spaziogames.it/notizie/zelda-ocarina-of-time-remake-e-il-gioco-fisico-piu-venduto-del-2026-negli-usa",
+          "published": "2026-11-17T12:41:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "end-ever-gta-justice-not-original",
+      "score": 36.5,
+      "already_proposed": false,
+      "headline": "After GTA 6's original soundtrack, Justice probably won't work on any other video game ever again",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 3.3,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "video gta probably won justice",
+      "related": [
+        {
+          "headline": "\"We've finally reached this milestone\": Cyberpunk 2077 multiplayer mod CyberMP kicks off open beta after around six years preparing for cybermayhem",
+          "shared_terms": [
+            "ever"
+          ]
+        },
+        {
+          "headline": "GTA 6 Promo At KFC Is A Fake Funeral So You Can Take The Day Off To Play",
+          "shared_terms": [
+            "work"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "After GTA 6's original soundtrack, Justice probably won't work on any other video game ever again",
+          "url": "https://www.eurogamer.net/gta-6-justice-ost-only-game",
+          "published": "2026-11-17T10:57:50+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "GTA 6 Is Not the End of Video Games",
+          "url": "https://www.polygon.com/gta-6-the-last-video-game-end-of-aaa/",
+          "published": "2026-11-17T12:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "30th-aias-award-awards-dice-honored",
+      "score": 36.2,
+      "already_proposed": false,
+      "headline": "Shigeru Miyamoto to be honored with first AIAS Legend Award in Las Vegas",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 20.7,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.2,
+        "it_gap": 0.83,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.52,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Game Developer",
+        "GamesIndustry",
+        "Kotaku",
+        "Nintendo Life",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 6,
+        "median_views": 22,
+        "top_views": 5001,
+        "top_title": "【海外の反応】宮本茂さんが10年に1回の「レジェンド賞」初代受賞者に！74歳の誕生日に発表、生んだゲームは約11億本・約5兆6000億円で「ゲーム界のモーツァルト」と称賛が・・・"
+      },
+      "youtube_query": "shigeru miyamoto award legend inaugural",
+      "related": [],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Shigeru Miyamoto to be honored with first AIAS Legend Award in Las Vegas",
+          "url": "https://www.videogameschronicle.com/news/shigeru-miyamoto-to-be-honored-with-first-aias-legend-award-in-las-vegas/",
+          "published": "2026-11-16T17:36:35+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Shigeru Miyamoto To Receive The Inaugural 'Legend Award' At The 30th D.I.C.E. Awards",
+          "url": "https://www.nintendolife.com/news/2026/11/shigeru-miyamoto-to-receive-the-inaugural-legend-award-at-the-30th-d-i-c-e-awards",
+          "published": "2026-11-16T18:00:00+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Shigeru Miyamoto to receive inaugural Legend Award at the 30th DICE Awards",
+          "url": "https://www.gamesindustry.biz/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-dice-awards",
+          "published": "2026-11-16T18:37:20+00:00"
+        },
+        {
+          "source": "Game Developer",
+          "title": "Shigeru Miyamoto selected as inaugural Legend Award inductee at DICE Awards",
+          "url": "https://www.gamedeveloper.com/console/shigeru-miyamoto-selected-as-inaugural-legend-award-inductee-at-d-i-c-e-awards",
+          "published": "2026-11-16T20:15:00+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Shigeru Miyamoto To Receive Inaugural Legend Award At The 30th D.I.C.E. Awards",
+          "url": "https://kotaku.com/shigeru-miyamoto-to-receive-inaugural-legend-award-at-the-30th-d-i-c-e-awards-2000757556",
+          "published": "2026-11-17T12:00:49+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "360-character-gta-impossible-mission-ps3",
+      "score": 35.7,
+      "already_proposed": false,
+      "headline": "The Impossible Mission of Getting GTA 5's Seamless Character Switching Working on PS3 and Xbox 360",
+      "topics": [
+        "nintendo",
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "360 impossible switching mission seamless",
+      "related": [
+        {
+          "headline": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'",
+          "shared_terms": [
+            "working"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "The Impossible Mission of Getting GTA 5's Seamless Character Switching Working on PS3 and Xbox 360",
+          "url": "https://www.ign.com/articles/gta-5s-seamless-character-switching-working-ps3-xbox-360",
+          "published": "2026-11-17T12:14:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "available-demo-disponibile-ecco-eshop-link",
+      "score": 34.2,
+      "already_proposed": false,
+      "headline": "PSA: Splatoon Raiders Demo Splashes Onto The Switch 2 eShop Today",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 11.2,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 3,
+        "top_views": 32,
+        "top_title": "Splatoon Raiders demosu Switch 2 eShop'ta yayında #Shorts"
+      },
+      "youtube_query": "demo raiders splatoon switch eshop",
+      "related": [
+        {
+          "headline": "PlayStation Plus Extra e Premium: i giochi di novembre sono disponibili da oggi",
+          "shared_terms": [
+            "available"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "PSA: Splatoon Raiders Demo Splashes Onto The Switch 2 eShop Today",
+          "url": "https://www.nintendolife.com/news/2026/11/psa-splatoon-raiders-demo-splashes-onto-the-switch-2-eshop-today",
+          "published": "2026-11-17T03:05:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "La demo di Splatoon Raiders è disponibile da ora su Nintendo eShop per Switch 2: ecco il link",
+          "url": "https://multiplayer.it/notizie/demo-splatoon-raiders-disponibile-nintendo-eshop-switch-2-link.html",
+          "published": "2026-11-17T08:34:46+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "A free demo for Splatoon Raiders is now available on Switch 2",
+          "url": "https://www.videogameschronicle.com/news/a-free-demo-for-splatoon-raiders-is-now-available-on-switch-2/",
+          "published": "2026-11-17T10:35:33+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "gta-mind-pirates-ps5-sony-updating",
+      "score": 33.6,
+      "already_proposed": false,
+      "headline": "Sony Is Updating The PS5 Again, And It Might Have GTA 6 Pirates In Mind",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 1.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1,
+        "top_views": 1,
+        "top_title": "GTA VI SOUNDTRACK LEAK + PS5 UPDATE SHOCK!"
+      },
+      "youtube_query": "updating pirates mind sony ps5",
+      "related": [],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "Sony Is Updating The PS5 Again, And It Might Have GTA 6 Pirates In Mind",
+          "url": "https://www.gamespot.com/articles/sony-is-updating-the-ps5-again-and-it-might-have-gta-6-pirates-in-mind/",
+          "published": "2026-11-17T13:01:53+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "attempt-commander-controls-failed-later-microsoft",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?",
+      "topics": [
+        "xbox",
+        "easter_egg"
+      ],
+      "age_hours": 4.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "sidewinder later controls commander rts",
+      "related": [
+        {
+          "headline": "Judge throws out RAM makers’ attempt to dismiss lawsuit accusing them of fixing prices and supply",
+          "shared_terms": [
+            "attempt"
+          ]
+        },
+        {
+          "headline": "GTA 6 Should Help Boost PS5 And Xbox Sales, But Their Astronomical Prices Could Hurt",
+          "shared_terms": [
+            "using"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?",
+          "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
+          "published": "2026-11-17T09:31:20+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "akira-chrono-composer-compositore-concludersi-direction",
+      "score": 31.8,
+      "already_proposed": false,
+      "headline": "Dragon Quest dovrebbe concludersi invece di imitare lo stile di Akira Toriyama, per il compositore di Chrono Trigger",
+      "topics": [],
+      "age_hours": 5.4,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Nintendo Life"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "trigger chrono quest dragon composer",
+      "related": [
+        {
+          "headline": "We Got A Grand Theft At Disney World Before GTA 6",
+          "shared_terms": [
+            "series"
+          ]
+        },
+        {
+          "headline": "'Retire Dragon Quest and Make a New RPG': Drama Surrounds Dragon Quest After Mobile Game Reveal",
+          "shared_terms": [
+            "retire"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Multiplayer",
+          "title": "Dragon Quest dovrebbe concludersi invece di imitare lo stile di Akira Toriyama, per il compositore di Chrono Trigger",
+          "url": "https://multiplayer.it/notizie/dragon-quest-dovrebbe-concludersi-invece-di-imitare-lo-stile-di-akira-toriyama-per-il-compositore-di-chrono-trigger.html",
+          "published": "2026-11-17T08:52:04+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "\"I Don't Feel This Is A Good Direction\" - Chrono Trigger Composer Thinks It's Time To End Dragon Quest",
+          "url": "https://www.nintendolife.com/news/2026/11/i-dont-feel-this-is-a-good-direction-chrono-trigger-composer-thinks-its-time-to-end-dragon-quest",
+          "published": "2026-11-17T12:00:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Is it time to retire Dragon Quest as a series? Chrono Trigger composer Yasunori Mitsuda thinks it might be",
+          "url": "https://www.eurogamer.net/dragon-quest-series-composer-akira-toriyama",
+          "published": "2026-11-17T12:27:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "confirmed-early-global-gta-release-times",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "GTA 6 Global Release Times Confirmed: Here's How to Play Early Via the New Zealand Trick",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 4.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "zealand global confirmed trick via",
+      "related": [
+        {
+          "headline": "GTA 6 Should Help Boost PS5 And Xbox Sales, But Their Astronomical Prices Could Hurt",
+          "shared_terms": [
+            "trick"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "GTA 6 Global Release Times Confirmed: Here's How to Play Early Via the New Zealand Trick",
+          "url": "https://www.ign.com/articles/gta-6-new-zealand-trick-xbox-ps5-early-release-time",
+          "published": "2026-11-17T09:47:08+00:00"
+        }
+      ]
+    }
+  ]
+}
