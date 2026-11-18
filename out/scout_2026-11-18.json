@@ -1,0 +1,1032 @@
+{
+  "generated_at": "2026-11-18T13:48:05.245218+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "added-anxiety-behind-cheats-critics-far",
+      "score": 45.2,
+      "already_proposed": false,
+      "headline": "GTA 6 release times: How far behind the first launch will GTA 6 unlock in your time zone?",
+      "topics": [
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 26.8,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.83,
+        "it_gap": 0.83,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.18,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku",
+        "PC Gamer",
+        "Pure Xbox",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 8,
+        "median_views": 13,
+        "top_views": 23,
+        "top_title": "GTA 6 Launch Night Guide: What To Do In Your First Hour"
+      },
+      "youtube_query": "gta launch unlock times far",
+      "related": [
+        {
+          "headline": "I'm not saying Sleeping Dogs is the world's best life of crime sim, but no other game has replicated the importance of pork buns to whole manhood as deftly",
+          "shared_terms": [
+            "saying"
+          ]
+        },
+        {
+          "headline": "MindsEye Developer Build A Rocket Boy Is Suing ‘Several Third Parties’ To Recoup Tens Of Millions To Pay Debts",
+          "shared_terms": [
+            "parties"
+          ]
+        },
+        {
+          "headline": "Grand Theft Auto 6 review roundup: Rockstar's 'magnum opus', a great love story, and a new bar for open worlds",
+          "shared_terms": [
+            "roundup"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "GTA 6 release times: How far behind the first launch will GTA 6 unlock in your time zone?",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-release-time-date/",
+          "published": "2026-11-17T11:00:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Guide: GTA 6 Release Times: When Can You Start Playing?",
+          "url": "https://www.pushsquare.com/guides/gta-6-release-times-when-can-you-start-playing",
+          "published": "2026-11-18T00:00:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Parties, Murals, and Anxiety — What It's Like to Launch a GTA Game",
+          "url": "https://www.ign.com/articles/parties-murals-and-anxiety-what-its-like-to-launch-a-gta-game",
+          "published": "2026-11-18T09:43:08+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "All GTA 6 cheats and how to unlock them",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-cheats-list/",
+          "published": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Roundup: Here's What The Critics Are Saying About GTA 6 So Far",
+          "url": "https://www.purexbox.com/news/2026/11/roundup-heres-what-the-critics-are-saying-about-gta-6-so-far",
+          "published": "2026-11-18T12:00:00+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Here’s What Gets Added To A GTA Game Right Before Launch",
+          "url": "https://kotaku.com/heres-what-gets-added-to-a-gta-game-right-before-launch-2000757897",
+          "published": "2026-11-18T13:00:10+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "1080p-720p-blog-board-caution-celebrated",
+      "score": 43.0,
+      "already_proposed": false,
+      "headline": "How To Play GTA 6 Early On Xbox Using This Trick",
+      "topics": [
+        "playstation",
+        "xbox",
+        "pc_gaming",
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 28.5,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.78,
+        "it_gap": 0.67,
+        "yt_demand": 0.11,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.08,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "IGN",
+        "Kotaku",
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 1193,
+        "top_views": 2264,
+        "top_title": "How to get GTA 6 14 hours early!! (NEW ZEALAND TRICK XBOX)"
+      },
+      "youtube_query": "gta trick xbox zealand fans",
+      "related": [
+        {
+          "headline": "Microsoft's SideWinder Strategic Commander was a failed attempt to reimagine RTS controls. 23 years later, why are some players still using it?",
+          "shared_terms": [
+            "using"
+          ]
+        },
+        {
+          "headline": "Sony Is Updating The PS5 Again, And It Might Have GTA 6 Pirates In Mind",
+          "shared_terms": [
+            "official"
+          ]
+        },
+        {
+          "headline": "\"We'd love to have you\" - New Zealand's tourist board gives a nod to those hopping timezones to play Grand Theft Auto 6 early",
+          "shared_terms": [
+            "tourist"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "How To Play GTA 6 Early On Xbox Using This Trick",
+          "url": "https://www.gamespot.com/articles/how-to-play-gta-6-early-on-xbox-using-this-trick/",
+          "published": "2026-11-17T09:19:03+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Xbox Fans Urge Caution Over New Zealand Trick For GTA 6, While Others Say It's A Non-Issue",
+          "url": "https://www.purexbox.com/news/2026/11/xbox-fans-urge-caution-over-new-zealand-trick-for-gta-6-while-others-say-its-a-non-issue",
+          "published": "2026-11-17T18:05:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "'We're Getting GTA 6 First': New Zealand Trick Celebrated by Country's Official Tourist Board",
+          "url": "https://www.ign.com/articles/were-getting-gta-6-first-new-zealand-trick-celebrated-by-countrys-official-tourist-board",
+          "published": "2026-11-18T09:55:55+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "GTA 6 Launch Live Blog: Fans Descend Upon New Zealand Trick as Reviews Go Live",
+          "url": "https://www.ign.com/articles/gta-6-launch-live-blog",
+          "published": "2026-11-18T10:01:43+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "GTA 6 Gym Workouts Have A Useful Trick That Saves You A Lot Of Time",
+          "url": "https://www.gamespot.com/articles/gta-6-gym-workouts-have-a-useful-trick-that-saves-you-a-lot-of-time/",
+          "published": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "GTA 6 Has A Clever PS5 DualSense Trick For Keeping You Under The Speed Limit",
+          "url": "https://www.gamespot.com/articles/gta-6-has-a-clever-ps5-dualsense-trick-for-keeping-you-under-the-speed-limit/",
+          "published": "2026-11-18T11:00:58+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "After Finishing GTA 6, I Can Confirm Its Trailers And Teasers Mostly Featured Very Early Moments From The Game",
+          "url": "https://kotaku.com/after-finishing-gta-6-i-can-confirm-its-trailers-and-teasers-mostly-featured-very-early-moments-from-the-game-2000755910",
+          "published": "2026-11-18T11:45:46+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "GTA 6 Uses FSR 4.1 on Xbox Series S to Upscale From 720p to 1080p",
+          "url": "https://www.ign.com/articles/gta-6-uses-fsr-41-on-xbox-series-s-to-upscale-from-720p-to-1080p",
+          "published": "2026-11-18T12:24:45+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Feature: 10 Features That Surprised Me While Playing GTA 6 On Xbox Series X",
+          "url": "https://www.purexbox.com/features/10-features-that-surprised-me-while-playing-gta-6-on-xbox-series-x",
+          "published": "2026-11-18T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "60fps-because-bloccato-decision-enough-explains",
+      "score": 42.7,
+      "already_proposed": false,
+      "headline": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
+      "topics": [
+        "playstation",
+        "pc_gaming",
+        "aaa"
+      ],
+      "age_hours": 2.6,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku",
+        "Push Square"
+      ],
+      "coverage_it": [
+        "Tom's Hardware IT"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "pro gta enough powerful not",
+      "related": [
+        {
+          "headline": "Modder beats Valve to the punch adding Steam Controller tracking for the Steam Frame",
+          "shared_terms": [
+            "frame"
+          ]
+        },
+        {
+          "headline": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'",
+          "shared_terms": [
+            "because"
+          ]
+        },
+        {
+          "headline": "GTA 6 Finally Explains Why You Can Hear The Police Radio Chatter",
+          "shared_terms": [
+            "explains"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’",
+          "url": "https://kotaku.com/gta-6-wont-get-a-60-fps-mode-even-on-ps5-pro-because-its-not-powerful-enough-2000755979",
+          "published": "2026-11-18T11:10:48+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "GTA 6 Will Never Get a 60fps Update on PlayStation Pro as It's 'Not Powerful Enough'",
+          "url": "https://www.ign.com/articles/gta-6-will-never-get-a-60fps-update-on-playstation-pro-as-its-not-powerful-enough",
+          "published": "2026-11-18T12:50:38+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "'PS5 Pro Is Not Powerful Enough to Run GTA 6 at 60fps': Rockstar Explains Frame Rate Decision",
+          "url": "https://www.pushsquare.com/news/2026/11/ps5-pro-is-not-powerful-enough-to-run-gta-6-at-60fps-rockstar-explains-frame-rate-decision",
+          "published": "2026-11-18T13:00:00+00:00"
+        },
+        {
+          "source": "Tom's Hardware IT",
+          "title": "GTA 6 bloccato a 30 fps anche su PS5 Pro: il motivo svelato",
+          "url": "https://www.tomshw.it/videogioco/playstation-5-pro-ferma-grand-theft-auto-vi-a-30-fps-ecco",
+          "published": "2026-11-18T13:18:47+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "astonishing-crowned-currently-debuts-gta-happened",
+      "score": 42.5,
+      "already_proposed": false,
+      "headline": "GTA 6 Has A Metacritic Score So High It’s Only Happened Once Before",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 1.8,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.5,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "Kotaku",
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 4,
+        "median_views": 118,
+        "top_views": 573,
+        "top_title": "GTA 6 HAS A 99 ON METACRITIC! ITS ACTUALLY HAPPENING!"
+      },
+      "youtube_query": "metacritic gta score reviewed happened",
+      "related": [
+        {
+          "headline": "10 Sci-Fi Books You Need to Read Before At Least Once In Your Life",
+          "shared_terms": [
+            "once"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "GTA 6 Has A Metacritic Score So High It’s Only Happened Once Before",
+          "url": "https://www.gamespot.com/articles/gta-6-has-a-metacritic-score-so-high-its-only-happened-once-before/",
+          "published": "2026-11-18T12:01:53+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "GTA 6 Debuts With An Astonishing 99 Metacritic Score, Currently Tied For Best-Reviewed Game Of All Time",
+          "url": "https://kotaku.com/gta-6-review-scores-99-metacritic-rockstar-grand-theft-auto-vi-2000757999",
+          "published": "2026-11-18T12:10:21+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "GTA 6 Officially Crowned the Best-Reviewed Metacritic Game of All Time",
+          "url": "https://www.polygon.com/gta-6-review-roundup/",
+          "published": "2026-11-18T12:17:52+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "chapter-fees-fishing-gameplay-gear-gone",
+      "score": 42.3,
+      "already_proposed": false,
+      "headline": "Here's every GTA 6 mission and chapter",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 2.8,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.5,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "PC Gamer",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 4,
+        "median_views": 59,
+        "top_views": 152930,
+        "top_title": "GTA 6 PS5 Pro Gameplay - 15 Minutes of The First Mission"
+      },
+      "youtube_query": "mission gta walkthrough chapter minutes",
+      "related": [
+        {
+          "headline": "'They would never stop working on this game': GTA 6's development could've gone on for longer just because 'it's really hard to close it down'",
+          "shared_terms": [
+            "gone"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Here's every GTA 6 mission and chapter",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-mission-list/",
+          "published": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "GTA 6: 15 Minutes of First Mission Gameplay",
+          "url": "https://www.ign.com/articles/gta-6-15-minutes-of-first-mission-gameplay",
+          "published": "2026-11-18T11:20:00+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "GTA 6 Prologue Mission Walkthrough",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-prologue-mission-walkthrough/",
+          "published": "2026-11-18T12:54:14+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "GTA 6 Gear Up Mission Walkthrough",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-gear-up-mission-walkthrough/",
+          "published": "2026-11-18T13:13:39+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "GTA 6 Gone Fishing Mission Walkthrough",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-gone-fishing-mission-walkthrough/",
+          "published": "2026-11-18T13:18:35+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "GTA 6 Lab Fees Mission Walkthrough",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-lab-fees-mission-walkthrough/",
+          "published": "2026-11-18T13:32:14+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "aspettativa-breathtaking-ever-greatest-gta-ogni",
+      "score": 38.9,
+      "already_proposed": false,
+      "headline": "Review: GTA 6 (PS5) - The Greatest Open World Game Ever Made",
+      "topics": [
+        "playstation",
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 2.8,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox",
+        "Push Square"
+      ],
+      "coverage_it": [
+        "Everyeye"
+      ],
+      "youtube": {
+        "video_count": 4,
+        "median_views": 11,
+        "top_views": 923,
+        "top_title": "Why GTA 6 Vice City Could Be the Best City Ever Made #gta6 #gaming"
+      },
+      "youtube_query": "open world gta greatest breathtaking",
+      "related": [],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Review: GTA 6 (PS5) - The Greatest Open World Game Ever Made",
+          "url": "https://www.pushsquare.com/reviews/ps5/grand-theft-auto-6",
+          "published": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Review: GTA 6 (Xbox) - The Most Breathtaking Open-World Game Of All Time",
+          "url": "https://www.purexbox.com/reviews/xbox-series-x/grand-theft-auto-6",
+          "published": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "GTA 6 Recensione: Rockstar supera ogni aspettativa con un Open World che non smette di stupire",
+          "url": "https://www.everyeye.it/articoli/recensione-gta-6-rockstar-supera-aspettativa-open-world-non-smette-stupire-67843.html",
+          "published": "2026-11-18T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "ever-gta-highest-joint-ocarina-rated",
+      "score": 38.7,
+      "already_proposed": false,
+      "headline": "GTA 6 Ties With Zelda: Ocarina Of Time As The Highest-Rated Game Ever",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 2.1,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "rated highest gta ties joint",
+      "related": [
+        {
+          "headline": "\"Games are best made by people\": The IWGB and other European unions publish joint manifesto calling on workers, employers and consumers to reject genAI",
+          "shared_terms": [
+            "joint"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "GTA 6 Ties With Zelda: Ocarina Of Time As The Highest-Rated Game Ever",
+          "url": "https://www.nintendolife.com/news/2026/11/gta-6-ties-with-zelda-ocarina-of-time-as-the-highest-rated-game-ever",
+          "published": "2026-11-18T11:45:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "GTA 6 is Now The Joint-Highest Rated Game of All Time",
+          "url": "https://www.ign.com/articles/gta-6-is-now-the-joint-highest-rated-game-of-all-time",
+          "published": "2026-11-18T11:47:41+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "art-based-beginner-cover-girl-gta",
+      "score": 37.3,
+      "already_proposed": false,
+      "headline": "GTA 6 beginner’s guide: 6 tips you need to know before starting GTA 6",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 0.8,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 110,
+        "top_views": 12355,
+        "top_title": "How to Start GTA 6 Clipping Before It's Too Late 💰 (2026 Guide)"
+      },
+      "youtube_query": "guide gta tips beginner starting",
+      "related": [
+        {
+          "headline": "Lisbon-based Studio Bravarda closes down after failing to recoup dev costs on its most recent title, Extremely Powerful Capybaras",
+          "shared_terms": [
+            "based"
+          ]
+        },
+        {
+          "headline": "The Game Awards just confirmed who plays GTA 6's Lucia",
+          "shared_terms": [
+            "person"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "GTA 6 beginner’s guide: 6 tips you need to know before starting GTA 6",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-beginners-guide-6-tips-you-need-to-know-before-starting-gta-6/",
+          "published": "2026-11-18T12:59:05+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Guide: Who Is the GTA 6 Cover Art Girl and Is She Based on a Real Person?",
+          "url": "https://www.pushsquare.com/guides/who-is-the-gta-6-cover-art-girl-and-is-she-based-on-a-real-person",
+          "published": "2026-11-18T13:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "auto-bar-complete-grand-great-hub",
+      "score": 36.6,
+      "already_proposed": false,
+      "headline": "Grand Theft Auto 6 review roundup: Rockstar's 'magnum opus', a great love story, and a new bar for open worlds",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 1.5,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 5,
+        "median_views": 5,
+        "top_views": 914,
+        "top_title": "Goodbye, Grand Theft Auto V - The PlayStation 3's Magnum Opus"
+      },
+      "youtube_query": "grand theft auto magnum opus",
+      "related": [
+        {
+          "headline": "GTA 6 release times: How far behind the first launch will GTA 6 unlock in your time zone?",
+          "shared_terms": [
+            "roundup"
+          ]
+        },
+        {
+          "headline": "\"We'd love to have you\" - New Zealand's tourist board gives a nod to those hopping timezones to play Grand Theft Auto 6 early",
+          "shared_terms": [
+            "love"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Grand Theft Auto 6 review roundup: Rockstar's 'magnum opus', a great love story, and a new bar for open worlds",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/grand-theft-auto-6-review-roundup-rockstars-magnum-opus-a-great-love-story-and-a-new-bar-for-open-worlds/",
+          "published": "2026-11-18T12:16:29+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Grand Theft Auto 6 complete walkthrough hub",
+          "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
+          "published": "2026-11-18T12:37:06+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "accepting-boss-dead-development-doesn-former",
+      "score": 36.4,
+      "already_proposed": false,
+      "headline": "Former GTA 4 and Red Dead boss thinks \"we are one Toy Story moment away\" from people accepting gen-AI in game development in the West",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 4.6,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "story gta gen moment toy",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Former GTA 4 and Red Dead boss thinks \"we are one Toy Story moment away\" from people accepting gen-AI in game development in the West",
+          "url": "https://www.eurogamer.net/gta-4-red-dead-redemption-take-two-ben-feder-ai-toy-story",
+          "published": "2026-11-18T09:13:30+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "GTA 6 Doesn’t Let You Replay Story Missions — Here’s Why",
+          "url": "https://www.ign.com/articles/gta-6-doesnt-let-you-replay-story-missions-heres-why",
+          "published": "2026-11-18T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "100-adventure-bonuses-card-collect-content",
+      "score": 36.3,
+      "already_proposed": false,
+      "headline": "GTA 6 Ultimate Edition per PS5 a meno di 100 €? Ecco come risparmiare con la Gift Card scontata #AD",
+      "topics": [
+        "playstation",
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 3.6,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "PC Gamer"
+      ],
+      "coverage_it": [
+        "Everyeye",
+        "SpazioGames"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "gta ultimate edition 100 ecco",
+      "related": [
+        {
+          "headline": "All The Game Awards 2026 Nominees Revealed",
+          "shared_terms": [
+            "adventure",
+            "tutte"
+          ]
+        },
+        {
+          "headline": "How to collect the Vintage Vice City Pack pre-order bonus in GTA 6",
+          "shared_terms": [
+            "collect"
+          ]
+        },
+        {
+          "headline": "It Took Me Over Three Hours To Walk Across GTA 6′s Massive Map",
+          "shared_terms": [
+            "hours"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Everyeye",
+          "title": "GTA 6 Ultimate Edition per PS5 a meno di 100 €? Ecco come risparmiare con la Gift Card scontata #AD",
+          "url": "https://www.everyeye.it/notizie/gta-6-ultimate-edition-ps5-100-come-risparmiare-gift-card-scontata-886651.html",
+          "published": "2026-11-18T10:15:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "How to collect your GTA 6 Ultimate Edition bonuses",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-ultimate-edition-bonuses/",
+          "published": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "100 hours with GTA 6: A sprawling adventure that will be so much better on PC",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/100-hours-with-gta-6-a-sprawling-adventure-that-will-be-so-much-better-on-pc/",
+          "published": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "GTA 6: How The Ultimate Edition Content Works",
+          "url": "https://www.ign.com/articles/gta-6-how-the-ultimate-edition-content-works",
+          "published": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "GTA 6: quando si sbloccano i contenuti della Ultimate Edition nel gioco?",
+          "url": "https://www.everyeye.it/notizie/gta-6-quando-sbloccano-contenuti-ultimate-edition-gioco-912310.html",
+          "published": "2026-11-18T13:07:00+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "GTA 6, trucchi su PS5: ecco tutte le informazioni",
+          "url": "https://www.spaziogames.it/notizie/gta-6-avrebbe-61-trucchi-su-ps5-ma-ce-un-limite",
+          "published": "2026-11-18T13:29:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "amore-auto-board-compagnia-criminale-early",
+      "score": 34.8,
+      "already_proposed": false,
+      "headline": "\"We'd love to have you\" - New Zealand's tourist board gives a nod to those hopping timezones to play Grand Theft Auto 6 early",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 3.2,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN",
+        "Kotaku"
+      ],
+      "coverage_it": [
+        "Gamesurf",
+        "SpazioGames"
+      ],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 8,
+        "top_views": 8,
+        "top_title": "New Zealand's Tourist Board Gives A Nod To Those"
+      },
+      "youtube_query": "grand theft auto timezones hopping",
+      "related": [
+        {
+          "headline": "How To Play GTA 6 Early On Xbox Using This Trick",
+          "shared_terms": [
+            "tourist"
+          ]
+        },
+        {
+          "headline": "Grand Theft Auto 6 review roundup: Rockstar's 'magnum opus', a great love story, and a new bar for open worlds",
+          "shared_terms": [
+            "love"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "\"We'd love to have you\" - New Zealand's tourist board gives a nod to those hopping timezones to play Grand Theft Auto 6 early",
+          "url": "https://www.eurogamer.net/new-zealand-tourist-board-gives-nod-grand-theft-auto-timezone-trick",
+          "published": "2026-11-18T10:36:40+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Grand Theft Auto 6 review",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-review",
+          "published": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Grand Theft Auto 6 Review",
+          "url": "https://www.ign.com/articles/grand-theft-auto-vi-review",
+          "published": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "Recensione Grand Theft Auto VI, amore criminale",
+          "url": "https://www.spaziogames.it/recensioni/recensione-grand-theft-auto-vi-amore-criminale",
+          "published": "2026-11-18T11:00:00+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Grand Theft Auto 6: The Kotaku Review",
+          "url": "https://kotaku.com/grand-theft-auto-6-the-kotaku-review-2000757842",
+          "published": "2026-11-18T11:00:55+00:00"
+        },
+        {
+          "source": "Gamesurf",
+          "title": "Grand Theft Auto VI: segui il lancio in compagnia di Gamesurf",
+          "url": "https://www.gamesurf.it/news/grand-theft-auto-vi-gta-6-uscita-lancio-gamesurf-twitch-diretta-straming",
+          "published": "2026-11-18T11:14:56+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "globally-gta-saving-sprint-switches-thumbs",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "GTA 6 Switches Sprint to L3, Saving Thumbs Globally",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 2.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "saving sprint switches globally thumbs",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "GTA 6 Switches Sprint to L3, Saving Thumbs Globally",
+          "url": "https://www.ign.com/articles/gta-6-switches-sprint-to-l3-saving-thumbs-globally",
+          "published": "2026-11-18T11:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "gta-issued-launches-officially-players-spoiler",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "GTA 6 Officially Launches, Spoiler Warning Issued for Players Still Waiting",
+      "topics": [
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 2.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "waiting issued spoiler launches officially",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "GTA 6 Officially Launches, Spoiler Warning Issued for Players Still Waiting",
+          "url": "https://www.polygon.com/gta-6-out-now-spoiler-warning-new-zealand-release/",
+          "published": "2026-11-18T11:00:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "add-affiliate-authorised-confirms-dedicated-links",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "SteamDB will add \"affiliate links to authorised game retailers\" and a new tab dedicated to mods, first update since Nexus Mods takeover confirms",
+      "topics": [
+        "pc_gaming",
+        "steam"
+      ],
+      "age_hours": 0.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "nexus tab since affiliate links",
+      "related": [
+        {
+          "headline": "Sony Is Updating The PS5 Again, And It Might Have GTA 6 Pirates In Mind",
+          "shared_terms": [
+            "confirms"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "SteamDB will add \"affiliate links to authorised game retailers\" and a new tab dedicated to mods, first update since Nexus Mods takeover confirms",
+          "url": "https://www.rockpapershotgun.com/steamdb-will-add-affiliate-links-to-authorised-game-retailers-and-a-new-tab-dedicated-to-mods-first-update-since-nexus-mods-takeover-confirms",
+          "published": "2026-11-18T13:25:50+00:00"
+        }
+      ]
+    }
+  ]
+}
