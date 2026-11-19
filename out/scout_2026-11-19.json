@@ -1,0 +1,817 @@
+{
+  "generated_at": "2026-11-19T14:17:51.633790+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "animal-auto-criminality-fatalities-genres-grand",
+      "score": 72.6,
+      "already_proposed": false,
+      "headline": "After Grand Theft Auto 6's launch, players are in love with wacky criminality, in-game social media, and animal fatalities",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 4.7,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.92,
+        "yt_room": 1.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 84919,
+        "top_views": 84919,
+        "top_title": "GTA 6 - Euphoria Ragdoll Physics | Fails & Funny Moments #2"
+      },
+      "youtube_query": "grand auto theft wacky fatalities",
+      "related": [
+        {
+          "headline": "Yes, That’s Weird Al Hosting A Radio Station In GTA 6",
+          "shared_terms": [
+            "radio"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "After Grand Theft Auto 6's launch, players are in love with wacky criminality, in-game social media, and animal fatalities",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals",
+          "published": "2026-11-19T09:38:50+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "GTA 6: All radio stations and genres in Grand Theft Auto 6",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-all-radio-stations-genres-grand-theft-auto/",
+          "published": "2026-11-19T09:44:51+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2026-biggest-built-call-crack-debuts",
+      "score": 52.1,
+      "already_proposed": false,
+      "headline": "RayNeo Built Modern Warfare 4 Its Own AR Glasses - And Put Call Of Duty Inside The Lens",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 2.3,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 1.0,
+        "it_gap": 0.5,
+        "yt_demand": 0.41,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GamesIndustry",
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 16826,
+        "top_views": 65082,
+        "top_title": "The Highest Damage SMG in Modern Warfare 4!"
+      },
+      "youtube_query": "modern call warfare duty top",
+      "related": [
+        {
+          "headline": "'PS5 Pro Is Not Powerful Enough to Run GTA 6 at 60fps': Rockstar Explains Frame Rate Decision",
+          "shared_terms": [
+            "crack"
+          ]
+        },
+        {
+          "headline": "How Am I Supposed To Wait Until The PC Version To Play GTA 6?",
+          "shared_terms": [
+            "inside"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "RayNeo Built Modern Warfare 4 Its Own AR Glasses - And Put Call Of Duty Inside The Lens",
+          "url": "https://www.polygon.com/rayneo-gt-max-call-of-duty-modern-warfare-4-limited-edition/",
+          "published": "2026-11-19T12:00:18+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Call of Duty: Modern Warfare 4 debuts as top-selling game in US for October 2026",
+          "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026",
+          "published": "2026-11-19T14:00:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Call of Duty: Modern Warfare 4 was October's biggest game in the US, but it wasn't enough to crack 2026's best-selling top 10",
+          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-october-top-seller",
+          "published": "2026-11-19T14:01:40+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "alleged-amid-busting-close-closing-deliver",
+      "score": 38.7,
+      "already_proposed": false,
+      "headline": "Rockstar firings tribunal hears closing statements, with judge promising to deliver a verdict \"as quickly as I possibly can\" - though it may take a while",
+      "topics": [
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 3.7,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "possibly deliver quickly judge verdict",
+      "related": [
+        {
+          "headline": "\"It’s hard not to worry\": Even as GTA 6 launches on console amid glowing reviews, Rockstar devs are already concerned about getting laid off",
+          "shared_terms": [
+            "amid"
+          ]
+        },
+        {
+          "headline": "Mindseye developer Build a Rocket Boy - founded by ex-GTA veteran - has a mountain of debt, and the main plan for paying it back is litigation",
+          "shared_terms": [
+            "alleged"
+          ]
+        },
+        {
+          "headline": "Most, though not quite all, of the 34 fired Rockstar employees are named in the GTA 6 credits",
+          "shared_terms": [
+            "though"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Rockstar firings tribunal hears closing statements, with judge promising to deliver a verdict \"as quickly as I possibly can\" - though it may take a while",
+          "url": "https://www.rockpapershotgun.com/rockstar-firings-tribunal-hears-closing-statements-with-judge-promising-to-deliver-a-verdict-as-quickly-as-i-possibly-can-though-it-may-take-a-while",
+          "published": "2026-11-19T10:34:20+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "As Rockstar's alleged \"union busting\" tribunal hearing comes to a close amid GTA 6 launch, judge pledges to deliver verdict \"as quickly as I possibly can\"",
+          "url": "https://www.eurogamer.net/gta-6-rockstar-tribunal-awaits-verdict",
+          "published": "2026-11-19T14:08:10+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bonus-careful-city-claiming-decisions-finally",
+      "score": 37.4,
+      "already_proposed": false,
+      "headline": "GTA 6: come riscattare il bonus pre-ordine Vintage Vice City Pack",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 14.4,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.17,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.87,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "Push Square"
+      ],
+      "coverage_it": [
+        "Everyeye"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 3008,
+        "top_views": 49149,
+        "top_title": "GTA 6 Ultimate Edition: Is It Worth the Extra $20?"
+      },
+      "youtube_query": "gta bonus pre vice city",
+      "related": [
+        {
+          "headline": "Despite being £61.7 million in debt, bankrupt MindsEye devs Build a Rocket Boy are splurging on legal action against \"a coordinated campaign of negative online reviews\"",
+          "shared_terms": [
+            "claiming"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Everyeye",
+          "title": "GTA 6: come riscattare il bonus pre-ordine Vintage Vice City Pack",
+          "url": "https://www.everyeye.it/notizie/gta-6-come-riscattare-bonus-pre-ordine-vintage-vice-city-pack-912432.html",
+          "published": "2026-11-18T23:56:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "New GTA 6 Players, Be Careful When Claiming Your GTA+ Pre-Order Bonus",
+          "url": "https://www.pushsquare.com/news/2026/11/new-gta-6-players-be-careful-when-claiming-your-gtaplus-pre-order-bonus",
+          "published": "2026-11-19T01:00:00+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "GTA 6 Is Finally Here, So Come Watch Us Make Terrible Decisions In Vice City",
+          "url": "https://www.gamespot.com/articles/gta-6-is-finally-here-so-come-watch-us-make-terrible-decisions-in-vice-city/",
+          "published": "2026-11-19T11:42:20+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "armor-body-cars-cop-gta-guns",
+      "score": 36.9,
+      "already_proposed": false,
+      "headline": "Looking for free guns and body armor in GTA 6? Try the trunks of cop cars",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 4.1,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer",
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 40,
+        "top_views": 1913,
+        "top_title": "The easiest way to get the DUKE 556 early in GTA 6 🔫 #gta6 #gta6gameplay #rockstargames"
+      },
+      "youtube_query": "cars gta armor body cop",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Looking for free guns and body armor in GTA 6? Try the trunks of cop cars",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-free-guns-cop-cars/",
+          "published": "2026-11-19T10:11:46+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "How to keep stolen cars and weapons in GTA 6",
+          "url": "https://www.polygon.com/gta-6-keep-stolen-vehicles-weapons-register/",
+          "published": "2026-11-19T11:01:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "ceo-consumers-criticizes-digital-disc-discs",
+      "score": 36.5,
+      "already_proposed": false,
+      "headline": "GameStop CEO Criticizes Digital-Only Games As GTA 6 Releases Without A Disc",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 2.8,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "ceo gamestop digital gta criticizes",
+      "related": [
+        {
+          "headline": "Analyst: Console shipments drop 36.5% to 6.4m units during Q3 on run-up to major releases",
+          "shared_terms": [
+            "releases"
+          ]
+        },
+        {
+          "headline": "SteamDB will add \"affiliate links to authorised game retailers\" and a new tab dedicated to mods, first update since Nexus Mods takeover confirms",
+          "shared_terms": [
+            "retailers"
+          ]
+        },
+        {
+          "headline": "KFC Announces GTA 6 Promo Where You Get A Disc-Shaped Piece Of Chicken",
+          "shared_terms": [
+            "disc"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "GameStop CEO Criticizes Digital-Only Games As GTA 6 Releases Without A Disc",
+          "url": "https://kotaku.com/gamestop-ceo-criticizes-digital-only-games-gta-6-releases-without-a-disc-2000758233",
+          "published": "2026-11-19T11:30:22+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "As GTA 6 Skips Discs, GameStop CEO Says Digital-Only 'Has Hurt Consumers' and Retailers",
+          "url": "https://www.ign.com/articles/gamestop-ceo-blasts-digital-only-gta-6-no-disc",
+          "published": "2026-11-19T12:46:36+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "app-apps-because-didn-feel-gta",
+      "score": 34.1,
+      "already_proposed": false,
+      "headline": "All GTA 6 Smartphone Apps And What They Do",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 3.2,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "gta apps smartphone social didn",
+      "related": [
+        {
+          "headline": "Refueling cars in GTA 6 is barely necessary, but there's much better reason to visit garages",
+          "shared_terms": [
+            "necessary"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "All GTA 6 Smartphone Apps And What They Do",
+          "url": "https://www.gamespot.com/articles/all-gta-6-smartphone-apps-and-what-they-do/",
+          "published": "2026-11-19T11:03:39+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "GTA 6 has replaced websites with social media and phone apps because \"it didn't feel necessary\"",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-no-web-social-media-apps",
+          "published": "2026-11-19T13:43:10+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "GTA 6 sostituisce i siti web con social e app per smartphone, perché non più necessari",
+          "url": "https://multiplayer.it/notizie/gta-6-sostituisce-i-siti-web-con-social-e-app-per-smartphone-perche-non-piu-necessari.html",
+          "published": "2026-11-19T14:12:55+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "accidentally-afterwards-gta-hours-immediately-loses",
+      "score": 33.8,
+      "already_proposed": false,
+      "headline": "Streamer Loses 11 Hours of GTA 6 Progress After Accidentally Turning Off Their PS5, Gets Swatted Immediately Afterwards",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 3.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 18,
+        "top_views": 18,
+        "top_title": "JasonTheWeen loses 11 hours of GTA 6 progress and gets swatted"
+      },
+      "youtube_query": "streamer turning immediately afterwards swatted",
+      "related": [
+        {
+          "headline": "Befuddled Japanese player fights GTA 6 controls, loses, becomes 'guy chugging two shakes I accidentally bought while walking around in a squat'",
+          "shared_terms": [
+            "accidentally",
+            "loses"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Streamer Loses 11 Hours of GTA 6 Progress After Accidentally Turning Off Their PS5, Gets Swatted Immediately Afterwards",
+          "url": "https://www.ign.com/articles/streamer-loses-11-hours-of-gta-6-progress-gets-swatted-immediately-afterwards",
+          "published": "2026-11-19T11:18:46+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "artwork-backgrounds-custom-dashboard-gta-microsoft",
+      "score": 33.6,
+      "already_proposed": false,
+      "headline": "Microsoft Polls Users After Plastering GTA 6 Artwork Over Xbox Custom Dashboard Backgrounds",
+      "topics": [
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 3.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1,
+        "top_views": 1,
+        "top_title": "Microsoft polls Xbox users after replacing custom backgrounds with GTA 6"
+      },
+      "youtube_query": "microsoft polls artwork dashboard backgrounds",
+      "related": [
+        {
+          "headline": "'PS5 Pro Is Not Powerful Enough to Run GTA 6 at 60fps': Rockstar Explains Frame Rate Decision",
+          "shared_terms": [
+            "custom"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Microsoft Polls Users After Plastering GTA 6 Artwork Over Xbox Custom Dashboard Backgrounds",
+          "url": "https://www.ign.com/articles/microsoft-polls-users-after-plastering-gta-6-artwork-over-xbox-custom-dashboard-backgrounds",
+          "published": "2026-11-19T11:00:09+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bmxing-expecting-gta-launch-prepared-tanuki",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "\"BMXing Tanuki Game\" Was Prepared For GTA 6's Launch, But Wasn't Expecting Zelda",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 8.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "bmxing expecting tanuki prepared wasn",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "\"BMXing Tanuki Game\" Was Prepared For GTA 6's Launch, But Wasn't Expecting Zelda",
+          "url": "https://www.nintendolife.com/news/2026/11/bmxing-tanuki-game-was-prepared-for-gta-6s-launch-but-wasnt-expecting-zelda",
+          "published": "2026-11-19T05:45:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "gta-including-page-ps5-set-wallpapers",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "GTA 6 Takes Over PS5's Welcome Page, Including a New Set of Wallpapers",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 2.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "wallpapers welcome page set including",
+      "related": [],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "GTA 6 Takes Over PS5's Welcome Page, Including a New Set of Wallpapers",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-takes-over-ps5s-welcome-page-including-a-new-set-of-wallpapers",
+          "published": "2026-11-19T12:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "dlss-enough-fed-fps-gta-injects",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "If you're fed up of GTA 6 at 30 fps, this tool gets it up to 60 and injects DLSS 5 if you have a powerful enough gaming PC",
+      "topics": [
+        "pc_gaming",
+        "aaa"
+      ],
+      "age_hours": 1.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "tool dlss injects fed powerful",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "If you're fed up of GTA 6 at 30 fps, this tool gets it up to 60 and injects DLSS 5 if you have a powerful enough gaming PC",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/if-youre-fed-up-of-gta-6-at-30-fps-this-tool-gets-it-up-to-60-and-injects-dlss-5-if-you-have-a-powerful-enough-gaming-pc/",
+          "published": "2026-11-19T12:59:29+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "accessibility-buried-easy-gta-impressive-mode",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "GTA 6 Has an Easy Mode Buried in an Impressive Range of Accessibility Options",
+      "topics": [
+        "aaa",
+        "easter_egg"
+      ],
+      "age_hours": 0.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "easy accessibility buried options impressive",
+      "related": [
+        {
+          "headline": "Trails In The Sky Switch 2 Updates Add 30fps Lock Option In Graphics Mode",
+          "shared_terms": [
+            "mode"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "GTA 6 Has an Easy Mode Buried in an Impressive Range of Accessibility Options",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-accessibility-options",
+          "published": "2026-11-19T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "ahead-finally-gta-hardware-major-sales",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Xbox Hardware Sales Finally Saw A Major Surge Ahead Of GTA In The U.S.",
+      "topics": [
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 0.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "saw surge ahead hardware sales",
+      "related": [
+        {
+          "headline": "GTA 6 looks gorgeous, and seeing it run at a stable 30 fps on ageing PS5 Pro hardware makes me hopeful for PC performance",
+          "shared_terms": [
+            "hardware"
+          ]
+        },
+        {
+          "headline": "GTA 6 Estimated to Have Reached 20 Million Preorders Ahead of Launch",
+          "shared_terms": [
+            "ahead"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Xbox Hardware Sales Finally Saw A Major Surge Ahead Of GTA In The U.S.",
+          "url": "https://kotaku.com/xbox-hardware-finally-saw-major-surge-gta-us-2000758382",
+          "published": "2026-11-19T14:04:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cedere-corteggiamento-definitiva-gta-hiding-jason",
+      "score": 32.3,
+      "already_proposed": false,
+      "headline": "[SPOILER] Mandy in GTA 6: Jason può cedere al suo corteggiamento? La risposta definitiva",
+      "topics": [
+        "aaa",
+        "easter_egg"
+      ],
+      "age_hours": 4.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot"
+      ],
+      "coverage_it": [
+        "Everyeye"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "gta definitiva risposta mandy cedere",
+      "related": [
+        {
+          "headline": "I have double-checked and yes, original 'GTA killer' Driv3r really was that rubbish",
+          "shared_terms": [
+            "killer"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Everyeye",
+          "title": "[SPOILER] Mandy in GTA 6: Jason può cedere al suo corteggiamento? La risposta definitiva",
+          "url": "https://www.everyeye.it/notizie/mandy-gta-6-jason-pu-cedere-corteggiamento-risposta-definitiva-912482.html",
+          "published": "2026-11-19T09:43:00+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "GTA 6’s Mandy Could Be Hiding A Killer Secret",
+          "url": "https://www.gamespot.com/articles/gta-6s-mandy-could-be-hiding-a-killer-secret/",
+          "published": "2026-11-19T13:41:53+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "GTA 6 ha la modalità in prima persona? La risposta definitiva",
+          "url": "https://www.everyeye.it/notizie/gta-6-modalita-persona-risposta-definitiva-912548.html",
+          "published": "2026-11-19T13:46:00+00:00"
+        }
+      ]
+    }
+  ]
+}
