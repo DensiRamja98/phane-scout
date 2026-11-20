@@ -1,24 +1,422 @@
 {
-  "generated_at": "2026-11-19T14:17:51.633790+00:00",
+  "generated_at": "2026-11-20T13:56:19.063794+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "animal-auto-criminality-fatalities-genres-grand",
-      "score": 72.6,
+      "story_id": "40th-anniversary-console-legend-missed-sold",
+      "score": 40.6,
       "already_proposed": false,
-      "headline": "After Grand Theft Auto 6's launch, players are in love with wacky criminality, in-game social media, and animal fatalities",
+      "headline": "Sold-out Legend of Zelda 40th Anniversary Switch 2 Is Coming Back Very Soon",
       "topics": [
-        "aaa"
+        "nintendo"
       ],
-      "age_hours": 4.7,
+      "age_hours": 3.1,
       "signals": {
         "coverage": 0.33,
         "velocity": 1.0,
         "it_gap": 0.33,
-        "yt_demand": 0.92,
-        "yt_room": 1.0,
+        "yt_demand": 0.16,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life",
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 2661,
+        "top_views": 23720,
+        "top_title": "INSANE Zelda News & Nintendo Switch 2 Just Jumped PS5!"
+      },
+      "youtube_query": "zelda switch anniversary 40th legend",
+      "related": [
+        {
+          "headline": "Pokémon TCG: 30th Celebration Knock Out Collection Is Back in Stock at Amazon, With a Price Drop",
+          "shared_terms": [
+            "stock"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Sold-out Legend of Zelda 40th Anniversary Switch 2 Is Coming Back Very Soon",
+          "url": "https://www.polygon.com/zelda-40-anniversary-switch-2-coming-back-january-stock-nintendo/",
+          "published": "2026-11-20T10:51:53+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Zelda Switch 2 Console Is Back In Stock Soon If You Missed Out (US)",
+          "url": "https://www.nintendolife.com/news/2026/11/zelda-switch-2-console-is-back-in-stock-soon-if-you-missed-out-us",
+          "published": "2026-11-20T13:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "200-allegedly-attacco-build-chaos-claim",
+      "score": 39.8,
+      "already_proposed": false,
+      "headline": "Cyberleek claims to release development build of GTA 6",
+      "topics": [
+        "xbox",
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 17.5,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.2,
+        "it_gap": 0.56,
+        "yt_demand": 0.15,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.7,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN",
+        "Kotaku",
+        "PC Gamer",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Everyeye"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 2233,
+        "top_views": 36593,
+        "top_title": "URGENTE! GTA 6 TEVE BUILD VAZADA POR CYBERLEEK! (ELE VOLTOU!)"
+      },
+      "youtube_query": "cyberleek build gta xbox claims",
+      "related": [
+        {
+          "headline": "It really seems like Xbox isn't allowed to say GTA 6 at all",
+          "shared_terms": [
+            "reportedly"
+          ]
+        },
+        {
+          "headline": "Five Xbox Games Are Releasing Today, Including The Big One You Probably Know About (November 19)",
+          "shared_terms": [
+            "days"
+          ]
+        },
+        {
+          "headline": "The first images of the Lenovo Legion Go Beam have seemingly leaked, and it's got a love-it-or-hate-it colour palette",
+          "shared_terms": [
+            "leaked"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Cyberleek claims to release development build of GTA 6",
+          "url": "https://www.videogameschronicle.com/news/cyberleek-claims-to-release-development-build-of-gta-6/",
+          "published": "2026-11-19T20:27:49+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Cyberleek Is Threatening To Unleash Chaos Again After Allegedly Tossing An Xbox Build Of GTA 6 Onto The Internet",
+          "url": "https://kotaku.com/cyberleek-is-threatening-to-unleash-chaos-again-after-tossing-an-alleged-xbox-build-of-gta-6-onto-the-internet-2000758544",
+          "published": "2026-11-19T21:05:13+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Infamous GTA 6 leaker CyberLeek is back, and this time the group claims to have leaked a full development build of the game",
+          "url": "https://www.eurogamer.net/cyberleek-gta-6-dev-build",
+          "published": "2026-11-19T21:08:50+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Cyberleek drops what they claim is a near-complete GTA 6 Xbox build online",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/cyberleek-drops-what-they-claim-is-a-near-complete-gta-6-xbox-build-online/",
+          "published": "2026-11-19T23:17:00+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "GTA 6, CyberLeek torna all'attacco: distribuirà una build di sviluppo da oltre 200 GB?",
+          "url": "https://www.everyeye.it/notizie/gta-6-cyberleek-torna-attacco-distribuir-build-sviluppo-200-gb-912660.html",
+          "published": "2026-11-20T07:29:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Cyberleek Returns for GTA 6 Launch to Reportedly Release a Near-Complete Xbox Build, Threatens to Release the Game's Executable in Days",
+          "url": "https://www.ign.com/articles/cyberleek-returns-for-gta-6-launch-to-reportedly-release-a-near-complete-xbox-build-threatens-to-release-the-games-executable-in-days",
+          "published": "2026-11-20T10:11:04+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "166-across-anyway-assassin-biggest-black",
+      "score": 39.6,
+      "already_proposed": false,
+      "headline": "Ubisoft lays off 166 staff in Montreal and Quebec studios",
+      "topics": [
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 22.7,
+      "signals": {
+        "coverage": 1.0,
+        "velocity": 0.0,
+        "it_gap": 1.0,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.41,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Game Developer",
+        "GamesIndustry",
+        "Nintendo Life",
+        "PC Gamer",
+        "Push Square",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 7,
+        "median_views": 12,
+        "top_views": 116,
+        "top_title": "Ubisoft Cuts 166 Jobs at Assassin's Creed Studios"
+      },
+      "youtube_query": "ubisoft 166 studios lays quebec",
+      "related": [
+        {
+          "headline": "Bethesda confirms A Wasteland Full of Cats is 'a Fallout-inspired adventure' being made in partnership with a not-for-profit animal rescue",
+          "shared_terms": [
+            "confirms"
+          ]
+        },
+        {
+          "headline": "Every Future Driving Game Needs to Steal This GTA 6 Feature",
+          "shared_terms": [
+            "needs"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Ubisoft lays off 166 staff in Montreal and Quebec studios",
+          "url": "https://www.gamesindustry.biz/ubisoft-lays-off-166-staff-in-montreal-and-quebec-studios",
+          "published": "2026-11-19T15:15:00+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Ubisoft lay off 166 more staff, this time at their Montreal and Quebec City studios, while mumbling about \"current production priorities and business needs\"",
+          "url": "https://www.rockpapershotgun.com/ubisoft-lay-off-166-more-staff-this-time-at-their-montreal-and-quebec-city-studios-while-mumbling-about-current-production-priorities-and-business-needs",
+          "published": "2026-11-19T16:12:50+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Ubisoft Confirms 166 Layoffs at Key Assassin's Creed Studios",
+          "url": "https://www.pushsquare.com/news/2026/11/ubisoft-confirms-166-layoffs-at-key-assassins-creed-studios",
+          "published": "2026-11-19T16:30:00+00:00"
+        },
+        {
+          "source": "Game Developer",
+          "title": "Ubisoft lays off 166 in Canada across Montréal and Quebec City",
+          "url": "https://www.gamedeveloper.com/business/ubiosft-lays-off-166-in-canada",
+          "published": "2026-11-19T17:53:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Ubisoft says Assassin's Creed Black Flag Resynced 'outperformed expectations,' lays off 166 more people anyway",
+          "url": "https://www.pcgamer.com/gaming-industry/ubisoft-says-assassins-creed-black-flag-resynced-outperformed-expectations-lays-off-166-more-people-anyway/",
+          "published": "2026-11-19T17:53:15+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Ubisoft Is Laying Off Staff From Two Of Its Biggest Studios",
+          "url": "https://www.nintendolife.com/news/2026/11/ubisoft-is-laying-off-staff-from-two-of-its-biggest-studios",
+          "published": "2026-11-19T18:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "amid-cover-driven-focused-gameplay-innovation",
+      "score": 38.7,
+      "already_proposed": false,
+      "headline": "Ubisoft launches Motherbrain, a new subsidiary focused on AI-driven \"gameplay innovation\"",
+      "topics": [
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 3.6,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "gameplay innovation focused motherbrain ubisoft",
+      "related": [
+        {
+          "headline": "Rockstar firings tribunal hears closing statements, with judge promising to deliver a verdict \"as quickly as I possibly can\" - though it may take a while",
+          "shared_terms": [
+            "amid"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Ubisoft launches Motherbrain, a new subsidiary focused on AI-driven \"gameplay innovation\"",
+          "url": "https://www.gamesindustry.biz/ubisoft-launches-motherbrain-a-new-subsidiary-focused-on-ai-driven-gameplay-innovation",
+          "published": "2026-11-20T10:21:10+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Amid a year of layoffs, Ubisoft yank the cover off Motherbrain, their new studio \"focused on AI for gameplay innovation\"",
+          "url": "https://www.rockpapershotgun.com/amid-a-year-of-layoffs-ubisoft-yank-the-cover-off-motherbrain-their-new-studio-focused-on-ai-for-gameplay-innovation",
+          "published": "2026-11-20T12:09:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "dark-fix-gta-ps5-railing-too",
+      "score": 38.7,
+      "already_proposed": false,
+      "headline": "How to fix the railing in GTA 6",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 2.4,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "fix gta railing too dark",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "How to fix the railing in GTA 6",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-fix-railing-house-repairs/",
+          "published": "2026-11-20T11:34:11+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "GTA 6 Too Dark? Here's How to Fix It on PS5",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-too-dark-heres-how-to-fix-it-on-ps5",
+          "published": "2026-11-20T12:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "added-bellic-cousin-fortnite-gta-hang",
+      "score": 38.7,
+      "already_proposed": false,
+      "headline": "Is Niko Bellic in GTA 6?",
+      "topics": [
+        "aaa",
+        "easter_egg"
+      ],
+      "age_hours": 1.2,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "bellic gta niko cousin hang",
+      "related": [
+        {
+          "headline": "God’s Favorite Child Is Coming To Fortnite",
+          "shared_terms": [
+            "fortnite"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Is Niko Bellic in GTA 6?",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-niko-bellic/",
+          "published": "2026-11-20T12:44:35+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "'Cousin! We Should Hang Out!' GTA Secret Quests Referencing Roman Bellic Added to Fortnite",
+          "url": "https://www.ign.com/articles/fortnite-secret-gta-quests-roman-bellic",
+          "published": "2026-11-20T12:54:25+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "around-billion-conservative-copies-day-enormous",
+      "score": 38.6,
+      "already_proposed": false,
+      "headline": "GTA 6 sold around 25 million copies and made $2.36 billion in its first day, estimates suggest",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 4.2,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.08,
+        "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
@@ -29,518 +427,56 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 1,
-        "median_views": 84919,
-        "top_views": 84919,
-        "top_title": "GTA 6 - Euphoria Ragdoll Physics | Fails & Funny Moments #2"
+        "video_count": 10,
+        "median_views": 696,
+        "top_views": 1512,
+        "top_title": "GTA 6 May Have Already Made $1.45 BILLION 🤯"
       },
-      "youtube_query": "grand auto theft wacky fatalities",
+      "youtube_query": "estimates suggest billion day gta",
       "related": [
         {
-          "headline": "Yes, That’s Weird Al Hosting A Radio Station In GTA 6",
+          "headline": "Grand Theft Auto 6 launch day - all the news and rection as GTA 6 arrived around the world",
           "shared_terms": [
-            "radio"
+            "around"
+          ]
+        },
+        {
+          "headline": "This is technically the worst version of GTA 6 that we'll ever play",
+          "shared_terms": [
+            "making"
           ]
         }
       ],
       "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "After Grand Theft Auto 6's launch, players are in love with wacky criminality, in-game social media, and animal fatalities",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-players-love-crime-social-media-animals",
-          "published": "2026-11-19T09:38:50+00:00"
-        },
         {
           "source": "VGC",
-          "title": "GTA 6: All radio stations and genres in Grand Theft Auto 6",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-all-radio-stations-genres-grand-theft-auto/",
-          "published": "2026-11-19T09:44:51+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "2026-biggest-built-call-crack-debuts",
-      "score": 52.1,
-      "already_proposed": false,
-      "headline": "RayNeo Built Modern Warfare 4 Its Own AR Glasses - And Put Call Of Duty Inside The Lens",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 2.3,
-      "signals": {
-        "coverage": 0.5,
-        "velocity": 1.0,
-        "it_gap": 0.5,
-        "yt_demand": 0.41,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "GamesIndustry",
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 16826,
-        "top_views": 65082,
-        "top_title": "The Highest Damage SMG in Modern Warfare 4!"
-      },
-      "youtube_query": "modern call warfare duty top",
-      "related": [
-        {
-          "headline": "'PS5 Pro Is Not Powerful Enough to Run GTA 6 at 60fps': Rockstar Explains Frame Rate Decision",
-          "shared_terms": [
-            "crack"
-          ]
-        },
-        {
-          "headline": "How Am I Supposed To Wait Until The PC Version To Play GTA 6?",
-          "shared_terms": [
-            "inside"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "RayNeo Built Modern Warfare 4 Its Own AR Glasses - And Put Call Of Duty Inside The Lens",
-          "url": "https://www.polygon.com/rayneo-gt-max-call-of-duty-modern-warfare-4-limited-edition/",
-          "published": "2026-11-19T12:00:18+00:00"
-        },
-        {
-          "source": "GamesIndustry",
-          "title": "Call of Duty: Modern Warfare 4 debuts as top-selling game in US for October 2026",
-          "url": "https://www.gamesindustry.biz/call-of-duty-modern-warfare-4-debuts-as-top-selling-game-in-us-for-october-2026",
-          "published": "2026-11-19T14:00:00+00:00"
+          "title": "GTA 6 sold around 25 million copies and made $2.36 billion in its first day, estimates suggest",
+          "url": "https://www.videogameschronicle.com/news/gta-6-sold-around-25-million-copies-and-made-2-36-billion-in-its-first-day-estimates-suggest/",
+          "published": "2026-11-20T09:42:03+00:00"
         },
         {
           "source": "Eurogamer",
-          "title": "Call of Duty: Modern Warfare 4 was October's biggest game in the US, but it wasn't enough to crack 2026's best-selling top 10",
-          "url": "https://www.eurogamer.net/call-of-duty-modern-warfare-4-october-top-seller",
-          "published": "2026-11-19T14:01:40+00:00"
+          "title": "GTA 6 day-one sales are enormous, estimates suggest, making previous $2 billion opening weekend predictions seem conservative",
+          "url": "https://www.eurogamer.net/gta-6-sales-estimate-rockstar-grand-theft-auto",
+          "published": "2026-11-20T11:40:30+00:00"
         }
       ]
     },
     {
-      "story_id": "alleged-amid-busting-close-closing-deliver",
-      "score": 38.7,
+      "story_id": "complete-dynasty-edition-remastered-switch-update",
+      "score": 36.6,
       "already_proposed": false,
-      "headline": "Rockstar firings tribunal hears closing statements, with judge promising to deliver a verdict \"as quickly as I possibly can\" - though it may take a while",
-      "topics": [
-        "aaa",
-        "industria"
-      ],
-      "age_hours": 3.7,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "possibly deliver quickly judge verdict",
-      "related": [
-        {
-          "headline": "\"It’s hard not to worry\": Even as GTA 6 launches on console amid glowing reviews, Rockstar devs are already concerned about getting laid off",
-          "shared_terms": [
-            "amid"
-          ]
-        },
-        {
-          "headline": "Mindseye developer Build a Rocket Boy - founded by ex-GTA veteran - has a mountain of debt, and the main plan for paying it back is litigation",
-          "shared_terms": [
-            "alleged"
-          ]
-        },
-        {
-          "headline": "Most, though not quite all, of the 34 fired Rockstar employees are named in the GTA 6 credits",
-          "shared_terms": [
-            "though"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Rock Paper Shotgun",
-          "title": "Rockstar firings tribunal hears closing statements, with judge promising to deliver a verdict \"as quickly as I possibly can\" - though it may take a while",
-          "url": "https://www.rockpapershotgun.com/rockstar-firings-tribunal-hears-closing-statements-with-judge-promising-to-deliver-a-verdict-as-quickly-as-i-possibly-can-though-it-may-take-a-while",
-          "published": "2026-11-19T10:34:20+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "As Rockstar's alleged \"union busting\" tribunal hearing comes to a close amid GTA 6 launch, judge pledges to deliver verdict \"as quickly as I possibly can\"",
-          "url": "https://www.eurogamer.net/gta-6-rockstar-tribunal-awaits-verdict",
-          "published": "2026-11-19T14:08:10+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "bonus-careful-city-claiming-decisions-finally",
-      "score": 37.4,
-      "already_proposed": false,
-      "headline": "GTA 6: come riscattare il bonus pre-ordine Vintage Vice City Pack",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 14.4,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.22,
-        "yt_demand": 0.17,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.87,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GameSpot",
-        "Push Square"
-      ],
-      "coverage_it": [
-        "Everyeye"
-      ],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 3008,
-        "top_views": 49149,
-        "top_title": "GTA 6 Ultimate Edition: Is It Worth the Extra $20?"
-      },
-      "youtube_query": "gta bonus pre vice city",
-      "related": [
-        {
-          "headline": "Despite being £61.7 million in debt, bankrupt MindsEye devs Build a Rocket Boy are splurging on legal action against \"a coordinated campaign of negative online reviews\"",
-          "shared_terms": [
-            "claiming"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Everyeye",
-          "title": "GTA 6: come riscattare il bonus pre-ordine Vintage Vice City Pack",
-          "url": "https://www.everyeye.it/notizie/gta-6-come-riscattare-bonus-pre-ordine-vintage-vice-city-pack-912432.html",
-          "published": "2026-11-18T23:56:00+00:00"
-        },
-        {
-          "source": "Push Square",
-          "title": "New GTA 6 Players, Be Careful When Claiming Your GTA+ Pre-Order Bonus",
-          "url": "https://www.pushsquare.com/news/2026/11/new-gta-6-players-be-careful-when-claiming-your-gtaplus-pre-order-bonus",
-          "published": "2026-11-19T01:00:00+00:00"
-        },
-        {
-          "source": "GameSpot",
-          "title": "GTA 6 Is Finally Here, So Come Watch Us Make Terrible Decisions In Vice City",
-          "url": "https://www.gamespot.com/articles/gta-6-is-finally-here-so-come-watch-us-make-terrible-decisions-in-vice-city/",
-          "published": "2026-11-19T11:42:20+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "armor-body-cars-cop-gta-guns",
-      "score": 36.9,
-      "already_proposed": false,
-      "headline": "Looking for free guns and body armor in GTA 6? Try the trunks of cop cars",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 4.1,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.02,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "PC Gamer",
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 40,
-        "top_views": 1913,
-        "top_title": "The easiest way to get the DUKE 556 early in GTA 6 🔫 #gta6 #gta6gameplay #rockstargames"
-      },
-      "youtube_query": "cars gta armor body cop",
-      "related": [],
-      "articles": [
-        {
-          "source": "PC Gamer",
-          "title": "Looking for free guns and body armor in GTA 6? Try the trunks of cop cars",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-free-guns-cop-cars/",
-          "published": "2026-11-19T10:11:46+00:00"
-        },
-        {
-          "source": "Polygon",
-          "title": "How to keep stolen cars and weapons in GTA 6",
-          "url": "https://www.polygon.com/gta-6-keep-stolen-vehicles-weapons-register/",
-          "published": "2026-11-19T11:01:18+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "ceo-consumers-criticizes-digital-disc-discs",
-      "score": 36.5,
-      "already_proposed": false,
-      "headline": "GameStop CEO Criticizes Digital-Only Games As GTA 6 Releases Without A Disc",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 2.8,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "IGN",
-        "Kotaku"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "ceo gamestop digital gta criticizes",
-      "related": [
-        {
-          "headline": "Analyst: Console shipments drop 36.5% to 6.4m units during Q3 on run-up to major releases",
-          "shared_terms": [
-            "releases"
-          ]
-        },
-        {
-          "headline": "SteamDB will add \"affiliate links to authorised game retailers\" and a new tab dedicated to mods, first update since Nexus Mods takeover confirms",
-          "shared_terms": [
-            "retailers"
-          ]
-        },
-        {
-          "headline": "KFC Announces GTA 6 Promo Where You Get A Disc-Shaped Piece Of Chicken",
-          "shared_terms": [
-            "disc"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Kotaku",
-          "title": "GameStop CEO Criticizes Digital-Only Games As GTA 6 Releases Without A Disc",
-          "url": "https://kotaku.com/gamestop-ceo-criticizes-digital-only-games-gta-6-releases-without-a-disc-2000758233",
-          "published": "2026-11-19T11:30:22+00:00"
-        },
-        {
-          "source": "IGN",
-          "title": "As GTA 6 Skips Discs, GameStop CEO Says Digital-Only 'Has Hurt Consumers' and Retailers",
-          "url": "https://www.ign.com/articles/gamestop-ceo-blasts-digital-only-gta-6-no-disc",
-          "published": "2026-11-19T12:46:36+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "app-apps-because-didn-feel-gta",
-      "score": 34.1,
-      "already_proposed": false,
-      "headline": "All GTA 6 Smartphone Apps And What They Do",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 3.2,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.22,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "GameSpot"
-      ],
-      "coverage_it": [
-        "Multiplayer"
-      ],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "gta apps smartphone social didn",
-      "related": [
-        {
-          "headline": "Refueling cars in GTA 6 is barely necessary, but there's much better reason to visit garages",
-          "shared_terms": [
-            "necessary"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "GameSpot",
-          "title": "All GTA 6 Smartphone Apps And What They Do",
-          "url": "https://www.gamespot.com/articles/all-gta-6-smartphone-apps-and-what-they-do/",
-          "published": "2026-11-19T11:03:39+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "GTA 6 has replaced websites with social media and phone apps because \"it didn't feel necessary\"",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-no-web-social-media-apps",
-          "published": "2026-11-19T13:43:10+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "GTA 6 sostituisce i siti web con social e app per smartphone, perché non più necessari",
-          "url": "https://multiplayer.it/notizie/gta-6-sostituisce-i-siti-web-con-social-e-app-per-smartphone-perche-non-piu-necessari.html",
-          "published": "2026-11-19T14:12:55+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "accidentally-afterwards-gta-hours-immediately-loses",
-      "score": 33.8,
-      "already_proposed": false,
-      "headline": "Streamer Loses 11 Hours of GTA 6 Progress After Accidentally Turning Off Their PS5, Gets Swatted Immediately Afterwards",
-      "topics": [
-        "playstation",
-        "aaa"
-      ],
-      "age_hours": 3.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.01,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "IGN"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 18,
-        "top_views": 18,
-        "top_title": "JasonTheWeen loses 11 hours of GTA 6 progress and gets swatted"
-      },
-      "youtube_query": "streamer turning immediately afterwards swatted",
-      "related": [
-        {
-          "headline": "Befuddled Japanese player fights GTA 6 controls, loses, becomes 'guy chugging two shakes I accidentally bought while walking around in a squat'",
-          "shared_terms": [
-            "accidentally",
-            "loses"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "Streamer Loses 11 Hours of GTA 6 Progress After Accidentally Turning Off Their PS5, Gets Swatted Immediately Afterwards",
-          "url": "https://www.ign.com/articles/streamer-loses-11-hours-of-gta-6-progress-gets-swatted-immediately-afterwards",
-          "published": "2026-11-19T11:18:46+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "artwork-backgrounds-custom-dashboard-gta-microsoft",
-      "score": 33.6,
-      "already_proposed": false,
-      "headline": "Microsoft Polls Users After Plastering GTA 6 Artwork Over Xbox Custom Dashboard Backgrounds",
-      "topics": [
-        "xbox",
-        "aaa"
-      ],
-      "age_hours": 3.3,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "IGN"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 1,
-        "top_views": 1,
-        "top_title": "Microsoft polls Xbox users after replacing custom backgrounds with GTA 6"
-      },
-      "youtube_query": "microsoft polls artwork dashboard backgrounds",
-      "related": [
-        {
-          "headline": "'PS5 Pro Is Not Powerful Enough to Run GTA 6 at 60fps': Rockstar Explains Frame Rate Decision",
-          "shared_terms": [
-            "custom"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "Microsoft Polls Users After Plastering GTA 6 Artwork Over Xbox Custom Dashboard Backgrounds",
-          "url": "https://www.ign.com/articles/microsoft-polls-users-after-plastering-gta-6-artwork-over-xbox-custom-dashboard-backgrounds",
-          "published": "2026-11-19T11:00:09+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "bmxing-expecting-gta-launch-prepared-tanuki",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "\"BMXing Tanuki Game\" Was Prepared For GTA 6's Launch, But Wasn't Expecting Zelda",
+      "headline": "Dynasty Warriors 3: Complete Edition Remastered Gets A New Switch 2 Update",
       "topics": [
         "nintendo",
         "aaa"
       ],
-      "age_hours": 8.5,
+      "age_hours": 8.4,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "yt_demand": 0.12,
         "yt_room": 0.0,
         "topic": 0.67,
         "freshness": 1.0,
@@ -551,44 +487,57 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 10,
+        "median_views": 1486,
+        "top_views": 6794,
+        "top_title": "DW3R Zhenji VS Xiaoqiao (Chaos) #dynastywarriors #gaming"
       },
-      "youtube_query": "bmxing expecting tanuki prepared wasn",
-      "related": [],
+      "youtube_query": "remastered dynasty update warriors edition",
+      "related": [
+        {
+          "headline": "Remembering the back alley brawls of The Warriors, a Rockstar city game that isn't an open world",
+          "shared_terms": [
+            "warriors"
+          ]
+        },
+        {
+          "headline": "Toby Fox Shares Deltarune Chapter 6 And 7 Development Update",
+          "shared_terms": [
+            "update"
+          ]
+        }
+      ],
       "articles": [
         {
           "source": "Nintendo Life",
-          "title": "\"BMXing Tanuki Game\" Was Prepared For GTA 6's Launch, But Wasn't Expecting Zelda",
-          "url": "https://www.nintendolife.com/news/2026/11/bmxing-tanuki-game-was-prepared-for-gta-6s-launch-but-wasnt-expecting-zelda",
-          "published": "2026-11-19T05:45:00+00:00"
+          "title": "Dynasty Warriors 3: Complete Edition Remastered Gets A New Switch 2 Update",
+          "url": "https://www.nintendolife.com/news/2026/11/dynasty-warriors-3-complete-edition-remastered-gets-a-new-switch-2-update",
+          "published": "2026-11-20T05:30:00+00:00"
         }
       ]
     },
     {
-      "story_id": "gta-including-page-ps5-set-wallpapers",
-      "score": 33.5,
+      "story_id": "activate-auto-glitch-grand-gta-modders",
+      "score": 36.0,
       "already_proposed": false,
-      "headline": "GTA 6 Takes Over PS5's Welcome Page, Including a New Set of Wallpapers",
+      "headline": "GTA 6 is playable in first-person, here's how to activate it",
       "topics": [
-        "playstation",
         "aaa"
       ],
-      "age_hours": 2.3,
+      "age_hours": 12.9,
       "signals": {
-        "coverage": 0.17,
+        "coverage": 0.33,
         "velocity": 1.0,
-        "it_gap": 0.17,
+        "it_gap": 0.33,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
+        "topic": 0.33,
+        "freshness": 0.95,
         "weak_format": false
       },
       "coverage_en": [
-        "Push Square"
+        "PC Gamer",
+        "VGC"
       ],
       "coverage_it": [],
       "youtube": {
@@ -597,35 +546,54 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "wallpapers welcome page set including",
-      "related": [],
+      "youtube_query": "gta playable person activate reckon",
+      "related": [
+        {
+          "headline": "It really seems like Xbox isn't allowed to say GTA 6 at all",
+          "shared_terms": [
+            "glitch"
+          ]
+        }
+      ],
       "articles": [
         {
-          "source": "Push Square",
-          "title": "GTA 6 Takes Over PS5's Welcome Page, Including a New Set of Wallpapers",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-takes-over-ps5s-welcome-page-including-a-new-set-of-wallpapers",
-          "published": "2026-11-19T12:00:00+00:00"
+          "source": "PC Gamer",
+          "title": "GTA 6 is playable in first-person, here's how to activate it",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-is-playable-in-first-person-heres-how-to-activate-it/",
+          "published": "2026-11-20T01:00:12+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Modders reckon GTA 6 will be playable on PC within a week",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/modders-reckon-gta-6-will-be-playable-on-pc-within-a-week/",
+          "published": "2026-11-20T10:33:56+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "GTA 6: How to use the first-person mode glitch in Grand Theft Auto 6",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-first-person-mode-glitch-grand-theft-auto/",
+          "published": "2026-11-20T13:21:39+00:00"
         }
       ]
     },
     {
-      "story_id": "dlss-enough-fed-fps-gta-injects",
-      "score": 33.5,
+      "story_id": "armor-based-gta-horse-singleplayer-subscription",
+      "score": 35.7,
       "already_proposed": false,
-      "headline": "If you're fed up of GTA 6 at 30 fps, this tool gets it up to 60 and injects DLSS 5 if you have a powerful enough gaming PC",
+      "headline": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor",
       "topics": [
-        "pc_gaming",
-        "aaa"
+        "aaa",
+        "industria"
       ],
-      "age_hours": 1.3,
+      "age_hours": 12.9,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "yt_demand": 0.1,
         "yt_room": 0.0,
         "topic": 0.67,
-        "freshness": 1.0,
+        "freshness": 0.95,
         "weak_format": false
       },
       "coverage_en": [
@@ -633,32 +601,118 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 3,
+        "median_views": 1094,
+        "top_views": 1449,
+        "top_title": "GTA 6 Singleplayer Perks Locked Behind $7.99 Monthly GTA+ Sub"
       },
-      "youtube_query": "tool dlss injects fed powerful",
-      "related": [],
+      "youtube_query": "subscription singleplayer horse armor based",
+      "related": [
+        {
+          "headline": "Looking for free guns and body armor in GTA 6? Try the trunks of cop cars",
+          "shared_terms": [
+            "armor"
+          ]
+        },
+        {
+          "headline": "Your GTA 6 car is your Red Dead 2 horse, and it's perfect",
+          "shared_terms": [
+            "horse"
+          ]
+        }
+      ],
       "articles": [
         {
           "source": "PC Gamer",
-          "title": "If you're fed up of GTA 6 at 30 fps, this tool gets it up to 60 and injects DLSS 5 if you have a powerful enough gaming PC",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/if-youre-fed-up-of-gta-6-at-30-fps-this-tool-gets-it-up-to-60-and-injects-dlss-5-if-you-have-a-powerful-enough-gaming-pc/",
-          "published": "2026-11-19T12:59:29+00:00"
+          "title": "GTA+ for GTA 6 singleplayer is like subscription-based horse armor",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-for-gta-6-singleplayer-is-like-subscription-based-horse-armor/",
+          "published": "2026-11-20T01:01:43+00:00"
         }
       ]
     },
     {
-      "story_id": "accessibility-buried-easy-gta-impressive-mode",
+      "story_id": "bis-blizzard-bring-designer-encouraging-forever",
+      "score": 35.5,
+      "already_proposed": false,
+      "headline": "WoW: Forever Wants To Get Rid Of The Idea Of “BiS” Gear",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 17.4,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.67,
+        "it_gap": 0.5,
+        "yt_demand": 0.06,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.7,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot",
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 7,
+        "median_views": 352,
+        "top_views": 171619,
+        "top_title": "Blizzard Wants to Get Rid of BiS in WoW Forever. The Fix Is a BiS for Every Boss"
+      },
+      "youtube_query": "rid gear forever bis wow",
+      "related": [
+        {
+          "headline": "World of Warcraft: Forever has more weekly players than WoW has seen in 15 years, says Blizzard",
+          "shared_terms": [
+            "blizzard"
+          ]
+        },
+        {
+          "headline": "This Discounted Hylian Shield Backpack Has a Laptop Slot and Plenty of Room for Accessories",
+          "shared_terms": [
+            "slot"
+          ]
+        },
+        {
+          "headline": "Doom level designer Sandy Petersen on Gabe Newell: 'With Steam he is literally guarding the gates of Hell'",
+          "shared_terms": [
+            "designer"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "WoW: Forever Wants To Get Rid Of The Idea Of “BiS” Gear",
+          "url": "https://www.gamespot.com/articles/wow-forever-wants-to-get-rid-of-the-idea-of-bis-gear/",
+          "published": "2026-11-19T20:30:51+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Blizzard wants to \"get rid\" of best-in-slot items in World of Warcraft: Forever by introducing situationally strong gear",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-developers-best-in-slot-podcast",
+          "published": "2026-11-20T09:46:30+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "WoW: Forever item designer wants to 'get rid of BiS', encouraging players who want to sweatily optimise to bring unique sets of gear to raids",
+          "url": "https://www.pcgamer.com/games/world-of-warcraft/wow-forever-item-designer-wants-to-get-rid-of-bis-encouraging-players-who-want-to-sweatily-optimise-to-bring-unique-sets-of-gear-to-raids/",
+          "published": "2026-11-20T12:07:57+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "accomplishment-completed-darling-gta-indie-lousy",
       "score": 33.5,
       "already_proposed": false,
-      "headline": "GTA 6 Has an Easy Mode Buried in an Impressive Range of Accessibility Options",
+      "headline": "I completed GTA 6's indie game darling pastiche, Tenebrae Lux, and all I got was this lousy sense of accomplishment",
       "topics": [
         "aaa",
-        "easter_egg"
+        "indie"
       ],
-      "age_hours": 0.8,
+      "age_hours": 0.6,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -666,6 +720,53 @@
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "tenebrae pastiche sense completed lousy",
+      "related": [
+        {
+          "headline": "If you bounced off indie hit Queen's Domain, try using the cheat code book to give yourself a gun",
+          "shared_terms": [
+            "indie"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "I completed GTA 6's indie game darling pastiche, Tenebrae Lux, and all I got was this lousy sense of accomplishment",
+          "url": "https://www.eurogamer.net/tenebrae-lux-gta-6-now-playing",
+          "published": "2026-11-20T13:21:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "absolutely-october-plunged-ps5-sales-wolverine",
+      "score": 32.4,
+      "already_proposed": false,
+      "headline": "Wolverine PS5's Sales Absolutely Plunged in October",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 11.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.04,
+        "yt_room": 0.0,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -674,93 +775,101 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 1,
+        "median_views": 202,
+        "top_views": 202,
+        "top_title": "Marvel's Wolverine PS5 Sales Plunge Out of the Top Ten"
       },
-      "youtube_query": "easy accessibility buried options impressive",
-      "related": [
-        {
-          "headline": "Trails In The Sky Switch 2 Updates Add 30fps Lock Option In Graphics Mode",
-          "shared_terms": [
-            "mode"
-          ]
-        }
-      ],
+      "youtube_query": "plunged absolutely wolverine sales october",
+      "related": [],
       "articles": [
         {
           "source": "Push Square",
-          "title": "GTA 6 Has an Easy Mode Buried in an Impressive Range of Accessibility Options",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-has-an-easy-mode-buried-in-an-impressive-range-of-accessibility-options",
-          "published": "2026-11-19T13:30:00+00:00"
+          "title": "Wolverine PS5's Sales Absolutely Plunged in October",
+          "url": "https://www.pushsquare.com/news/2026/11/wolverine-ps5s-sales-absolutely-plunged-in-october",
+          "published": "2026-11-20T02:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "ahead-finally-gta-hardware-major-sales",
-      "score": 33.5,
+      "story_id": "aver-build-claims-community-complete-crimsim",
+      "score": 32.3,
       "already_proposed": false,
-      "headline": "Xbox Hardware Sales Finally Saw A Major Surge Ahead Of GTA In The U.S.",
+      "headline": "Il leaker di GTA 6 sostiene di aver pubblicato la build del gioco",
       "topics": [
         "xbox",
-        "aaa"
+        "aaa",
+        "storie"
       ],
-      "age_hours": 0.2,
+      "age_hours": 16.8,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.17,
+        "it_gap": 0.11,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
+        "topic": 1.0,
+        "freshness": 0.73,
         "weak_format": false
       },
       "coverage_en": [
-        "Kotaku"
+        "Rock Paper Shotgun"
       ],
-      "coverage_it": [],
+      "coverage_it": [
+        "Multiplayer"
+      ],
       "youtube": {
         "video_count": 0,
         "median_views": 0,
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "saw surge ahead hardware sales",
+      "youtube_query": "leaker build gta pubblicato sostiene",
       "related": [
         {
-          "headline": "GTA 6 looks gorgeous, and seeing it run at a stable 30 fps on ageing PS5 Pro hardware makes me hopeful for PC performance",
+          "headline": "Furry Community Divided by GTA 6 Parody",
           "shared_terms": [
-            "hardware"
+            "community"
           ]
         },
         {
-          "headline": "GTA 6 Estimated to Have Reached 20 Million Preorders Ahead of Launch",
+          "headline": "Cyberleek claims to release development build of GTA 6",
           "shared_terms": [
-            "ahead"
+            "onto"
+          ]
+        },
+        {
+          "headline": "Fact check: Does GTA 6 stop players from shooting inside gay nightclubs and crashing planes into buildings?",
+          "shared_terms": [
+            "inside"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Kotaku",
-          "title": "Xbox Hardware Sales Finally Saw A Major Surge Ahead Of GTA In The U.S.",
-          "url": "https://kotaku.com/xbox-hardware-finally-saw-major-surge-gta-us-2000758382",
-          "published": "2026-11-19T14:04:18+00:00"
+          "source": "Multiplayer",
+          "title": "Il leaker di GTA 6 sostiene di aver pubblicato la build del gioco",
+          "url": "https://multiplayer.it/notizie/leaker-di-gta-6-sostiene-di-aver-pubblicato-build-del-gioco.html",
+          "published": "2026-11-19T21:06:23+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "GTA 6 leaker claims to have lobbed a near-complete Xbox build of Rockstar's crimsim onto the net, shouts that the \"community will have it emulated inside a week\"",
+          "url": "https://www.rockpapershotgun.com/gta-6-leaker-claims-to-have-lobbed-a-near-complete-xbox-build-of-rockstars-crimsim-onto-the-net-shouts-that-the-community-will-have-it-emulated-inside-a-week",
+          "published": "2026-11-20T10:42:10+00:00"
         }
       ]
     },
     {
-      "story_id": "cedere-corteggiamento-definitiva-gta-hiding-jason",
+      "story_id": "360-amate-console-gta-hanno-lost",
       "score": 32.3,
       "already_proposed": false,
-      "headline": "[SPOILER] Mandy in GTA 6: Jason può cedere al suo corteggiamento? La risposta definitiva",
+      "headline": "Quali giochi hanno reso Xbox 360 una delle console più amate di sempre?",
       "topics": [
-        "aaa",
-        "easter_egg"
+        "xbox",
+        "aaa"
       ],
-      "age_hours": 4.6,
+      "age_hours": 4.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -783,33 +892,27 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "gta definitiva risposta mandy cedere",
+      "youtube_query": "console xbox 360 amate reso",
       "related": [
         {
-          "headline": "I have double-checked and yes, original 'GTA killer' Driv3r really was that rubbish",
+          "headline": "GTA 6's Jason and Lucia Actors Break Years of Silence With New Joint Statement",
           "shared_terms": [
-            "killer"
+            "hanno"
           ]
         }
       ],
       "articles": [
         {
           "source": "Everyeye",
-          "title": "[SPOILER] Mandy in GTA 6: Jason può cedere al suo corteggiamento? La risposta definitiva",
-          "url": "https://www.everyeye.it/notizie/mandy-gta-6-jason-pu-cedere-corteggiamento-risposta-definitiva-912482.html",
-          "published": "2026-11-19T09:43:00+00:00"
+          "title": "Quali giochi hanno reso Xbox 360 una delle console più amate di sempre?",
+          "url": "https://www.everyeye.it/notizie/giochi-reso-xbox-360-console-amate-sempre-911343.html",
+          "published": "2026-11-20T09:27:00+00:00"
         },
         {
           "source": "GameSpot",
-          "title": "GTA 6’s Mandy Could Be Hiding A Killer Secret",
-          "url": "https://www.gamespot.com/articles/gta-6s-mandy-could-be-hiding-a-killer-secret/",
-          "published": "2026-11-19T13:41:53+00:00"
-        },
-        {
-          "source": "Everyeye",
-          "title": "GTA 6 ha la modalità in prima persona? La risposta definitiva",
-          "url": "https://www.everyeye.it/notizie/gta-6-modalita-persona-risposta-definitiva-912548.html",
-          "published": "2026-11-19T13:46:00+00:00"
+          "title": "GTA 6’s Console Wars Are Already Over, And Xbox Lost",
+          "url": "https://www.gamespot.com/articles/gta-6-console-wars-are-already-over-and-xbox-lost/",
+          "published": "2026-11-20T12:35:47+00:00"
         }
       ]
     }
