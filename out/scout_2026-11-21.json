@@ -1,0 +1,744 @@
+{
+  "generated_at": "2026-11-21T13:21:56.500246+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "100-bonuses-edition-gta-guide-items",
+      "score": 44.5,
+      "already_proposed": false,
+      "headline": "Guide: GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 13.6,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.35,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.91,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 12132,
+        "top_views": 383107,
+        "top_title": "GTA 6: How To Unlock Ultimate Edition Content"
+      },
+      "youtube_query": "ultimate edition gta bonuses worth",
+      "related": [
+        {
+          "headline": "Sensor Tower estimates GTA 6 generated $2.36bn in pre-order and launch-day sales",
+          "shared_terms": [
+            "order"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "Guide: GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses",
+          "url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses",
+          "published": "2026-11-20T23:45:00+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "So Is The $100 GTA 6 Ultimate Edition Actually Worth It?",
+          "url": "https://kotaku.com/so-is-the-100-gta-6-ultimate-edition-actually-worth-it-2000758998",
+          "published": "2026-11-21T00:00:19+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "astonishing-biggest-billion-bombing-bonkers-breaking",
+      "score": 38.7,
+      "already_proposed": false,
+      "headline": "GTA 6 Sells a Record-Breaking 32.5 Million Copies",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 17.9,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.2,
+        "it_gap": 0.67,
+        "yt_demand": 0.18,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.67,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot",
+        "PC Gamer",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 3133,
+        "top_views": 56156,
+        "top_title": "GTA 6 : CHIFFRES DU DAY ONE AHURISSANTS 🤯 C'est HISTORIQUE et encore plus FOU qu'imaginé !!!"
+      },
+      "youtube_query": "gta record breaking copies million",
+      "related": [
+        {
+          "headline": "Akira Kurabayashi, company director at Arika and developer on Street Fighter EX, Tetris 99, Fighting EX Layer and more, has sadly passed away due to heart failure",
+          "shared_terms": [
+            "company"
+          ]
+        },
+        {
+          "headline": "Zelda Playable & Electric Ocarinas Will Initially Be Sold On An Invite-Only Basis (Europe)",
+          "shared_terms": [
+            "sold"
+          ]
+        },
+        {
+          "headline": "Satoru Gojo's English Voice Actor Didn't Realize These Wild Lines He Recorded Were for GTA 6",
+          "shared_terms": [
+            "selling"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "GTA 6 Sells a Record-Breaking 32.5 Million Copies",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-sells-a-record-breaking-32-5-million-copies",
+          "published": "2026-11-20T19:30:00+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "GTA 6’s Astonishing $4 Billion Day One Includes 32.5 Million Copies Sold",
+          "url": "https://www.gamespot.com/articles/gta-6-hit-32-5-million-copies-sold-and-almost-4-billion-on-day-one/",
+          "published": "2026-11-20T19:30:17+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day",
+          "url": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch",
+          "published": "2026-11-20T20:00:40+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
+          "published": "2026-11-20T20:41:34+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "'Overrated Game': GTA 6 PS5 Review Bombing Has Started After Record-Breaking Release",
+          "url": "https://www.pushsquare.com/news/2026/11/overrated-game-gta-6-ps5-review-bombing-has-started-after-record-breaking-release",
+          "published": "2026-11-21T03:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "few-gta-playlists-posters-scan-secret",
+      "score": 34.6,
+      "already_proposed": false,
+      "headline": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
+      "topics": [
+        "aaa",
+        "easter_egg"
+      ],
+      "age_hours": 12.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.06,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.97,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 312,
+        "top_views": 312,
+        "top_title": "GTA 6 SECRET PLAYLISTS & CAR SHORTCUTS UNLOCKED!"
+      },
+      "youtube_query": "posters playlists scan few unlock",
+      "related": [
+        {
+          "headline": "These Pokemon Anniversary Fender Guitars Have A Secret Weapon: Game Boy Sounds",
+          "shared_terms": [
+            "secret"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
+          "published": "2026-11-21T00:46:24+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "community-day-event-guide-pawniard-pok-mon",
+      "score": 34.4,
+      "already_proposed": false,
+      "headline": "Pokémon Go Pawniard Community Day event guide",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 11.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.13,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 8,
+        "median_views": 1586,
+        "top_views": 9562,
+        "top_title": "SHINY RARO vai estar SUPER FACIL por APENAS 3 HORAS no Pokemon GO - Dia Comunitario Pawniard"
+      },
+      "youtube_query": "event pawniard community pokémon guide",
+      "related": [
+        {
+          "headline": "GTA 6 leaker claims to have lobbed a near-complete Xbox build of Rockstar's crimsim onto the net, shouts that the \"community will have it emulated inside a week\"",
+          "shared_terms": [
+            "community"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Pokémon Go Pawniard Community Day event guide",
+          "url": "https://www.polygon.com/pokemon-go-pawniward-community-day-shiny-bisharp-moveset/",
+          "published": "2026-11-21T02:01:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "among-delayed-remastered-switch-wolf",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 9.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "wolf among delayed remastered switch",
+      "related": [
+        {
+          "headline": "AMD's next-gen Zen 6 desktop CPUs are rumoured to be delayed, may be pushed back to second half of 2027",
+          "shared_terms": [
+            "delayed"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "The Wolf Among Us Remastered Has Been Delayed For Switch",
+          "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
+          "published": "2026-11-21T03:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2026-according-highest-metacritic-ocarina-rated",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Zelda's Ocarina Remake Is One Of Metacritic's Highest-Rated Games In 2026, According To User Scores",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 7.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "highest scores user rated according",
+      "related": [
+        {
+          "headline": "Deltarune chapter 6 is 'structurally complete' while development has begun on chapter 7, according to Toby Fox",
+          "shared_terms": [
+            "according"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Zelda's Ocarina Remake Is One Of Metacritic's Highest-Rated Games In 2026, According To User Scores",
+          "url": "https://www.nintendolife.com/news/2026/11/zeldas-ocarina-remake-is-one-of-metacritics-highest-rated-games-in-2026-according-to-user-scores",
+          "published": "2026-11-21T05:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "amount-auto-concerns-creating-expedition-grand",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'",
+      "topics": [
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 1.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "value amount show lead creating",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value/",
+          "published": "2026-11-21T11:51:01+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "end-gta-history-met-nintendo-seems",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Nintendo’s Long History with GTA Seems to Have Met Its End",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 0.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "seems end met history nintendo",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Nintendo’s Long History with GTA Seems to Have Met Its End",
+          "url": "https://www.polygon.com/switchboard-nintendo-switch-2-gta-6-rockstar/",
+          "published": "2026-11-21T13:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "apparently-captivated-former-gta-include-mandy",
+      "score": 32.6,
+      "already_proposed": false,
+      "headline": "GTA 6 Players Captivated By Mandy Apparently Include A Former Nintendo President",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 13.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.9,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "president former apparently captivated include",
+      "related": [],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "GTA 6 Players Captivated By Mandy Apparently Include A Former Nintendo President",
+          "url": "https://www.gamespot.com/articles/gta-6-players-captivated-by-mandy-apparently-include-a-former-nintendo-president/",
+          "published": "2026-11-20T23:33:14+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "399-collection-launches-officially-part-pok-mon",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Pokémon's 24-Part $399 Collection Officially Launches Next Week",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 11.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "part 399 collection launches officially",
+      "related": [
+        {
+          "headline": "Ubisoft launches Motherbrain, a new subsidiary focused on AI-driven \"gameplay innovation\"",
+          "shared_terms": [
+            "launches"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Pokémon's 24-Part $399 Collection Officially Launches Next Week",
+          "url": "https://www.polygon.com/pokemon-movie-collection-amazon-blu-ray-november-2026/",
+          "published": "2026-11-21T02:15:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "anniversary-bros-duking-melee-smash-super",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Anniversary: Super Smash Bros. Melee Has Now Been Duking It Out For 25 Years",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 10.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "duking melee bros super smash",
+      "related": [
+        {
+          "headline": "GTA 6 Doesn't Officially Have First-Person, but You Can Force It to — Here's How to Do It",
+          "shared_terms": [
+            "super"
+          ]
+        },
+        {
+          "headline": "GTA 6 Breakfast Run walkthrough",
+          "shared_terms": [
+            "smash"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Anniversary: Super Smash Bros. Melee Has Now Been Duking It Out For 25 Years",
+          "url": "https://www.nintendolife.com/news/2026/11/anniversary-super-smash-bros-melee-has-now-been-duking-it-out-for-25-years",
+          "published": "2026-11-21T02:25:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "anxiety-beer-crime-gta-sent-spiral",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "How a $6 Beer in GTA 6 Sent Me Into a Spiral of Crime and Anxiety",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 7.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "spiral anxiety sent beer crime",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "How a $6 Beer in GTA 6 Sent Me Into a Spiral of Crime and Anxiety",
+          "url": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety",
+          "published": "2026-11-21T06:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "air-anniversary-celebrates-creator-future-kirby",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Sakurai Celebrates Kirby Air Riders' First Anniversary And Seemingly Ponders His Future As A Game Creator",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 4.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "riders seemingly ponders air kirby",
+      "related": [
+        {
+          "headline": "The creator of E.T. on the Atari 2600 likens the deluge of AI-made games to the glut of poor-quality titles released ahead of the US video game crash of 1983",
+          "shared_terms": [
+            "creator"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Sakurai Celebrates Kirby Air Riders' First Anniversary And Seemingly Ponders His Future As A Game Creator",
+          "url": "https://www.nintendolife.com/news/2026/11/sakurai-celebrates-kirby-air-riders-first-anniversary-and-seemingly-ponders-his-future-as-a-game-creator",
+          "published": "2026-11-21T08:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "episode-fantasy-goodbye-legendary-power-prime",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Goodbye 'Rings of Power,' Prime Video’s Legendary 48-Episode Fantasy Series Is Even Better",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 4.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "rings power legendary goodbye episode",
+      "related": [
+        {
+          "headline": "13 arrested in Shanghai as police crackdown on bootleg Final Fantasy 7 Tifa figurine operation",
+          "shared_terms": [
+            "fantasy"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Goodbye 'Rings of Power,' Prime Video’s Legendary 48-Episode Fantasy Series Is Even Better",
+          "url": "https://www.polygon.com/the-legend-of-vox-machina-prime-video-rec/",
+          "published": "2026-11-21T09:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "ask-auto-brilliant-dares-grand-maniac",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 3.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "dares maniac question ask brilliant",
+      "related": [
+        {
+          "headline": "Hack 42 Is An Excellent Mash-Up Of Two Of Steam’s Most Popular Genres",
+          "shared_terms": [
+            "mash"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
+          "published": "2026-11-21T10:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}
