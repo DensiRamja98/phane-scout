@@ -1,358 +1,168 @@
 {
-  "generated_at": "2026-11-21T13:21:56.500246+00:00",
+  "generated_at": "2026-11-22T13:14:21.764305+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "100-bonuses-edition-gta-guide-items",
-      "score": 44.5,
+      "story_id": "ban-day-friend-gta-nudist-photo",
+      "score": 35.2,
       "already_proposed": false,
-      "headline": "Guide: GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 13.6,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.35,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.91,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku",
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 12132,
-        "top_views": 383107,
-        "top_title": "GTA 6: How To Unlock Ultimate Edition Content"
-      },
-      "youtube_query": "ultimate edition gta bonuses worth",
-      "related": [
-        {
-          "headline": "Sensor Tower estimates GTA 6 generated $2.36bn in pre-order and launch-day sales",
-          "shared_terms": [
-            "order"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Push Square",
-          "title": "Guide: GTA 6: How to Get Ultimate Edition Items & Pre-Order Bonuses",
-          "url": "https://www.pushsquare.com/guides/gta-6-how-to-get-ultimate-edition-items-and-pre-order-bonuses",
-          "published": "2026-11-20T23:45:00+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "So Is The $100 GTA 6 Ultimate Edition Actually Worth It?",
-          "url": "https://kotaku.com/so-is-the-100-gta-6-ultimate-edition-actually-worth-it-2000758998",
-          "published": "2026-11-21T00:00:19+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "astonishing-biggest-billion-bombing-bonkers-breaking",
-      "score": 38.7,
-      "already_proposed": false,
-      "headline": "GTA 6 Sells a Record-Breaking 32.5 Million Copies",
+      "headline": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
       "topics": [
         "playstation",
         "aaa"
       ],
-      "age_hours": 17.9,
-      "signals": {
-        "coverage": 0.67,
-        "velocity": 0.2,
-        "it_gap": 0.67,
-        "yt_demand": 0.18,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.67,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "GameSpot",
-        "PC Gamer",
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 3133,
-        "top_views": 56156,
-        "top_title": "GTA 6 : CHIFFRES DU DAY ONE AHURISSANTS 🤯 C'est HISTORIQUE et encore plus FOU qu'imaginé !!!"
-      },
-      "youtube_query": "gta record breaking copies million",
-      "related": [
-        {
-          "headline": "Akira Kurabayashi, company director at Arika and developer on Street Fighter EX, Tetris 99, Fighting EX Layer and more, has sadly passed away due to heart failure",
-          "shared_terms": [
-            "company"
-          ]
-        },
-        {
-          "headline": "Zelda Playable & Electric Ocarinas Will Initially Be Sold On An Invite-Only Basis (Europe)",
-          "shared_terms": [
-            "sold"
-          ]
-        },
-        {
-          "headline": "Satoru Gojo's English Voice Actor Didn't Realize These Wild Lines He Recorded Were for GTA 6",
-          "shared_terms": [
-            "selling"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Push Square",
-          "title": "GTA 6 Sells a Record-Breaking 32.5 Million Copies",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-sells-a-record-breaking-32-5-million-copies",
-          "published": "2026-11-20T19:30:00+00:00"
-        },
-        {
-          "source": "GameSpot",
-          "title": "GTA 6’s Astonishing $4 Billion Day One Includes 32.5 Million Copies Sold",
-          "url": "https://www.gamespot.com/articles/gta-6-hit-32-5-million-copies-sold-and-almost-4-billion-on-day-one/",
-          "published": "2026-11-20T19:30:17+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "GTA 6 is officially the biggest entertainment launch of all time, selling 32.5 million pre-sale copies and a bonkers $3.79 billion in its first day",
-          "url": "https://www.eurogamer.net/gta-6-biggest-entertainment-launch",
-          "published": "2026-11-20T20:00:40+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "21% of Rockstar staff have been employed by the company for over 10 years, which explains a lot about GTA 6's record-breaking launch",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/21-percent-of-rockstar-staff-have-been-employed-by-the-company-for-over-10-years-which-explains-a-lot-about-gta-6s-record-breaking-launch/",
-          "published": "2026-11-20T20:41:34+00:00"
-        },
-        {
-          "source": "Push Square",
-          "title": "'Overrated Game': GTA 6 PS5 Review Bombing Has Started After Record-Breaking Release",
-          "url": "https://www.pushsquare.com/news/2026/11/overrated-game-gta-6-ps5-review-bombing-has-started-after-record-breaking-release",
-          "published": "2026-11-21T03:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "few-gta-playlists-posters-scan-secret",
-      "score": 34.6,
-      "already_proposed": false,
-      "headline": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
-      "topics": [
-        "aaa",
-        "easter_egg"
-      ],
-      "age_hours": 12.6,
+      "age_hours": 1.9,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.06,
+        "yt_demand": 0.07,
         "yt_room": 0.0,
         "topic": 0.67,
-        "freshness": 0.97,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "PC Gamer"
+        "Eurogamer"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 2,
-        "median_views": 312,
-        "top_views": 312,
-        "top_title": "GTA 6 SECRET PLAYLISTS & CAR SHORTCUTS UNLOCKED!"
+        "median_views": 440,
+        "top_views": 440,
+        "top_title": "GTA 6 Spieler auf PlayStation gesperrt – wegen dieses Fotos?"
       },
-      "youtube_query": "posters playlists scan few unlock",
+      "youtube_query": "nudist ban photo player sharing",
       "related": [
         {
-          "headline": "These Pokemon Anniversary Fender Guitars Have A Secret Weapon: Game Boy Sounds",
+          "headline": "\"We're Going Bananas For Our Newest Furry Friend\" - Donkey Kong Out Now On Build-A-Bear Workshop",
           "shared_terms": [
-            "secret"
+            "friend"
           ]
         }
       ],
       "articles": [
         {
-          "source": "PC Gamer",
-          "title": "GTA 6 has secret playlists, and all you have to do is scan a few posters to unlock them",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-unique-playlists/",
-          "published": "2026-11-21T00:46:24+00:00"
+          "source": "Eurogamer",
+          "title": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
+          "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+          "published": "2026-11-22T11:22:10+00:00"
         }
       ]
     },
     {
-      "story_id": "community-day-event-guide-pawniard-pok-mon",
-      "score": 34.4,
+      "story_id": "aside-fave-girl-goth-gta-mandy",
+      "score": 34.7,
       "already_proposed": false,
-      "headline": "Pokémon Go Pawniard Community Day event guide",
+      "headline": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave",
       "topics": [
-        "pokemon"
+        "playstation",
+        "aaa"
       ],
-      "age_hours": 11.3,
+      "age_hours": 12.2,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.13,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.99,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 274,
+        "top_views": 274,
+        "top_title": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave #Shorts"
+      },
+      "youtube_query": "aside move mandy fave girl",
+      "related": [],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave",
+          "url": "https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave",
+          "published": "2026-11-22T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "blowing-devs-dog-greatest-gta-including",
+      "score": 33.8,
+      "already_proposed": false,
+      "headline": "GTA 6 Is Blowing Away Gaming's Greatest Devs, Including Naughty Dog",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 11.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 12,
+        "top_views": 12,
+        "top_title": "GTA 6 Lighting Stuns Naughty Dog Dev"
+      },
+      "youtube_query": "naughty blowing including dog devs",
+      "related": [
+        {
+          "headline": "How Rockstar Made Every NPC Feel Alive in GTA 6",
+          "shared_terms": [
+            "devs"
+          ]
+        },
+        {
+          "headline": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
+          "shared_terms": [
+            "greatest"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "GTA 6 Is Blowing Away Gaming's Greatest Devs, Including Naughty Dog",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-blowing-away-gamings-greatest-devs-including-naughty-dog",
+          "published": "2026-11-22T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "astarion-baldur-fans-gate-infuriated-novel",
+      "score": 32.0,
+      "already_proposed": false,
+      "headline": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 10.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.03,
         "yt_room": 0.0,
         "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 8,
-        "median_views": 1586,
-        "top_views": 9562,
-        "top_title": "SHINY RARO vai estar SUPER FACIL por APENAS 3 HORAS no Pokemon GO - Dia Comunitario Pawniard"
-      },
-      "youtube_query": "event pawniard community pokémon guide",
-      "related": [
-        {
-          "headline": "GTA 6 leaker claims to have lobbed a near-complete Xbox build of Rockstar's crimsim onto the net, shouts that the \"community will have it emulated inside a week\"",
-          "shared_terms": [
-            "community"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "Pokémon Go Pawniard Community Day event guide",
-          "url": "https://www.polygon.com/pokemon-go-pawniward-community-day-shiny-bisharp-moveset/",
-          "published": "2026-11-21T02:01:17+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "among-delayed-remastered-switch-wolf",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "The Wolf Among Us Remastered Has Been Delayed For Switch",
-      "topics": [
-        "nintendo",
-        "aaa"
-      ],
-      "age_hours": 9.9,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "wolf among delayed remastered switch",
-      "related": [
-        {
-          "headline": "AMD's next-gen Zen 6 desktop CPUs are rumoured to be delayed, may be pushed back to second half of 2027",
-          "shared_terms": [
-            "delayed"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "The Wolf Among Us Remastered Has Been Delayed For Switch",
-          "url": "https://www.nintendolife.com/news/2026/11/the-wolf-among-us-remastered-has-been-delayed-for-switch",
-          "published": "2026-11-21T03:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "2026-according-highest-metacritic-ocarina-rated",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "Zelda's Ocarina Remake Is One Of Metacritic's Highest-Rated Games In 2026, According To User Scores",
-      "topics": [
-        "nintendo",
-        "aaa"
-      ],
-      "age_hours": 7.9,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "highest scores user rated according",
-      "related": [
-        {
-          "headline": "Deltarune chapter 6 is 'structurally complete' while development has begun on chapter 7, according to Toby Fox",
-          "shared_terms": [
-            "according"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Zelda's Ocarina Remake Is One Of Metacritic's Highest-Rated Games In 2026, According To User Scores",
-          "url": "https://www.nintendolife.com/news/2026/11/zeldas-ocarina-remake-is-one-of-metacritics-highest-rated-games-in-2026-according-to-user-scores",
-          "published": "2026-11-21T05:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "amount-auto-concerns-creating-expedition-grand",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'",
-      "topics": [
-        "aaa",
-        "industria"
-      ],
-      "age_hours": 1.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -361,165 +171,83 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 1,
+        "median_views": 104,
+        "top_views": 104,
+        "top_title": "Baldur’s Gate 3 Shadowheart Prequel Novel: Release Date and Story"
       },
-      "youtube_query": "value amount show lead creating",
-      "related": [],
+      "youtube_query": "turn novel prequel astarion baldur",
+      "related": [
+        {
+          "headline": "Jennifer Hale Hopes EA Sells Mass Effect Rights To The Fans: ‘Who Knows? This Could Happen’",
+          "shared_terms": [
+            "fans"
+          ]
+        }
+      ],
       "articles": [
         {
           "source": "PC Gamer",
-          "title": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/expedition-33-lead-writer-says-grand-theft-auto-6-layoff-concerns-show-that-people-creating-the-value-do-not-receive-a-proportionate-amount-of-that-value/",
-          "published": "2026-11-21T11:51:01+00:00"
+          "title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
+          "url": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
+          "published": "2026-11-22T03:03:45+00:00"
         }
       ]
     },
     {
-      "story_id": "end-gta-history-met-nintendo-seems",
-      "score": 33.5,
+      "story_id": "decor-double-mario-piranha-plant-slippers",
+      "score": 31.7,
       "already_proposed": false,
-      "headline": "Nintendo’s Long History with GTA Seems to Have Met Its End",
+      "headline": "These Piranha Plant Slippers Double as Mario-themed Decor When You Put Them Away",
       "topics": [
-        "nintendo",
-        "aaa"
+        "nintendo"
       ],
-      "age_hours": 0.4,
+      "age_hours": 8.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "seems end met history nintendo",
-      "related": [],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "Nintendo’s Long History with GTA Seems to Have Met Its End",
-          "url": "https://www.polygon.com/switchboard-nintendo-switch-2-gta-6-rockstar/",
-          "published": "2026-11-21T13:00:17+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "apparently-captivated-former-gta-include-mandy",
-      "score": 32.6,
-      "already_proposed": false,
-      "headline": "GTA 6 Players Captivated By Mandy Apparently Include A Former Nintendo President",
-      "topics": [
-        "nintendo",
-        "aaa"
-      ],
-      "age_hours": 13.8,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.9,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GameSpot"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "president former apparently captivated include",
-      "related": [],
-      "articles": [
-        {
-          "source": "GameSpot",
-          "title": "GTA 6 Players Captivated By Mandy Apparently Include A Former Nintendo President",
-          "url": "https://www.gamespot.com/articles/gta-6-players-captivated-by-mandy-apparently-include-a-former-nintendo-president/",
-          "published": "2026-11-20T23:33:14+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "399-collection-launches-officially-part-pok-mon",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Pokémon's 24-Part $399 Collection Officially Launches Next Week",
-      "topics": [
-        "pokemon"
-      ],
-      "age_hours": 11.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "yt_demand": 0.02,
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Polygon"
+        "IGN"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 2,
+        "median_views": 32,
+        "top_views": 32,
+        "top_title": "These Piranha Plant Slippers Double as Mario-themed Decor When You Put Them Away #Shorts"
       },
-      "youtube_query": "part 399 collection launches officially",
-      "related": [
-        {
-          "headline": "Ubisoft launches Motherbrain, a new subsidiary focused on AI-driven \"gameplay innovation\"",
-          "shared_terms": [
-            "launches"
-          ]
-        }
-      ],
+      "youtube_query": "plant slippers piranha themed double",
+      "related": [],
       "articles": [
         {
-          "source": "Polygon",
-          "title": "Pokémon's 24-Part $399 Collection Officially Launches Next Week",
-          "url": "https://www.polygon.com/pokemon-movie-collection-amazon-blu-ray-november-2026/",
-          "published": "2026-11-21T02:15:17+00:00"
+          "source": "IGN",
+          "title": "These Piranha Plant Slippers Double as Mario-themed Decor When You Put Them Away",
+          "url": "https://www.ign.com/articles/piranha-plant-slippers-amazon-black-friday-deal-2026",
+          "published": "2026-11-22T05:08:36+00:00"
         }
       ]
     },
     {
-      "story_id": "anniversary-bros-duking-melee-smash-super",
-      "score": 31.2,
+      "story_id": "add-harada-katsuhiro-pokken-pok-mon-reveals",
+      "score": 31.4,
       "already_proposed": false,
-      "headline": "Anniversary: Super Smash Bros. Melee Has Now Been Duking It Out For 25 Years",
+      "headline": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
       "topics": [
-        "nintendo"
+        "pokemon"
       ],
-      "age_hours": 10.9,
+      "age_hours": 6.2,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "yt_demand": 0.01,
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
@@ -530,44 +258,177 @@
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 2,
+        "median_views": 4,
+        "top_views": 4,
+        "top_title": "Harada Names the Pokemon Cut From Pokken #Shorts"
       },
-      "youtube_query": "duking melee bros super smash",
+      "youtube_query": "pokken reveals add katsuhiro wanted",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
+          "url": "https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
+          "published": "2026-11-22T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "active-circana-console-day-gta-half",
+      "score": 31.3,
+      "already_proposed": false,
+      "headline": "Over half of all console players active on GTA 6's launch day played it, says Circana",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 1.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1,
+        "top_views": 1,
+        "top_title": "Eurogamer Reports Over Half of Console Players Active on GTA 6's Launch Day Played It, per Circana"
+      },
+      "youtube_query": "circana half active day console",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
+          "url": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
+          "published": "2026-11-22T12:02:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "anyone-gta-impossible-killing-nearly-without",
+      "score": 31.3,
+      "already_proposed": false,
+      "headline": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 0.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1,
+        "top_views": 1,
+        "top_title": "Why Is Xi Jinping Almost Impossible to Kill? How China Protects Its President"
+      },
+      "youtube_query": "impossible killing anyone without nearly",
       "related": [
         {
-          "headline": "GTA 6 Doesn't Officially Have First-Person, but You Can Force It to — Here's How to Do It",
+          "headline": "PS5 Survives GTA 6's Unfathomably Humongous Launch without a Hitch",
           "shared_terms": [
-            "super"
+            "without"
           ]
         },
         {
-          "headline": "GTA 6 Breakfast Run walkthrough",
+          "headline": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
           "shared_terms": [
-            "smash"
+            "nearly"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Nintendo Life",
-          "title": "Anniversary: Super Smash Bros. Melee Has Now Been Duking It Out For 25 Years",
-          "url": "https://www.nintendolife.com/news/2026/11/anniversary-super-smash-bros-melee-has-now-been-duking-it-out-for-25-years",
-          "published": "2026-11-21T02:25:00+00:00"
+          "source": "Polygon",
+          "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+          "url": "https://www.polygon.com/gta-6-no-kill-playthrough-fail/",
+          "published": "2026-11-22T13:00:17+00:00"
         }
       ]
     },
     {
-      "story_id": "anxiety-beer-crime-gta-sent-spiral",
+      "story_id": "brown-charlie-enemy-greatest-icon-later",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "How a $6 Beer in GTA 6 Sent Me Into a Spiral of Crime and Anxiety",
+      "headline": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
       "topics": [
-        "aaa"
+        "easter_egg"
       ],
-      "age_hours": 7.4,
+      "age_hours": 10.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "undefeated brown enemy peanuts icon",
+      "related": [
+        {
+          "headline": "GTA 6 Is Blowing Away Gaming's Greatest Devs, Including Naughty Dog",
+          "shared_terms": [
+            "greatest"
+          ]
+        },
+        {
+          "headline": "29 years later, Homer’s Best ‘The Simpsons’ Quote is Still Pure Genius",
+          "shared_terms": [
+            "later"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
+          "url": "https://www.polygon.com/kite-eating-tree-peanuts/",
+          "published": "2026-11-22T03:00:28+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "archive-core-cosmere-rpg-rulebook-stormlight",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "The Cosmere RPG Core Rulebook for The Stormlight Archive Is 50% Off Today",
+      "topics": [
+        "storie"
+      ],
+      "age_hours": 5.8,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -588,73 +449,33 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "spiral anxiety sent beer crime",
-      "related": [],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "How a $6 Beer in GTA 6 Sent Me Into a Spiral of Crime and Anxiety",
-          "url": "https://www.ign.com/articles/how-a-6-beer-in-gta-6-sent-me-into-a-spiral-of-crime-and-anxiety",
-          "published": "2026-11-21T06:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "air-anniversary-celebrates-creator-future-kirby",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Sakurai Celebrates Kirby Air Riders' First Anniversary And Seemingly Ponders His Future As A Game Creator",
-      "topics": [
-        "nintendo"
-      ],
-      "age_hours": 4.9,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "riders seemingly ponders air kirby",
+      "youtube_query": "core archive rulebook stormlight cosmere",
       "related": [
         {
-          "headline": "The creator of E.T. on the Atari 2600 likens the deluge of AI-made games to the glut of poor-quality titles released ahead of the US video game crash of 1983",
+          "headline": "The Best Deals Today: Silent Hill Townfall, Ocarina of Time Remake, Control Resonant, and More",
           "shared_terms": [
-            "creator"
+            "today"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Nintendo Life",
-          "title": "Sakurai Celebrates Kirby Air Riders' First Anniversary And Seemingly Ponders His Future As A Game Creator",
-          "url": "https://www.nintendolife.com/news/2026/11/sakurai-celebrates-kirby-air-riders-first-anniversary-and-seemingly-ponders-his-future-as-a-game-creator",
-          "published": "2026-11-21T08:30:00+00:00"
+          "source": "IGN",
+          "title": "The Cosmere RPG Core Rulebook for The Stormlight Archive Is 50% Off Today",
+          "url": "https://www.ign.com/articles/the-cosmere-rpg-core-rulebook-for-the-stormlight-archive-is-50-off-for-black-friday-2026",
+          "published": "2026-11-22T07:23:48+00:00"
         }
       ]
     },
     {
-      "story_id": "episode-fantasy-goodbye-legendary-power-prime",
+      "story_id": "genius-homer-later-pure-quote-simpsons",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "Goodbye 'Rings of Power,' Prime Video’s Legendary 48-Episode Fantasy Series Is Even Better",
+      "headline": "29 years later, Homer’s Best ‘The Simpsons’ Quote is Still Pure Genius",
       "topics": [
-        "feel_good"
+        "easter_egg"
       ],
-      "age_hours": 4.4,
+      "age_hours": 4.2,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -675,31 +496,37 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "rings power legendary goodbye episode",
+      "youtube_query": "simpsons homer genius quote later",
       "related": [
         {
-          "headline": "13 arrested in Shanghai as police crackdown on bootleg Final Fantasy 7 Tifa figurine operation",
+          "headline": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
           "shared_terms": [
-            "fantasy"
+            "later"
+          ]
+        },
+        {
+          "headline": "'Calvin and Hobbes' Best Bully Quote Is Still Among the Wisest in Comic Strip History",
+          "shared_terms": [
+            "quote"
           ]
         }
       ],
       "articles": [
         {
           "source": "Polygon",
-          "title": "Goodbye 'Rings of Power,' Prime Video’s Legendary 48-Episode Fantasy Series Is Even Better",
-          "url": "https://www.polygon.com/the-legend-of-vox-machina-prime-video-rec/",
-          "published": "2026-11-21T09:00:17+00:00"
+          "title": "29 years later, Homer’s Best ‘The Simpsons’ Quote is Still Pure Genius",
+          "url": "https://www.polygon.com/the-simpsons-best-homer-quote/",
+          "published": "2026-11-22T09:00:17+00:00"
         }
       ]
     },
     {
-      "story_id": "ask-auto-brilliant-dares-grand-maniac",
+      "story_id": "bananza-black-copies-donkey-friday-knocks",
       "score": 31.2,
       "already_proposed": false,
-      "headline": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question",
+      "headline": "Nintendo Knocks $20 off Physical Switch 2 Copies of Donkey Kong Bananza for Black Friday",
       "topics": [
-        "aaa"
+        "nintendo"
       ],
       "age_hours": 3.4,
       "signals": {
@@ -713,7 +540,7 @@
         "weak_format": false
       },
       "coverage_en": [
-        "Eurogamer"
+        "IGN"
       ],
       "coverage_it": [],
       "youtube": {
@@ -722,21 +549,189 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "dares maniac question ask brilliant",
+      "youtube_query": "knocks physical copies bananza kong",
       "related": [
         {
-          "headline": "Hack 42 Is An Excellent Mash-Up Of Two Of Steam’s Most Popular Genres",
+          "headline": "\"We're Going Bananas For Our Newest Furry Friend\" - Donkey Kong Out Now On Build-A-Bear Workshop",
           "shared_terms": [
-            "mash"
+            "donkey",
+            "kong"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Eurogamer",
-          "title": "What if Vampire Survivors met Grand Theft Auto 2? Maniac is a brilliant mash-up that dares to ask that question",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-vampire-survivors-maniac-interview",
-          "published": "2026-11-21T10:00:00+00:00"
+          "source": "IGN",
+          "title": "Nintendo Knocks $20 off Physical Switch 2 Copies of Donkey Kong Bananza for Black Friday",
+          "url": "https://www.ign.com/articles/donkey-kong-bananza-black-friday-deal",
+          "published": "2026-11-22T09:51:05+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "aren-army-auto-character-grand-guys",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 2.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "research inspired guys mouths veterans",
+      "related": [
+        {
+          "headline": "GTA 6 Players Are Running Into NPCs Who Fight Back So Hard You Probably Should Just Leave Them Alone",
+          "shared_terms": [
+            "running"
+          ]
+        },
+        {
+          "headline": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
+          "shared_terms": [
+            "character"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
+          "published": "2026-11-22T10:54:09+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "binding-bombed-generated-gta-idea-isaac",
+      "score": 30.8,
+      "already_proposed": false,
+      "headline": "Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 12.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.95,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "idea obviously mode bombed update",
+      "related": [
+        {
+          "headline": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'",
+          "shared_terms": [
+            "show"
+          ]
+        },
+        {
+          "headline": "Phasmophobia's next update lets you ask ghosts to throw things and it's out next week",
+          "shared_terms": [
+            "update"
+          ]
+        },
+        {
+          "headline": "The Binding of Isaac Dev Removes Undisclosed AI-Generated Music From Repentance+ Following Creator Response, Review-Bombing",
+          "shared_terms": [
+            "generated",
+            "music"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’",
+          "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
+          "published": "2026-11-22T00:18:14+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bananas-bear-build-donkey-friend-furry",
+      "score": 30.6,
+      "already_proposed": false,
+      "headline": "\"We're Going Bananas For Our Newest Furry Friend\" - Donkey Kong Out Now On Build-A-Bear Workshop",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 13.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.93,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "bananas build newest bear workshop",
+      "related": [
+        {
+          "headline": "Nintendo Knocks $20 off Physical Switch 2 Copies of Donkey Kong Bananza for Black Friday",
+          "shared_terms": [
+            "donkey",
+            "kong"
+          ]
+        },
+        {
+          "headline": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
+          "shared_terms": [
+            "friend"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "\"We're Going Bananas For Our Newest Furry Friend\" - Donkey Kong Out Now On Build-A-Bear Workshop",
+          "url": "https://www.nintendolife.com/news/2026/11/were-going-bananas-for-our-newest-furry-friend-donkey-kong-out-now-on-build-a-bear-workshop",
+          "published": "2026-11-22T00:00:00+00:00"
         }
       ]
     }

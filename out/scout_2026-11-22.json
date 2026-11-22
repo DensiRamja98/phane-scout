@@ -1,0 +1,739 @@
+{
+  "generated_at": "2026-11-22T13:14:21.764305+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "ban-day-friend-gta-nudist-photo",
+      "score": 35.2,
+      "already_proposed": false,
+      "headline": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 1.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.07,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 440,
+        "top_views": 440,
+        "top_title": "GTA 6 Spieler auf PlayStation gesperrt – wegen dieses Fotos?"
+      },
+      "youtube_query": "nudist ban photo player sharing",
+      "related": [
+        {
+          "headline": "\"We're Going Bananas For Our Newest Furry Friend\" - Donkey Kong Out Now On Build-A-Bear Workshop",
+          "shared_terms": [
+            "friend"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
+          "url": "https://www.eurogamer.net/gta-6-psn-ban-nude-photos-nudist-resort",
+          "published": "2026-11-22T11:22:10+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "aside-fave-girl-goth-gta-mandy",
+      "score": 34.7,
+      "already_proposed": false,
+      "headline": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 12.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.99,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 274,
+        "top_views": 274,
+        "top_title": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave #Shorts"
+      },
+      "youtube_query": "aside move mandy fave girl",
+      "related": [],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "'Move Aside, Mandy': GTA 6's Goth Girl Vicki Is PS5 Players' New Fave",
+          "url": "https://www.pushsquare.com/news/2026/11/move-aside-mandy-gta-6s-goth-girl-vicki-is-ps5-players-new-fave",
+          "published": "2026-11-22T01:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "blowing-devs-dog-greatest-gta-including",
+      "score": 33.8,
+      "already_proposed": false,
+      "headline": "GTA 6 Is Blowing Away Gaming's Greatest Devs, Including Naughty Dog",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 11.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 12,
+        "top_views": 12,
+        "top_title": "GTA 6 Lighting Stuns Naughty Dog Dev"
+      },
+      "youtube_query": "naughty blowing including dog devs",
+      "related": [
+        {
+          "headline": "How Rockstar Made Every NPC Feel Alive in GTA 6",
+          "shared_terms": [
+            "devs"
+          ]
+        },
+        {
+          "headline": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
+          "shared_terms": [
+            "greatest"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Push Square",
+          "title": "GTA 6 Is Blowing Away Gaming's Greatest Devs, Including Naughty Dog",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-blowing-away-gamings-greatest-devs-including-naughty-dog",
+          "published": "2026-11-22T02:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "astarion-baldur-fans-gate-infuriated-novel",
+      "score": 32.0,
+      "already_proposed": false,
+      "headline": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 10.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 104,
+        "top_views": 104,
+        "top_title": "Baldur’s Gate 3 Shadowheart Prequel Novel: Release Date and Story"
+      },
+      "youtube_query": "turn novel prequel astarion baldur",
+      "related": [
+        {
+          "headline": "Jennifer Hale Hopes EA Sells Mass Effect Rights To The Fans: ‘Who Knows? This Could Happen’",
+          "shared_terms": [
+            "fans"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Astarion's Baldur's Gate 3 prequel novel infuriated fans, now it's Shadowheart's turn",
+          "url": "https://www.pcgamer.com/games/baldurs-gate/astarions-baldurs-gate-3-prequel-novel-infuriated-fans-now-its-shadowhearts-turn/",
+          "published": "2026-11-22T03:03:45+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "decor-double-mario-piranha-plant-slippers",
+      "score": 31.7,
+      "already_proposed": false,
+      "headline": "These Piranha Plant Slippers Double as Mario-themed Decor When You Put Them Away",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 8.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 32,
+        "top_views": 32,
+        "top_title": "These Piranha Plant Slippers Double as Mario-themed Decor When You Put Them Away #Shorts"
+      },
+      "youtube_query": "plant slippers piranha themed double",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "These Piranha Plant Slippers Double as Mario-themed Decor When You Put Them Away",
+          "url": "https://www.ign.com/articles/piranha-plant-slippers-amazon-black-friday-deal-2026",
+          "published": "2026-11-22T05:08:36+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "add-harada-katsuhiro-pokken-pok-mon-reveals",
+      "score": 31.4,
+      "already_proposed": false,
+      "headline": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 6.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 4,
+        "top_views": 4,
+        "top_title": "Harada Names the Pokemon Cut From Pokken #Shorts"
+      },
+      "youtube_query": "pokken reveals add katsuhiro wanted",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Katsuhiro Harada Reveals The Pokémon He Wanted To Add To Pokken Tournament",
+          "url": "https://www.nintendolife.com/news/2026/11/katsuhiro-harada-reveals-the-pokemon-he-wanted-to-add-to-pokken-tournament",
+          "published": "2026-11-22T07:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "active-circana-console-day-gta-half",
+      "score": 31.3,
+      "already_proposed": false,
+      "headline": "Over half of all console players active on GTA 6's launch day played it, says Circana",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 1.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1,
+        "top_views": 1,
+        "top_title": "Eurogamer Reports Over Half of Console Players Active on GTA 6's Launch Day Played It, per Circana"
+      },
+      "youtube_query": "circana half active day console",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Over half of all console players active on GTA 6's launch day played it, says Circana",
+          "url": "https://www.eurogamer.net/gta-6-launch-day-engagement-circana",
+          "published": "2026-11-22T12:02:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "anyone-gta-impossible-killing-nearly-without",
+      "score": 31.3,
+      "already_proposed": false,
+      "headline": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 0.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 1,
+        "top_views": 1,
+        "top_title": "Why Is Xi Jinping Almost Impossible to Kill? How China Protects Its President"
+      },
+      "youtube_query": "impossible killing anyone without nearly",
+      "related": [
+        {
+          "headline": "PS5 Survives GTA 6's Unfathomably Humongous Launch without a Hitch",
+          "shared_terms": [
+            "without"
+          ]
+        },
+        {
+          "headline": "Comcast: 'At peak, GTA 6 accounted for nearly a quarter of all internet traffic'",
+          "shared_terms": [
+            "nearly"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "GTA 6 Makes It Nearly Impossible to Play Without Killing Anyone",
+          "url": "https://www.polygon.com/gta-6-no-kill-playthrough-fail/",
+          "published": "2026-11-22T13:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "brown-charlie-enemy-greatest-icon-later",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 10.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "undefeated brown enemy peanuts icon",
+      "related": [
+        {
+          "headline": "GTA 6 Is Blowing Away Gaming's Greatest Devs, Including Naughty Dog",
+          "shared_terms": [
+            "greatest"
+          ]
+        },
+        {
+          "headline": "29 years later, Homer’s Best ‘The Simpsons’ Quote is Still Pure Genius",
+          "shared_terms": [
+            "later"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
+          "url": "https://www.polygon.com/kite-eating-tree-peanuts/",
+          "published": "2026-11-22T03:00:28+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "archive-core-cosmere-rpg-rulebook-stormlight",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "The Cosmere RPG Core Rulebook for The Stormlight Archive Is 50% Off Today",
+      "topics": [
+        "storie"
+      ],
+      "age_hours": 5.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "core archive rulebook stormlight cosmere",
+      "related": [
+        {
+          "headline": "The Best Deals Today: Silent Hill Townfall, Ocarina of Time Remake, Control Resonant, and More",
+          "shared_terms": [
+            "today"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "The Cosmere RPG Core Rulebook for The Stormlight Archive Is 50% Off Today",
+          "url": "https://www.ign.com/articles/the-cosmere-rpg-core-rulebook-for-the-stormlight-archive-is-50-off-for-black-friday-2026",
+          "published": "2026-11-22T07:23:48+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "genius-homer-later-pure-quote-simpsons",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "29 years later, Homer’s Best ‘The Simpsons’ Quote is Still Pure Genius",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 4.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "simpsons homer genius quote later",
+      "related": [
+        {
+          "headline": "61 Years Later, Charlie Brown's Greatest Enemy Is Still an Undefeated 'Peanuts' Icon",
+          "shared_terms": [
+            "later"
+          ]
+        },
+        {
+          "headline": "'Calvin and Hobbes' Best Bully Quote Is Still Among the Wisest in Comic Strip History",
+          "shared_terms": [
+            "quote"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "29 years later, Homer’s Best ‘The Simpsons’ Quote is Still Pure Genius",
+          "url": "https://www.polygon.com/the-simpsons-best-homer-quote/",
+          "published": "2026-11-22T09:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bananza-black-copies-donkey-friday-knocks",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Nintendo Knocks $20 off Physical Switch 2 Copies of Donkey Kong Bananza for Black Friday",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 3.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "knocks physical copies bananza kong",
+      "related": [
+        {
+          "headline": "\"We're Going Bananas For Our Newest Furry Friend\" - Donkey Kong Out Now On Build-A-Bear Workshop",
+          "shared_terms": [
+            "donkey",
+            "kong"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Nintendo Knocks $20 off Physical Switch 2 Copies of Donkey Kong Bananza for Black Friday",
+          "url": "https://www.ign.com/articles/donkey-kong-bananza-black-friday-deal",
+          "published": "2026-11-22T09:51:05+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "aren-army-auto-character-grand-guys",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 2.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "research inspired guys mouths veterans",
+      "related": [
+        {
+          "headline": "GTA 6 Players Are Running Into NPCs Who Fight Back So Hard You Probably Should Just Leave Them Alone",
+          "shared_terms": [
+            "running"
+          ]
+        },
+        {
+          "headline": "GTA 6 features the series' first non-binary character, says actor Jesse James Rose, and players can't hurt them",
+          "shared_terms": [
+            "character"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Jason's stoic character in Grand Theft Auto 6 was inspired by Steve McQueen and research into Army veterans: 'These guys typically aren't running their mouths'",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/jasons-stoic-character-in-grand-theft-auto-6-was-inspired-by-steve-mcqueen-and-research-into-army-veterans-these-guys-typically-arent-running-their-mouths/",
+          "published": "2026-11-22T10:54:09+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "binding-bombed-generated-gta-idea-isaac",
+      "score": 30.8,
+      "already_proposed": false,
+      "headline": "Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 12.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.95,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "idea obviously mode bombed update",
+      "related": [
+        {
+          "headline": "Expedition 33 lead writer says Grand Theft Auto 6 layoff concerns show that 'people creating the value do not receive a proportionate amount of that value'",
+          "shared_terms": [
+            "show"
+          ]
+        },
+        {
+          "headline": "Phasmophobia's next update lets you ask ghosts to throw things and it's out next week",
+          "shared_terms": [
+            "update"
+          ]
+        },
+        {
+          "headline": "The Binding of Isaac Dev Removes Undisclosed AI-Generated Music From Repentance+ Following Creator Response, Review-Bombing",
+          "shared_terms": [
+            "generated",
+            "music"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Binding Of Isaac Update Review-Bombed Over AI-Generated Music In GTA 6 Mode: ‘Woke Up To A Sh*t Show, Obviously I Had No Idea’",
+          "url": "https://kotaku.com/binding-of-isaac-update-review-bombed-over-ai-generated-music-in-gta-6-mode-woke-up-to-a-sht-show-obviously-i-had-no-idea-2000759213",
+          "published": "2026-11-22T00:18:14+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bananas-bear-build-donkey-friend-furry",
+      "score": 30.6,
+      "already_proposed": false,
+      "headline": "\"We're Going Bananas For Our Newest Furry Friend\" - Donkey Kong Out Now On Build-A-Bear Workshop",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 13.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.93,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "bananas build newest bear workshop",
+      "related": [
+        {
+          "headline": "Nintendo Knocks $20 off Physical Switch 2 Copies of Donkey Kong Bananza for Black Friday",
+          "shared_terms": [
+            "donkey",
+            "kong"
+          ]
+        },
+        {
+          "headline": "GTA 6 player gets 30-day PSN ban for sharing in-game nudist photo with a friend",
+          "shared_terms": [
+            "friend"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "\"We're Going Bananas For Our Newest Furry Friend\" - Donkey Kong Out Now On Build-A-Bear Workshop",
+          "url": "https://www.nintendolife.com/news/2026/11/were-going-bananas-for-our-newest-furry-friend-donkey-kong-out-now-on-build-a-bear-workshop",
+          "published": "2026-11-22T00:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}
