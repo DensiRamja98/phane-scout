@@ -1,0 +1,938 @@
+{
+  "generated_at": "2026-11-23T15:51:20.206824+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "arriva-avengers-care-doctor-doom-doomsday",
+      "score": 53.5,
+      "already_proposed": false,
+      "headline": "Avengers: Doomsday’s Final Trailer Shows Steve Rogers’ Family Life Upended By The Fantastic Four",
+      "topics": [
+        "feel_good"
+      ],
+      "age_hours": 1.3,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.76,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku",
+        "Polygon"
+      ],
+      "coverage_it": [
+        "SpazioGames"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 58211,
+        "top_views": 4661564,
+        "top_title": "Avengers: Doomsday | Final Trailer | In Theaters December 18"
+      },
+      "youtube_query": "avengers trailer doomsday final shows",
+      "related": [
+        {
+          "headline": "Fantastic News, Sam Kinison’s Brother Wants To Revive The Shrieking Comic Through AI",
+          "shared_terms": [
+            "fantastic"
+          ]
+        },
+        {
+          "headline": "DOOM: The Dark Ages Was Originally Planned As Xbox Exclusive",
+          "shared_terms": [
+            "doom"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Avengers: Doomsday’s Final Trailer Shows Steve Rogers’ Family Life Upended By The Fantastic Four",
+          "url": "https://kotaku.com/avengers-doomsday-final-trailer-x-men-steve-rogers-son-2000759445",
+          "published": "2026-11-23T14:33:59+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Avengers: Doomsday’s Final Trailer Is Here, and It Finally Gives Us a Reason to Care",
+          "url": "https://www.polygon.com/avengers-doomsday-final-trailer-november-2026-marvel-studios/",
+          "published": "2026-11-23T14:35:36+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "Trailer finale di Avengers: Doomsday, arriva Doctor Doom",
+          "url": "https://www.spaziogames.it/articoli/avengers-doomsday-doctor-doom-e-le-sentinelle-nel-trailer-finale",
+          "published": "2026-11-23T15:08:52+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "chapter-doing-don-finish-gta-list",
+      "score": 51.0,
+      "already_proposed": false,
+      "headline": "GTA 6 Chapter 3 Mission List: Every Mission in Order & Point of No Return",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 4.4,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.57,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 32710,
+        "top_views": 146903,
+        "top_title": "GTA 6 Chapter 1 COMPLETE WALKTHROUGH (All Missions & Missables)"
+      },
+      "youtube_query": "chapter gta list order mission",
+      "related": [
+        {
+          "headline": "Star Wars’ Most Divisive Director Officially Addresses a Possible Return",
+          "shared_terms": [
+            "return"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "GTA 6 Chapter 3 Mission List: Every Mission in Order & Point of No Return",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-chapter-3-mission-list/",
+          "published": "2026-11-23T11:24:24+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "GTA 6: Don’t Finish Chapter 2 Before Doing These Things",
+          "url": "https://www.gamespot.com/articles/gta-6-dont-finish-chapter-2-before-doing-these-things/",
+          "published": "2026-11-23T12:32:22+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "002-catch-details-gta-live-mantiene",
+      "score": 47.4,
+      "already_proposed": false,
+      "headline": "GTA 6 Update 01.002.002 Out Now, Rockstar Releases Official Patch Notes",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 2.7,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 1.0,
+        "it_gap": 0.44,
+        "yt_demand": 0.12,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "IGN",
+        "Polygon",
+        "Push Square"
+      ],
+      "coverage_it": [
+        "SpazioGames"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 1328,
+        "top_views": 178843,
+        "top_title": "GTA 6 News - HUGE LEAK! Rockstar Updates & Patch Soon?"
+      },
+      "youtube_query": "gta patch official update rockstar",
+      "related": [
+        {
+          "headline": "GTA 6 Glitch Unlocks The FPS On Xbox Series X|S, But With Multiple Drawbacks",
+          "shared_terms": [
+            "catch"
+          ]
+        },
+        {
+          "headline": "This '90s-inspired horror game has one of the coolest post-apocalyptic worlds I've ever seen",
+          "shared_terms": [
+            "post"
+          ]
+        },
+        {
+          "headline": "How to steal the Declasse Vamos in GTA 6",
+          "shared_terms": [
+            "segreto"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "GTA 6 Update 01.002.002 Out Now, Rockstar Releases Official Patch Notes",
+          "url": "https://www.ign.com/articles/gta-6-update-01002002-rolling-out-now-although-there-are-no-patch-notes-yet",
+          "published": "2026-11-23T13:07:03+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "GTA 6’s First Patch Is Rolling Out, Here’s What It Does",
+          "url": "https://www.gamespot.com/articles/gta-6-first-patch-is-rolling-out/",
+          "published": "2026-11-23T13:46:31+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "GTA 6's First Official Post-Release Update Has A Catch",
+          "url": "https://www.polygon.com/gta-6-update-today-ver-01002002-where-is-ps5-xbox-download-size-patch-notes/",
+          "published": "2026-11-23T14:41:35+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "First GTA 6 PS5 Patch Live Now, Get All the Details Here",
+          "url": "https://www.pushsquare.com/news/2026/11/first-gta-6-ps5-patch-live-now-get-all-the-details-here",
+          "published": "2026-11-23T14:50:00+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "GTA 6, patch a sorpresa: Rockstar mantiene il segreto",
+          "url": "https://www.spaziogames.it/notizie/gta-6-arriva-una-patch-ma-rockstar-mantiene-il-mistero",
+          "published": "2026-11-23T14:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "auto-autosaving-break-car-complete-compound",
+      "score": 41.3,
+      "already_proposed": false,
+      "headline": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 4.3,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.19,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 3678,
+        "top_views": 66247,
+        "top_title": "The Anthony Cumia Show,Grand Theft Auto 6"
+      },
+      "youtube_query": "grand theft auto gta compound",
+      "related": [
+        {
+          "headline": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
+          "shared_terms": [
+            "fixes"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-find-break-in-freddie-doomsday-compound-grand-theft-auto/",
+          "published": "2026-11-23T11:31:32+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "GTA 6: Recover Jason’s stash from Key Lento in Grand Theft Auto 6",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-recover-jasons-stash-grand-theft-auto/",
+          "published": "2026-11-23T12:23:24+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Grand Theft Auto 6 complete walkthrough hub",
+          "url": "https://www.videogameschronicle.com/guide/grand-theft-auto-6-complete-walkthrough-hub/",
+          "published": "2026-11-23T12:25:06+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Grand Theft Auto 6 has received a new update which fixes autosaving",
+          "url": "https://www.videogameschronicle.com/news/grand-theft-auto-6-has-received-a-new-patch-which-fixes-autosaving/",
+          "published": "2026-11-23T14:44:32+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Has Rockstar taken the \"Grand Theft Auto\" out of GTA 6? Or has it just gamified car-jacking properly for the first time?",
+          "url": "https://www.eurogamer.net/gta-6-car-theft-gamified",
+          "published": "2026-11-23T14:58:20+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "activision-audio-chat-creates-files-learns",
+      "score": 39.9,
+      "already_proposed": false,
+      "headline": "Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you",
+      "topics": [
+        "xbox",
+        "industria"
+      ],
+      "age_hours": 6.4,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 224,
+        "top_views": 2292,
+        "top_title": "Activision Wants AI Bots To Trash Talk You 💀 #callofduty #games #gaming"
+      },
+      "youtube_query": "activision npcs chat voice patents",
+      "related": [
+        {
+          "headline": "Grand Theft Auto 6 has a 'complex drug network' that tracks everything from where drugs come from to 'how they eventually reach the street-level buyer'",
+          "shared_terms": [
+            "network"
+          ]
+        },
+        {
+          "headline": "GTA 6 laptop password and where to find Auntie's Place in La Perle",
+          "shared_terms": [
+            "place"
+          ]
+        },
+        {
+          "headline": "'The System Is Not Good Vs. Evil': Why GTA 6's Criminal Profile Mechanic Is Dividing Fans",
+          "shared_terms": [
+            "system"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you",
+          "url": "https://www.eurogamer.net/activision-ai-voice-chat-npc-patent",
+          "published": "2026-11-23T09:27:50+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Activision files patent for neural network to train NPCs from in-game voice chat",
+          "url": "https://www.gamesindustry.biz/activision-files-patent-for-neural-network-to-train-npcs-from-in-game-voice-chat",
+          "published": "2026-11-23T15:09:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "affair-affairs-allegations-alleged-aperta-azienda",
+      "score": 39.2,
+      "already_proposed": false,
+      "headline": "Nvidia Makes Jensen Huang CEO Again Just Days After Saying It Would Never Do That",
+      "topics": [
+        "pc_gaming"
+      ],
+      "age_hours": 1.7,
+      "signals": {
+        "coverage": 1.0,
+        "velocity": 1.0,
+        "it_gap": 0.0,
+        "yt_demand": 0.12,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot",
+        "GamesIndustry",
+        "Kotaku",
+        "Nintendo Life",
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [
+        "Gamesurf",
+        "Multiplayer",
+        "SpazioGames",
+        "Tom's Hardware IT"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 1386,
+        "top_views": 70077,
+        "top_title": "Jensen Huang on Who Could Possibly Replace Him as NVIDIA CEO"
+      },
+      "youtube_query": "jensen huang nvidia ceo torna",
+      "related": [
+        {
+          "headline": "\"It stayed alive for so long\" - Behind the wheel with the Last Riders saying goodbye to GTA Online, amidst GTA 6's world-changing launch",
+          "shared_terms": [
+            "saying"
+          ]
+        },
+        {
+          "headline": "Former Rockstar environment artist breaks silence: GTA 6 is 'generally stunning,' but Red Dead 2 might have had better rivers",
+          "shared_terms": [
+            "stunning"
+          ]
+        },
+        {
+          "headline": "Plug in Digital acquires News Tower publisher Twin Sails Interactive, creating new publishing group to \"compete in a highly competitive market\"",
+          "shared_terms": [
+            "highly"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Nvidia Makes Jensen Huang CEO Again Just Days After Saying It Would Never Do That",
+          "url": "https://kotaku.com/nvidia-makes-jensen-huang-ceo-again-just-days-after-saying-it-would-never-do-that-2000759433",
+          "published": "2026-11-23T14:07:57+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Somehow, Jensen Huang Returned",
+          "url": "https://www.gamespot.com/articles/somehow-jensen-huang-returned/",
+          "published": "2026-11-23T14:10:47+00:00"
+        },
+        {
+          "source": "Tom's Hardware IT",
+          "title": "Jensen Huang torna al vertice di NVIDIA, indagine resta aperta",
+          "url": "https://www.tomshw.it/hardware/nvidia-reintegra-jensen-huang-come-ceo-l-indagine-prosegue",
+          "published": "2026-11-23T14:18:42+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Jensen Huang Has Been Reinstated As Nvidia's President And CEO",
+          "url": "https://www.nintendolife.com/news/2026/11/jensen-huang-has-been-reinstated-as-nvidias-president-and-ceo",
+          "published": "2026-11-23T14:20:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Jensen Huang has been reinstated as Nvidia CEO: 'I take this responsibility with the greatest humility and renewed commitment'",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/jensen-huang-has-been-reinstated-as-nvidia-ceo-i-take-this-responsibility-with-the-greatest-humility-and-renewed-commitment/",
+          "published": "2026-11-23T14:30:41+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Jensen Huang reinstated as Nvidia CEO and president following affair allegations",
+          "url": "https://www.gamesindustry.biz/jensen-huang-reinstated-as-nvidia-ceo-and-president-following-affair-allegations",
+          "published": "2026-11-23T14:33:30+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Jensen Huang torna al comando di NVIDIA: \"È la persona giusta per guidare l'azienda\"",
+          "url": "https://multiplayer.it/notizie/jensen-huang-torna-al-comando-di-nvidia-e-la-persona-giusta-per-guidare-lazienda.html",
+          "published": "2026-11-23T14:34:19+00:00"
+        },
+        {
+          "source": "Tom's Hardware IT",
+          "title": "Perché NVIDIA ha reintegrato Jensen Huang",
+          "url": "https://www.tomshw.it/hardware/perche-nvidia-ha-reintegrato-jensen-huang",
+          "published": "2026-11-23T14:43:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Nvidia makes stunning decision to reinstate Jensen Huang as CEO",
+          "url": "https://www.eurogamer.net/nvidia-jensen-huang-ceo-reinstated-affair",
+          "published": "2026-11-23T15:01:00+00:00"
+        },
+        {
+          "source": "Tom's Hardware IT",
+          "title": "Il ritorno di Jensen Huang spinge il Nasdaq: +6%",
+          "url": "https://www.tomshw.it/business/nvidia-ritrova-jensen-huang-il-nasdaq-balza-del-6-all-avvio",
+          "published": "2026-11-23T15:08:29+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Trump praises Jensen Huang's reinstatement as Nvidia CEO, calls him a 'great patriot and national treasure,' while Musk says 'the mistake has been corrected'",
+          "url": "https://www.pcgamer.com/hardware/graphics-cards/trump-praises-jensen-huangs-reinstatement-as-nvidia-ceo-calls-him-a-great-patriot-and-national-treasure-while-musk-says-the-mistake-has-been-corrected/",
+          "published": "2026-11-23T15:09:09+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Nvidia reinstate Jensen Huang as CEO following alleged affairs, as US government support renders 'please give me my job back, go USA' a highly persuasive plea",
+          "url": "https://www.rockpapershotgun.com/nvidia-reinstate-jensen-huang-as-ceo-following-alleged-affairs-as-us-government-support-renders-please-give-me-my-job-back-go-usa-a-highly-persuasive-plea",
+          "published": "2026-11-23T15:10:20+00:00"
+        },
+        {
+          "source": "Gamesurf",
+          "title": "Nvidia fa dietrofront: Jensen Huang torna presidente",
+          "url": "https://www.gamesurf.it/news/nvidia-jensen-huang-ritorno-ceo-presidente-titolo-borsa",
+          "published": "2026-11-23T15:15:36+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "NVIDIA ci ripensa: Jensen Huang torna al comando",
+          "url": "https://www.spaziogames.it/notizie/nvidia-ci-ripensa-jensen-huang-torna-al-comando",
+          "published": "2026-11-23T15:22:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "confirmed-fatal-frame-hill-horror-inspire",
+      "score": 38.7,
+      "already_proposed": false,
+      "headline": "Unsettling Silent Hill-Inspired Horror Game Confirmed For Switch 2",
+      "topics": [
+        "nintendo",
+        "playstation"
+      ],
+      "age_hours": 4.1,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "hill silent horror unsettling promising",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Unsettling Silent Hill-Inspired Horror Game Confirmed For Switch 2",
+          "url": "https://www.nintendolife.com/news/2026/11/unsettling-silent-hill-inspired-horror-game-confirmed-for-switch-2",
+          "published": "2026-11-23T11:45:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Silent Hill, Fatal Frame Inspire This Promising New PS5 Horror Game",
+          "url": "https://www.pushsquare.com/news/2026/11/silent-hill-fatal-frame-inspire-this-promising-new-ps5-horror-game",
+          "published": "2026-11-23T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "creator-disappear-entirely-evil-experiments-fearing",
+      "score": 36.4,
+      "already_proposed": false,
+      "headline": "Resident Evil Creator Wishes AI Would ‘Vanish Entirely,’ Fearing Mass Job Losses",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 4.1,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Kotaku",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "resident entirely wishes creator evil",
+      "related": [],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Resident Evil Creator Wishes AI Would ‘Vanish Entirely,’ Fearing Mass Job Losses",
+          "url": "https://kotaku.com/resident-evil-shinji-mikami-ai-kim-hyung-tae-job-losses-stellar-blade-2000759397",
+          "published": "2026-11-23T11:45:49+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Resident Evil creator Shinji Mikami says he wishes AI would disappear entirely, but that he experiments with it as a tool",
+          "url": "https://www.videogameschronicle.com/news/resident-evil-creator-shinji-mikami-says-he-wishes-ai-would-disappear-entirely-but-that-he-experiments-with-it-as-a-tool/",
+          "published": "2026-11-23T13:23:03+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "criminal-dividing-evil-fans-gta-mechanic",
+      "score": 34.7,
+      "already_proposed": false,
+      "headline": "'The System Is Not Good Vs. Evil': Why GTA 6's Criminal Profile Mechanic Is Dividing Fans",
+      "topics": [
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 2.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 240,
+        "top_views": 240,
+        "top_title": "GTA 6 UPDATE: The Latest News, Reviews, and Surprises! #Shorts"
+      },
+      "youtube_query": "dividing profile mechanic fans criminal",
+      "related": [
+        {
+          "headline": "Activision patents AI voice system that learns from in-game chat and creates audio for NPCs who can even speak in place of you",
+          "shared_terms": [
+            "system"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "'The System Is Not Good Vs. Evil': Why GTA 6's Criminal Profile Mechanic Is Dividing Fans",
+          "url": "https://www.ign.com/articles/gta-6-criminal-profile-system-self-defense-penalties",
+          "published": "2026-11-23T13:10:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bug-cambia-cosa-disponibile-ecco-fixed",
+      "score": 34.6,
+      "already_proposed": false,
+      "headline": "Disponibile la patch 1.0.2.2 per GTA 6 su PS5 e Xbox: ecco cosa cambia",
+      "topics": [
+        "playstation",
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 0.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "patch xbox ps5 gta progression",
+      "related": [],
+      "articles": [
+        {
+          "source": "Multiplayer",
+          "title": "Disponibile la patch 1.0.2.2 per GTA 6 su PS5 e Xbox: ecco cosa cambia",
+          "url": "https://multiplayer.it/notizie/disponibile-la-patch-1022-per-gta-6-su-ps5-e-xbox-ma-risolve-solo-qualche-bug.html",
+          "published": "2026-11-23T15:21:51+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "GTA 6 just got a patch that fixed a progression bug on PS5 and Xbox Series X/S",
+          "url": "https://www.eurogamer.net/gta-6-xbox-playstation-patch-autosave-vignette",
+          "published": "2026-11-23T15:22:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "appears-bugatti-child-dev-dog-gta",
+      "score": 33.8,
+      "already_proposed": false,
+      "headline": "Naughty Dog Dev: GTA 6 Appears to Him ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 7.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 6,
+        "median_views": 17,
+        "top_views": 81,
+        "top_title": "Game Devs Can't Explain GTA 6 🤯 #GTA6 #Shorts"
+      },
+      "youtube_query": "bugatti veyron nervous victorian appears",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Naughty Dog Dev: GTA 6 Appears to Him ‘as a Bugatti Veyron Would to a Nervous Victorian Child’",
+          "url": "https://www.ign.com/articles/naughty-dog-dev-gta-6-appears-to-him-as-as-a-bugatti-veyron-would-to-a-nervous-victorian-child",
+          "published": "2026-11-23T07:58:42+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "fixes-gta-includes-live-official-series",
+      "score": 33.7,
+      "already_proposed": false,
+      "headline": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
+      "topics": [
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 1.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 8,
+        "top_views": 8,
+        "top_title": "GTA 6 Update Patch Notes: 7 Official Fixes (01.002.002, PS5, Xbox)"
+      },
+      "youtube_query": "seven includes live fixes official",
+      "related": [
+        {
+          "headline": "GTA 6: Find and break into Freddie Gibbs’ doomsday compound in Grand Theft Auto 6",
+          "shared_terms": [
+            "fixes"
+          ]
+        },
+        {
+          "headline": "GTA 6 Update 01.002.002 Out Now, Rockstar Releases Official Patch Notes",
+          "shared_terms": [
+            "live"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "GTA 6 Update Now Live On Xbox Series X|S, Includes Seven Official Fixes",
+          "url": "https://www.purexbox.com/news/2026/11/gta-6-update-now-live-on-xbox-series-xs-includes-seven-official-fixes",
+          "published": "2026-11-23T14:50:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "assassin-black-creed-drops-flag-friday",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Assassin's Creed: Black Flag Resynced Drops to $30 on PS5 at Walmart for Black Friday",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 3.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "creed walmart drops assassin resynced",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Assassin's Creed: Black Flag Resynced Drops to $30 on PS5 at Walmart for Black Friday",
+          "url": "https://www.ign.com/articles/assassins-creed-black-flag-resynced-drops-to-30-on-ps5-at-walmart-for-black-friday",
+          "published": "2026-11-23T11:58:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "brings-fantasy-management-round-rpg-sovereign",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Fantasy RPG 'Sovereign Tower' Brings Some Round Table Management To Switch Next Year",
+      "topics": [
+        "nintendo",
+        "feel_good"
+      ],
+      "age_hours": 1.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "sovereign round year rpg brings",
+      "related": [
+        {
+          "headline": "Dragon Age's former boss explains that poor management from EA led to BioWare shutting down because 'the options on the table were all terrible'",
+          "shared_terms": [
+            "management",
+            "table"
+          ]
+        },
+        {
+          "headline": "Plug in Digital acquires News Tower publisher Twin Sails Interactive, creating new publishing group to \"compete in a highly competitive market\"",
+          "shared_terms": [
+            "tower"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Fantasy RPG 'Sovereign Tower' Brings Some Round Table Management To Switch Next Year",
+          "url": "https://www.nintendolife.com/news/2026/11/fantasy-rpg-sovereign-tower-brings-some-round-table-management-to-switch-next-year",
+          "published": "2026-11-23T14:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bar-canceled-cyberpunk-director-gta-jokes",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
+      "topics": [
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 1.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "raises bar canceled jokes director",
+      "related": [
+        {
+          "headline": "Star Wars’ Most Divisive Director Officially Addresses a Possible Return",
+          "shared_terms": [
+            "director"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
+          "url": "https://www.gamespot.com/articles/cyberpunk-2-is-canceled-director-jokes-after-gta-6-raises-the-bar/",
+          "published": "2026-11-23T14:19:27+00:00"
+        }
+      ]
+    }
+  ]
+}
