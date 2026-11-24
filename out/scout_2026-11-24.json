@@ -1,0 +1,952 @@
+{
+  "generated_at": "2026-11-24T15:42:48.168799+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [
+    {
+      "source": "PC Gamer",
+      "error": "<unknown>:7:2: mismatched tag"
+    }
+  ],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "2002-adorable-bros-city-complete-easter",
+      "score": 62.4,
+      "already_proposed": false,
+      "headline": "This Terrifying GTA 6 Easter Egg Will Give You Nightmares",
+      "topics": [
+        "nintendo",
+        "aaa",
+        "easter_egg"
+      ],
+      "age_hours": 23.3,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.4,
+        "it_gap": 0.67,
+        "yt_demand": 1.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.37,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "Nintendo Life",
+        "Pure Xbox",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 188923,
+        "top_views": 10461947,
+        "top_title": "🔴EXPLORING VICE CITY - GTA 6 STREAM (EASTER EGGS)"
+      },
+      "youtube_query": "egg easter gta city vice",
+      "related": [
+        {
+          "headline": "Christoph Hartmann wants Ubisoft's Massive Entertainment to go beyond shooters and be the \"A24 of gaming\"",
+          "shared_terms": [
+            "massive"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "This Terrifying GTA 6 Easter Egg Will Give You Nightmares",
+          "url": "https://www.gamespot.com/articles/this-terrifying-gta-6-easter-egg-will-give-you-nightmares/",
+          "published": "2026-11-23T16:27:12+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "GTA 6 Has A Super Mario Bros. Easter Egg, And It’s A Trip",
+          "url": "https://www.gamespot.com/articles/gta-6-has-a-super-mario-bros-easter-egg-and-its-a-trip/",
+          "published": "2026-11-23T17:05:35+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Random: GTA 6 Hides An Adorable Mario & Luigi Easter Egg In Its Massive World",
+          "url": "https://www.nintendolife.com/news/2026/11/random-gta-6-hides-an-adorable-mario-and-luigi-easter-egg-in-its-massive-world",
+          "published": "2026-11-23T17:15:00+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "GTA 6 Easter Egg Transports You Into 2002's Vice City, Complete With Two Free Items",
+          "url": "https://www.purexbox.com/news/2026/11/gta-6-easter-egg-transports-you-into-2002s-vice-city-complete-with-two-free-items",
+          "published": "2026-11-24T13:00:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Guide: GTA 6: Vice City Easter Egg Walkthrough & Tommy Vercetti Shirt Unlock",
+          "url": "https://www.pushsquare.com/guides/gta-6-vice-city-easter-egg-walkthrough",
+          "published": "2026-11-24T13:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "biggest-blocca-effort-ferma-gta-internet",
+      "score": 48.5,
+      "already_proposed": false,
+      "headline": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
+      "topics": [
+        "pc_gaming",
+        "aaa",
+        "industria"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.22,
+        "yt_demand": 0.39,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Everyeye"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 15128,
+        "top_views": 103254,
+        "top_title": "CYBERLEEK DROPS GTA 6 XBOX EXECUTABLE! 😱 GTA 6 PC PORT JUST GOT A HUGE BOOST! 🔥"
+      },
+      "youtube_query": "gta unofficial port project leonida",
+      "related": [
+        {
+          "headline": "Showa American Story slitta al 2027, come svelato dall'aggiornamento della pagina Steam",
+          "shared_terms": [
+            "seemingly"
+          ]
+        },
+        {
+          "headline": "\"The torch passes to the open source recomp and emulation projects\": GTA 6 leaker Cyberleek claims to have released crimsim's Xbox executable and denies crypto grifting",
+          "shared_terms": [
+            "projects"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
+          "url": "https://www.eurogamer.net/grand-theft-auto-6-project-leonida-discord-github-vanish",
+          "published": "2026-11-24T13:40:00+00:00"
+        },
+        {
+          "source": "Everyeye",
+          "title": "GTA 6 su PC: Rockstar blocca Project Leonida e il port non ufficiale si ferma",
+          "url": "https://www.everyeye.it/notizie/gta-6-pc-rockstar-blocca-project-leonida-port-non-ufficiale-ferma-913355.html",
+          "published": "2026-11-24T14:29:00+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Unofficial GTA 6 PC ports are already getting shut down",
+          "url": "https://www.videogameschronicle.com/news/unofficial-gta-6-pc-ports-are-already-getting-shut-down/",
+          "published": "2026-11-24T15:06:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "claims-crimsim-crypto-cyberleek-denies-emulation",
+      "score": 43.0,
+      "already_proposed": false,
+      "headline": "\"The torch passes to the open source recomp and emulation projects\": GTA 6 leaker Cyberleek claims to have released crimsim's Xbox executable and denies crypto grifting",
+      "topics": [
+        "xbox",
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 4.1,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.08,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 638,
+        "top_views": 638,
+        "top_title": "A Hacker Claims He Has All of GTA 6 😳 #gta6"
+      },
+      "youtube_query": "xbox gta crypto claims source",
+      "related": [
+        {
+          "headline": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
+          "shared_terms": [
+            "cyberleek",
+            "leaker"
+          ]
+        },
+        {
+          "headline": "Where To Find Cut-Off Tool in GTA 6 To Open Containers",
+          "shared_terms": [
+            "open"
+          ]
+        },
+        {
+          "headline": "Pokémon Teams Up With Casetify On A New Line Of Phone Cases And Accessories",
+          "shared_terms": [
+            "phone"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "\"The torch passes to the open source recomp and emulation projects\": GTA 6 leaker Cyberleek claims to have released crimsim's Xbox executable and denies crypto grifting",
+          "url": "https://www.rockpapershotgun.com/the-torch-passes-to-the-open-source-recomp-and-emulation-projects-gta-6-leaker-cyberleek-claims-to-have-released-crimsims-xbox-executable-and-denies-crypto-grifting",
+          "published": "2026-11-24T11:38:50+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "How To Play GTA 6 On Your PC Or Phone Via Remote Play On Xbox",
+          "url": "https://www.gamespot.com/articles/how-to-play-gta-6-on-your-pc-or-phone-via-remote-play-on-xbox/",
+          "published": "2026-11-24T13:45:10+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "12th-2018-269-389-added-adds",
+      "score": 42.8,
+      "already_proposed": false,
+      "headline": "Nintendo Expands Switch 2's GameCube Library With Another Game This Week",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 14.2,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.83,
+        "it_gap": 0.56,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.88,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN",
+        "Nintendo Life",
+        "Polygon",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 6,
+        "median_views": 4,
+        "top_views": 167,
+        "top_title": "Wave Race: Blue Storm Hits Switch 2 GameCube Classics Today"
+      },
+      "youtube_query": "switch nintendo gamecube online library",
+      "related": [
+        {
+          "headline": "Finally, some former Valorant and Sky devs have answered the call for a Peak-style platformer about throwing a cat through a hole in spacetime",
+          "shared_terms": [
+            "finally"
+          ]
+        },
+        {
+          "headline": "Might and Magic meets, er, paper in sunny new RPG Rise of Furax, a turn-based island tale that is entirely drawn by hand",
+          "shared_terms": [
+            "turn"
+          ]
+        },
+        {
+          "headline": "Activision calls Banjo-Kazooie one of its \"iconic gaming franchises,\" raising hopes for long-awaited new game",
+          "shared_terms": [
+            "awaited"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Nintendo Expands Switch 2's GameCube Library With Another Game This Week",
+          "url": "https://www.nintendolife.com/news/2026/11/nintendo-expands-switch-2s-gamecube-library-with-another-game-this-week",
+          "published": "2026-11-24T01:30:00+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "PSA: You Can Now Turn Off The Border Graphic In Switch Online's GameCube App",
+          "url": "https://www.nintendolife.com/news/2026/11/psa-you-can-now-turn-off-the-border-graphic-in-switch-onlines-gamecube-app",
+          "published": "2026-11-24T03:05:00+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Wave Race Blue Storm is the 12th GameCube game to be added to Switch Online’s library",
+          "url": "https://www.videogameschronicle.com/news/wave-race-blue-storm-is-the-12th-gamecube-game-to-be-added-to-switch-onlines-library/",
+          "published": "2026-11-24T09:31:36+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Nintendo Switch Online Just Got a Long-Awaited Update, Alongside Another GameCube Classic",
+          "url": "https://www.ign.com/articles/nintendo-switch-online-just-got-a-long-awaited-update-alongside-another-gamecube-classic",
+          "published": "2026-11-24T10:00:45+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "La console Nintendo Switch 2 V2 costa 389,91 € su AliExpress, se utilizzi il coupon",
+          "url": "https://multiplayer.it/notizie/la-console-nintendo-switch-2-v2-costa-38991-su-aliexpress-se-utilizzi-il-coupon.html",
+          "published": "2026-11-24T12:03:52+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "La console Nintendo Switch OLED costa 269,08 € su AliExpress, utilizzando il coupon",
+          "url": "https://multiplayer.it/notizie/la-console-nintendo-switch-oled-costa-26908-su-aliexpress-utilizzando-il-coupon.html",
+          "published": "2026-11-24T12:10:30+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Today's Nintendo Switch Online update finally introduces a feature players have been asking for since 2018",
+          "url": "https://www.eurogamer.net/nintendo-switch-update-version-2-2-0-borders",
+          "published": "2026-11-24T14:02:00+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Nintendo Switch Online Adds Another GameCube Classic",
+          "url": "https://www.polygon.com/wave-race-blue-storm-nintendo-switch-online/",
+          "published": "2026-11-24T15:31:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "build-cyberleek-file-gta-hacker-leaked",
+      "score": 41.4,
+      "already_proposed": false,
+      "headline": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
+      "topics": [
+        "xbox",
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 20.0,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.67,
+        "it_gap": 0.5,
+        "yt_demand": 0.16,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.56,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot",
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 2495,
+        "top_views": 151543,
+        "top_title": "Modders Are Ready for GTA 6's .EXE"
+      },
+      "youtube_query": "build xbox gta modders running",
+      "related": [
+        {
+          "headline": "\"The torch passes to the open source recomp and emulation projects\": GTA 6 leaker Cyberleek claims to have released crimsim's Xbox executable and denies crypto grifting",
+          "shared_terms": [
+            "cyberleek",
+            "leaker"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "GTA 6 leaker reportedly releases file needed to run leaked Xbox build",
+          "url": "https://www.gamesindustry.biz/gta-6-leaker-reportedly-releases-file-needed-to-run-leaked-xbox-build",
+          "published": "2026-11-23T19:43:30+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Modders already have GTA 6 running on PC, after CyberLeek released a full Xbox build of the game",
+          "url": "https://www.eurogamer.net/gta-6-cyberleek-leaked-xbox-build-ported-pc",
+          "published": "2026-11-24T09:09:20+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "GTA 6 Hacker Releases Full Xbox Build, And PC Modders Are Already Trying To Get It Running",
+          "url": "https://www.gamespot.com/articles/gta-6-hacker-releases-full-xbox-build-and-pc-modders-are-already-trying-to-get-it-running/",
+          "published": "2026-11-24T11:23:42+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "biggest-concurrent-ever-gta-highest-history",
+      "score": 41.2,
+      "already_proposed": false,
+      "headline": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 4.0,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.1,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry",
+        "Kotaku"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 982,
+        "top_views": 2186,
+        "top_title": "GTA 6 Is Completely F*CKED: Biggest FLOP In Gaming History?"
+      },
+      "youtube_query": "biggest launch players playstation gta",
+      "related": [],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "GTA 6 was the \"biggest launch in PlayStation history\", with the highest number of concurrent players ever",
+          "url": "https://www.gamesindustry.biz/gta-6-was-the-biggest-launch-in-playstation-history-with-the-highest-number-of-concurrent-players-ever",
+          "published": "2026-11-24T11:44:10+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "GTA 6 Is PlayStation’s Biggest Launch Of All Time, With Over 39 Million Players",
+          "url": "https://kotaku.com/gta6-grand-theft-auto-6-ps5-playstation-sony-record-sales-2001000009",
+          "published": "2026-11-24T15:33:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "consoles-designed-gen-helix-killing-looked",
+      "score": 38.0,
+      "already_proposed": false,
+      "headline": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 5.7,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.06,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GameSpot"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 382,
+        "top_views": 382,
+        "top_title": "Xbox Might KILL Paid Multiplayer — And Add Steam?! 😱"
+      },
+      "youtube_query": "multiplayer reportedly helix xbox killing",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
+          "url": "https://www.eurogamer.net/xbox-live-helix-killing-paid-membership",
+          "published": "2026-11-24T10:02:10+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Xbox Project Helix Was Reportedly Designed To Make Online Multiplayer Free",
+          "url": "https://www.gamespot.com/articles/xbox-project-helix-was-reportedly-designed-to-make-online-multiplayer-free/",
+          "published": "2026-11-24T12:03:22+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "actor-because-bittersweet-calls-fame-fashion",
+      "score": 36.7,
+      "already_proposed": false,
+      "headline": "GTA 6 Mandy Actor Calls Viral Fame 'Bittersweet' Because People Keep Pretending to Be Her on Social Media",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 3.7,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 8,
+        "top_views": 8,
+        "top_title": "GTA 6 Mandy Actor Lexie Shoaibi Calls Viral Fame 'Bittersweet' Amid Impersonators"
+      },
+      "youtube_query": "social media gta fame bittersweet",
+      "related": [
+        {
+          "headline": "Activision calls Banjo-Kazooie one of its \"iconic gaming franchises,\" raising hopes for long-awaited new game",
+          "shared_terms": [
+            "calls"
+          ]
+        },
+        {
+          "headline": "Nintendo Expands Switch 2's GameCube Library With Another Game This Week",
+          "shared_terms": [
+            "storm"
+          ]
+        },
+        {
+          "headline": "GTA 6 è il gioco dei record su PlayStation: Sony svela tutti i numeri, sono incredibili",
+          "shared_terms": [
+            "people"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "GTA 6 Mandy Actor Calls Viral Fame 'Bittersweet' Because People Keep Pretending to Be Her on Social Media",
+          "url": "https://www.ign.com/articles/gta-6-mandy-actor-calls-viral-fame-bittersweet",
+          "published": "2026-11-24T12:01:15+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "GTA 6 Fashion Is Taking Social Media by Storm",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-fashion-is-taking-social-media-by-storm",
+          "published": "2026-11-24T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "addressed-answered-canceled-effect-ending-fates",
+      "score": 36.4,
+      "already_proposed": false,
+      "headline": "Mass Effect Universe Would Have Answered Trilogy Ending Questions and Squadmate Fates, Writer Says",
+      "topics": [
+        "storie"
+      ],
+      "age_hours": 3.6,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "fates writer effect mass questions",
+      "related": [
+        {
+          "headline": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
+          "shared_terms": [
+            "canceled"
+          ]
+        },
+        {
+          "headline": "Finally, some former Valorant and Sky devs have answered the call for a Peak-style platformer about throwing a cat through a hole in spacetime",
+          "shared_terms": [
+            "answered"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Mass Effect Universe Would Have Answered Trilogy Ending Questions and Squadmate Fates, Writer Says",
+          "url": "https://www.ign.com/articles/mass-effect-universe-trilogy-endings-squadmate-fates",
+          "published": "2026-11-24T12:08:22+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Canceled Mass Effect Addressed Squad Members’ Fates, Writer Reveals",
+          "url": "https://www.polygon.com/mass-effect-universe-returning-squad-members-mass-effect-3-ending/",
+          "published": "2026-11-24T15:28:58+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "flowers-fortnite-join-officially-pilgrim-ramona",
+      "score": 36.1,
+      "already_proposed": false,
+      "headline": "Scott Pilgrim Is Officially Coming to Fortnite",
+      "topics": [],
+      "age_hours": 5.2,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.08,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 585,
+        "top_views": 22463,
+        "top_title": "Consider the fight… BEGUN! Scott Pilgrim is coming to Fortnite"
+      },
+      "youtube_query": "scott pilgrim fortnite flowers ramona",
+      "related": [
+        {
+          "headline": "Think you know games? That we liked? This year? Then join the RPS Advent Calendar Guessing Game 2026",
+          "shared_terms": [
+            "join"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Scott Pilgrim Is Officially Coming to Fortnite",
+          "url": "https://www.polygon.com/fortnite-scott-pilgrim-confirmed/",
+          "published": "2026-11-24T10:31:49+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Scott Pilgrim and Ramona Flowers Join Fortnite This Week",
+          "url": "https://www.ign.com/articles/scott-pilgrim-and-ramona-flowers-join-fortnite-this-week",
+          "published": "2026-11-24T14:53:31+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "anni-esrb-fantasy-final-minori-rated",
+      "score": 34.2,
+      "already_proposed": false,
+      "headline": "Final Fantasy VII Revelation Has Been Rated For Switch 2 By The ESRB",
+      "topics": [
+        "nintendo",
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 13.7,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.02,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.9,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 8,
+        "median_views": 29,
+        "top_views": 2938,
+        "top_title": "FF7 Revelation ESRB Gives Us Some Interesting Details! Character \"Impaled By Sword\" & More!"
+      },
+      "youtube_query": "vii revelation fantasy final esrb",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Final Fantasy VII Revelation Has Been Rated For Switch 2 By The ESRB",
+          "url": "https://www.nintendolife.com/news/2026/11/final-fantasy-vii-revelation-has-been-rated-for-switch-2-by-the-esrb",
+          "published": "2026-11-24T02:00:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "Final Fantasy VII Revelation non è vietato ai minori di 17 anni come vociferato",
+          "url": "https://multiplayer.it/notizie/smentita-la-voce-del-divieto-di-final-fantasy-vii-revelation-ai-minori-di-17-anni.html",
+          "published": "2026-11-24T10:19:41+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "charts-disc-further-gta-problem-ranking",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "UK Charts: No Disc, No Problem - GTA 6 Shoves Zelda Further Down The Ranking",
+      "topics": [
+        "nintendo",
+        "aaa"
+      ],
+      "age_hours": 5.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "disc further shoves charts ranking",
+      "related": [
+        {
+          "headline": "Metacritic's user review problem worsens, as GTA 6's launch prompts review-bombing for completely unrelated games like Soul Calibur and The Ocarina of Time",
+          "shared_terms": [
+            "problem"
+          ]
+        },
+        {
+          "headline": "ICYMI: Here's Another Look At The Zelda: Ocarina Of Time amiibo For Switch 2",
+          "shared_terms": [
+            "zelda"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "UK Charts: No Disc, No Problem - GTA 6 Shoves Zelda Further Down The Ranking",
+          "url": "https://www.nintendolife.com/news/2026/11/uk-charts-no-disc-no-problem-gta-6-shoves-zelda-further-down-the-ranking",
+          "published": "2026-11-24T10:15:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2016-break-demand-developer-exclusive-quantum",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Quantum Break Developer Responds To Sequel Demand For The 2016 Xbox Exclusive",
+      "topics": [
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 1.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "responds 2016 demand quantum break",
+      "related": [
+        {
+          "headline": "Showa American Story slitta al 2027, come svelato dall'aggiornamento della pagina Steam",
+          "shared_terms": [
+            "developer"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Quantum Break Developer Responds To Sequel Demand For The 2016 Xbox Exclusive",
+          "url": "https://www.purexbox.com/news/2026/11/quantum-break-developer-responds-to-sequel-demand-for-the-2016-xbox-exclusive",
+          "published": "2026-11-24T14:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "feels-gta-hard-meets-mission-saw",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "GTA 6 Has A Secret Mission That Feels Like Hard Target Meets SAW",
+      "topics": [
+        "aaa",
+        "easter_egg"
+      ],
+      "age_hours": 0.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "feels hard saw target secret",
+      "related": [
+        {
+          "headline": "GTA 6: All The Secret Controls And Gameplay Features You Might Have Missed",
+          "shared_terms": [
+            "secret"
+          ]
+        },
+        {
+          "headline": "Might and Magic meets, er, paper in sunny new RPG Rise of Furax, a turn-based island tale that is entirely drawn by hand",
+          "shared_terms": [
+            "meets"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "GTA 6 Has A Secret Mission That Feels Like Hard Target Meets SAW",
+          "url": "https://www.gamespot.com/articles/gta-6-has-a-secret-mission-that-feels-like-hard-target-meets-saw/",
+          "published": "2026-11-24T15:33:03+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "achievement-artistic-bar-canceled-cancelling-creative",
+      "score": 32.7,
+      "already_proposed": false,
+      "headline": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
+      "topics": [
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 25.4,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.67,
+        "it_gap": 0.5,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 0.26,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GameSpot",
+        "Push Square",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 3,
+        "top_views": 3,
+        "top_title": "Cyberpunk 2's Director Jokes That GTA 6 Cancelled It"
+      },
+      "youtube_query": "director cyberpunk gta jokes bar",
+      "related": [
+        {
+          "headline": "Mass Effect Universe Would Have Answered Trilogy Ending Questions and Squadmate Fates, Writer Says",
+          "shared_terms": [
+            "canceled"
+          ]
+        },
+        {
+          "headline": "Remedy parla dello sviluppo dei Remake di Max Payne 1 & 2 ed elogia Rockstar Games",
+          "shared_terms": [
+            "creative"
+          ]
+        },
+        {
+          "headline": "\"Game feel is impossible to copy\": CEO of Probably Stolen publisher tinyBuild says devs \"shouldn't be afraid\" of AI clones",
+          "shared_terms": [
+            "probably"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GameSpot",
+          "title": "Cyberpunk 2 Is Canceled, Director Jokes, After GTA 6 Raises The Bar",
+          "url": "https://www.gamespot.com/articles/cyberpunk-2-is-canceled-director-jokes-after-gta-6-raises-the-bar/",
+          "published": "2026-11-23T14:19:27+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "GTA 6 Is 'Probably the Greatest Artistic Achievement in History', Says Cyberpunk 2 Director",
+          "url": "https://www.pushsquare.com/news/2026/11/gta-6-is-probably-the-greatest-artistic-achievement-in-history-says-cyberpunk-2-director",
+          "published": "2026-11-24T02:00:00+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Cyberpunk 2 creative director jokes that he’s cancelling the game after playing GTA 6",
+          "url": "https://www.videogameschronicle.com/news/cyberpunk-2-creative-director-jokes-that-hes-cancelling-the-game-after-playing-gta-6/",
+          "published": "2026-11-24T10:33:52+00:00"
+        }
+      ]
+    }
+  ]
+}
