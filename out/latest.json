@@ -1,106 +1,145 @@
 {
-  "generated_at": "2026-11-25T15:27:36.121804+00:00",
+  "generated_at": "2026-11-26T14:58:41.358427+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "advantages-analysis-base-compared-comparison-despite",
-      "score": 60.4,
+      "story_id": "capri-complete-find-gta-hidden-mission",
+      "score": 74.3,
       "already_proposed": false,
-      "headline": "GTA 6 Comparison Reveals Two Advantages Of Xbox Series X Over PS5",
+      "headline": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
+      "topics": [
+        "aaa",
+        "easter_egg"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.9,
+        "yt_room": 1.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 81371,
+        "top_views": 81371,
+        "top_title": "Side Quests You SKIPPED in GTA 6 (And Shouldn’t Have)"
+      },
+      "youtube_query": "mission gta hidden capri safe",
+      "related": [
+        {
+          "headline": "Guide: GTA 6: Secret Controls the Game Doesn't Tell You",
+          "shared_terms": [
+            "secret"
+          ]
+        },
+        {
+          "headline": "GTA 6 Bricked Up walkthrough: How to get the bonus reward in Bricked Up",
+          "shared_terms": [
+            "find"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-secret-mission-in-capri-how-to-find-and-complete-the-hidden-mission/",
+          "published": "2026-11-26T13:00:13+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Should you participate in GTA 6's Safe Word mission?",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-word-participate-or-not/",
+          "published": "2026-11-26T13:03:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "annoying-fixes-improves-notes-patch-performance",
+      "score": 41.0,
+      "already_proposed": false,
+      "headline": "Witcher 3 Remastered Gets Its Next Update On Xbox & PC, Full Patch Notes Revealed",
       "topics": [
         "playstation",
         "xbox",
         "pc_gaming",
         "aaa"
       ],
-      "age_hours": 23.8,
+      "age_hours": 1.0,
       "signals": {
-        "coverage": 0.83,
-        "velocity": 0.6,
-        "it_gap": 0.83,
-        "yt_demand": 0.61,
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 1.0,
-        "freshness": 0.34,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Eurogamer",
-        "IGN",
-        "Kotaku",
         "Pure Xbox",
         "Push Square"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 10,
-        "median_views": 37065,
-        "top_views": 616969,
-        "top_title": "Grand Theft Auto 6 - Xbox Series X|S Unlocked FPS Glitch Tested - How Fast Can It Really Run?"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "series xbox gta ps5 frame",
+      "youtube_query": "remastered patch witcher stutters improves",
       "related": [
         {
-          "headline": "GDQ releases schedule for Awesome Games Done Quick 2027 in January, featuring new runs like Queen's Domain, Big Walk, Galactic Racer, and the incongruously not-new Yakuza 5",
+          "headline": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5",
           "shared_terms": [
-            "runs"
+            "performance"
           ]
         },
         {
-          "headline": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
+          "headline": "Feature: 8 Ways To Make Zelda: Ocarina Of Time More Difficult",
           "shared_terms": [
-            "suffers"
+            "notes"
           ]
         },
         {
-          "headline": "Action RPG Showa American Story seemingly delayed into 2027, with no comment on why from developer NEKCOM",
+          "headline": "PlayStation Plus Free Games For December 2026 Revealed",
           "shared_terms": [
-            "wait"
+            "revealed"
           ]
         }
       ],
       "articles": [
         {
           "source": "Pure Xbox",
-          "title": "GTA 6 Comparison Reveals Two Advantages Of Xbox Series X Over PS5",
-          "url": "https://www.purexbox.com/news/2026/11/gta-6-comparison-reveals-two-advantages-of-xbox-series-x-over-ps5",
-          "published": "2026-11-24T15:38:00+00:00"
+          "title": "Witcher 3 Remastered Gets Its Next Update On Xbox & PC, Full Patch Notes Revealed",
+          "url": "https://www.purexbox.com/news/2026/11/witcher-3-remastered-gets-its-next-update-on-xbox-and-pc-full-patch-notes-revealed",
+          "published": "2026-11-26T14:00:00+00:00"
         },
         {
           "source": "Push Square",
-          "title": "GTA 6 Performs Better on Xbox Series X Than Base PS5, Despite All of Sony's Marketing",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-performs-better-on-xbox-series-x-than-base-ps5-despite-all-of-sonys-marketing",
-          "published": "2026-11-24T18:00:00+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5",
-          "url": "https://www.eurogamer.net/grand-theft-auto-6-frame-rate-xbox-series-x-ps5",
-          "published": "2026-11-25T09:15:10+00:00"
-        },
-        {
-          "source": "IGN",
-          "title": "GTA 6 Analysis Shows PS5 Version Suffers 'Substantially' More Frequent Frame Rate Drops Than Xbox Series X Version",
-          "url": "https://www.ign.com/articles/gta-6-analysis-shows-ps5-version-suffers-substantially-more-frequent-frame-rate-drops-than-xbox-series-x-version-sparking-debate-about-sonys-plays-best-on-ps5-marketing",
-          "published": "2026-11-25T10:15:45+00:00"
-        },
-        {
-          "source": "Kotaku",
-          "title": "Wait, What? GTA 6 Runs Better On Xbox Series X Than PS5",
-          "url": "https://kotaku.com/grand-theft-auto-vi-gta-6-framerates-xbox-series-x-ps5-rockstar-2001000296",
-          "published": "2026-11-25T12:30:40+00:00"
+          "title": "The Witcher 3 Remastered Patch 5.02 Fixes Annoying PS5 Stutters, Improves Performance, and Much More",
+          "url": "https://www.pushsquare.com/news/2026/11/the-witcher-3-remastered-patch-5-02-fixes-annoying-ps5-stutters-improves-performance-and-much-more",
+          "published": "2026-11-26T15:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "agreement-boss-deal-despite-exclusive-gta",
-      "score": 39.9,
+      "story_id": "claims-company-detail-developers-don-employees",
+      "score": 35.9,
       "already_proposed": false,
-      "headline": "PlayStation Secures Marketing Agreement for The Witcher 4",
+      "headline": "Ubisoft is reportedly requiring developers to justify not using generative AI",
       "topics": [
-        "playstation",
         "aaa"
       ],
       "age_hours": 19.5,
@@ -108,406 +147,125 @@
         "coverage": 0.67,
         "velocity": 0.5,
         "it_gap": 0.67,
-        "yt_demand": 0.07,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 0.58,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "GameSpot",
-        "IGN",
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 10,
-        "median_views": 538,
-        "top_views": 42888,
-        "top_title": "PLAYSTATION le VOLVIÓ a ROBAR a XBOX 🤯😱#playstation  #xbox  #thewitcher4  #cdprojektred  #gaming"
-      },
-      "youtube_query": "witcher playstation deal marketing sony",
-      "related": [
-        {
-          "headline": "Remedy CEO praises Rockstar's support for the Max Payne 1 & 2 remake and respecting Remedy's creative vision",
-          "shared_terms": [
-            "support"
-          ]
-        },
-        {
-          "headline": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
-          "shared_terms": [
-            "boss"
-          ]
-        },
-        {
-          "headline": "The Witcher 4 Dev Signs New 'Agreements' With Sony, But What Does It Mean For Xbox?",
-          "shared_terms": [
-            "signs"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "PlayStation Secures Marketing Agreement for The Witcher 4",
-          "url": "https://www.ign.com/articles/playstation-secures-marketing-agreement-for-the-witcher-4",
-          "published": "2026-11-24T19:59:13+00:00"
-        },
-        {
-          "source": "Push Square",
-          "title": "Sony Will Support The Witcher 4's Marketing, Much Like GTA 6",
-          "url": "https://www.pushsquare.com/news/2026/11/sony-will-support-the-witcher-4s-marketing-much-like-gta-6",
-          "published": "2026-11-24T20:00:00+00:00"
-        },
-        {
-          "source": "GameSpot",
-          "title": "Just Like GTA 6, The Witcher 4 Has A PlayStation Deal",
-          "url": "https://www.gamespot.com/articles/just-like-gta-6-the-witcher-4-has-a-playstation-deal/",
-          "published": "2026-11-24T20:11:48+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "CD Projekt Red signs new marketing partnership deal with Sony for The Witcher 4, and to increase \"the presence\" of its games on PlayStation",
-          "url": "https://www.eurogamer.net/cd-projekt-red-signs-new-marketing-partnership-deal-with-sony-for-the-witcher-4-and-to-increase-the-presence-of-its-games-on-playstation",
-          "published": "2026-11-25T12:04:20+00:00"
-        },
-        {
-          "source": "IGN",
-          "title": "The Witcher 4 and All CD Projekt's Upcoming Games Remain Multiplatform Despite PlayStation Marketing Deal, CD Projekt Boss Reassures",
-          "url": "https://www.ign.com/articles/the-witcher-4-and-all-cd-projekts-upcoming-games-remain-multiplatform-despite-playstation-marketing-deal-cd-projekt-boss-reassures",
-          "published": "2026-11-25T14:24:02+00:00"
-        },
-        {
-          "source": "GameSpot",
-          "title": "Witcher 4 Won’t Be A PS5 Exclusive After New Deal With PlayStation",
-          "url": "https://www.gamespot.com/articles/witcher-4-wont-be-a-ps5-exclusive-after-new-deal-with-playstation/",
-          "published": "2026-11-25T15:03:19+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "adding-desperate-dlc-eight-expansion-fans",
-      "score": 39.2,
-      "already_proposed": false,
-      "headline": "New Mario Kart World Free Update Leaves Fans Desperate For A Real DLC Expansion",
-      "topics": [
-        "nintendo",
-        "feel_good"
-      ],
-      "age_hours": 9.5,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.02,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku",
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 3,
-        "median_views": 32,
-        "top_views": 616,
-        "top_title": "Pauline Aero Racing: Dominating Special Cup & Leaf Cup in Mario Kart World"
-      },
-      "youtube_query": "kart update mario world leaves",
-      "related": [
-        {
-          "headline": "Tiny Bookshop Sells 1 Million Copies, New DLC Expansion Announced",
-          "shared_terms": [
-            "expansion"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Kotaku",
-          "title": "New Mario Kart World Free Update Leaves Fans Desperate For A Real DLC Expansion",
-          "url": "https://kotaku.com/new-mario-kart-world-free-update-leaves-fans-desperate-for-a-real-dlc-expansion-2001000222",
-          "published": "2026-11-25T05:55:11+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "Mario Kart World gets a new free update adding eight new tracks and other features",
-          "url": "https://www.videogameschronicle.com/news/mario-kart-world-gets-a-new-free-update-adding-eight-new-tracks-and-other-features/",
-          "published": "2026-11-25T10:23:39+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "capcom-dinosaur-exoprimal-extinct-looms-meteor",
-      "score": 38.9,
-      "already_proposed": false,
-      "headline": "Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year",
-      "topics": [
-        "aaa",
-        "industria"
-      ],
-      "age_hours": 5.7,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
         "yt_demand": 0.01,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "Rock Paper Shotgun"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 4,
-        "median_views": 4,
-        "top_views": 9,
-        "top_title": "Is Exoprimal really shutting down?"
-      },
-      "youtube_query": "dinosaur shooter exoprimal capcom year",
-      "related": [],
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "Capcom's sci-fi dinosaur shooter Exoprimal is shutting down next year",
-          "url": "https://www.eurogamer.net/exo-primal-shutting-down-2027",
-          "published": "2026-11-25T09:44:40+00:00"
-        },
-        {
-          "source": "Rock Paper Shotgun",
-          "title": "Capcom dinosaur shooter Exoprimal's servers will go extinct next year, as shutdown meteor looms",
-          "url": "https://www.rockpapershotgun.com/capcom-dinosaur-shooter-exoprimals-servers-will-go-extinct-next-year-as-shutdown-meteor-looms",
-          "published": "2026-11-25T12:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "criminal-disabled-explained-gta-having-pesky",
-      "score": 36.4,
-      "already_proposed": false,
-      "headline": "GTA 6: All Criminal Profiles explained",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 3.7,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.33,
-        "freshness": 1.0,
+        "freshness": 0.59,
         "weak_format": false
       },
       "coverage_en": [
         "Eurogamer",
+        "GamesIndustry",
+        "Nintendo Life",
         "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "criminal gta profiles disabled profile",
-      "related": [
-        {
-          "headline": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
-          "shared_terms": [
-            "explained"
-          ]
-        },
-        {
-          "headline": "Opinion: Grand Theft Auto VI and World of Warcraft: Forever show that mundanity is having a moment",
-          "shared_terms": [
-            "having"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "VGC",
-          "title": "GTA 6: All Criminal Profiles explained",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-criminal-profiles-explained/",
-          "published": "2026-11-25T11:47:36+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "I'm having a much better time in GTA 6 now I've disabled its pesky Criminal Profile pings",
-          "url": "https://www.eurogamer.net/im-having-a-much-better-time-in-gta-6-now-ive-disabled-its-pesky-criminal-profile-pings",
-          "published": "2026-11-25T14:06:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "actor-bautista-bought-gta-manny-perez",
-      "score": 34.4,
-      "already_proposed": false,
-      "headline": "Raul Bautista Actor Manny Perez Bought a PS5 So He Could Play GTA 6",
-      "topics": [
-        "playstation",
-        "aaa"
-      ],
-      "age_hours": 3.6,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.04,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "IGN"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 2,
-        "median_views": 145,
-        "top_views": 145,
-        "top_title": "Raul GTA 6: Manny Perez And The Dye Pack Jammer #shorts"
-      },
-      "youtube_query": "bautista raul bought manny perez",
-      "related": [],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "Raul Bautista Actor Manny Perez Bought a PS5 So He Could Play GTA 6",
-          "url": "https://www.ign.com/articles/raul-bautista-actor-manny-perez-playing-gta-6",
-          "published": "2026-11-25T11:51:09+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "capcom-dino-forever-four-later-live",
-      "score": 33.6,
-      "already_proposed": false,
-      "headline": "Capcom’s Live-Service Dino Shooter Is Going Offline Forever Just Four Years Later",
-      "topics": [
-        "aaa",
-        "easter_egg"
-      ],
-      "age_hours": 10.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.01,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Kotaku"
       ],
       "coverage_it": [],
       "youtube": {
         "video_count": 1,
         "median_views": 4,
         "top_views": 4,
-        "top_title": "Capcom’s Live-Service Dino Shooter Is Going Offline Forever Just Four Years Later #Shorts"
+        "top_title": "Ubisoft to Devs: Use AI or Justify Why Not!"
       },
-      "youtube_query": "offline dino live later four",
+      "youtube_query": "ubisoft justify reportedly generative using",
       "related": [
         {
-          "headline": "GTA 6 launch knocked Call of Duty's daily players down 42 percent, Alinea estimates",
+          "headline": "Ubisoft now require their devs to explain why they aren't using genAI in game pitches, claims report, though the Assassin's Creed publishers deny they're mandating it",
           "shared_terms": [
-            "live"
-          ]
-        },
-        {
-          "headline": "72 Years Later, Lord of the Rings Officially Reveals How Sauron Made the One Ring",
-          "shared_terms": [
-            "later"
+            "explain",
+            "pitches"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Kotaku",
-          "title": "Capcom’s Live-Service Dino Shooter Is Going Offline Forever Just Four Years Later",
-          "url": "https://kotaku.com/capcoms-live-service-dino-shooter-is-going-offline-forever-just-four-years-later-2001000218",
-          "published": "2026-11-25T05:23:04+00:00"
+          "source": "VGC",
+          "title": "Ubisoft is reportedly requiring developers to justify not using generative AI",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/",
+          "published": "2026-11-25T19:30:44+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Ubisoft staff must justify not using generative AI in pitches, report claims",
+          "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
+          "published": "2026-11-25T20:19:40+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Ubisoft Employees Reportedly Need To Justify Not Using AI When Pitching Projects",
+          "url": "https://www.nintendolife.com/news/2026/11/ubisoft-employees-reportedly-need-to-justify-not-using-ai-when-pitching-projects",
+          "published": "2026-11-26T10:15:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Ubisoft reportedly goes all in on company-wide generative-AI use, and if developers don't want to use it, they have to explain why in detail",
+          "url": "https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail",
+          "published": "2026-11-26T12:15:40+00:00"
         }
       ]
     },
     {
-      "story_id": "delisted-months-ps5",
-      "score": 33.5,
+      "story_id": "gta-locations-missing-persons",
+      "score": 35.9,
       "already_proposed": false,
-      "headline": "Another Big PS5 Game Will Be Delisted in the Coming Months",
+      "headline": "All Missing Persons locations in GTA 6",
       "topics": [
-        "playstation",
-        "industria"
+        "aaa"
       ],
-      "age_hours": 5.5,
+      "age_hours": 9.6,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "yt_demand": 0.18,
         "yt_room": 0.0,
-        "topic": 0.67,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Push Square"
+        "PC Gamer"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 10,
+        "median_views": 3338,
+        "top_views": 18388,
+        "top_title": "GTA 6 Hunting SERIAL KILLER Mystery SOLVED !"
       },
-      "youtube_query": "delisted months ps5",
+      "youtube_query": "locations persons missing gta",
       "related": [],
       "articles": [
         {
-          "source": "Push Square",
-          "title": "Another Big PS5 Game Will Be Delisted in the Coming Months",
-          "url": "https://www.pushsquare.com/news/2026/11/another-big-ps5-game-will-be-delisted-in-the-coming-months",
-          "published": "2026-11-25T10:00:00+00:00"
+          "source": "PC Gamer",
+          "title": "All Missing Persons locations in GTA 6",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/",
+          "published": "2026-11-26T05:24:13+00:00"
         }
       ]
     },
     {
-      "story_id": "alleged-bungie-dev-dumpster-ever-fire",
-      "score": 33.5,
+      "story_id": "claims-convince-father-intended-ken-kutaragi",
+      "score": 35.7,
       "already_proposed": false,
-      "headline": "AI-generated GTA 6 PC ports get nuked in alleged Rockstar takedown spree, as former Bungie dev hails \"most ridiculous dumpster fire ever\"",
+      "headline": "PlayStation father Ken Kutaragi claims he ‘secretly intended’ to convince Microsoft to make Xbox",
       "topics": [
-        "pc_gaming",
-        "aaa"
+        "playstation",
+        "xbox",
+        "easter_egg"
       ],
-      "age_hours": 4.8,
+      "age_hours": 3.3,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.67,
+        "topic": 1.0,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Rock Paper Shotgun"
+        "VGC"
       ],
       "coverage_it": [],
       "youtube": {
@@ -516,40 +274,34 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "hails bungie takedown ridiculous nuked",
+      "youtube_query": "kutaragi ken intended secretly convince",
       "related": [
         {
-          "headline": "Studio founded by former Apex Legends leaders is closing without releasing a game",
+          "headline": "Inside Retro Reset, the \"really inspirational\" father and son project teaching kids about classic games hardware from aboard a converted bus",
           "shared_terms": [
-            "former"
-          ]
-        },
-        {
-          "headline": "Take-Two Appears to Be Trying to Scrub GTA 6 PC Ports From the Internet, as Vibecoders Race Toward Controversial World First",
-          "shared_terms": [
-            "ports"
+            "father"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Rock Paper Shotgun",
-          "title": "AI-generated GTA 6 PC ports get nuked in alleged Rockstar takedown spree, as former Bungie dev hails \"most ridiculous dumpster fire ever\"",
-          "url": "https://www.rockpapershotgun.com/ai-generated-gta-6-pc-ports-get-nuked-in-alleged-rockstar-takedown-spree-as-former-bungie-dev-hails-most-ridiculous-dumpster-fire-ever",
-          "published": "2026-11-25T10:38:50+00:00"
+          "source": "VGC",
+          "title": "PlayStation father Ken Kutaragi claims he ‘secretly intended’ to convince Microsoft to make Xbox",
+          "url": "https://www.videogameschronicle.com/news/playstation-father-ken-kutaragi-claims-he-secretly-intended-to-convince-microsoft-to-make-xbox/",
+          "published": "2026-11-26T11:40:47+00:00"
         }
       ]
     },
     {
-      "story_id": "appears-controversial-gta-internet-ports-race",
+      "story_id": "gta-help-kick-method-not-patch",
       "score": 33.5,
       "already_proposed": false,
-      "headline": "Take-Two Appears to Be Trying to Scrub GTA 6 PC Ports From the Internet, as Vibecoders Race Toward Controversial World First",
+      "headline": "GTA 6 Weather Still Not Varied Even After the Patch? PS5 Players Are Sharing a Method That May Help Rain and Thunderstorms Kick In",
       "topics": [
-        "pc_gaming",
+        "playstation",
         "aaa"
       ],
-      "age_hours": 2.7,
+      "age_hours": 3.5,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -570,200 +322,50 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "vibecoders appears toward controversial scrub",
+      "youtube_query": "thunderstorms kick weather varied sharing",
       "related": [
         {
-          "headline": "Unofficial GTA 6 PC port effort suffers setback as Rockstar seemingly takes down Project Leonida, one of the internet's biggest recompilation projects",
+          "headline": "How to steal an ATM and get a winched vehicle in GTA 6",
           "shared_terms": [
-            "internet"
+            "method"
           ]
         },
         {
-          "headline": "AI-generated GTA 6 PC ports get nuked in alleged Rockstar takedown spree, as former Bungie dev hails \"most ridiculous dumpster fire ever\"",
+          "headline": "EA Sports FC 27 to resurrect John Motson with help from generative AI, because apparently football games need someone yelling about goals from beyond the grave",
           "shared_terms": [
-            "ports"
+            "help"
+          ]
+        },
+        {
+          "headline": "In good news for certain Slay the Spire 2 bosses, Mega Crit's latest beta patch is \"mostly Fool-centric\", with an absolute rain of nerfs",
+          "shared_terms": [
+            "rain"
           ]
         }
       ],
       "articles": [
         {
           "source": "IGN",
-          "title": "Take-Two Appears to Be Trying to Scrub GTA 6 PC Ports From the Internet, as Vibecoders Race Toward Controversial World First",
-          "url": "https://www.ign.com/articles/take-two-appears-to-be-trying-to-scrub-gta-6-pc-ports-from-the-internet-as-vibecoders-race-toward-controversial-world-first",
-          "published": "2026-11-25T12:44:11+00:00"
+          "title": "GTA 6 Weather Still Not Varied Even After the Patch? PS5 Players Are Sharing a Method That May Help Rain and Thunderstorms Kick In",
+          "url": "https://www.ign.com/articles/ps5-workaround-weather-gta-6",
+          "published": "2026-11-26T11:26:17+00:00"
         }
       ]
     },
     {
-      "story_id": "ability-ace-biggest-deliver-gta-hole",
+      "story_id": "dangerous-days-including-mario-november-party",
       "score": 33.5,
       "already_proposed": false,
-      "headline": "Any official GTA 6 PC port’s ability to deliver a proper first person mode would be its biggest ace in the hole, so reckon I, a traitor",
+      "headline": "10+ Xbox Games Are Releasing Today, Including A Dangerous Twist On Mario Party (November 26)",
       "topics": [
-        "pc_gaming",
-        "aaa"
+        "nintendo",
+        "xbox"
       ],
-      "age_hours": 1.5,
+      "age_hours": 3.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Rock Paper Shotgun"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "ability reckon official proper hole",
-      "related": [
-        {
-          "headline": "Opinion: Grand Theft Auto VI and World of Warcraft: Forever show that mundanity is having a moment",
-          "shared_terms": [
-            "person"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Rock Paper Shotgun",
-          "title": "Any official GTA 6 PC port’s ability to deliver a proper first person mode would be its biggest ace in the hole, so reckon I, a traitor",
-          "url": "https://www.rockpapershotgun.com/official-gta-6-pc-port-proper-first-person-mode-would-be-biggest-ace-in-the-hole",
-          "published": "2026-11-25T14:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "code-gta-modders-not-port-vibe",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "GTA 6 Modders Are Trying To Vibe-Code A PC Port, And It’s Not Going Well",
-      "topics": [
-        "pc_gaming",
-        "aaa"
-      ],
-      "age_hours": 1.1,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GameSpot"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "code vibe modders well port",
-      "related": [
-        {
-          "headline": "GTA 6 Hacker Releases Full Xbox Build, And PC Modders Are Already Trying To Get It Running",
-          "shared_terms": [
-            "modders"
-          ]
-        },
-        {
-          "headline": "GTA 6 recompilers and vibe-coders implore AI chatbots to 'work faster' and 'make no mistakes' as they race to get the game running on PC",
-          "shared_terms": [
-            "vibe"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "GameSpot",
-          "title": "GTA 6 Modders Are Trying To Vibe-Code A PC Port, And It’s Not Going Well",
-          "url": "https://www.gamespot.com/articles/gta-6-modders-are-trying-to-vibe-code-a-pc-port-and-its-not-going-well/",
-          "published": "2026-11-25T14:23:37+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "black-causes-consoles-friday-gta-ps5",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
-      "topics": [
-        "playstation",
-        "aaa"
-      ],
-      "age_hours": 1.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Push Square"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "causes sell consoles friday black",
-      "related": [
-        {
-          "headline": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
-          "shared_terms": [
-            "consoles"
-          ]
-        },
-        {
-          "headline": "GTA 6: When to sell AudaCity’s Dacity Coin for maximum profit",
-          "shared_terms": [
-            "sell"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Push Square",
-          "title": "GTA 6 Causes PS5 Consoles to Sell Out in US Before Black Friday",
-          "url": "https://www.pushsquare.com/news/2026/11/gta-6-causes-ps5-consoles-to-sell-out-in-us-before-black-friday",
-          "published": "2026-11-25T14:30:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "2027-capcom-chiuder-dagli-definitivamente-delisting",
-      "score": 32.3,
-      "already_proposed": false,
-      "headline": "Exoprimal chiuderà definitivamente nel 2027: Capcom svela la rimozione dagli store e lo spegnimento dei server",
-      "topics": [
-        "aaa",
-        "industria"
-      ],
-      "age_hours": 7.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.11,
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
@@ -773,49 +375,161 @@
       "coverage_en": [
         "Pure Xbox"
       ],
-      "coverage_it": [
-        "Multiplayer"
-      ],
+      "coverage_it": [],
       "youtube": {
         "video_count": 0,
         "median_views": 0,
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "exoprimal capcom 2027 server svela",
+      "youtube_query": "november xbox dangerous today including",
       "related": [
         {
-          "headline": "Microsoft reportedly looked into killing paid multiplayer for next-gen Xbox Helix consoles",
+          "headline": "\"No One Gets Left Behind\" - CDPR On The Witcher 4 Releasing For All Platforms At The Same Time",
           "shared_terms": [
-            "killing"
+            "releasing"
+          ]
+        },
+        {
+          "headline": "The GTA 6 Spoiler Interview Pt. 1: Rockstar on that Chapter 1 twist, cut content, and more",
+          "shared_terms": [
+            "twist"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Multiplayer",
-          "title": "Exoprimal chiuderà definitivamente nel 2027: Capcom svela la rimozione dagli store e lo spegnimento dei server",
-          "url": "https://multiplayer.it/notizie/exoprimal-chiudera-definitivamente-2027-capcom-svela-rimozione-store-spegnimento-server.html",
-          "published": "2026-11-25T07:55:34+00:00"
+          "source": "Pure Xbox",
+          "title": "10+ Xbox Games Are Releasing Today, Including A Dangerous Twist On Mario Party (November 26)",
+          "url": "https://www.purexbox.com/news/2026/11/10plus-xbox-games-are-releasing-today-including-a-dangerous-twist-on-mario-party-november-26",
+          "published": "2026-11-26T12:00:00+00:00"
         },
         {
           "source": "Pure Xbox",
-          "title": "Capcom Is Delisting Exoprimal In A Few Months, Then Killing It In 2027",
-          "url": "https://www.purexbox.com/news/2026/11/capcom-is-delisting-exoprimal-in-a-few-months-then-killing-it-in-2027",
-          "published": "2026-11-25T11:00:00+00:00"
+          "title": "Free Play Days: Try These Xbox Games For Free (November 26-29)",
+          "url": "https://www.purexbox.com/news/2026/11/free-play-days-try-these-xbox-games-for-free-november-26-29",
+          "published": "2026-11-26T13:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "agreements-dev-mean-mossa-signs-sony",
+      "story_id": "bonus-bricked-cursed-easter-egg-find",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "GTA 6 Bricked Up walkthrough: How to get the bonus reward in Bricked Up",
+      "topics": [
+        "aaa",
+        "easter_egg"
+      ],
+      "age_hours": 1.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "walkthrough gta bonus reward bricked",
+      "related": [
+        {
+          "headline": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
+          "shared_terms": [
+            "find"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "GTA 6 Bricked Up walkthrough: How to get the bonus reward in Bricked Up",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-bricked-up-walkthrough-how-to-get-the-bonus-reward-in-bricked-up/",
+          "published": "2026-11-26T13:36:44+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "GTA 6: Find the Cursed Knife and Ghost Ship easter egg walkthrough",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-cursed-knife-ghost-ship-easter-egg-walkthrough/",
+          "published": "2026-11-26T14:29:26+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "chapter-content-cut-gta-interview-rockstar",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "The GTA 6 Spoiler Interview Pt. 1: Rockstar on that Chapter 1 twist, cut content, and more",
+      "topics": [
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 1.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "chapter cut interview twist content",
+      "related": [
+        {
+          "headline": "Blizzard is making a lot of the Diablo 4's event-specific Diablo 2 anniversary content permanent because everyone loved it in Season 15",
+          "shared_terms": [
+            "content"
+          ]
+        },
+        {
+          "headline": "10+ Xbox Games Are Releasing Today, Including A Dangerous Twist On Mario Party (November 26)",
+          "shared_terms": [
+            "twist"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "The GTA 6 Spoiler Interview Pt. 1: Rockstar on that Chapter 1 twist, cut content, and more",
+          "url": "https://www.videogameschronicle.com/features/the-gta-6-spoiler-interview/",
+          "published": "2026-11-26T13:40:03+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "announcement-deluder-edizione-fans-feelings-giocatori",
       "score": 32.3,
       "already_proposed": false,
-      "headline": "The Witcher 4 Dev Signs New 'Agreements' With Sony, But What Does It Mean For Xbox?",
+      "headline": "Xbox Fans Make Their Feelings Known In Response To Yooka-Laylee Upgrade Announcement",
       "topics": [
-        "playstation",
-        "xbox"
+        "xbox",
+        "feel_good"
       ],
-      "age_hours": 3.5,
+      "age_hours": 4.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -838,33 +552,286 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "sony witcher agreements mossa sorpresa",
+      "youtube_query": "laylee yooka xbox feelings response",
       "related": [
         {
-          "headline": "You can expect a similar leap between The Witcher 3 and The Witcher 4 as there is between GTA 5 and GTA 6, CD Projekt Red says",
+          "headline": "Tired of GTA 6? Here's 23 lesser-known gems that might beat it at its own game",
           "shared_terms": [
-            "mean"
-          ]
-        },
-        {
-          "headline": "PlayStation Secures Marketing Agreement for The Witcher 4",
-          "shared_terms": [
-            "signs"
+            "known"
           ]
         }
       ],
       "articles": [
         {
           "source": "Pure Xbox",
-          "title": "The Witcher 4 Dev Signs New 'Agreements' With Sony, But What Does It Mean For Xbox?",
-          "url": "https://www.purexbox.com/news/2026/11/the-witcher-4-dev-signs-new-agreements-with-sony-but-what-does-it-mean-for-xbox",
-          "published": "2026-11-25T12:00:00+00:00"
+          "title": "Xbox Fans Make Their Feelings Known In Response To Yooka-Laylee Upgrade Announcement",
+          "url": "https://www.purexbox.com/news/2026/11/xbox-fans-make-their-feelings-known-in-response-to-yooka-laylee-upgrade-announcement",
+          "published": "2026-11-26T11:00:00+00:00"
         },
         {
           "source": "SpazioGames",
-          "title": "The Witcher 4, Sony fa una mossa a sorpresa",
-          "url": "https://www.spaziogames.it/notizie/the-witcher-4-sony-entra-in-gioco-prima-del-lancio",
-          "published": "2026-11-25T13:20:00+00:00"
+          "title": "Yooka-Laylee: la nuova edizione deluderà i giocatori Xbox",
+          "url": "https://www.spaziogames.it/notizie/yooka-laylee-la-nuova-edizione-spiazza-i-fan-xbox",
+          "published": "2026-11-26T11:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "franchises-greatest-hasn-later-riskiest-sci",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "20 Years Later, One of TV’s Greatest Sci-Fi Franchises Still Hasn’t Topped Its Riskiest Spin-Off",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 6.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "greatest hasn riskiest franchises topped",
+      "related": [
+        {
+          "headline": "51 Years Later, One of Peanuts’ Best Sally Brown Strips Is Still a Perfect School Joke",
+          "shared_terms": [
+            "later"
+          ]
+        },
+        {
+          "headline": "'Alien' Meets 'Vikings' in a 2008 Sci-Fi Spin on Beowulf That Deserves Redemption",
+          "shared_terms": [
+            "spin"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "20 Years Later, One of TV’s Greatest Sci-Fi Franchises Still Hasn’t Topped Its Riskiest Spin-Off",
+          "url": "https://www.polygon.com/torchwood-remains-the-best-doctor-who-spin-off/",
+          "published": "2026-11-26T09:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "brown-joke-later-peanuts-perfect-sally",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "51 Years Later, One of Peanuts’ Best Sally Brown Strips Is Still a Perfect School Joke",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 5.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "perfect strips brown peanuts school",
+      "related": [
+        {
+          "headline": "With Grand Theft Auto 6, The Series Has Outgrown Some Of Its Joke Brand Names",
+          "shared_terms": [
+            "joke"
+          ]
+        },
+        {
+          "headline": "20 Years Later, One of TV’s Greatest Sci-Fi Franchises Still Hasn’t Topped Its Riskiest Spin-Off",
+          "shared_terms": [
+            "later"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "51 Years Later, One of Peanuts’ Best Sally Brown Strips Is Still a Perfect School Joke",
+          "url": "https://www.polygon.com/sally-brown-rock-snakes-peanuts/",
+          "published": "2026-11-26T09:30:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "according-appmagic-combined-downloads-drives-franchise",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 4.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "appmagic according drives downloads mobile",
+      "related": [
+        {
+          "headline": "CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
+          "shared_terms": [
+            "franchise"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",
+          "url": "https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic",
+          "published": "2026-11-26T10:07:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "adjusts-battleground-blizzard-forever-grinding-players",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Blizzard adjusts popular World of Warcraft: Forever Battleground to stop players power-grinding rewards",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 4.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "battleground popular adjusts power grinding",
+      "related": [
+        {
+          "headline": "Blizzard is making a lot of the Diablo 4's event-specific Diablo 2 anniversary content permanent because everyone loved it in Season 15",
+          "shared_terms": [
+            "blizzard"
+          ]
+        },
+        {
+          "headline": "World of Warcraft: Forever's best new enchantment has been quietly changed, leaving some casters on the back foot",
+          "shared_terms": [
+            "warcraft"
+          ]
+        },
+        {
+          "headline": "GTA 6’s Furry Rescue Mission Is A Little Weird, But The Rewards Are Worth It",
+          "shared_terms": [
+            "rewards"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Blizzard adjusts popular World of Warcraft: Forever Battleground to stop players power-grinding rewards",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-alterac-valley-battleground-patched",
+          "published": "2026-11-26T10:46:10+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "modder-mode-multiplayer-part-shut-sony",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Another Modder Uses AI to Make a Multiplayer Mode for The Last of Us Part 2 — Will Sony Shut This One Down, Too?",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 4.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "uses modder multiplayer shut too",
+      "related": [
+        {
+          "headline": "Poll: Are You Still Happy To Pay For Online Multiplayer On Xbox Consoles?",
+          "shared_terms": [
+            "multiplayer"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Another Modder Uses AI to Make a Multiplayer Mode for The Last of Us Part 2 — Will Sony Shut This One Down, Too?",
+          "url": "https://www.ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2",
+          "published": "2026-11-26T11:00:06+00:00"
         }
       ]
     }

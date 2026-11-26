@@ -1,0 +1,839 @@
+{
+  "generated_at": "2026-11-26T14:58:41.358427+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "capri-complete-find-gta-hidden-mission",
+      "score": 74.3,
+      "already_proposed": false,
+      "headline": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
+      "topics": [
+        "aaa",
+        "easter_egg"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.9,
+        "yt_room": 1.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 81371,
+        "top_views": 81371,
+        "top_title": "Side Quests You SKIPPED in GTA 6 (And Shouldn’t Have)"
+      },
+      "youtube_query": "mission gta hidden capri safe",
+      "related": [
+        {
+          "headline": "Guide: GTA 6: Secret Controls the Game Doesn't Tell You",
+          "shared_terms": [
+            "secret"
+          ]
+        },
+        {
+          "headline": "GTA 6 Bricked Up walkthrough: How to get the bonus reward in Bricked Up",
+          "shared_terms": [
+            "find"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-secret-mission-in-capri-how-to-find-and-complete-the-hidden-mission/",
+          "published": "2026-11-26T13:00:13+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Should you participate in GTA 6's Safe Word mission?",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-word-participate-or-not/",
+          "published": "2026-11-26T13:03:16+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "annoying-fixes-improves-notes-patch-performance",
+      "score": 41.0,
+      "already_proposed": false,
+      "headline": "Witcher 3 Remastered Gets Its Next Update On Xbox & PC, Full Patch Notes Revealed",
+      "topics": [
+        "playstation",
+        "xbox",
+        "pc_gaming",
+        "aaa"
+      ],
+      "age_hours": 1.0,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "remastered patch witcher stutters improves",
+      "related": [
+        {
+          "headline": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5",
+          "shared_terms": [
+            "performance"
+          ]
+        },
+        {
+          "headline": "Feature: 8 Ways To Make Zelda: Ocarina Of Time More Difficult",
+          "shared_terms": [
+            "notes"
+          ]
+        },
+        {
+          "headline": "PlayStation Plus Free Games For December 2026 Revealed",
+          "shared_terms": [
+            "revealed"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Witcher 3 Remastered Gets Its Next Update On Xbox & PC, Full Patch Notes Revealed",
+          "url": "https://www.purexbox.com/news/2026/11/witcher-3-remastered-gets-its-next-update-on-xbox-and-pc-full-patch-notes-revealed",
+          "published": "2026-11-26T14:00:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "The Witcher 3 Remastered Patch 5.02 Fixes Annoying PS5 Stutters, Improves Performance, and Much More",
+          "url": "https://www.pushsquare.com/news/2026/11/the-witcher-3-remastered-patch-5-02-fixes-annoying-ps5-stutters-improves-performance-and-much-more",
+          "published": "2026-11-26T15:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "claims-company-detail-developers-don-employees",
+      "score": 35.9,
+      "already_proposed": false,
+      "headline": "Ubisoft is reportedly requiring developers to justify not using generative AI",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 19.5,
+      "signals": {
+        "coverage": 0.67,
+        "velocity": 0.5,
+        "it_gap": 0.67,
+        "yt_demand": 0.01,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.59,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "GamesIndustry",
+        "Nintendo Life",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 1,
+        "median_views": 4,
+        "top_views": 4,
+        "top_title": "Ubisoft to Devs: Use AI or Justify Why Not!"
+      },
+      "youtube_query": "ubisoft justify reportedly generative using",
+      "related": [
+        {
+          "headline": "Ubisoft now require their devs to explain why they aren't using genAI in game pitches, claims report, though the Assassin's Creed publishers deny they're mandating it",
+          "shared_terms": [
+            "explain",
+            "pitches"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "Ubisoft is reportedly requiring developers to justify not using generative AI",
+          "url": "https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/",
+          "published": "2026-11-25T19:30:44+00:00"
+        },
+        {
+          "source": "GamesIndustry",
+          "title": "Ubisoft staff must justify not using generative AI in pitches, report claims",
+          "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
+          "published": "2026-11-25T20:19:40+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Ubisoft Employees Reportedly Need To Justify Not Using AI When Pitching Projects",
+          "url": "https://www.nintendolife.com/news/2026/11/ubisoft-employees-reportedly-need-to-justify-not-using-ai-when-pitching-projects",
+          "published": "2026-11-26T10:15:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Ubisoft reportedly goes all in on company-wide generative-AI use, and if developers don't want to use it, they have to explain why in detail",
+          "url": "https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail",
+          "published": "2026-11-26T12:15:40+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "gta-locations-missing-persons",
+      "score": 35.9,
+      "already_proposed": false,
+      "headline": "All Missing Persons locations in GTA 6",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 9.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.18,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 3338,
+        "top_views": 18388,
+        "top_title": "GTA 6 Hunting SERIAL KILLER Mystery SOLVED !"
+      },
+      "youtube_query": "locations persons missing gta",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "All Missing Persons locations in GTA 6",
+          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/",
+          "published": "2026-11-26T05:24:13+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "claims-convince-father-intended-ken-kutaragi",
+      "score": 35.7,
+      "already_proposed": false,
+      "headline": "PlayStation father Ken Kutaragi claims he ‘secretly intended’ to convince Microsoft to make Xbox",
+      "topics": [
+        "playstation",
+        "xbox",
+        "easter_egg"
+      ],
+      "age_hours": 3.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "kutaragi ken intended secretly convince",
+      "related": [
+        {
+          "headline": "Inside Retro Reset, the \"really inspirational\" father and son project teaching kids about classic games hardware from aboard a converted bus",
+          "shared_terms": [
+            "father"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "PlayStation father Ken Kutaragi claims he ‘secretly intended’ to convince Microsoft to make Xbox",
+          "url": "https://www.videogameschronicle.com/news/playstation-father-ken-kutaragi-claims-he-secretly-intended-to-convince-microsoft-to-make-xbox/",
+          "published": "2026-11-26T11:40:47+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "gta-help-kick-method-not-patch",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "GTA 6 Weather Still Not Varied Even After the Patch? PS5 Players Are Sharing a Method That May Help Rain and Thunderstorms Kick In",
+      "topics": [
+        "playstation",
+        "aaa"
+      ],
+      "age_hours": 3.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "thunderstorms kick weather varied sharing",
+      "related": [
+        {
+          "headline": "How to steal an ATM and get a winched vehicle in GTA 6",
+          "shared_terms": [
+            "method"
+          ]
+        },
+        {
+          "headline": "EA Sports FC 27 to resurrect John Motson with help from generative AI, because apparently football games need someone yelling about goals from beyond the grave",
+          "shared_terms": [
+            "help"
+          ]
+        },
+        {
+          "headline": "In good news for certain Slay the Spire 2 bosses, Mega Crit's latest beta patch is \"mostly Fool-centric\", with an absolute rain of nerfs",
+          "shared_terms": [
+            "rain"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "GTA 6 Weather Still Not Varied Even After the Patch? PS5 Players Are Sharing a Method That May Help Rain and Thunderstorms Kick In",
+          "url": "https://www.ign.com/articles/ps5-workaround-weather-gta-6",
+          "published": "2026-11-26T11:26:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "dangerous-days-including-mario-november-party",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "10+ Xbox Games Are Releasing Today, Including A Dangerous Twist On Mario Party (November 26)",
+      "topics": [
+        "nintendo",
+        "xbox"
+      ],
+      "age_hours": 3.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "november xbox dangerous today including",
+      "related": [
+        {
+          "headline": "\"No One Gets Left Behind\" - CDPR On The Witcher 4 Releasing For All Platforms At The Same Time",
+          "shared_terms": [
+            "releasing"
+          ]
+        },
+        {
+          "headline": "The GTA 6 Spoiler Interview Pt. 1: Rockstar on that Chapter 1 twist, cut content, and more",
+          "shared_terms": [
+            "twist"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "10+ Xbox Games Are Releasing Today, Including A Dangerous Twist On Mario Party (November 26)",
+          "url": "https://www.purexbox.com/news/2026/11/10plus-xbox-games-are-releasing-today-including-a-dangerous-twist-on-mario-party-november-26",
+          "published": "2026-11-26T12:00:00+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Free Play Days: Try These Xbox Games For Free (November 26-29)",
+          "url": "https://www.purexbox.com/news/2026/11/free-play-days-try-these-xbox-games-for-free-november-26-29",
+          "published": "2026-11-26T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bonus-bricked-cursed-easter-egg-find",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "GTA 6 Bricked Up walkthrough: How to get the bonus reward in Bricked Up",
+      "topics": [
+        "aaa",
+        "easter_egg"
+      ],
+      "age_hours": 1.4,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "walkthrough gta bonus reward bricked",
+      "related": [
+        {
+          "headline": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
+          "shared_terms": [
+            "find"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "GTA 6 Bricked Up walkthrough: How to get the bonus reward in Bricked Up",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-bricked-up-walkthrough-how-to-get-the-bonus-reward-in-bricked-up/",
+          "published": "2026-11-26T13:36:44+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "GTA 6: Find the Cursed Knife and Ghost Ship easter egg walkthrough",
+          "url": "https://www.videogameschronicle.com/guide/gta-6-cursed-knife-ghost-ship-easter-egg-walkthrough/",
+          "published": "2026-11-26T14:29:26+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "chapter-content-cut-gta-interview-rockstar",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "The GTA 6 Spoiler Interview Pt. 1: Rockstar on that Chapter 1 twist, cut content, and more",
+      "topics": [
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 1.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "chapter cut interview twist content",
+      "related": [
+        {
+          "headline": "Blizzard is making a lot of the Diablo 4's event-specific Diablo 2 anniversary content permanent because everyone loved it in Season 15",
+          "shared_terms": [
+            "content"
+          ]
+        },
+        {
+          "headline": "10+ Xbox Games Are Releasing Today, Including A Dangerous Twist On Mario Party (November 26)",
+          "shared_terms": [
+            "twist"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "The GTA 6 Spoiler Interview Pt. 1: Rockstar on that Chapter 1 twist, cut content, and more",
+          "url": "https://www.videogameschronicle.com/features/the-gta-6-spoiler-interview/",
+          "published": "2026-11-26T13:40:03+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "announcement-deluder-edizione-fans-feelings-giocatori",
+      "score": 32.3,
+      "already_proposed": false,
+      "headline": "Xbox Fans Make Their Feelings Known In Response To Yooka-Laylee Upgrade Announcement",
+      "topics": [
+        "xbox",
+        "feel_good"
+      ],
+      "age_hours": 4.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [
+        "SpazioGames"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "laylee yooka xbox feelings response",
+      "related": [
+        {
+          "headline": "Tired of GTA 6? Here's 23 lesser-known gems that might beat it at its own game",
+          "shared_terms": [
+            "known"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Xbox Fans Make Their Feelings Known In Response To Yooka-Laylee Upgrade Announcement",
+          "url": "https://www.purexbox.com/news/2026/11/xbox-fans-make-their-feelings-known-in-response-to-yooka-laylee-upgrade-announcement",
+          "published": "2026-11-26T11:00:00+00:00"
+        },
+        {
+          "source": "SpazioGames",
+          "title": "Yooka-Laylee: la nuova edizione deluderà i giocatori Xbox",
+          "url": "https://www.spaziogames.it/notizie/yooka-laylee-la-nuova-edizione-spiazza-i-fan-xbox",
+          "published": "2026-11-26T11:35:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "franchises-greatest-hasn-later-riskiest-sci",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "20 Years Later, One of TV’s Greatest Sci-Fi Franchises Still Hasn’t Topped Its Riskiest Spin-Off",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 6.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "greatest hasn riskiest franchises topped",
+      "related": [
+        {
+          "headline": "51 Years Later, One of Peanuts’ Best Sally Brown Strips Is Still a Perfect School Joke",
+          "shared_terms": [
+            "later"
+          ]
+        },
+        {
+          "headline": "'Alien' Meets 'Vikings' in a 2008 Sci-Fi Spin on Beowulf That Deserves Redemption",
+          "shared_terms": [
+            "spin"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "20 Years Later, One of TV’s Greatest Sci-Fi Franchises Still Hasn’t Topped Its Riskiest Spin-Off",
+          "url": "https://www.polygon.com/torchwood-remains-the-best-doctor-who-spin-off/",
+          "published": "2026-11-26T09:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "brown-joke-later-peanuts-perfect-sally",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "51 Years Later, One of Peanuts’ Best Sally Brown Strips Is Still a Perfect School Joke",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 5.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "perfect strips brown peanuts school",
+      "related": [
+        {
+          "headline": "With Grand Theft Auto 6, The Series Has Outgrown Some Of Its Joke Brand Names",
+          "shared_terms": [
+            "joke"
+          ]
+        },
+        {
+          "headline": "20 Years Later, One of TV’s Greatest Sci-Fi Franchises Still Hasn’t Topped Its Riskiest Spin-Off",
+          "shared_terms": [
+            "later"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "51 Years Later, One of Peanuts’ Best Sally Brown Strips Is Still a Perfect School Joke",
+          "url": "https://www.polygon.com/sally-brown-rock-snakes-peanuts/",
+          "published": "2026-11-26T09:30:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "according-appmagic-combined-downloads-drives-franchise",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",
+      "topics": [
+        "aaa"
+      ],
+      "age_hours": 4.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "appmagic according drives downloads mobile",
+      "related": [
+        {
+          "headline": "CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
+          "shared_terms": [
+            "franchise"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",
+          "url": "https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic",
+          "published": "2026-11-26T10:07:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "adjusts-battleground-blizzard-forever-grinding-players",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Blizzard adjusts popular World of Warcraft: Forever Battleground to stop players power-grinding rewards",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 4.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "battleground popular adjusts power grinding",
+      "related": [
+        {
+          "headline": "Blizzard is making a lot of the Diablo 4's event-specific Diablo 2 anniversary content permanent because everyone loved it in Season 15",
+          "shared_terms": [
+            "blizzard"
+          ]
+        },
+        {
+          "headline": "World of Warcraft: Forever's best new enchantment has been quietly changed, leaving some casters on the back foot",
+          "shared_terms": [
+            "warcraft"
+          ]
+        },
+        {
+          "headline": "GTA 6’s Furry Rescue Mission Is A Little Weird, But The Rewards Are Worth It",
+          "shared_terms": [
+            "rewards"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "Blizzard adjusts popular World of Warcraft: Forever Battleground to stop players power-grinding rewards",
+          "url": "https://www.eurogamer.net/world-of-warcraft-forever-alterac-valley-battleground-patched",
+          "published": "2026-11-26T10:46:10+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "modder-mode-multiplayer-part-shut-sony",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Another Modder Uses AI to Make a Multiplayer Mode for The Last of Us Part 2 — Will Sony Shut This One Down, Too?",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 4.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "uses modder multiplayer shut too",
+      "related": [
+        {
+          "headline": "Poll: Are You Still Happy To Pay For Online Multiplayer On Xbox Consoles?",
+          "shared_terms": [
+            "multiplayer"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Another Modder Uses AI to Make a Multiplayer Mode for The Last of Us Part 2 — Will Sony Shut This One Down, Too?",
+          "url": "https://www.ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2",
+          "published": "2026-11-26T11:00:06+00:00"
+        }
+      ]
+    }
+  ]
+}
