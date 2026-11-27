@@ -1,121 +1,64 @@
 {
-  "generated_at": "2026-11-26T14:58:41.358427+00:00",
+  "generated_at": "2026-11-27T14:54:40.140207+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "capri-complete-find-gta-hidden-mission",
-      "score": 74.3,
-      "already_proposed": false,
-      "headline": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
-      "topics": [
-        "aaa",
-        "easter_egg"
-      ],
-      "age_hours": 2.0,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.9,
-        "yt_room": 1.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "PC Gamer",
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 81371,
-        "top_views": 81371,
-        "top_title": "Side Quests You SKIPPED in GTA 6 (And Shouldn’t Have)"
-      },
-      "youtube_query": "mission gta hidden capri safe",
-      "related": [
-        {
-          "headline": "Guide: GTA 6: Secret Controls the Game Doesn't Tell You",
-          "shared_terms": [
-            "secret"
-          ]
-        },
-        {
-          "headline": "GTA 6 Bricked Up walkthrough: How to get the bonus reward in Bricked Up",
-          "shared_terms": [
-            "find"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "VGC",
-          "title": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-secret-mission-in-capri-how-to-find-and-complete-the-hidden-mission/",
-          "published": "2026-11-26T13:00:13+00:00"
-        },
-        {
-          "source": "PC Gamer",
-          "title": "Should you participate in GTA 6's Safe Word mission?",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-safe-word-participate-or-not/",
-          "published": "2026-11-26T13:03:16+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "annoying-fixes-improves-notes-patch-performance",
-      "score": 41.0,
+      "story_id": "aim-annoying-areas-bright-bug-buildings",
+      "score": 60.8,
       "already_proposed": false,
       "headline": "Witcher 3 Remastered Gets Its Next Update On Xbox & PC, Full Patch Notes Revealed",
       "topics": [
+        "nintendo",
         "playstation",
         "xbox",
         "pc_gaming",
         "aaa"
       ],
-      "age_hours": 1.0,
+      "age_hours": 24.9,
       "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
+        "coverage": 0.83,
+        "velocity": 0.33,
+        "it_gap": 0.83,
+        "yt_demand": 0.3,
+        "yt_room": 1.0,
         "topic": 1.0,
-        "freshness": 1.0,
+        "freshness": 0.28,
         "weak_format": false
       },
       "coverage_en": [
+        "Nintendo Life",
+        "PC Gamer",
         "Pure Xbox",
-        "Push Square"
+        "Push Square",
+        "Rock Paper Shotgun"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 4,
+        "median_views": 9260,
+        "top_views": 77402,
+        "top_title": "The Witcher 3 Remastered HUGE UPDATE..."
       },
-      "youtube_query": "remastered patch witcher stutters improves",
+      "youtube_query": "patch remastered witcher notes update",
       "related": [
         {
-          "headline": "Performance analysis reveals GTA 6 has a more stable frame-rate on Xbox Series X compared to PlayStation 5",
+          "headline": "WoW: Forever fixes one of its most annoying endgame quests the literal day after I do it",
           "shared_terms": [
-            "performance"
+            "annoying"
           ]
         },
         {
-          "headline": "Feature: 8 Ways To Make Zelda: Ocarina Of Time More Difficult",
+          "headline": "Metal Slug Is The Latest Game From SNK In Line For A Movie Adaptation",
           "shared_terms": [
-            "notes"
+            "latest"
           ]
         },
         {
-          "headline": "PlayStation Plus Free Games For December 2026 Revealed",
+          "headline": "\"This isn't a sign to retreat\": Rockstar's historic union vote has failed, with 75% voting against, but the organisers are going to \"keep fighting\"",
           "shared_terms": [
-            "revealed"
+            "sign"
           ]
         }
       ],
@@ -127,133 +70,225 @@
           "published": "2026-11-26T14:00:00+00:00"
         },
         {
+          "source": "Nintendo Life",
+          "title": "The Witcher 3 Remastered Ver. 5.02 Update Is Now Live, Here Are The Full Patch Notes",
+          "url": "https://www.nintendolife.com/news/2026/11/the-witcher-3-remastered-ver-5-02-update-is-now-live-here-are-the-full-patch-notes",
+          "published": "2026-11-26T15:00:00+00:00"
+        },
+        {
           "source": "Push Square",
           "title": "The Witcher 3 Remastered Patch 5.02 Fixes Annoying PS5 Stutters, Improves Performance, and Much More",
           "url": "https://www.pushsquare.com/news/2026/11/the-witcher-3-remastered-patch-5-02-fixes-annoying-ps5-stutters-improves-performance-and-much-more",
           "published": "2026-11-26T15:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "claims-company-detail-developers-don-employees",
-      "score": 35.9,
-      "already_proposed": false,
-      "headline": "Ubisoft is reportedly requiring developers to justify not using generative AI",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 19.5,
-      "signals": {
-        "coverage": 0.67,
-        "velocity": 0.5,
-        "it_gap": 0.67,
-        "yt_demand": 0.01,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.59,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "GamesIndustry",
-        "Nintendo Life",
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 4,
-        "top_views": 4,
-        "top_title": "Ubisoft to Devs: Use AI or Justify Why Not!"
-      },
-      "youtube_query": "ubisoft justify reportedly generative using",
-      "related": [
-        {
-          "headline": "Ubisoft now require their devs to explain why they aren't using genAI in game pitches, claims report, though the Assassin's Creed publishers deny they're mandating it",
-          "shared_terms": [
-            "explain",
-            "pitches"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "VGC",
-          "title": "Ubisoft is reportedly requiring developers to justify not using generative AI",
-          "url": "https://www.videogameschronicle.com/news/ubisoft-is-reportedly-requiring-developers-to-justify-not-using-generative-ai/",
-          "published": "2026-11-25T19:30:44+00:00"
         },
         {
-          "source": "GamesIndustry",
-          "title": "Ubisoft staff must justify not using generative AI in pitches, report claims",
-          "url": "https://www.gamesindustry.biz/ubisoft-staff-must-justify-not-using-generative-ai-in-pitches-report-claims",
-          "published": "2026-11-25T20:19:40+00:00"
+          "source": "Rock Paper Shotgun",
+          "title": "The Witcher 3 Remastered's latest patch takes aim at mods nicking all of Geralt's possessions, disappearing buildings and an outbreak of \"overly bright red\" NPC leg areas",
+          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-takes-aim-at-mods-nicking-all-of-geralts-possessions-disappearing-buildings-and-an-outbreak-of-overly-bright-red-npc-leg-areas",
+          "published": "2026-11-26T17:00:00+00:00"
         },
         {
           "source": "Nintendo Life",
-          "title": "Ubisoft Employees Reportedly Need To Justify Not Using AI When Pitching Projects",
-          "url": "https://www.nintendolife.com/news/2026/11/ubisoft-employees-reportedly-need-to-justify-not-using-ai-when-pitching-projects",
-          "published": "2026-11-26T10:15:00+00:00"
+          "title": "Splatoon 3 Version 12.0.1 Update Out Now, Here Are The Patch Notes",
+          "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-1-update-out-now-here-are-the-patch-notes",
+          "published": "2026-11-27T01:05:00+00:00"
         },
         {
-          "source": "Eurogamer",
-          "title": "Ubisoft reportedly goes all in on company-wide generative-AI use, and if developers don't want to use it, they have to explain why in detail",
-          "url": "https://www.eurogamer.net/ubisoft-reportedly-goes-all-in-on-company-wide-generative-ai-use-and-if-developers-dont-want-to-use-it-they-have-to-explain-why-in-detail",
-          "published": "2026-11-26T12:15:40+00:00"
+          "source": "PC Gamer",
+          "title": "Witcher 3 Remastered patch has lighting fixes, sign nerfs, and gets rid of a nasty werewolf bug",
+          "url": "https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/",
+          "published": "2026-11-27T04:27:55+00:00"
         }
       ]
     },
     {
-      "story_id": "gta-locations-missing-persons",
-      "score": 35.9,
+      "story_id": "2026-amazon-announces-black-cashback-deals",
+      "score": 49.2,
       "already_proposed": false,
-      "headline": "All Missing Persons locations in GTA 6",
+      "headline": "The Best Pokémon TCG Black Friday Deals: Amazon Restocks, 10% Cashback at TCGplayer, and More",
       "topics": [
-        "aaa"
+        "pokemon",
+        "nintendo",
+        "playstation"
       ],
-      "age_hours": 9.6,
+      "age_hours": 6.9,
       "signals": {
-        "coverage": 0.17,
+        "coverage": 0.5,
         "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.18,
+        "it_gap": 0.33,
+        "yt_demand": 0.26,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Nintendo Life",
+        "Polygon"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 6720,
+        "top_views": 685313,
+        "top_title": "Best BLACK FRIDAY Gaming Deals You SHOULDN'T Miss (2026)"
+      },
+      "youtube_query": "friday black deals amazon switch",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "The Best Pokémon TCG Black Friday Deals: Amazon Restocks, 10% Cashback at TCGplayer, and More",
+          "url": "https://www.ign.com/articles/pokemon-tcg-black-friday-deals-2026",
+          "published": "2026-11-27T08:00:00+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "I migliori videogiochi sotto i 20 € per il Black Friday di Amazon",
+          "url": "https://multiplayer.it/notizie/i-migliori-videogiochi-sotto-i-20-per-il-black-friday-di-amazon.html",
+          "published": "2026-11-27T09:30:45+00:00"
+        },
+        {
+          "source": "Nintendo Life",
+          "title": "Here's A Handful Of The Spiciest Black Friday Switch 2 Deals",
+          "url": "https://www.nintendolife.com/news/2026/11/heres-a-handful-of-the-spiciest-black-friday-switch-2-deals",
+          "published": "2026-11-27T10:15:00+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "The Best Black Friday Gaming Deals of 2026",
+          "url": "https://www.polygon.com/best-black-friday-2026-gaming-deals/",
+          "published": "2026-11-27T12:18:56+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "PlayStation Announces New Black Friday Deals On Hardware",
+          "url": "https://www.polygon.com/playstation-black-friday-hardware-deals/",
+          "published": "2026-11-27T14:37:48+00:00"
+        },
+        {
+          "source": "Polygon",
+          "title": "Nintendo Officially Launches Black Friday Deals on Switch 2 and Games",
+          "url": "https://www.polygon.com/nintendo-black-friday-deals-2026-switch-2-mario-kart-world/",
+          "published": "2026-11-27T14:41:55+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "adventure-avengers-doomsday-enigma-faraway-finally",
+      "score": 36.8,
+      "already_proposed": false,
+      "headline": "5 Years Later, an Avengers: Doomsday Hero's Next MCU Adventure Is Finally Moving Forward",
+      "topics": [
+        "easter_egg"
+      ],
+      "age_hours": 3.8,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.01,
         "yt_room": 0.0,
         "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "PC Gamer"
+        "Eurogamer",
+        "Polygon"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 10,
-        "median_views": 3338,
-        "top_views": 18388,
-        "top_title": "GTA 6 Hunting SERIAL KILLER Mystery SOLVED !"
+        "video_count": 1,
+        "median_views": 19,
+        "top_views": 19,
+        "top_title": "SHANG-CHI 2 IS FINALLY MOVING FORWARD! 🔥 New Sequel Update"
       },
-      "youtube_query": "locations persons missing gta",
-      "related": [],
+      "youtube_query": "finally years mcu forward moving",
+      "related": [
+        {
+          "headline": "35 Years Later, Hollywood’s Deadliest Feud Is Still Its Most Reliable Fantasy Formula",
+          "shared_terms": [
+            "later"
+          ]
+        }
+      ],
       "articles": [
         {
-          "source": "PC Gamer",
-          "title": "All Missing Persons locations in GTA 6",
-          "url": "https://www.pcgamer.com/games/grand-theft-auto/gta-6-missing-persons-locations/",
-          "published": "2026-11-26T05:24:13+00:00"
+          "source": "Polygon",
+          "title": "5 Years Later, an Avengers: Doomsday Hero's Next MCU Adventure Is Finally Moving Forward",
+          "url": "https://www.polygon.com/shang-chi-2-sequel-movie-update-writer-dave-callaham/",
+          "published": "2026-11-27T11:07:31+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "At last, I've finally played Faraway, an enigma I've been waiting 16 years to see",
+          "url": "https://www.eurogamer.net/faraway-eliss-annapurna-interactive-16-years-finally-here",
+          "published": "2026-11-27T12:33:00+00:00"
         }
       ]
     },
     {
-      "story_id": "claims-convince-father-intended-ken-kutaragi",
+      "story_id": "animations-custom-dawneth-era-fatshark-levels",
+      "score": 35.8,
+      "already_proposed": false,
+      "headline": "Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too",
+      "topics": [
+        "steam"
+      ],
+      "age_hours": 13.4,
+      "signals": {
+        "coverage": 0.33,
+        "velocity": 1.0,
+        "it_gap": 0.33,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.92,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer",
+        "Rock Paper Shotgun"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "release vermintide tools public models",
+      "related": [],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too",
+          "url": "https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/",
+          "published": "2026-11-27T01:28:24+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "\"A new era\" for Vermintide 2 modding dawneth, as Fatshark release powerful new tools for custom levels, models and animations",
+          "url": "https://www.rockpapershotgun.com/a-new-era-for-vermintide-2-modding-dawneth-as-fatshark-release-powerful-new-tools-for-custom-levels-models-and-animations",
+          "published": "2026-11-27T12:52:30+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "contributed-efforts-enix-financial-results-square",
       "score": 35.7,
       "already_proposed": false,
-      "headline": "PlayStation father Ken Kutaragi claims he ‘secretly intended’ to convince Microsoft to make Xbox",
+      "headline": "Square Enix Says Its Efforts Supporting Switch 2 Have Contributed To Its Strong Financial Results",
       "topics": [
-        "playstation",
-        "xbox",
-        "easter_egg"
+        "nintendo",
+        "aaa",
+        "feel_good"
       ],
-      "age_hours": 3.3,
+      "age_hours": 12.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
@@ -265,7 +300,7 @@
         "weak_format": false
       },
       "coverage_en": [
-        "VGC"
+        "Nintendo Life"
       ],
       "coverage_it": [],
       "youtube": {
@@ -274,266 +309,133 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "kutaragi ken intended secretly convince",
+      "youtube_query": "supporting financial strong contributed enix",
       "related": [
         {
-          "headline": "Inside Retro Reset, the \"really inspirational\" father and son project teaching kids about classic games hardware from aboard a converted bus",
+          "headline": "Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator’s Success Following Launch Of GTA 6",
           "shared_terms": [
-            "father"
+            "efforts"
+          ]
+        },
+        {
+          "headline": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One",
+          "shared_terms": [
+            "results"
           ]
         }
       ],
       "articles": [
         {
-          "source": "VGC",
-          "title": "PlayStation father Ken Kutaragi claims he ‘secretly intended’ to convince Microsoft to make Xbox",
-          "url": "https://www.videogameschronicle.com/news/playstation-father-ken-kutaragi-claims-he-secretly-intended-to-convince-microsoft-to-make-xbox/",
-          "published": "2026-11-26T11:40:47+00:00"
+          "source": "Nintendo Life",
+          "title": "Square Enix Says Its Efforts Supporting Switch 2 Have Contributed To Its Strong Financial Results",
+          "url": "https://www.nintendolife.com/news/2026/11/square-enix-says-its-efforts-supporting-switch-2-have-contributed-to-its-strong-financial-results",
+          "published": "2026-11-27T02:55:00+00:00"
         }
       ]
     },
     {
-      "story_id": "gta-help-kick-method-not-patch",
-      "score": 33.5,
+      "story_id": "against-devs-employees-fails-gta-hands",
+      "score": 34.1,
       "already_proposed": false,
-      "headline": "GTA 6 Weather Still Not Varied Even After the Patch? PS5 Players Are Sharing a Method That May Help Rain and Thunderstorms Kick In",
+      "headline": "Union Vote Fails In Landslide At GTA 6 Studio Rockstar Games As 75 Percent Of Devs Vote No",
       "topics": [
-        "playstation",
-        "aaa"
+        "aaa",
+        "industria"
       ],
-      "age_hours": 3.5,
+      "age_hours": 23.7,
       "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "coverage": 0.83,
+        "velocity": 0.0,
+        "it_gap": 0.83,
+        "yt_demand": 0.02,
         "yt_room": 0.0,
         "topic": 0.67,
-        "freshness": 1.0,
+        "freshness": 0.35,
         "weak_format": false
       },
       "coverage_en": [
-        "IGN"
+        "Eurogamer",
+        "GameSpot",
+        "IGN",
+        "Kotaku",
+        "PC Gamer"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 10,
+        "median_views": 31,
+        "top_views": 141,
+        "top_title": "Funcionários da Rockstar rejeitam sindicato após lançamento de GTA 6 #shorts"
       },
-      "youtube_query": "thunderstorms kick weather varied sharing",
+      "youtube_query": "vote union rockstar fails recognition",
       "related": [
         {
-          "headline": "How to steal an ATM and get a winched vehicle in GTA 6",
+          "headline": "Ubisoft Employees Reportedly Need To Justify Not Using AI When Pitching Projects",
           "shared_terms": [
-            "method"
+            "employees"
           ]
         },
         {
-          "headline": "EA Sports FC 27 to resurrect John Motson with help from generative AI, because apparently football games need someone yelling about goals from beyond the grave",
+          "headline": "Ubisoft now require their devs to explain why they aren't using genAI in game pitches, claims report, though the Assassin's Creed publishers deny they're mandating it",
           "shared_terms": [
-            "help"
+            "devs"
           ]
         },
         {
-          "headline": "In good news for certain Slay the Spire 2 bosses, Mega Crit's latest beta patch is \"mostly Fool-centric\", with an absolute rain of nerfs",
+          "headline": "Nioh and Ninja Gaiden studio is using AI for QA, but argues \"that a game becomes fun when crafted by human hands\"",
           "shared_terms": [
-            "rain"
+            "hands",
+            "studio"
           ]
         }
       ],
       "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Union Vote Fails In Landslide At GTA 6 Studio Rockstar Games As 75 Percent Of Devs Vote No",
+          "url": "https://kotaku.com/rockstar-games-union-vote-fails-as-75-percent-of-devs-vote-no-2001000621",
+          "published": "2026-11-26T15:15:14+00:00"
+        },
         {
           "source": "IGN",
-          "title": "GTA 6 Weather Still Not Varied Even After the Patch? PS5 Players Are Sharing a Method That May Help Rain and Thunderstorms Kick In",
-          "url": "https://www.ign.com/articles/ps5-workaround-weather-gta-6",
-          "published": "2026-11-26T11:26:17+00:00"
+          "title": "Rockstar Games Issues Statement as Union Vote Fails",
+          "url": "https://www.ign.com/articles/rockstar-games-issues-statement-as-union-vote-fails",
+          "published": "2026-11-26T15:22:12+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Rockstar Games employees vote against union recognition",
+          "url": "https://www.eurogamer.net/rockstar-games-employees-vote-against-union-recognition",
+          "published": "2026-11-26T15:29:00+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "Rockstar workers vote overwhelmingly against union recognition",
+          "url": "https://www.pcgamer.com/gaming-industry/rockstar-workers-vote-overwhelmingly-against-union-recognition/",
+          "published": "2026-11-26T16:13:54+00:00"
+        },
+        {
+          "source": "GameSpot",
+          "title": "Rockstar Games Has A GTA 6 Hit On Its Hands, But Its Union Vote Is A Loss",
+          "url": "https://www.gamespot.com/articles/rockstar-games-has-a-gta-6-hit-on-its-hands-but-its-union-vote-is-a-loss/",
+          "published": "2026-11-26T17:05:21+00:00"
         }
       ]
     },
     {
-      "story_id": "dangerous-days-including-mario-november-party",
+      "story_id": "collab-dave-diver-fans-gta-hopeful",
       "score": 33.5,
       "already_proposed": false,
-      "headline": "10+ Xbox Games Are Releasing Today, Including A Dangerous Twist On Mario Party (November 26)",
-      "topics": [
-        "nintendo",
-        "xbox"
-      ],
-      "age_hours": 3.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Pure Xbox"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "november xbox dangerous today including",
-      "related": [
-        {
-          "headline": "\"No One Gets Left Behind\" - CDPR On The Witcher 4 Releasing For All Platforms At The Same Time",
-          "shared_terms": [
-            "releasing"
-          ]
-        },
-        {
-          "headline": "The GTA 6 Spoiler Interview Pt. 1: Rockstar on that Chapter 1 twist, cut content, and more",
-          "shared_terms": [
-            "twist"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Pure Xbox",
-          "title": "10+ Xbox Games Are Releasing Today, Including A Dangerous Twist On Mario Party (November 26)",
-          "url": "https://www.purexbox.com/news/2026/11/10plus-xbox-games-are-releasing-today-including-a-dangerous-twist-on-mario-party-november-26",
-          "published": "2026-11-26T12:00:00+00:00"
-        },
-        {
-          "source": "Pure Xbox",
-          "title": "Free Play Days: Try These Xbox Games For Free (November 26-29)",
-          "url": "https://www.purexbox.com/news/2026/11/free-play-days-try-these-xbox-games-for-free-november-26-29",
-          "published": "2026-11-26T13:00:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "bonus-bricked-cursed-easter-egg-find",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "GTA 6 Bricked Up walkthrough: How to get the bonus reward in Bricked Up",
+      "headline": "Random: Did Dave The Diver Just Tease A GTA 6 Collab? It Seems Unlikely, But Some Fans Are Hopeful",
       "topics": [
         "aaa",
-        "easter_egg"
-      ],
-      "age_hours": 1.4,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "walkthrough gta bonus reward bricked",
-      "related": [
-        {
-          "headline": "GTA 6 Secret Mission in Capri: How to Find and Complete the Hidden Mission",
-          "shared_terms": [
-            "find"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "VGC",
-          "title": "GTA 6 Bricked Up walkthrough: How to get the bonus reward in Bricked Up",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-bricked-up-walkthrough-how-to-get-the-bonus-reward-in-bricked-up/",
-          "published": "2026-11-26T13:36:44+00:00"
-        },
-        {
-          "source": "VGC",
-          "title": "GTA 6: Find the Cursed Knife and Ghost Ship easter egg walkthrough",
-          "url": "https://www.videogameschronicle.com/guide/gta-6-cursed-knife-ghost-ship-easter-egg-walkthrough/",
-          "published": "2026-11-26T14:29:26+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "chapter-content-cut-gta-interview-rockstar",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "The GTA 6 Spoiler Interview Pt. 1: Rockstar on that Chapter 1 twist, cut content, and more",
-      "topics": [
-        "aaa",
-        "storie"
-      ],
-      "age_hours": 1.3,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "chapter cut interview twist content",
-      "related": [
-        {
-          "headline": "Blizzard is making a lot of the Diablo 4's event-specific Diablo 2 anniversary content permanent because everyone loved it in Season 15",
-          "shared_terms": [
-            "content"
-          ]
-        },
-        {
-          "headline": "10+ Xbox Games Are Releasing Today, Including A Dangerous Twist On Mario Party (November 26)",
-          "shared_terms": [
-            "twist"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "VGC",
-          "title": "The GTA 6 Spoiler Interview Pt. 1: Rockstar on that Chapter 1 twist, cut content, and more",
-          "url": "https://www.videogameschronicle.com/features/the-gta-6-spoiler-interview/",
-          "published": "2026-11-26T13:40:03+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "announcement-deluder-edizione-fans-feelings-giocatori",
-      "score": 32.3,
-      "already_proposed": false,
-      "headline": "Xbox Fans Make Their Feelings Known In Response To Yooka-Laylee Upgrade Announcement",
-      "topics": [
-        "xbox",
         "feel_good"
       ],
-      "age_hours": 4.0,
+      "age_hours": 8.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
-        "it_gap": 0.11,
+        "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
@@ -541,210 +443,50 @@
         "weak_format": false
       },
       "coverage_en": [
-        "Pure Xbox"
+        "Nintendo Life"
       ],
-      "coverage_it": [
-        "SpazioGames"
-      ],
+      "coverage_it": [],
       "youtube": {
         "video_count": 0,
         "median_views": 0,
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "laylee yooka xbox feelings response",
+      "youtube_query": "unlikely seems hopeful random tease",
       "related": [
         {
-          "headline": "Tired of GTA 6? Here's 23 lesser-known gems that might beat it at its own game",
+          "headline": "Pokémon Champions X Pokémon GO Collab Taking Place Next Month",
           "shared_terms": [
-            "known"
+            "collab"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Pure Xbox",
-          "title": "Xbox Fans Make Their Feelings Known In Response To Yooka-Laylee Upgrade Announcement",
-          "url": "https://www.purexbox.com/news/2026/11/xbox-fans-make-their-feelings-known-in-response-to-yooka-laylee-upgrade-announcement",
-          "published": "2026-11-26T11:00:00+00:00"
-        },
-        {
-          "source": "SpazioGames",
-          "title": "Yooka-Laylee: la nuova edizione deluderà i giocatori Xbox",
-          "url": "https://www.spaziogames.it/notizie/yooka-laylee-la-nuova-edizione-spiazza-i-fan-xbox",
-          "published": "2026-11-26T11:35:00+00:00"
+          "source": "Nintendo Life",
+          "title": "Random: Did Dave The Diver Just Tease A GTA 6 Collab? It Seems Unlikely, But Some Fans Are Hopeful",
+          "url": "https://www.nintendolife.com/news/2026/11/random-did-dave-the-diver-just-tease-a-gta-6-collab-it-seems-unlikely-but-some-fans-are-hopeful",
+          "published": "2026-11-27T06:55:00+00:00"
         }
       ]
     },
     {
-      "story_id": "franchises-greatest-hasn-later-riskiest-sci",
-      "score": 31.2,
+      "story_id": "boss-different-grateful-gta-kept-prologue",
+      "score": 33.5,
       "already_proposed": false,
-      "headline": "20 Years Later, One of TV’s Greatest Sci-Fi Franchises Still Hasn’t Topped Its Riskiest Spin-Off",
+      "headline": "Rockstar boss \"so grateful\" to have kept GTA 6's big prologue twist a secret - and reveals Tomás' story could have been very different",
       "topics": [
+        "aaa",
         "easter_egg"
       ],
-      "age_hours": 6.0,
+      "age_hours": 3.4,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "greatest hasn riskiest franchises topped",
-      "related": [
-        {
-          "headline": "51 Years Later, One of Peanuts’ Best Sally Brown Strips Is Still a Perfect School Joke",
-          "shared_terms": [
-            "later"
-          ]
-        },
-        {
-          "headline": "'Alien' Meets 'Vikings' in a 2008 Sci-Fi Spin on Beowulf That Deserves Redemption",
-          "shared_terms": [
-            "spin"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "20 Years Later, One of TV’s Greatest Sci-Fi Franchises Still Hasn’t Topped Its Riskiest Spin-Off",
-          "url": "https://www.polygon.com/torchwood-remains-the-best-doctor-who-spin-off/",
-          "published": "2026-11-26T09:00:17+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "brown-joke-later-peanuts-perfect-sally",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "51 Years Later, One of Peanuts’ Best Sally Brown Strips Is Still a Perfect School Joke",
-      "topics": [
-        "easter_egg"
-      ],
-      "age_hours": 5.5,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "perfect strips brown peanuts school",
-      "related": [
-        {
-          "headline": "With Grand Theft Auto 6, The Series Has Outgrown Some Of Its Joke Brand Names",
-          "shared_terms": [
-            "joke"
-          ]
-        },
-        {
-          "headline": "20 Years Later, One of TV’s Greatest Sci-Fi Franchises Still Hasn’t Topped Its Riskiest Spin-Off",
-          "shared_terms": [
-            "later"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "51 Years Later, One of Peanuts’ Best Sally Brown Strips Is Still a Perfect School Joke",
-          "url": "https://www.polygon.com/sally-brown-rock-snakes-peanuts/",
-          "published": "2026-11-26T09:30:18+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "according-appmagic-combined-downloads-drives-franchise",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",
-      "topics": [
-        "aaa"
-      ],
-      "age_hours": 4.8,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GamesIndustry"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "appmagic according drives downloads mobile",
-      "related": [
-        {
-          "headline": "CD Projekt Red Expects GTA 5 to GTA 6-Like Upgrade in The Witcher 4",
-          "shared_terms": [
-            "franchise"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "GamesIndustry",
-          "title": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",
-          "url": "https://www.gamesindustry.biz/gta-6-launch-drives-combined-23m-downloads-of-franchises-mobile-ports-according-to-appmagic",
-          "published": "2026-11-26T10:07:50+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "adjusts-battleground-blizzard-forever-grinding-players",
-      "score": 31.2,
-      "already_proposed": false,
-      "headline": "Blizzard adjusts popular World of Warcraft: Forever Battleground to stop players power-grinding rewards",
-      "topics": [
-        "xbox"
-      ],
-      "age_hours": 4.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
+        "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -758,52 +500,47 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "battleground popular adjusts power grinding",
+      "youtube_query": "kept prologue grateful secret tomás",
       "related": [
         {
-          "headline": "Blizzard is making a lot of the Diablo 4's event-specific Diablo 2 anniversary content permanent because everyone loved it in Season 15",
+          "headline": "Rare co-founder reveals footage of cancelled Conker 64",
           "shared_terms": [
-            "blizzard"
+            "reveals"
           ]
         },
         {
-          "headline": "World of Warcraft: Forever's best new enchantment has been quietly changed, leaving some casters on the back foot",
+          "headline": "Dawn of War 4's campaigns differ based on your choices: 'which character you choose and what decisions you make with them lead down different experiences of an overlapping story'",
           "shared_terms": [
-            "warcraft"
-          ]
-        },
-        {
-          "headline": "GTA 6’s Furry Rescue Mission Is A Little Weird, But The Rewards Are Worth It",
-          "shared_terms": [
-            "rewards"
+            "different"
           ]
         }
       ],
       "articles": [
         {
           "source": "Eurogamer",
-          "title": "Blizzard adjusts popular World of Warcraft: Forever Battleground to stop players power-grinding rewards",
-          "url": "https://www.eurogamer.net/world-of-warcraft-forever-alterac-valley-battleground-patched",
-          "published": "2026-11-26T10:46:10+00:00"
+          "title": "Rockstar boss \"so grateful\" to have kept GTA 6's big prologue twist a secret - and reveals Tomás' story could have been very different",
+          "url": "https://www.eurogamer.net/gta-6-rockstar-debated-changing-jason-lucias-big-secret",
+          "published": "2026-11-27T11:31:00+00:00"
         }
       ]
     },
     {
-      "story_id": "modder-mode-multiplayer-part-shut-sony",
-      "score": 31.2,
+      "story_id": "behind-continue-despite-gta-leonida-nuked",
+      "score": 33.5,
       "already_proposed": false,
-      "headline": "Another Modder Uses AI to Make a Multiplayer Mode for The Last of Us Part 2 — Will Sony Shut This One Down, Too?",
+      "headline": "Despite Take-Two Takedown, Vibecoding Teen Behind Nuked GTA 6 PC Port Project 'Leonida' Vows to Continue",
       "topics": [
-        "playstation"
+        "pc_gaming",
+        "aaa"
       ],
-      "age_hours": 4.0,
+      "age_hours": 3.1,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.33,
+        "topic": 0.67,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -817,21 +554,294 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "uses modder multiplayer shut too",
+      "youtube_query": "behind teen vows vibecoding continue",
+      "related": [],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "Despite Take-Two Takedown, Vibecoding Teen Behind Nuked GTA 6 PC Port Project 'Leonida' Vows to Continue",
+          "url": "https://www.ign.com/articles/despite-take-two-takedown-vibecoding-teen-behind-nuked-gta-6-pc-port-project-leonida-vows-to-continue",
+          "published": "2026-11-27T11:51:13+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "cancelled-developer-hints-hit-remake-run",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
+      "topics": [
+        "aaa",
+        "storie"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "working seemingly developer hints cancelled",
       "related": [
         {
-          "headline": "Poll: Are You Still Happy To Pay For Online Multiplayer On Xbox Consoles?",
+          "headline": "Rare co-founder reveals footage of cancelled Conker 64",
           "shared_terms": [
-            "multiplayer"
+            "cancelled"
           ]
         }
       ],
       "articles": [
         {
+          "source": "VGC",
+          "title": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
+          "url": "https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/",
+          "published": "2026-11-27T12:53:49+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "adventure-awards-beats-gta-indie-north",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Indie puzzle adventure Rhell beats GTA 6 to win Best Game Made in The North at the Game Republic Awards",
+      "topics": [
+        "aaa",
+        "indie"
+      ],
+      "age_hours": 2.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "republic rhell beats indie awards",
+      "related": [],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "Indie puzzle adventure Rhell beats GTA 6 to win Best Game Made in The North at the Game Republic Awards",
+          "url": "https://www.gamesindustry.biz/indie-puzzle-adventure-rhell-beats-gta-6-to-win-best-game-made-in-the-north-at-the-game-republic-awards",
+          "published": "2026-11-27T12:55:20+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "backwards-compatibility-eight-feature-playable-rockstar",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Feature: Eight Rockstar Xbox Games That Are Still Playable With Backwards Compatibility",
+      "topics": [
+        "xbox",
+        "aaa"
+      ],
+      "age_hours": 1.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Pure Xbox"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "backwards compatibility playable eight feature",
+      "related": [
+        {
+          "headline": "10+ Xbox Games Are Releasing Today, Including A Dangerous Twist On Mario Party (November 26)",
+          "shared_terms": [
+            "eight"
+          ]
+        },
+        {
+          "headline": "Gallery: Get A Closer Look At Nintendo's Playable Ocarina Of Time",
+          "shared_terms": [
+            "playable"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Pure Xbox",
+          "title": "Feature: Eight Rockstar Xbox Games That Are Still Playable With Backwards Compatibility",
+          "url": "https://www.purexbox.com/features/eight-rockstar-xbox-games-that-are-still-playable-with-backwards-compatibility",
+          "published": "2026-11-27T13:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "deadliest-fantasy-feud-formula-hollywood-later",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "35 Years Later, Hollywood’s Deadliest Feud Is Still Its Most Reliable Fantasy Formula",
+      "topics": [
+        "easter_egg",
+        "feel_good"
+      ],
+      "age_hours": 0.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "hollywood deadliest feud formula reliable",
+      "related": [
+        {
+          "headline": "5 Years Later, an Avengers: Doomsday Hero's Next MCU Adventure Is Finally Moving Forward",
+          "shared_terms": [
+            "later"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "35 Years Later, Hollywood’s Deadliest Feud Is Still Its Most Reliable Fantasy Formula",
+          "url": "https://www.polygon.com/why-do-vampires-and-werewolves-hate-one-another/",
+          "published": "2026-11-27T14:00:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "bunkers-everything-gta-hidden-impossible-interdimensional",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
+      "topics": [
+        "aaa",
+        "easter_egg"
+      ],
+      "age_hours": 0.9,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "bunkers interdimensional losing meant portals",
+      "related": [],
+      "articles": [
+        {
           "source": "IGN",
-          "title": "Another Modder Uses AI to Make a Multiplayer Mode for The Last of Us Part 2 — Will Sony Shut This One Down, Too?",
-          "url": "https://www.ign.com/articles/new-multiplayer-mod-for-the-last-of-us-part-2",
-          "published": "2026-11-26T11:00:06+00:00"
+          "title": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
+          "url": "https://www.ign.com/articles/losing-six-stars-in-gta-6",
+          "published": "2026-11-27T14:01:09+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "gta-opinion-pirate-ports-problem-tools",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "GTA 6's pirate PC ports: new tools, old problem | Opinion",
+      "topics": [
+        "pc_gaming",
+        "aaa"
+      ],
+      "age_hours": 0.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "GamesIndustry"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "pirate problem opinion ports tools",
+      "related": [
+        {
+          "headline": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",
+          "shared_terms": [
+            "ports"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "GamesIndustry",
+          "title": "GTA 6's pirate PC ports: new tools, old problem | Opinion",
+          "url": "https://www.gamesindustry.biz/gta-6s-pirate-pc-ports-new-tools-old-problem-opinion",
+          "published": "2026-11-27T14:43:20+00:00"
         }
       ]
     }
