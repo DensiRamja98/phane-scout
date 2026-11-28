@@ -1,0 +1,896 @@
+{
+  "generated_at": "2026-11-28T14:03:20.316925+00:00",
+  "lookback_hours": 30,
+  "feed_failures": [],
+  "youtube_enabled": true,
+  "candidates": [
+    {
+      "story_id": "adds-anything-bound-cannon-cherry-confirms",
+      "score": 55.4,
+      "already_proposed": false,
+      "headline": "Hollow Knight: Silksong DLC Sea Of Sorrow Releases Free For All Players And Adds Fishing",
+      "topics": [
+        "xbox"
+      ],
+      "age_hours": 22.6,
+      "signals": {
+        "coverage": 1.0,
+        "velocity": 0.0,
+        "it_gap": 0.67,
+        "yt_demand": 1.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.41,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Kotaku",
+        "Pure Xbox",
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "coverage_it": [
+        "Gamesurf"
+      ],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 183739,
+        "top_views": 2142524,
+        "top_title": "Hollow Knight: Silksong - Sea of Sorrow - Launch Trailer"
+      },
+      "youtube_query": "sorrow sea silksong knight hollow",
+      "related": [
+        {
+          "headline": "19 Of This Year's Best Xbox Games Now Have Free Trials For All Players",
+          "shared_terms": [
+            "players"
+          ]
+        },
+        {
+          "headline": "Team Cherry Uses The Pull Of Silksong To Highlight A Trio Of Wonderful-Looking Indies",
+          "shared_terms": [
+            "team"
+          ]
+        },
+        {
+          "headline": "Alan Ritchson's Reacher Officially Hits Major Milestone Ahead of Season 5",
+          "shared_terms": [
+            "officially"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Kotaku",
+          "title": "Hollow Knight: Silksong DLC Sea Of Sorrow Releases Free For All Players And Adds Fishing",
+          "url": "https://kotaku.com/hollow-knight-silksong-dlc-sea-of-sorrow-releases-free-for-all-players-and-adds-fishing-2001001319",
+          "published": "2026-11-27T15:25:27+00:00"
+        },
+        {
+          "source": "Gamesurf",
+          "title": "Hollow Knight: Silksong - Sea of Sorrow - il trailer e la data",
+          "url": "https://www.gamesurf.it/news/hollow-knight-silksong-sea-of-sorrow-data-uscita-espansione-dlc-gratis-trailer-metroidvania",
+          "published": "2026-11-27T15:36:29+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Hollow Knight: Silksong - Sea of Sorrow Launch Trailer Finally Confirms Release Date, Teases Fishing",
+          "url": "https://www.ign.com/articles/hollow-knight-silksong-dlc-sea-of-sorrow-release-date",
+          "published": "2026-11-27T15:36:31+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Go fishing and fire Hornet out of a cannon in Silksong's December-bound Sea of Sorrow expansion, which Team Cherry say is \"unlike anything we’ve done before\"",
+          "url": "https://www.rockpapershotgun.com/go-fishing-and-fire-hornet-out-of-a-cannon-in-silksongs-december-bound-sea-of-sorrow-expansion-which-team-cherry-say-is-unlike-anything-weve-done-before",
+          "published": "2026-11-27T15:58:10+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Hollow Knight: Silksong’s first expansion, Sea of Sorrow, is officially out next month",
+          "url": "https://www.videogameschronicle.com/news/hollow-knight-silksongs-first-expansion-sea-of-sorrow-is-officially-out-next-month/",
+          "published": "2026-11-27T16:07:26+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Hollow Knight: Silksong's Sea of Sorrow DLC Launches Next Month, and It's Free",
+          "url": "https://www.pushsquare.com/news/2026/11/hollow-knight-silksongs-sea-of-sorrow-dlc-launches-next-month-and-its-free",
+          "published": "2026-11-27T16:30:00+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Hollow Knight: Silksong's Sea of Sorrow DLC Is Coming To Xbox Next Month, And It's Free",
+          "url": "https://www.purexbox.com/news/2026/11/hollow-knight-silksongs-sea-of-sorrow-dlc-is-coming-to-xbox-next-month-and-its-free",
+          "published": "2026-11-27T19:00:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "amid-awesome-blowingly-cancelation-cancellations-cancelled",
+      "score": 46.8,
+      "already_proposed": false,
+      "headline": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
+      "topics": [
+        "aaa",
+        "feel_good",
+        "storie",
+        "industria"
+      ],
+      "age_hours": 25.2,
+      "signals": {
+        "coverage": 1.0,
+        "velocity": 0.29,
+        "it_gap": 1.0,
+        "yt_demand": 0.08,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.27,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN",
+        "Kotaku",
+        "PC Gamer",
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 645,
+        "top_views": 2908,
+        "top_title": "I Have Some Bad News About The Rumored Simpsons Hit & Run Remake"
+      },
+      "youtube_query": "simpsons hit run remake cancelled",
+      "related": [
+        {
+          "headline": "ArcheAge Chronicles developer XL Games faces major layoffs and possible closure after disappointing sales",
+          "shared_terms": [
+            "layoffs"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
+          "url": "https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/",
+          "published": "2026-11-27T12:53:49+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Fans Worry The Simpsons: Hit & Run Remake May Have Been Killed Amid Studio Layoffs",
+          "url": "https://kotaku.com/fans-worry-the-simpsons-hit-run-remake-may-have-been-killed-amid-studio-layoffs-2001001317",
+          "published": "2026-11-27T14:58:50+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Rumoured Simpsons: Hit & Run remake could be dead in the water, as New Radical Games devs suggest their unannounced game's been cancelled",
+          "url": "https://www.rockpapershotgun.com/rumoured-simpsons-hit-run-remake-could-be-dead-in-the-water-as-new-radical-games-devs-suggest-their-unannounced-games-been-cancelled",
+          "published": "2026-11-27T17:00:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "The Much-Rumoured Simpsons Hit & Run Remake May Have Been Cancelled",
+          "url": "https://www.pushsquare.com/news/2026/11/the-much-rumoured-simpsons-hit-and-run-remake-may-have-been-cancelled",
+          "published": "2026-11-27T17:30:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Rumoured The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
+          "url": "https://www.eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled",
+          "published": "2026-11-27T18:08:20+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Concern for Rumored The Simpsons: Hit & Run Remake Amid Radical Game Cancelation",
+          "url": "https://www.ign.com/articles/radical-entertainment-layoffs-simpsons-hit-run-remake-cancellation",
+          "published": "2026-11-28T11:57:16+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "A purported remake of The Simpsons: Hit & Run may have been scrapped, after a developer says their project was part of 'a gaggle of cancellations'",
+          "url": "https://www.pcgamer.com/gaming-industry/a-purported-remake-of-the-simpsons-hit-and-run-may-have-been-scrapped-after-a-developer-says-their-project-was-part-of-a-gaggle-of-cancellations/",
+          "published": "2026-11-28T12:24:39+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "185-black-celebrating-completely-consoles-controllers",
+      "score": 45.2,
+      "already_proposed": false,
+      "headline": "Here's A Handful Of The Spiciest Black Friday Switch 2 Deals",
+      "topics": [
+        "nintendo",
+        "playstation",
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 27.8,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.17,
+        "it_gap": 0.83,
+        "yt_demand": 0.34,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.12,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Nintendo Life",
+        "PC Gamer",
+        "Push Square",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 11772,
+        "top_views": 328623,
+        "top_title": "Best Black Friday Tech Deals - 2026"
+      },
+      "youtube_query": "deals friday black ps5 gta",
+      "related": [
+        {
+          "headline": "\"Does changing where games run cross a legal line?\" Microsoft-owned Github ask in now-deleted post celebrating GTA 6's effect on PC port-focused PS5 emulator",
+          "shared_terms": [
+            "celebrating"
+          ]
+        },
+        {
+          "headline": "PS5 Hit Ghost of Yotei Drops to an All-Time Low In PlayStation’s Black Friday Sale",
+          "shared_terms": [
+            "dualsense"
+          ]
+        },
+        {
+          "headline": "The better version of the wireless headset I love is $40 off right now",
+          "shared_terms": [
+            "love"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Here's A Handful Of The Spiciest Black Friday Switch 2 Deals",
+          "url": "https://www.nintendolife.com/news/2026/11/heres-a-handful-of-the-spiciest-black-friday-switch-2-deals",
+          "published": "2026-11-27T10:15:00+00:00"
+        },
+        {
+          "source": "VGC",
+          "title": "Fanatical is celebrating Black Friday with 20 flash deals for one day only, offering up to 96% off",
+          "url": "https://www.videogameschronicle.com/news/fanatical-is-celebrating-black-friday-with-20-flash-deals-for-one-day-only-offering-up-to-96-off/",
+          "published": "2026-11-27T16:19:45+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "After falling in love with PS5 haptic feedback in GTA 6, I'm eyeing these Black Friday deals on DualSense controllers",
+          "url": "https://www.pcgamer.com/hardware/controllers/after-falling-in-love-with-ps5-haptic-feedback-in-gta-6-im-eyeing-these-black-friday-deals-on-dualsense-controllers/",
+          "published": "2026-11-27T19:40:21+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "I went completely cordless and for $185 you can get better prices on better products than I did with these Black Friday PC peripheral deals",
+          "url": "https://www.pcgamer.com/hardware/i-went-completely-cordless-and-for-usd185-you-can-get-better-prices-on-better-products-than-i-did-with-these-black-friday-pc-peripheral-deals/",
+          "published": "2026-11-27T20:57:32+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Site News: Save 5% on PS5 Games with Push Square's Black Friday Deals",
+          "url": "https://www.pushsquare.com/news/2026/11/site-news-save-5percent-on-ps5-games-with-push-squares-black-friday-deals",
+          "published": "2026-11-28T00:00:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Raylo's Black Friday Deals Mean You Can Get A PS5 With GTA 6 & Other Consoles Right Away at Under £20 a Month",
+          "url": "https://www.ign.com/articles/raylos-black-friday-gaming-console-deals",
+          "published": "2026-11-28T10:31:06+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "plush-pok-mon-revealed-starter-waves-winds",
+      "score": 35.1,
+      "already_proposed": false,
+      "headline": "Pokémon Winds & Waves Starter Pokémon Plush Revealed",
+      "topics": [
+        "pokemon"
+      ],
+      "age_hours": 13.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.17,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.95,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 2983,
+        "top_views": 17612,
+        "top_title": "Pokémon GEN 10 Starter Plushes Revealed!"
+      },
+      "youtube_query": "plush winds revealed waves starter",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Pokémon Winds & Waves Starter Pokémon Plush Revealed",
+          "url": "https://www.nintendolife.com/news/2026/11/pokemon-winds-and-waves-starter-pokemon-plush-revealed",
+          "published": "2026-11-28T01:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "arrivano-dec-epic-gratis-nov-playstation",
+      "score": 34.6,
+      "already_proposed": false,
+      "headline": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 27-Dec. 3)",
+      "topics": [
+        "playstation",
+        "xbox",
+        "steam"
+      ],
+      "age_hours": 10.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [
+        "Multiplayer"
+      ],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "epic xbox dec nov provare",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 27-Dec. 3)",
+          "url": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-27-dec-3/",
+          "published": "2026-11-28T03:14:12+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "La prossima settimana arrivano tanti giochi da provare gratis su Epic Games, PlayStation e Xbox",
+          "url": "https://multiplayer.it/notizie/la-prossima-settimana-arrivano-tanti-giochi-da-provare-gratis-su-epic-games-playstation-e-xbox.html",
+          "published": "2026-11-28T10:10:13+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "according-cancelled-developer-doom-former-fun",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "The cancelled Doom 4 was 'actually a fun game', according to a former id Software developer, but it had one big problem",
+      "topics": [
+        "xbox",
+        "storie"
+      ],
+      "age_hours": 3.2,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "PC Gamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "according software former fun problem",
+      "related": [
+        {
+          "headline": "GTA 6's pirate PC ports: new tools, old problem | Opinion",
+          "shared_terms": [
+            "problem"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "PC Gamer",
+          "title": "The cancelled Doom 4 was 'actually a fun game', according to a former id Software developer, but it had one big problem",
+          "url": "https://www.pcgamer.com/games/fps/the-cancelled-doom-4-was-actually-a-fun-game-according-to-a-former-id-software-developer-but-it-had-one-big-problem/",
+          "published": "2026-11-28T10:52:25+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "ending-hbo-later-near-perfect-series",
+      "score": 33.5,
+      "already_proposed": false,
+      "headline": "12 Years Later, Hbo's Near-Perfect Vampire Series Still Has an Unwatchable Ending",
+      "topics": [
+        "xbox",
+        "easter_egg"
+      ],
+      "age_hours": 3.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.67,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "unwatchable ending vampire near perfect",
+      "related": [
+        {
+          "headline": "At last, I've finally played Faraway, an enigma I've been waiting 16 years to see",
+          "shared_terms": [
+            "years"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "12 Years Later, Hbo's Near-Perfect Vampire Series Still Has an Unwatchable Ending",
+          "url": "https://www.polygon.com/true-blood-series-finale-look-back/",
+          "published": "2026-11-28T11:00:17+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "152-2026-america-black-brings-buy",
+      "score": 32.8,
+      "already_proposed": false,
+      "headline": "PS5 Hit Ghost of Yotei Drops to an All-Time Low In PlayStation’s Black Friday Sale",
+      "topics": [
+        "playstation",
+        "xbox",
+        "steam"
+      ],
+      "age_hours": 22.7,
+      "signals": {
+        "coverage": 0.5,
+        "velocity": 0.29,
+        "it_gap": 0.5,
+        "yt_demand": 0.1,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.4,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "IGN",
+        "Pure Xbox",
+        "Push Square"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 2,
+        "median_views": 985,
+        "top_views": 985,
+        "top_title": "FINALLY! PS5 Price Drop in India! 🤯🔥 #ps5 #gaming #shorts"
+      },
+      "youtube_query": "friday black sale ps5 drops",
+      "related": [
+        {
+          "headline": "Here's A Handful Of The Spiciest Black Friday Switch 2 Deals",
+          "shared_terms": [
+            "dualsense"
+          ]
+        },
+        {
+          "headline": "Indie puzzle adventure Rhell beats GTA 6 to win Best Game Made in The North at the Game Republic Awards",
+          "shared_terms": [
+            "north"
+          ]
+        },
+        {
+          "headline": "Metal Gear Solid Master Collection Vol. 2 Gets Its First Major Discount for Black Friday, Dropping to $30",
+          "shared_terms": [
+            "discounts"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "IGN",
+          "title": "PS5 Hit Ghost of Yotei Drops to an All-Time Low In PlayStation’s Black Friday Sale",
+          "url": "https://www.ign.com/articles/ghost-of-yotei-plummets-to-35-in-stellar-50-off-black-friday-deal-from-playstation",
+          "published": "2026-11-27T15:20:00+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Feature: 25+ More Of The Best Discounted Games From Xbox's Black Friday 2026 Sale",
+          "url": "https://www.purexbox.com/features/25plus-more-of-the-best-discounted-games-from-xboxs-black-friday-2026-sale",
+          "published": "2026-11-27T17:00:00+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Site News: Pure Xbox's Black Friday Sale",
+          "url": "https://www.purexbox.com/news/2026/11/site-news-pure-xboxs-black-friday-sale",
+          "published": "2026-11-27T18:00:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Steam's 2026 Black Friday Sale Brings First-Time Discounts to New PC Games",
+          "url": "https://www.ign.com/articles/best-game-deals-steam-black-friday-sale-2026",
+          "published": "2026-11-27T18:51:18+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "The Sony PlayStation DualSense Edge Controller Drops to $152 Exclusively at Lenovo for Black Friday",
+          "url": "https://www.ign.com/articles/sony-playstation-dualsense-edge-controller-deal-black-friday-sale-2026",
+          "published": "2026-11-27T19:30:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Feature: 80+ PS5, PS4 Games to Buy in PS Store's Updated Black Friday Sale (North America/Europe)",
+          "url": "https://www.pushsquare.com/features/80plus-ps5-ps4-games-to-buy-in-ps-stores-updated-black-friday-sale-north-americaeurope",
+          "published": "2026-11-28T00:30:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Earn Cashback on PS5 Games in Sony's Black Friday Sale",
+          "url": "https://www.pushsquare.com/news/2026/11/earn-cashback-on-ps5-games-in-sonys-black-friday-sale",
+          "published": "2026-11-28T01:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "added-dream-included-life-living-music",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Tomodachi Life: Living The Dream Soundtrack Added To Nintendo Music, Here's Every Song Included",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 12.0,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "added dream included living soundtrack",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Tomodachi Life: Living The Dream Soundtrack Added To Nintendo Music, Here's Every Song Included",
+          "url": "https://www.nintendolife.com/news/2026/11/tomodachi-life-living-the-dream-soundtrack-added-to-nintendo-music-heres-every-song-included",
+          "published": "2026-11-28T02:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "barely-classic-playable-playstation-today",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "8 Classic PlayStation Games That Are Barely Playable Today",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 10.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "barely classic playable today playstation",
+      "related": [
+        {
+          "headline": "Eight Xbox Games Are Releasing Today, Including A Dark Fantasy 'Shooter-MOBA' On Xbox Game Pass (November 27)",
+          "shared_terms": [
+            "today"
+          ]
+        },
+        {
+          "headline": "Feature: Eight Rockstar Xbox Games That Are Still Playable With Backwards Compatibility",
+          "shared_terms": [
+            "playable"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "8 Classic PlayStation Games That Are Barely Playable Today",
+          "url": "https://www.polygon.com/classic-playstation-games-unplayable-today/",
+          "published": "2026-11-28T03:31:15+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "archeage-chronicles-closure-developer-disappointing-faces",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "ArcheAge Chronicles developer XL Games faces major layoffs and possible closure after disappointing sales",
+      "topics": [
+        "industria"
+      ],
+      "age_hours": 3.3,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "disappointing possible sales faces layoffs",
+      "related": [
+        {
+          "headline": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
+          "shared_terms": [
+            "layoffs"
+          ]
+        },
+        {
+          "headline": "After drawing ire for selling new Mass Effect merch following BioWare closure, EA is now flogging new Dragon Age tat too",
+          "shared_terms": [
+            "closure"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "ArcheAge Chronicles developer XL Games faces major layoffs and possible closure after disappointing sales",
+          "url": "https://www.eurogamer.net/archeage-chronicles-xl-games-restructuring-layoffs-closure",
+          "published": "2026-11-28T10:44:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "notes-patch-splatoon-update-version",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Splatoon 3 Version 12.0.1 Update Out Now, Here Are The Patch Notes",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 13.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.91,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 91,
+        "top_views": 163,
+        "top_title": "Splatoon 3 Version 12.0.1 Update Hits Anarchy Battle"
+      },
+      "youtube_query": "notes splatoon update version patch",
+      "related": [
+        {
+          "headline": "Digital Extremes says Warframe's imminent Tau update is practically big enough to be a sequel as it reveals new details, including dog walking",
+          "shared_terms": [
+            "update"
+          ]
+        },
+        {
+          "headline": "The better version of the wireless headset I love is $40 off right now",
+          "shared_terms": [
+            "version"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Splatoon 3 Version 12.0.1 Update Out Now, Here Are The Patch Notes",
+          "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-1-update-out-now-here-are-the-patch-notes",
+          "published": "2026-11-28T00:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "books-read-sci",
+      "score": 30.2,
+      "already_proposed": false,
+      "headline": "8 Sci-Fi Books That Get Even Better the Second Time You Read Them",
+      "topics": [],
+      "age_hours": 5.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 238,
+        "top_views": 1508,
+        "top_title": "2 dystopian sci-fi books i’ve read this year that genuinely left me staring at a wall :D #bookrecs"
+      },
+      "youtube_query": "books sci read",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "8 Sci-Fi Books That Get Even Better the Second Time You Read Them",
+          "url": "https://www.polygon.com/sci-fi-books-better-second-time/",
+          "published": "2026-11-28T09:00:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "comics-far-food-funniest-side",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "7 Funniest 'Far Side' Comics About Food",
+      "topics": [],
+      "age_hours": 9.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "comics funniest side food far",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "7 Funniest 'Far Side' Comics About Food",
+          "url": "https://www.polygon.com/7-funniest-far-side-comics-about-food/",
+          "published": "2026-11-28T05:00:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2014-bus-calls-charlatan-disgusting-woman",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\"",
+      "topics": [],
+      "age_hours": 6.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "charlatan calls bus disgusting woman",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\"",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-woman-on-a-bus",
+          "published": "2026-11-28T08:00:00+00:00"
+        }
+      ]
+    }
+  ]
+}

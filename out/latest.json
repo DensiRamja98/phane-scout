@@ -1,156 +1,261 @@
 {
-  "generated_at": "2026-11-27T14:54:40.140207+00:00",
+  "generated_at": "2026-11-28T14:03:20.316925+00:00",
   "lookback_hours": 30,
   "feed_failures": [],
   "youtube_enabled": true,
   "candidates": [
     {
-      "story_id": "aim-annoying-areas-bright-bug-buildings",
-      "score": 60.8,
+      "story_id": "adds-anything-bound-cannon-cherry-confirms",
+      "score": 55.4,
       "already_proposed": false,
-      "headline": "Witcher 3 Remastered Gets Its Next Update On Xbox & PC, Full Patch Notes Revealed",
+      "headline": "Hollow Knight: Silksong DLC Sea Of Sorrow Releases Free For All Players And Adds Fishing",
       "topics": [
-        "nintendo",
-        "playstation",
-        "xbox",
-        "pc_gaming",
-        "aaa"
+        "xbox"
       ],
-      "age_hours": 24.9,
+      "age_hours": 22.6,
       "signals": {
-        "coverage": 0.83,
-        "velocity": 0.33,
-        "it_gap": 0.83,
-        "yt_demand": 0.3,
-        "yt_room": 1.0,
-        "topic": 1.0,
-        "freshness": 0.28,
+        "coverage": 1.0,
+        "velocity": 0.0,
+        "it_gap": 0.67,
+        "yt_demand": 1.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.41,
         "weak_format": false
       },
       "coverage_en": [
-        "Nintendo Life",
-        "PC Gamer",
+        "IGN",
+        "Kotaku",
         "Pure Xbox",
         "Push Square",
-        "Rock Paper Shotgun"
+        "Rock Paper Shotgun",
+        "VGC"
       ],
-      "coverage_it": [],
+      "coverage_it": [
+        "Gamesurf"
+      ],
       "youtube": {
-        "video_count": 4,
-        "median_views": 9260,
-        "top_views": 77402,
-        "top_title": "The Witcher 3 Remastered HUGE UPDATE..."
+        "video_count": 10,
+        "median_views": 183739,
+        "top_views": 2142524,
+        "top_title": "Hollow Knight: Silksong - Sea of Sorrow - Launch Trailer"
       },
-      "youtube_query": "patch remastered witcher notes update",
+      "youtube_query": "sorrow sea silksong knight hollow",
       "related": [
         {
-          "headline": "WoW: Forever fixes one of its most annoying endgame quests the literal day after I do it",
+          "headline": "19 Of This Year's Best Xbox Games Now Have Free Trials For All Players",
           "shared_terms": [
-            "annoying"
+            "players"
           ]
         },
         {
-          "headline": "Metal Slug Is The Latest Game From SNK In Line For A Movie Adaptation",
+          "headline": "Team Cherry Uses The Pull Of Silksong To Highlight A Trio Of Wonderful-Looking Indies",
           "shared_terms": [
-            "latest"
+            "team"
           ]
         },
         {
-          "headline": "\"This isn't a sign to retreat\": Rockstar's historic union vote has failed, with 75% voting against, but the organisers are going to \"keep fighting\"",
+          "headline": "Alan Ritchson's Reacher Officially Hits Major Milestone Ahead of Season 5",
           "shared_terms": [
-            "sign"
+            "officially"
           ]
         }
       ],
       "articles": [
         {
-          "source": "Pure Xbox",
-          "title": "Witcher 3 Remastered Gets Its Next Update On Xbox & PC, Full Patch Notes Revealed",
-          "url": "https://www.purexbox.com/news/2026/11/witcher-3-remastered-gets-its-next-update-on-xbox-and-pc-full-patch-notes-revealed",
-          "published": "2026-11-26T14:00:00+00:00"
+          "source": "Kotaku",
+          "title": "Hollow Knight: Silksong DLC Sea Of Sorrow Releases Free For All Players And Adds Fishing",
+          "url": "https://kotaku.com/hollow-knight-silksong-dlc-sea-of-sorrow-releases-free-for-all-players-and-adds-fishing-2001001319",
+          "published": "2026-11-27T15:25:27+00:00"
         },
         {
-          "source": "Nintendo Life",
-          "title": "The Witcher 3 Remastered Ver. 5.02 Update Is Now Live, Here Are The Full Patch Notes",
-          "url": "https://www.nintendolife.com/news/2026/11/the-witcher-3-remastered-ver-5-02-update-is-now-live-here-are-the-full-patch-notes",
-          "published": "2026-11-26T15:00:00+00:00"
+          "source": "Gamesurf",
+          "title": "Hollow Knight: Silksong - Sea of Sorrow - il trailer e la data",
+          "url": "https://www.gamesurf.it/news/hollow-knight-silksong-sea-of-sorrow-data-uscita-espansione-dlc-gratis-trailer-metroidvania",
+          "published": "2026-11-27T15:36:29+00:00"
         },
         {
-          "source": "Push Square",
-          "title": "The Witcher 3 Remastered Patch 5.02 Fixes Annoying PS5 Stutters, Improves Performance, and Much More",
-          "url": "https://www.pushsquare.com/news/2026/11/the-witcher-3-remastered-patch-5-02-fixes-annoying-ps5-stutters-improves-performance-and-much-more",
-          "published": "2026-11-26T15:00:00+00:00"
+          "source": "IGN",
+          "title": "Hollow Knight: Silksong - Sea of Sorrow Launch Trailer Finally Confirms Release Date, Teases Fishing",
+          "url": "https://www.ign.com/articles/hollow-knight-silksong-dlc-sea-of-sorrow-release-date",
+          "published": "2026-11-27T15:36:31+00:00"
         },
         {
           "source": "Rock Paper Shotgun",
-          "title": "The Witcher 3 Remastered's latest patch takes aim at mods nicking all of Geralt's possessions, disappearing buildings and an outbreak of \"overly bright red\" NPC leg areas",
-          "url": "https://www.rockpapershotgun.com/the-witcher-3-remastereds-latest-patch-takes-aim-at-mods-nicking-all-of-geralts-possessions-disappearing-buildings-and-an-outbreak-of-overly-bright-red-npc-leg-areas",
-          "published": "2026-11-26T17:00:00+00:00"
+          "title": "Go fishing and fire Hornet out of a cannon in Silksong's December-bound Sea of Sorrow expansion, which Team Cherry say is \"unlike anything we’ve done before\"",
+          "url": "https://www.rockpapershotgun.com/go-fishing-and-fire-hornet-out-of-a-cannon-in-silksongs-december-bound-sea-of-sorrow-expansion-which-team-cherry-say-is-unlike-anything-weve-done-before",
+          "published": "2026-11-27T15:58:10+00:00"
         },
         {
-          "source": "Nintendo Life",
-          "title": "Splatoon 3 Version 12.0.1 Update Out Now, Here Are The Patch Notes",
-          "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-1-update-out-now-here-are-the-patch-notes",
-          "published": "2026-11-27T01:05:00+00:00"
+          "source": "VGC",
+          "title": "Hollow Knight: Silksong’s first expansion, Sea of Sorrow, is officially out next month",
+          "url": "https://www.videogameschronicle.com/news/hollow-knight-silksongs-first-expansion-sea-of-sorrow-is-officially-out-next-month/",
+          "published": "2026-11-27T16:07:26+00:00"
         },
         {
-          "source": "PC Gamer",
-          "title": "Witcher 3 Remastered patch has lighting fixes, sign nerfs, and gets rid of a nasty werewolf bug",
-          "url": "https://www.pcgamer.com/games/the-witcher/witcher-3-remastered-patch-has-lighting-fixes-sign-nerfs-and-gets-rid-of-a-nasty-werewolf-bug/",
-          "published": "2026-11-27T04:27:55+00:00"
+          "source": "Push Square",
+          "title": "Hollow Knight: Silksong's Sea of Sorrow DLC Launches Next Month, and It's Free",
+          "url": "https://www.pushsquare.com/news/2026/11/hollow-knight-silksongs-sea-of-sorrow-dlc-launches-next-month-and-its-free",
+          "published": "2026-11-27T16:30:00+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Hollow Knight: Silksong's Sea of Sorrow DLC Is Coming To Xbox Next Month, And It's Free",
+          "url": "https://www.purexbox.com/news/2026/11/hollow-knight-silksongs-sea-of-sorrow-dlc-is-coming-to-xbox-next-month-and-its-free",
+          "published": "2026-11-27T19:00:00+00:00"
         }
       ]
     },
     {
-      "story_id": "2026-amazon-announces-black-cashback-deals",
-      "score": 49.2,
+      "story_id": "amid-awesome-blowingly-cancelation-cancellations-cancelled",
+      "score": 46.8,
       "already_proposed": false,
-      "headline": "The Best Pokémon TCG Black Friday Deals: Amazon Restocks, 10% Cashback at TCGplayer, and More",
+      "headline": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
       "topics": [
-        "pokemon",
-        "nintendo",
-        "playstation"
+        "aaa",
+        "feel_good",
+        "storie",
+        "industria"
       ],
-      "age_hours": 6.9,
+      "age_hours": 25.2,
       "signals": {
-        "coverage": 0.5,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.26,
+        "coverage": 1.0,
+        "velocity": 0.29,
+        "it_gap": 1.0,
+        "yt_demand": 0.08,
         "yt_room": 0.0,
         "topic": 1.0,
-        "freshness": 1.0,
+        "freshness": 0.27,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer",
+        "IGN",
+        "Kotaku",
+        "PC Gamer",
+        "Push Square",
+        "Rock Paper Shotgun",
+        "VGC"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 645,
+        "top_views": 2908,
+        "top_title": "I Have Some Bad News About The Rumored Simpsons Hit & Run Remake"
+      },
+      "youtube_query": "simpsons hit run remake cancelled",
+      "related": [
+        {
+          "headline": "ArcheAge Chronicles developer XL Games faces major layoffs and possible closure after disappointing sales",
+          "shared_terms": [
+            "layoffs"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "VGC",
+          "title": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
+          "url": "https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/",
+          "published": "2026-11-27T12:53:49+00:00"
+        },
+        {
+          "source": "Kotaku",
+          "title": "Fans Worry The Simpsons: Hit & Run Remake May Have Been Killed Amid Studio Layoffs",
+          "url": "https://kotaku.com/fans-worry-the-simpsons-hit-run-remake-may-have-been-killed-amid-studio-layoffs-2001001317",
+          "published": "2026-11-27T14:58:50+00:00"
+        },
+        {
+          "source": "Rock Paper Shotgun",
+          "title": "Rumoured Simpsons: Hit & Run remake could be dead in the water, as New Radical Games devs suggest their unannounced game's been cancelled",
+          "url": "https://www.rockpapershotgun.com/rumoured-simpsons-hit-run-remake-could-be-dead-in-the-water-as-new-radical-games-devs-suggest-their-unannounced-games-been-cancelled",
+          "published": "2026-11-27T17:00:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "The Much-Rumoured Simpsons Hit & Run Remake May Have Been Cancelled",
+          "url": "https://www.pushsquare.com/news/2026/11/the-much-rumoured-simpsons-hit-and-run-remake-may-have-been-cancelled",
+          "published": "2026-11-27T17:30:00+00:00"
+        },
+        {
+          "source": "Eurogamer",
+          "title": "Rumoured The Simpsons: Hit & Run remake may be in trouble after one developer says their \"mind-blowingly awesome\" project is cancelled",
+          "url": "https://www.eurogamer.net/simpsons-hit-and-run-remake-rumored-cancelled",
+          "published": "2026-11-27T18:08:20+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Concern for Rumored The Simpsons: Hit & Run Remake Amid Radical Game Cancelation",
+          "url": "https://www.ign.com/articles/radical-entertainment-layoffs-simpsons-hit-run-remake-cancellation",
+          "published": "2026-11-28T11:57:16+00:00"
+        },
+        {
+          "source": "PC Gamer",
+          "title": "A purported remake of The Simpsons: Hit & Run may have been scrapped, after a developer says their project was part of 'a gaggle of cancellations'",
+          "url": "https://www.pcgamer.com/gaming-industry/a-purported-remake-of-the-simpsons-hit-and-run-may-have-been-scrapped-after-a-developer-says-their-project-was-part-of-a-gaggle-of-cancellations/",
+          "published": "2026-11-28T12:24:39+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "185-black-celebrating-completely-consoles-controllers",
+      "score": 45.2,
+      "already_proposed": false,
+      "headline": "Here's A Handful Of The Spiciest Black Friday Switch 2 Deals",
+      "topics": [
+        "nintendo",
+        "playstation",
+        "aaa",
+        "feel_good"
+      ],
+      "age_hours": 27.8,
+      "signals": {
+        "coverage": 0.83,
+        "velocity": 0.17,
+        "it_gap": 0.83,
+        "yt_demand": 0.34,
+        "yt_room": 0.0,
+        "topic": 1.0,
+        "freshness": 0.12,
         "weak_format": false
       },
       "coverage_en": [
         "IGN",
         "Nintendo Life",
-        "Polygon"
+        "PC Gamer",
+        "Push Square",
+        "VGC"
       ],
-      "coverage_it": [
-        "Multiplayer"
-      ],
+      "coverage_it": [],
       "youtube": {
         "video_count": 10,
-        "median_views": 6720,
-        "top_views": 685313,
-        "top_title": "Best BLACK FRIDAY Gaming Deals You SHOULDN'T Miss (2026)"
+        "median_views": 11772,
+        "top_views": 328623,
+        "top_title": "Best Black Friday Tech Deals - 2026"
       },
-      "youtube_query": "friday black deals amazon switch",
-      "related": [],
+      "youtube_query": "deals friday black ps5 gta",
+      "related": [
+        {
+          "headline": "\"Does changing where games run cross a legal line?\" Microsoft-owned Github ask in now-deleted post celebrating GTA 6's effect on PC port-focused PS5 emulator",
+          "shared_terms": [
+            "celebrating"
+          ]
+        },
+        {
+          "headline": "PS5 Hit Ghost of Yotei Drops to an All-Time Low In PlayStation’s Black Friday Sale",
+          "shared_terms": [
+            "dualsense"
+          ]
+        },
+        {
+          "headline": "The better version of the wireless headset I love is $40 off right now",
+          "shared_terms": [
+            "love"
+          ]
+        }
+      ],
       "articles": [
-        {
-          "source": "IGN",
-          "title": "The Best Pokémon TCG Black Friday Deals: Amazon Restocks, 10% Cashback at TCGplayer, and More",
-          "url": "https://www.ign.com/articles/pokemon-tcg-black-friday-deals-2026",
-          "published": "2026-11-27T08:00:00+00:00"
-        },
-        {
-          "source": "Multiplayer",
-          "title": "I migliori videogiochi sotto i 20 € per il Black Friday di Amazon",
-          "url": "https://multiplayer.it/notizie/i-migliori-videogiochi-sotto-i-20-per-il-black-friday-di-amazon.html",
-          "published": "2026-11-27T09:30:45+00:00"
-        },
         {
           "source": "Nintendo Life",
           "title": "Here's A Handful Of The Spiciest Black Friday Switch 2 Deals",
@@ -158,141 +263,92 @@
           "published": "2026-11-27T10:15:00+00:00"
         },
         {
-          "source": "Polygon",
-          "title": "The Best Black Friday Gaming Deals of 2026",
-          "url": "https://www.polygon.com/best-black-friday-2026-gaming-deals/",
-          "published": "2026-11-27T12:18:56+00:00"
+          "source": "VGC",
+          "title": "Fanatical is celebrating Black Friday with 20 flash deals for one day only, offering up to 96% off",
+          "url": "https://www.videogameschronicle.com/news/fanatical-is-celebrating-black-friday-with-20-flash-deals-for-one-day-only-offering-up-to-96-off/",
+          "published": "2026-11-27T16:19:45+00:00"
         },
-        {
-          "source": "Polygon",
-          "title": "PlayStation Announces New Black Friday Deals On Hardware",
-          "url": "https://www.polygon.com/playstation-black-friday-hardware-deals/",
-          "published": "2026-11-27T14:37:48+00:00"
-        },
-        {
-          "source": "Polygon",
-          "title": "Nintendo Officially Launches Black Friday Deals on Switch 2 and Games",
-          "url": "https://www.polygon.com/nintendo-black-friday-deals-2026-switch-2-mario-kart-world/",
-          "published": "2026-11-27T14:41:55+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "adventure-avengers-doomsday-enigma-faraway-finally",
-      "score": 36.8,
-      "already_proposed": false,
-      "headline": "5 Years Later, an Avengers: Doomsday Hero's Next MCU Adventure Is Finally Moving Forward",
-      "topics": [
-        "easter_egg"
-      ],
-      "age_hours": 3.8,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.01,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer",
-        "Polygon"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 1,
-        "median_views": 19,
-        "top_views": 19,
-        "top_title": "SHANG-CHI 2 IS FINALLY MOVING FORWARD! 🔥 New Sequel Update"
-      },
-      "youtube_query": "finally years mcu forward moving",
-      "related": [
-        {
-          "headline": "35 Years Later, Hollywood’s Deadliest Feud Is Still Its Most Reliable Fantasy Formula",
-          "shared_terms": [
-            "later"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Polygon",
-          "title": "5 Years Later, an Avengers: Doomsday Hero's Next MCU Adventure Is Finally Moving Forward",
-          "url": "https://www.polygon.com/shang-chi-2-sequel-movie-update-writer-dave-callaham/",
-          "published": "2026-11-27T11:07:31+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "At last, I've finally played Faraway, an enigma I've been waiting 16 years to see",
-          "url": "https://www.eurogamer.net/faraway-eliss-annapurna-interactive-16-years-finally-here",
-          "published": "2026-11-27T12:33:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "animations-custom-dawneth-era-fatshark-levels",
-      "score": 35.8,
-      "already_proposed": false,
-      "headline": "Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too",
-      "topics": [
-        "steam"
-      ],
-      "age_hours": 13.4,
-      "signals": {
-        "coverage": 0.33,
-        "velocity": 1.0,
-        "it_gap": 0.33,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.33,
-        "freshness": 0.92,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "PC Gamer",
-        "Rock Paper Shotgun"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "release vermintide tools public models",
-      "related": [],
-      "articles": [
         {
           "source": "PC Gamer",
-          "title": "Vermintide 2 mod tools get a public release, and the game's 90% off on Steam too",
-          "url": "https://www.pcgamer.com/games/fps/vermintide-2-mod-tools-get-a-public-release-and-the-games-90-percent-off-on-steam-too/",
-          "published": "2026-11-27T01:28:24+00:00"
+          "title": "After falling in love with PS5 haptic feedback in GTA 6, I'm eyeing these Black Friday deals on DualSense controllers",
+          "url": "https://www.pcgamer.com/hardware/controllers/after-falling-in-love-with-ps5-haptic-feedback-in-gta-6-im-eyeing-these-black-friday-deals-on-dualsense-controllers/",
+          "published": "2026-11-27T19:40:21+00:00"
         },
         {
-          "source": "Rock Paper Shotgun",
-          "title": "\"A new era\" for Vermintide 2 modding dawneth, as Fatshark release powerful new tools for custom levels, models and animations",
-          "url": "https://www.rockpapershotgun.com/a-new-era-for-vermintide-2-modding-dawneth-as-fatshark-release-powerful-new-tools-for-custom-levels-models-and-animations",
-          "published": "2026-11-27T12:52:30+00:00"
+          "source": "PC Gamer",
+          "title": "I went completely cordless and for $185 you can get better prices on better products than I did with these Black Friday PC peripheral deals",
+          "url": "https://www.pcgamer.com/hardware/i-went-completely-cordless-and-for-usd185-you-can-get-better-prices-on-better-products-than-i-did-with-these-black-friday-pc-peripheral-deals/",
+          "published": "2026-11-27T20:57:32+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Site News: Save 5% on PS5 Games with Push Square's Black Friday Deals",
+          "url": "https://www.pushsquare.com/news/2026/11/site-news-save-5percent-on-ps5-games-with-push-squares-black-friday-deals",
+          "published": "2026-11-28T00:00:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Raylo's Black Friday Deals Mean You Can Get A PS5 With GTA 6 & Other Consoles Right Away at Under £20 a Month",
+          "url": "https://www.ign.com/articles/raylos-black-friday-gaming-console-deals",
+          "published": "2026-11-28T10:31:06+00:00"
         }
       ]
     },
     {
-      "story_id": "contributed-efforts-enix-financial-results-square",
-      "score": 35.7,
+      "story_id": "plush-pok-mon-revealed-starter-waves-winds",
+      "score": 35.1,
       "already_proposed": false,
-      "headline": "Square Enix Says Its Efforts Supporting Switch 2 Have Contributed To Its Strong Financial Results",
+      "headline": "Pokémon Winds & Waves Starter Pokémon Plush Revealed",
       "topics": [
-        "nintendo",
-        "aaa",
-        "feel_good"
+        "pokemon"
       ],
-      "age_hours": 12.0,
+      "age_hours": 13.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
+        "yt_demand": 0.17,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.95,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 2983,
+        "top_views": 17612,
+        "top_title": "Pokémon GEN 10 Starter Plushes Revealed!"
+      },
+      "youtube_query": "plush winds revealed waves starter",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Pokémon Winds & Waves Starter Pokémon Plush Revealed",
+          "url": "https://www.nintendolife.com/news/2026/11/pokemon-winds-and-waves-starter-pokemon-plush-revealed",
+          "published": "2026-11-28T01:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "arrivano-dec-epic-gratis-nov-playstation",
+      "score": 34.6,
+      "already_proposed": false,
+      "headline": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 27-Dec. 3)",
+      "topics": [
+        "playstation",
+        "xbox",
+        "steam"
+      ],
+      "age_hours": 10.8,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.11,
         "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 1.0,
@@ -300,238 +356,90 @@
         "weak_format": false
       },
       "coverage_en": [
-        "Nintendo Life"
+        "Polygon"
       ],
-      "coverage_it": [],
+      "coverage_it": [
+        "Multiplayer"
+      ],
       "youtube": {
         "video_count": 0,
         "median_views": 0,
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "supporting financial strong contributed enix",
-      "related": [
-        {
-          "headline": "Microsoft-Owned Github Deletes Unhinged Post Celebrating PlayStation 5 Emulator’s Success Following Launch Of GTA 6",
-          "shared_terms": [
-            "efforts"
-          ]
-        },
-        {
-          "headline": "'The Results Are Very, Very Impressive' - Digital Foundry Praises GTA 6 On Xbox One",
-          "shared_terms": [
-            "results"
-          ]
-        }
-      ],
+      "youtube_query": "epic xbox dec nov provare",
+      "related": [],
       "articles": [
         {
-          "source": "Nintendo Life",
-          "title": "Square Enix Says Its Efforts Supporting Switch 2 Have Contributed To Its Strong Financial Results",
-          "url": "https://www.nintendolife.com/news/2026/11/square-enix-says-its-efforts-supporting-switch-2-have-contributed-to-its-strong-financial-results",
-          "published": "2026-11-27T02:55:00+00:00"
+          "source": "Polygon",
+          "title": "Every Free Game This Week on Steam, Epic, and Xbox (Nov. 27-Dec. 3)",
+          "url": "https://www.polygon.com/free-games-right-now-steam-epic-ps-plus-nov-27-dec-3/",
+          "published": "2026-11-28T03:14:12+00:00"
+        },
+        {
+          "source": "Multiplayer",
+          "title": "La prossima settimana arrivano tanti giochi da provare gratis su Epic Games, PlayStation e Xbox",
+          "url": "https://multiplayer.it/notizie/la-prossima-settimana-arrivano-tanti-giochi-da-provare-gratis-su-epic-games-playstation-e-xbox.html",
+          "published": "2026-11-28T10:10:13+00:00"
         }
       ]
     },
     {
-      "story_id": "against-devs-employees-fails-gta-hands",
-      "score": 34.1,
+      "story_id": "according-cancelled-developer-doom-former-fun",
+      "score": 33.5,
       "already_proposed": false,
-      "headline": "Union Vote Fails In Landslide At GTA 6 Studio Rockstar Games As 75 Percent Of Devs Vote No",
+      "headline": "The cancelled Doom 4 was 'actually a fun game', according to a former id Software developer, but it had one big problem",
       "topics": [
-        "aaa",
-        "industria"
+        "xbox",
+        "storie"
       ],
-      "age_hours": 23.7,
+      "age_hours": 3.2,
       "signals": {
-        "coverage": 0.83,
-        "velocity": 0.0,
-        "it_gap": 0.83,
-        "yt_demand": 0.02,
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
         "yt_room": 0.0,
         "topic": 0.67,
-        "freshness": 0.35,
+        "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "Eurogamer",
-        "GameSpot",
-        "IGN",
-        "Kotaku",
         "PC Gamer"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 10,
-        "median_views": 31,
-        "top_views": 141,
-        "top_title": "Funcionários da Rockstar rejeitam sindicato após lançamento de GTA 6 #shorts"
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
       },
-      "youtube_query": "vote union rockstar fails recognition",
+      "youtube_query": "according software former fun problem",
       "related": [
         {
-          "headline": "Ubisoft Employees Reportedly Need To Justify Not Using AI When Pitching Projects",
+          "headline": "GTA 6's pirate PC ports: new tools, old problem | Opinion",
           "shared_terms": [
-            "employees"
-          ]
-        },
-        {
-          "headline": "Ubisoft now require their devs to explain why they aren't using genAI in game pitches, claims report, though the Assassin's Creed publishers deny they're mandating it",
-          "shared_terms": [
-            "devs"
-          ]
-        },
-        {
-          "headline": "Nioh and Ninja Gaiden studio is using AI for QA, but argues \"that a game becomes fun when crafted by human hands\"",
-          "shared_terms": [
-            "hands",
-            "studio"
+            "problem"
           ]
         }
       ],
       "articles": [
-        {
-          "source": "Kotaku",
-          "title": "Union Vote Fails In Landslide At GTA 6 Studio Rockstar Games As 75 Percent Of Devs Vote No",
-          "url": "https://kotaku.com/rockstar-games-union-vote-fails-as-75-percent-of-devs-vote-no-2001000621",
-          "published": "2026-11-26T15:15:14+00:00"
-        },
-        {
-          "source": "IGN",
-          "title": "Rockstar Games Issues Statement as Union Vote Fails",
-          "url": "https://www.ign.com/articles/rockstar-games-issues-statement-as-union-vote-fails",
-          "published": "2026-11-26T15:22:12+00:00"
-        },
-        {
-          "source": "Eurogamer",
-          "title": "Rockstar Games employees vote against union recognition",
-          "url": "https://www.eurogamer.net/rockstar-games-employees-vote-against-union-recognition",
-          "published": "2026-11-26T15:29:00+00:00"
-        },
         {
           "source": "PC Gamer",
-          "title": "Rockstar workers vote overwhelmingly against union recognition",
-          "url": "https://www.pcgamer.com/gaming-industry/rockstar-workers-vote-overwhelmingly-against-union-recognition/",
-          "published": "2026-11-26T16:13:54+00:00"
-        },
-        {
-          "source": "GameSpot",
-          "title": "Rockstar Games Has A GTA 6 Hit On Its Hands, But Its Union Vote Is A Loss",
-          "url": "https://www.gamespot.com/articles/rockstar-games-has-a-gta-6-hit-on-its-hands-but-its-union-vote-is-a-loss/",
-          "published": "2026-11-26T17:05:21+00:00"
+          "title": "The cancelled Doom 4 was 'actually a fun game', according to a former id Software developer, but it had one big problem",
+          "url": "https://www.pcgamer.com/games/fps/the-cancelled-doom-4-was-actually-a-fun-game-according-to-a-former-id-software-developer-but-it-had-one-big-problem/",
+          "published": "2026-11-28T10:52:25+00:00"
         }
       ]
     },
     {
-      "story_id": "collab-dave-diver-fans-gta-hopeful",
+      "story_id": "ending-hbo-later-near-perfect-series",
       "score": 33.5,
       "already_proposed": false,
-      "headline": "Random: Did Dave The Diver Just Tease A GTA 6 Collab? It Seems Unlikely, But Some Fans Are Hopeful",
+      "headline": "12 Years Later, Hbo's Near-Perfect Vampire Series Still Has an Unwatchable Ending",
       "topics": [
-        "aaa",
-        "feel_good"
-      ],
-      "age_hours": 8.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Nintendo Life"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "unlikely seems hopeful random tease",
-      "related": [
-        {
-          "headline": "Pokémon Champions X Pokémon GO Collab Taking Place Next Month",
-          "shared_terms": [
-            "collab"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Nintendo Life",
-          "title": "Random: Did Dave The Diver Just Tease A GTA 6 Collab? It Seems Unlikely, But Some Fans Are Hopeful",
-          "url": "https://www.nintendolife.com/news/2026/11/random-did-dave-the-diver-just-tease-a-gta-6-collab-it-seems-unlikely-but-some-fans-are-hopeful",
-          "published": "2026-11-27T06:55:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "boss-different-grateful-gta-kept-prologue",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "Rockstar boss \"so grateful\" to have kept GTA 6's big prologue twist a secret - and reveals Tomás' story could have been very different",
-      "topics": [
-        "aaa",
+        "xbox",
         "easter_egg"
-      ],
-      "age_hours": 3.4,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "Eurogamer"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "kept prologue grateful secret tomás",
-      "related": [
-        {
-          "headline": "Rare co-founder reveals footage of cancelled Conker 64",
-          "shared_terms": [
-            "reveals"
-          ]
-        },
-        {
-          "headline": "Dawn of War 4's campaigns differ based on your choices: 'which character you choose and what decisions you make with them lead down different experiences of an overlapping story'",
-          "shared_terms": [
-            "different"
-          ]
-        }
-      ],
-      "articles": [
-        {
-          "source": "Eurogamer",
-          "title": "Rockstar boss \"so grateful\" to have kept GTA 6's big prologue twist a secret - and reveals Tomás' story could have been very different",
-          "url": "https://www.eurogamer.net/gta-6-rockstar-debated-changing-jason-lucias-big-secret",
-          "published": "2026-11-27T11:31:00+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "behind-continue-despite-gta-leonida-nuked",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "Despite Take-Two Takedown, Vibecoding Teen Behind Nuked GTA 6 PC Port Project 'Leonida' Vows to Continue",
-      "topics": [
-        "pc_gaming",
-        "aaa"
       ],
       "age_hours": 3.1,
       "signals": {
@@ -545,7 +453,7 @@
         "weak_format": false
       },
       "coverage_en": [
-        "IGN"
+        "Polygon"
       ],
       "coverage_it": [],
       "youtube": {
@@ -554,177 +462,179 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "behind teen vows vibecoding continue",
-      "related": [],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "Despite Take-Two Takedown, Vibecoding Teen Behind Nuked GTA 6 PC Port Project 'Leonida' Vows to Continue",
-          "url": "https://www.ign.com/articles/despite-take-two-takedown-vibecoding-teen-behind-nuked-gta-6-pc-port-project-leonida-vows-to-continue",
-          "published": "2026-11-27T11:51:13+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "cancelled-developer-hints-hit-remake-run",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
-      "topics": [
-        "aaa",
-        "storie"
-      ],
-      "age_hours": 2.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "VGC"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "working seemingly developer hints cancelled",
+      "youtube_query": "unwatchable ending vampire near perfect",
       "related": [
         {
-          "headline": "Rare co-founder reveals footage of cancelled Conker 64",
+          "headline": "At last, I've finally played Faraway, an enigma I've been waiting 16 years to see",
           "shared_terms": [
-            "cancelled"
+            "years"
           ]
         }
       ],
       "articles": [
         {
-          "source": "VGC",
-          "title": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
-          "url": "https://www.videogameschronicle.com/news/the-simpsons-hit-run-remake-may-have-been-cancelled-as-developer-drops-hints-they-were-working-on-it/",
-          "published": "2026-11-27T12:53:49+00:00"
+          "source": "Polygon",
+          "title": "12 Years Later, Hbo's Near-Perfect Vampire Series Still Has an Unwatchable Ending",
+          "url": "https://www.polygon.com/true-blood-series-finale-look-back/",
+          "published": "2026-11-28T11:00:17+00:00"
         }
       ]
     },
     {
-      "story_id": "adventure-awards-beats-gta-indie-north",
-      "score": 33.5,
+      "story_id": "152-2026-america-black-brings-buy",
+      "score": 32.8,
       "already_proposed": false,
-      "headline": "Indie puzzle adventure Rhell beats GTA 6 to win Best Game Made in The North at the Game Republic Awards",
+      "headline": "PS5 Hit Ghost of Yotei Drops to an All-Time Low In PlayStation’s Black Friday Sale",
       "topics": [
-        "aaa",
-        "indie"
-      ],
-      "age_hours": 2.0,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GamesIndustry"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "republic rhell beats indie awards",
-      "related": [],
-      "articles": [
-        {
-          "source": "GamesIndustry",
-          "title": "Indie puzzle adventure Rhell beats GTA 6 to win Best Game Made in The North at the Game Republic Awards",
-          "url": "https://www.gamesindustry.biz/indie-puzzle-adventure-rhell-beats-gta-6-to-win-best-game-made-in-the-north-at-the-game-republic-awards",
-          "published": "2026-11-27T12:55:20+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "backwards-compatibility-eight-feature-playable-rockstar",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "Feature: Eight Rockstar Xbox Games That Are Still Playable With Backwards Compatibility",
-      "topics": [
+        "playstation",
         "xbox",
-        "aaa"
+        "steam"
       ],
-      "age_hours": 1.9,
+      "age_hours": 22.7,
       "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
+        "coverage": 0.5,
+        "velocity": 0.29,
+        "it_gap": 0.5,
+        "yt_demand": 0.1,
         "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
+        "topic": 1.0,
+        "freshness": 0.4,
         "weak_format": false
       },
       "coverage_en": [
-        "Pure Xbox"
+        "IGN",
+        "Pure Xbox",
+        "Push Square"
       ],
       "coverage_it": [],
       "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
+        "video_count": 2,
+        "median_views": 985,
+        "top_views": 985,
+        "top_title": "FINALLY! PS5 Price Drop in India! 🤯🔥 #ps5 #gaming #shorts"
       },
-      "youtube_query": "backwards compatibility playable eight feature",
+      "youtube_query": "friday black sale ps5 drops",
       "related": [
         {
-          "headline": "10+ Xbox Games Are Releasing Today, Including A Dangerous Twist On Mario Party (November 26)",
+          "headline": "Here's A Handful Of The Spiciest Black Friday Switch 2 Deals",
           "shared_terms": [
-            "eight"
+            "dualsense"
           ]
         },
         {
-          "headline": "Gallery: Get A Closer Look At Nintendo's Playable Ocarina Of Time",
+          "headline": "Indie puzzle adventure Rhell beats GTA 6 to win Best Game Made in The North at the Game Republic Awards",
           "shared_terms": [
-            "playable"
+            "north"
+          ]
+        },
+        {
+          "headline": "Metal Gear Solid Master Collection Vol. 2 Gets Its First Major Discount for Black Friday, Dropping to $30",
+          "shared_terms": [
+            "discounts"
           ]
         }
       ],
       "articles": [
         {
+          "source": "IGN",
+          "title": "PS5 Hit Ghost of Yotei Drops to an All-Time Low In PlayStation’s Black Friday Sale",
+          "url": "https://www.ign.com/articles/ghost-of-yotei-plummets-to-35-in-stellar-50-off-black-friday-deal-from-playstation",
+          "published": "2026-11-27T15:20:00+00:00"
+        },
+        {
           "source": "Pure Xbox",
-          "title": "Feature: Eight Rockstar Xbox Games That Are Still Playable With Backwards Compatibility",
-          "url": "https://www.purexbox.com/features/eight-rockstar-xbox-games-that-are-still-playable-with-backwards-compatibility",
-          "published": "2026-11-27T13:00:00+00:00"
+          "title": "Feature: 25+ More Of The Best Discounted Games From Xbox's Black Friday 2026 Sale",
+          "url": "https://www.purexbox.com/features/25plus-more-of-the-best-discounted-games-from-xboxs-black-friday-2026-sale",
+          "published": "2026-11-27T17:00:00+00:00"
+        },
+        {
+          "source": "Pure Xbox",
+          "title": "Site News: Pure Xbox's Black Friday Sale",
+          "url": "https://www.purexbox.com/news/2026/11/site-news-pure-xboxs-black-friday-sale",
+          "published": "2026-11-27T18:00:00+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "Steam's 2026 Black Friday Sale Brings First-Time Discounts to New PC Games",
+          "url": "https://www.ign.com/articles/best-game-deals-steam-black-friday-sale-2026",
+          "published": "2026-11-27T18:51:18+00:00"
+        },
+        {
+          "source": "IGN",
+          "title": "The Sony PlayStation DualSense Edge Controller Drops to $152 Exclusively at Lenovo for Black Friday",
+          "url": "https://www.ign.com/articles/sony-playstation-dualsense-edge-controller-deal-black-friday-sale-2026",
+          "published": "2026-11-27T19:30:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Feature: 80+ PS5, PS4 Games to Buy in PS Store's Updated Black Friday Sale (North America/Europe)",
+          "url": "https://www.pushsquare.com/features/80plus-ps5-ps4-games-to-buy-in-ps-stores-updated-black-friday-sale-north-americaeurope",
+          "published": "2026-11-28T00:30:00+00:00"
+        },
+        {
+          "source": "Push Square",
+          "title": "Earn Cashback on PS5 Games in Sony's Black Friday Sale",
+          "url": "https://www.pushsquare.com/news/2026/11/earn-cashback-on-ps5-games-in-sonys-black-friday-sale",
+          "published": "2026-11-28T01:30:00+00:00"
         }
       ]
     },
     {
-      "story_id": "deadliest-fantasy-feud-formula-hollywood-later",
-      "score": 33.5,
+      "story_id": "added-dream-included-life-living-music",
+      "score": 31.2,
       "already_proposed": false,
-      "headline": "35 Years Later, Hollywood’s Deadliest Feud Is Still Its Most Reliable Fantasy Formula",
+      "headline": "Tomodachi Life: Living The Dream Soundtrack Added To Nintendo Music, Here's Every Song Included",
       "topics": [
-        "easter_egg",
-        "feel_good"
+        "nintendo"
       ],
-      "age_hours": 0.9,
+      "age_hours": 12.0,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.67,
+        "topic": 0.33,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "added dream included living soundtrack",
+      "related": [],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Tomodachi Life: Living The Dream Soundtrack Added To Nintendo Music, Here's Every Song Included",
+          "url": "https://www.nintendolife.com/news/2026/11/tomodachi-life-living-the-dream-soundtrack-added-to-nintendo-music-heres-every-song-included",
+          "published": "2026-11-28T02:05:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "barely-classic-playable-playstation-today",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "8 Classic PlayStation Games That Are Barely Playable Today",
+      "topics": [
+        "playstation"
+      ],
+      "age_hours": 10.5,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
@@ -738,46 +648,51 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "hollywood deadliest feud formula reliable",
+      "youtube_query": "barely classic playable today playstation",
       "related": [
         {
-          "headline": "5 Years Later, an Avengers: Doomsday Hero's Next MCU Adventure Is Finally Moving Forward",
+          "headline": "Eight Xbox Games Are Releasing Today, Including A Dark Fantasy 'Shooter-MOBA' On Xbox Game Pass (November 27)",
           "shared_terms": [
-            "later"
+            "today"
+          ]
+        },
+        {
+          "headline": "Feature: Eight Rockstar Xbox Games That Are Still Playable With Backwards Compatibility",
+          "shared_terms": [
+            "playable"
           ]
         }
       ],
       "articles": [
         {
           "source": "Polygon",
-          "title": "35 Years Later, Hollywood’s Deadliest Feud Is Still Its Most Reliable Fantasy Formula",
-          "url": "https://www.polygon.com/why-do-vampires-and-werewolves-hate-one-another/",
-          "published": "2026-11-27T14:00:18+00:00"
+          "title": "8 Classic PlayStation Games That Are Barely Playable Today",
+          "url": "https://www.polygon.com/classic-playstation-games-unplayable-today/",
+          "published": "2026-11-28T03:31:15+00:00"
         }
       ]
     },
     {
-      "story_id": "bunkers-everything-gta-hidden-impossible-interdimensional",
-      "score": 33.5,
+      "story_id": "archeage-chronicles-closure-developer-disappointing-faces",
+      "score": 31.2,
       "already_proposed": false,
-      "headline": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
+      "headline": "ArcheAge Chronicles developer XL Games faces major layoffs and possible closure after disappointing sales",
       "topics": [
-        "aaa",
-        "easter_egg"
+        "industria"
       ],
-      "age_hours": 0.9,
+      "age_hours": 3.3,
       "signals": {
         "coverage": 0.17,
         "velocity": 1.0,
         "it_gap": 0.17,
         "yt_demand": 0.0,
         "yt_room": 0.0,
-        "topic": 0.67,
+        "topic": 0.33,
         "freshness": 1.0,
         "weak_format": false
       },
       "coverage_en": [
-        "IGN"
+        "Eurogamer"
       ],
       "coverage_it": [],
       "youtube": {
@@ -786,62 +701,194 @@
         "top_views": 0,
         "top_title": null
       },
-      "youtube_query": "bunkers interdimensional losing meant portals",
-      "related": [],
-      "articles": [
-        {
-          "source": "IGN",
-          "title": "Losing Six Stars in GTA 6 Is Meant to Be Impossible, but Players Are Trying Everything From Interdimensional Portals to Hidden Bunkers",
-          "url": "https://www.ign.com/articles/losing-six-stars-in-gta-6",
-          "published": "2026-11-27T14:01:09+00:00"
-        }
-      ]
-    },
-    {
-      "story_id": "gta-opinion-pirate-ports-problem-tools",
-      "score": 33.5,
-      "already_proposed": false,
-      "headline": "GTA 6's pirate PC ports: new tools, old problem | Opinion",
-      "topics": [
-        "pc_gaming",
-        "aaa"
-      ],
-      "age_hours": 0.2,
-      "signals": {
-        "coverage": 0.17,
-        "velocity": 1.0,
-        "it_gap": 0.17,
-        "yt_demand": 0.0,
-        "yt_room": 0.0,
-        "topic": 0.67,
-        "freshness": 1.0,
-        "weak_format": false
-      },
-      "coverage_en": [
-        "GamesIndustry"
-      ],
-      "coverage_it": [],
-      "youtube": {
-        "video_count": 0,
-        "median_views": 0,
-        "top_views": 0,
-        "top_title": null
-      },
-      "youtube_query": "pirate problem opinion ports tools",
+      "youtube_query": "disappointing possible sales faces layoffs",
       "related": [
         {
-          "headline": "GTA 6 launch drives combined 2.3m downloads of franchise's mobile ports, according to AppMagic",
+          "headline": "The Simpsons Hit & Run remake may have been cancelled as developer seemingly hints they were working on it",
           "shared_terms": [
-            "ports"
+            "layoffs"
+          ]
+        },
+        {
+          "headline": "After drawing ire for selling new Mass Effect merch following BioWare closure, EA is now flogging new Dragon Age tat too",
+          "shared_terms": [
+            "closure"
           ]
         }
       ],
       "articles": [
         {
-          "source": "GamesIndustry",
-          "title": "GTA 6's pirate PC ports: new tools, old problem | Opinion",
-          "url": "https://www.gamesindustry.biz/gta-6s-pirate-pc-ports-new-tools-old-problem-opinion",
-          "published": "2026-11-27T14:43:20+00:00"
+          "source": "Eurogamer",
+          "title": "ArcheAge Chronicles developer XL Games faces major layoffs and possible closure after disappointing sales",
+          "url": "https://www.eurogamer.net/archeage-chronicles-xl-games-restructuring-layoffs-closure",
+          "published": "2026-11-28T10:44:50+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "notes-patch-splatoon-update-version",
+      "score": 31.2,
+      "already_proposed": false,
+      "headline": "Splatoon 3 Version 12.0.1 Update Out Now, Here Are The Patch Notes",
+      "topics": [
+        "nintendo"
+      ],
+      "age_hours": 13.6,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.03,
+        "yt_room": 0.0,
+        "topic": 0.33,
+        "freshness": 0.91,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Nintendo Life"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 3,
+        "median_views": 91,
+        "top_views": 163,
+        "top_title": "Splatoon 3 Version 12.0.1 Update Hits Anarchy Battle"
+      },
+      "youtube_query": "notes splatoon update version patch",
+      "related": [
+        {
+          "headline": "Digital Extremes says Warframe's imminent Tau update is practically big enough to be a sequel as it reveals new details, including dog walking",
+          "shared_terms": [
+            "update"
+          ]
+        },
+        {
+          "headline": "The better version of the wireless headset I love is $40 off right now",
+          "shared_terms": [
+            "version"
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "source": "Nintendo Life",
+          "title": "Splatoon 3 Version 12.0.1 Update Out Now, Here Are The Patch Notes",
+          "url": "https://www.nintendolife.com/news/2026/11/splatoon-3-version-12-0-1-update-out-now-here-are-the-patch-notes",
+          "published": "2026-11-28T00:30:00+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "books-read-sci",
+      "score": 30.2,
+      "already_proposed": false,
+      "headline": "8 Sci-Fi Books That Get Even Better the Second Time You Read Them",
+      "topics": [],
+      "age_hours": 5.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.05,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 10,
+        "median_views": 238,
+        "top_views": 1508,
+        "top_title": "2 dystopian sci-fi books i’ve read this year that genuinely left me staring at a wall :D #bookrecs"
+      },
+      "youtube_query": "books sci read",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "8 Sci-Fi Books That Get Even Better the Second Time You Read Them",
+          "url": "https://www.polygon.com/sci-fi-books-better-second-time/",
+          "published": "2026-11-28T09:00:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "comics-far-food-funniest-side",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "7 Funniest 'Far Side' Comics About Food",
+      "topics": [],
+      "age_hours": 9.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Polygon"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "comics funniest side food far",
+      "related": [],
+      "articles": [
+        {
+          "source": "Polygon",
+          "title": "7 Funniest 'Far Side' Comics About Food",
+          "url": "https://www.polygon.com/7-funniest-far-side-comics-about-food/",
+          "published": "2026-11-28T05:00:18+00:00"
+        }
+      ]
+    },
+    {
+      "story_id": "2014-bus-calls-charlatan-disgusting-woman",
+      "score": 29.0,
+      "already_proposed": false,
+      "headline": "What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\"",
+      "topics": [],
+      "age_hours": 6.1,
+      "signals": {
+        "coverage": 0.17,
+        "velocity": 1.0,
+        "it_gap": 0.17,
+        "yt_demand": 0.0,
+        "yt_room": 0.0,
+        "topic": 0.0,
+        "freshness": 1.0,
+        "weak_format": false
+      },
+      "coverage_en": [
+        "Eurogamer"
+      ],
+      "coverage_it": [],
+      "youtube": {
+        "video_count": 0,
+        "median_views": 0,
+        "top_views": 0,
+        "top_title": null
+      },
+      "youtube_query": "charlatan calls bus disgusting woman",
+      "related": [],
+      "articles": [
+        {
+          "source": "Eurogamer",
+          "title": "What we've been playing - \"It is 2014 and a woman on a bus calls me disgusting and a charlatan\"",
+          "url": "https://www.eurogamer.net/what-weve-been-playing-woman-on-a-bus",
+          "published": "2026-11-28T08:00:00+00:00"
         }
       ]
     }
